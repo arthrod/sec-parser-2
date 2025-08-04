@@ -1,0 +1,35 @@
+AGREEMENT: NON-EMPLOYEE DIRECTOR COMPENSATION PROGRAM
+
+--- (Additional Root Structure) ---
+Heading (L1): (as amended and restated effective as of January 1, 2024)
+|-- Heading (L2): This Program, as amended and restated, is effective as of January 1, 2024 (the “Effective Date”) and...
+|-- Heading (L2): 1.Cash Compensation.
+|-- Heading (L2): c.Payment of Retainers. The annual cash retainers described in Sections 1(a) and 1(b) shall be earne...
+|-- Heading (L2): 2.Equity Compensation.
+|-- Heading (L2): a.General. Eligible Directors shall be granted the equity awards described below.  The awards descri...
+|-- Heading (L2): b.Annual Awards. An Eligible Director who is serving on the Board as of the date of the annual meeti...
+`-- Heading (L2): c.Initial Awards. Each Eligible Director who is initially elected or appointed to serve on the Board...
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Clause (i): Chairman of the Board. An Eligible Director serving as Chairman of the Board shall be eligible to re...
+
+--- (Additional Root Structure) ---
+Clause (ii): Audit Committee. An Eligible Director serving as Chairperson of the Audit Committee shall be eligibl...
+
+--- (Additional Root Structure) ---
+Clause (iii): Compensation Committee. An Eligible Director serving as Chairperson of the Compensation Committee sh...
+
+--- (Additional Root Structure) ---
+Clause (iv): Nominating and Corporate Governance Committee. An Eligible Director serving as Chairperson of the No...
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Clause (e)

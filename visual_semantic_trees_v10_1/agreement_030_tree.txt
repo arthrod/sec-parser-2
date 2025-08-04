@@ -1,0 +1,268 @@
+TextElement (Lvl: ?): Kemper Corporation 2020 Omnibus Equity Plan NON-QUALIFIED STOCK OPTION AND SAR AWARD AGREEMENT(Insta...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): SIGNATURESAs of the date set forth above, the parties have accepted the terms of this Agreement by s...
+
+--- (Additional Root Structure) ---
+Heading (L1): KEMPER CORPORATION                PARTICIPANT
+`-- Content: By:       _________________________________    ____________________________________ «CEO Signature a...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+|-- Content: A.The Board of Directors of the Company (“Board”) has adopted the Kemper Corporation 2020 Omnibus Eq...
+|-- Content: B.The Plan authorizes the Committee to grant to selected Employees, Directors and Third Party Servic...
+|-- Content: C.Pursuant to the Plan, the Committee has determined that it is in the best interest of the Company ...
+`-- Content: D.Neither the Option nor the SAR granted hereby is intended to qualify as an “incentive stock option...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, the parties hereto agree as follows:1.Grant.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)The Company grants the Option to purchase all or any part of an aggregate of «shares» shares of C...
+
+--- (Additional Root Structure) ---
+Content: (b)The Option is coupled with a SAR that is exercisable to the extent, and only to the extent, that ...
+
+--- (Additional Root Structure) ---
+Content: 2.Exercise Price.  The per share price of Common Stock issuable upon exercise of the Option or SAR s...
+
+--- (Additional Root Structure) ---
+Content: 3.Governing Plan.  The Option is granted pursuant to the Plan, which is incorporated herein for all ...
+
+--- (Additional Root Structure) ---
+Content: 4.Restrictions on Transfer.  The Option and SAR and all rights and privileges granted hereby (includ...
+
+--- (Additional Root Structure) ---
+Content: 5.Term.  Except as provided in Section 11, neither the Option nor the SAR shall be exercisable after...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)the 10th anniversary of the Grant Date;(b)the first anniversary of the Participant’s death;(c)the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6.Vesting and Exercise.
+
+--- (Additional Root Structure) ---
+Content: (a)Vesting.  The Option and/or the SAR may only be exercised to the extent they are vested.  To the ...
+
+--- (Additional Root Structure) ---
+Content: in three (3) equal, annual installments, beginning on the first anniversary of the Grant Date.
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing and except as provided in Section 6(b) or 6(c) below, if the Participa...
+
+--- (Additional Root Structure) ---
+Content: (b)Acceleration of Vesting.  Notwithstanding the terms of Section 6(a) above, to the extent not prev...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)the date of the Participant’s death or Disability, if the Participant dies or becomes Disabled wh...
+
+--- (Additional Root Structure) ---
+Heading (L2): (c)Certain Definitions.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)“Cause” means any of the following: (1) the Participant’s theft or falsification of any Company o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ii)“Disabled” or “Disability” means that the Participant either:(A)is unable to engage in any subst...
+
+--- (Additional Root Structure) ---
+Content: (iii)“Employer” means the Company or Affiliate by whom the Participant is employed, or to whom the P...
+
+--- (Additional Root Structure) ---
+Content: (iv)“Good Reason” means any action taken by the Employer which results in a material negative change...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4(v)“Retirement Eligible” means that the Participant has either attained age 55 and completed ten (1...
+
+--- (Additional Root Structure) ---
+Content: (vi)“Service” means the period during which the Participant is an Employee, Director or Third Party ...
+
+--- (Additional Root Structure) ---
+Content: 7.Termination of Service.  On the date of the Participant’s cessation of Service, any unvested porti...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 8.Manner of Exercise.
+
+--- (Additional Root Structure) ---
+Content: (a)During the period beginning on the applicable Vesting Date and ending on the Expiration Date, the...
+
+--- (Additional Root Structure) ---
+Content: (b)Each exercise of the Option shall be initiated by the Participant or his or her Representative by...
+
+--- (Additional Root Structure) ---
+Content: (c)Each exercise of the SAR shall be initiated by the Participant or his or her Representative by de...
+
+--- (Additional Root Structure) ---
+Content: the Participant.  Any fractional share that would otherwise result from an exercise of the SAR shall...
+
+--- (Additional Root Structure) ---
+Content: (d)The date of exercise shall be:  (i) in the case of an Option exercise, the date that the Company ...
+
+--- (Additional Root Structure) ---
+Content: (e)The Option and SAR may be exercised only by the Participant or his or her Representative, and not...
+
+--- (Additional Root Structure) ---
+Content: 9.Withholding of Taxes.  Upon the exercise of the Option or the SAR, the Participant or the Particip...
+
+--- (Additional Root Structure) ---
+Content: 10.Fair Market Value of Common Stock.  The fair market value (“Fair Market Value”) of a share of Com...
+
+--- (Additional Root Structure) ---
+Content: 11.Extension of Expiration Date in Certain Cases.  From time to time, the Company may declare “black...
+
+--- (Additional Root Structure) ---
+Content: without further notice to the Participant, be extended until such time as fifteen (15) consecutive b...
+
+--- (Additional Root Structure) ---
+Content: 12.Shares to be Issued in Compliance with Federal Securities Laws and Exchange Rules.  No shares iss...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 13.Certain Adjustments; Change in Control.
+
+--- (Additional Root Structure) ---
+Content: (a)If, during the term of this Agreement, there shall be any equity restructurings (within the meani...
+
+--- (Additional Root Structure) ---
+Content: (b)In the event of a Change in Control as defined in Section 20.1(a) or (b) of the Plan, except as p...
+
+--- (Additional Root Structure) ---
+Content: 14.Participation by Participant in Other Company Plans.  Nothing herein contained shall affect the r...
+
+--- (Additional Root Structure) ---
+Content: 15.No Rights as a Shareholder Until Issuance of Shares.  Neither the Participant nor his or her Repr...
+
+--- (Additional Root Structure) ---
+Content: 16.Not an Employment or Service Contract.  Nothing herein contained shall be construed as an agreeme...
+
+--- (Additional Root Structure) ---
+Content: any of its Affiliates to discharge the Participant or cease contracting for the Participant’s servic...
+
+--- (Additional Root Structure) ---
+Content: 17.Death of the Participant.  In the event of the death of the Participant while any portion of the ...
+
+--- (Additional Root Structure) ---
+Content: 18.Confidentiality, Non-Solicitation and Non-Disparagement.  The Participant agrees that the Award t...
+
+--- (Additional Root Structure) ---
+Content: (a)Definitions.  As used in this Section, the following terms have the meanings set forth below:
+
+--- (Additional Root Structure) ---
+Content: (i)“Confidential Information” means any and all confidential information, including without limitati...
+
+--- (Additional Root Structure) ---
+Content: (ii)“Customer” means any customer of the Company or an Affiliate with which/whom the Participant had...
+
+--- (Additional Root Structure) ---
+Content: (iii)“Enhanced Restricted Period” means the twenty-four (24)-month period commencing on the day foll...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (iv)“Restricted Employee” means any person who was employed by the Company or an Affiliate and had M...
+
+--- (Additional Root Structure) ---
+Content: (v)“Restricted Period” means the twelve (12)-month period commencing on the day following the last d...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)Confidential Information.
+
+--- (Additional Root Structure) ---
+Content: (i)Protection of Confidential Information.  At all times during the Participant’s employment with, o...
+
+--- (Additional Root Structure) ---
+Content: (ii)Notwithstanding the Participant’s confidentiality and non-disclosure obligations under this Agre...
+
+--- (Additional Root Structure) ---
+Content: other disclosures or statements that are protected under the whistleblower, collective bargaining, a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c)Non-Solicitation.
+
+--- (Additional Root Structure) ---
+Content: (i)Non-Solicitation of Employees.  The Participant agrees and acknowledges that the Company and its ...
+
+--- (Additional Root Structure) ---
+Content: (ii)Non-Solicitation of Business.  The Participant agrees and acknowledges that by virtue of the Par...
+
+--- (Additional Root Structure) ---
+Content: the Participant shall not, directly or indirectly initiate, contact or engage in any contact or comm...
+
+--- (Additional Root Structure) ---
+Content: (d)Notification to New Employers.  During the Restricted Period, the Participant shall notify any su...
+
+--- (Additional Root Structure) ---
+Content: (e)Non-Disparagement.  During the term of Participant’s employment and for the two (2)-year period c...
+
+--- (Additional Root Structure) ---
+Content: practices by or relating to the Company or the Affiliates, or (iii) any other policies, procedures o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (f)Consideration/Reasonableness of Restrictions.
+
+--- (Additional Root Structure) ---
+Content: (i)Consideration.  The Participant agrees and acknowledges that the Participant has received valuabl...
+
+--- (Additional Root Structure) ---
+Content: (ii)Reasonableness of Restrictions.  The Participant understands and acknowledges the importance of ...
+
+--- (Additional Root Structure) ---
+Content: (iii)Participant’s Notice to Consult An Attorney.  The Company hereby advises the Participant to con...
+
+--- (Additional Root Structure) ---
+Content: (iv)Review Period.  The Participant has at least fourteen (14) calendar days to review this Agreemen...
+
+--- (Additional Root Structure) ---
+Content: (v)Tolling.  Notwithstanding anything herein to the contrary, if the Participant breaches any of the...
+
+--- (Additional Root Structure) ---
+Content: tolled (retroactive to the date such breach commenced) until such breach or violation has been duly ...
+
+--- (Additional Root Structure) ---
+Content: (vi)Modification.  If any provision or term in this Section is declared invalid or unenforceable by ...
+
+--- (Additional Root Structure) ---
+Content: (vii)Breach/Remedies.  Notwithstanding anything to the contrary in this Agreement, the Participant a...
+
+--- (Additional Root Structure) ---
+Content: (viii)Forfeiture and Repayment Provisions.  Notwithstanding the terms regarding vesting and forfeitu...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 13(ix)Waiver.  The waiver of any breach of the terms of this Section shall not constitute the waiver...
+
+--- (Additional Root Structure) ---
+Content: (x)Interpretation.  Any reference to “Section” or “subsection” in this Section 18 shall refer to thi...
+
+--- (Additional Root Structure) ---
+Content: 19.Arbitration.  In lieu of litigation by way of court or jury trial, any dispute or controversy ari...
+
+--- (Additional Root Structure) ---
+Content: 20.Governing Law.  Except as otherwise provided in the foregoing Section or an Appendix to this Agre...
+
+--- (Additional Root Structure) ---
+Content: 21.Miscellaneous.  This Agreement, together with the Plan, is the entire agreement of the parties wi...
+
+--- (Additional Root Structure) ---
+Content: 22.Forfeiture and Clawback of Option.  Notwithstanding the terms regarding vesting and forfeiture or...
+
+--- (Additional Root Structure) ---
+Content: reduction, cancellation, forfeiture, or recoupment by the Company if and to the extent permitted by ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ADDITIONAL PROVISIONS APPLICABLE ONLY TO EXECUTIVE OFFICERS OF THE COMPANY:
+`-- Content: 23.Stock Holding Period.  The Participant agrees to hold all shares of Common Stock acquired upon th...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 15Appendix I (Employees Whose Primary Residences are Located in California)If the Participant’s prim...
+
+--- (Additional Root Structure) ---
+Content: 18(c)(i)  Non-Solicitation of Employees.  The Participant agrees and acknowledges that the Company a...
+
+--- (Additional Root Structure) ---
+Content: 18(c)(ii)  Non-Solicitation of Business.  The Participant agrees and acknowledges that by virtue of ...
+
+--- (Additional Root Structure) ---
+Content: business relationship with the Company or an Affiliate; or (B) inviting, assisting, encouraging or r...
+
+--- (Additional Root Structure) ---
+Content: 2.    Any claims relating to Section 18 of the Agreement shall be governed by and interpreted in acc...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 17

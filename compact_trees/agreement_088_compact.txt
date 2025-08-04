@@ -1,0 +1,8 @@
+Total parsed elements: 6
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.19  CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) IS THE TYPE THAT THE REGISTRANT TREATS AS P
+  2. HeadingElement (level=2): Patheon Pharmaceuticals Inc.	ACADIA Pharmaceuticals Inc.
+  3. TextElement (level=N/A): By:  /s/ Nicholas M. Buschur				By:  /s/ James NashName:  Nicholas M. Buschur				Name:  James NashTitle:  Executive Director & GM		Title:   SVP, Technology Development & Operations
+  4. HeadingElement (level=2): Exhibit 1
+  5. HeadingElement (level=2): Updated Stability Pricing
+  6. TextElement (level=N/A): 2 3 4 5

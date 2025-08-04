@@ -1,0 +1,150 @@
+AGREEMENT: THIS LICENSE AGREEMENT (this “Agreement”)
+is made and entered into on May 27, 2021 (the “Execution D...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Clause (A)
+
+--- (Additional Root Structure) ---
+Clause (B)
+
+--- (Additional Root Structure) ---
+Heading (L2): 1.Definitions and Interpretation.
+
+--- (Additional Root Structure) ---
+Heading (L2): The following terms shall have the meanings ascribed to them below:
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Clause (c)
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Clause (e)
+
+--- (Additional Root Structure) ---
+Clause (f)
+
+--- (Additional Root Structure) ---
+Clause (g)
+
+--- (Additional Root Structure) ---
+Clause (h)
+
+--- (Additional Root Structure) ---
+Clause (i)
+
+--- (Additional Root Structure) ---
+Clause (ii)
+
+--- (Additional Root Structure) ---
+Clause (iii)
+
+--- (Additional Root Structure) ---
+Clause (iv)
+
+--- (Additional Root Structure) ---
+Clause (j)
+
+--- (Additional Root Structure) ---
+Clause (k)
+
+--- (Additional Root Structure) ---
+Heading (L2): 10.Covenants.
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.Representations and Warranties.
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.2Additional Representations, Warranties and Covenants.
+
+--- (Additional Root Structure) ---
+Clause (l)
+
+--- (Additional Root Structure) ---
+Clause (o)
+
+--- (Additional Root Structure) ---
+Clause (p)
+
+--- (Additional Root Structure) ---
+Clause (q)
+
+--- (Additional Root Structure) ---
+Clause (r)
+
+--- (Additional Root Structure) ---
+Clause (s)
+
+--- (Additional Root Structure) ---
+Heading (L2): 14.Term and Termination.
+
+--- (Additional Root Structure) ---
+Heading (L2): 14.2General Termination Rights.
+
+--- (Additional Root Structure) ---
+Heading (L2): 15.Indemnification and Insurance.
+
+--- (Additional Root Structure) ---
+Heading (L2): 16.Miscellaneous.
+
+--- (Additional Root Structure) ---
+Heading (L2): 16.6Notices.
+
+--- (Additional Root Structure) ---
+AGREEMENT: Licensee:
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR:
+ [***]
+
+--- (Additional Root Structure) ---
+Heading (L2): Licensee:
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR:
+
+--- (Additional Root Structure) ---
+Heading (L1): DESCRIPTION OF LICENSED ASSET
+
+--- (Additional Root Structure) ---
+Heading (L1): [***] FLOW-THROUGH PATENT RIGHTS
+
+--- (Additional Root Structure) ---
+Heading (L1): UPSTREAM LICENSES
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR GENERAL PATENT RIGHTS
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR PRODUCT SPECIFIC PATENT RIGHTS
+
+--- (Additional Root Structure) ---
+Heading (L1): TRANSFER CHECKLIST
+
+--- (Additional Root Structure) ---
+Heading (L1): ANTI-CORRUPTION POLICIES
+
+--- (Additional Root Structure) ---
+Clause (I)
+
+--- (Additional Root Structure) ---
+Clause (II)
+
+--- (Additional Root Structure) ---
+Clause (III)
+
+--- (Additional Root Structure) ---
+Clause (IV)
+
+--- (Additional Root Structure) ---
+Heading (L1): CONDITIONS FOR EFFECTIVENESS

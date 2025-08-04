@@ -1,0 +1,28 @@
+AGREEMENT: AN2 Therapeutics, Inc. (the “Company”), pursuant to its 2022 Equity Incentive Plan (the “Plan”) has ...
+
+--- (Additional Root Structure) ---
+AGREEMENT: ATTACHMENTS: RSU Award Agreement, 2022 Equity Incentive Plan
+
+--- (Additional Root Structure) ---
+Heading (L1): AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): AN2 THERAPEUTICS, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): 2022 EQUITY INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): RSU AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L2): The general terms applicable to your RSU Award are as follows:
+
+--- (Additional Root Structure) ---
+Heading (L1): 5. DATE OF ISSUANCE.
+
+--- (Additional Root Structure) ---
+Clause (b): Notwithstanding the foregoing, the Company may delay any payment under this Agreement that the Compa...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2022 EQUITY INCENTIVE PLAN

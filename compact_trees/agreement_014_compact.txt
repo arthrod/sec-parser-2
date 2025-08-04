@@ -1,0 +1,11 @@
+Total parsed elements: 9
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.2
+  2. HeadingElement (level=1): SUBSCRIPTION AGREEMENT
+  3. TextElement (level=N/A): THIS SUBSCRIPTION AGREEMENT (this “Agreement”) is made and entered into effective as of January 3, 2024 (the “Effective Date”), by, between and among Palmeira Investment Limited (the “Investor”), Alph
+  4. HeadingElement (level=1): ARTICLE I SUBSCRIPTION AND DE-SPAC PAYMENT
+  5. TextElement (level=N/A): 1.1Capital Calls. From time to time, the SPAC will request funds from the Sponsor for working capital purposes or for the Sponsor to fund an extension payment pursuant to the SPAC’s Memorandum and Art
+  6. HeadingElement (level=1): ARTICLE II REPRESENTATIONS AND WARRANTIES
+  7. TextElement (level=N/A): Each Party hereby represents and warrants to each other Party as of the date of this Agreement that: 2.1Authority. Such Party has the power and authority to execute and deliver this Agreement and to c
+  8. HeadingElement (level=1): ARTICLE III MISCELLANEOUS
+  9. TextElement (level=N/A): 3.1Severability. In case any one or more of the provisions contained herein shall, for any reason, be held to be invalid, illegal, or unenforceable in any respect, such invalidity, illegality or unenf

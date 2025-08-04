@@ -1,0 +1,6 @@
+Total parsed elements: 4
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.29
+  2. HeadingElement (level=1): INARI MEDICAL, INC.
+  3. HeadingElement (level=1): NON-EMPLOYEE DIRECTOR COMPENSATION PROGRAM
+  4. TextElement (level=N/A): (as amended and restated effective as of January 1, 2024)Eligible Directors (as defined below) on the board of directors (the “Board”) of Inari Medical, Inc. (the “Company”) shall be eligible to recei

@@ -1,0 +1,168 @@
+TextElement (Lvl: ?): Exhibit 10.1January 23, 2024
+
+--- (Additional Root Structure) ---
+Heading (L1): VIA EMAIL:
+`-- Heading (L2): Dear Daron:
+    |-- Content: We are very excited to offer you the position
+of Chief Financial Officer, at Rezolute, Inc., a Nevad...
+    |-- Content: Additional terms of your employment are more fully
+described below in this letter (“Letter”).
+    |-- Content: 1.             Status
+and Term. You will be a full-time, “at-will” employee of the Company and your ...
+    |-- Content: 2.             Location.
+Your principal place of work will be the Rezolute, Inc. office in Redwood C...
+    |-- Content: 3.             Compensation
+and Benefits. As compensation for your services, you will be entitled to...
+    |-- Content: (a)           Base
+Salary. From the Effective Date, the Company shall pay you a base salary of Two H...
+    |-- Content: (b)           Bonus
+Compensation. You will be eligible to receive an annual performance bonus of up ...
+    |-- Content: (c)           Long
+Term Incentives. Through the term of your employment, you will be eligible to rec...
+    `-- Content: In addition, as an inducement to the commencement of your
+employment, today the board of directors a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Effective
+
+Grant Date
+ 
+Type
+of Award
+ 
+Number of Shares
+...
+
+--- (Additional Root Structure) ---
+Content: (d)           Tracking-Free
+Vacation. Rezolute, Inc. is striving to build a results-driven culture t...
+
+--- (Additional Root Structure) ---
+Content: (e)           Insurance
+Coverage. During the term hereof, the Company shall provide you with medical...
+
+--- (Additional Root Structure) ---
+Content: (f)           401k
+Retirement Plan. During the term hereof, you shall be entitled to participate in ...
+
+--- (Additional Root Structure) ---
+Content: (g)           Other
+Benefits. During the term hereof and subject to any contribution therefor genera...
+
+--- (Additional Root Structure) ---
+Content: (h)            Business
+Expenses. The Company shall pay or reimburse you for all reasonable and nece...
+
+--- (Additional Root Structure) ---
+Content: 4.             Confidential
+Information; Assignment of Inventions.
+
+--- (Additional Root Structure) ---
+Content: (a)           You
+acknowledge that the Company and its Affiliates will continually develop Confident...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (b)          You agree that all Confidential Information, including, without limitation...
+
+--- (Additional Root Structure) ---
+Content: (c)          By signing this Letter you unconditionally and irrevocably transfer and assign to the C...
+
+--- (Additional Root Structure) ---
+Content: (d)          Except as required for the proper performance of your duties, you will not copy any and...
+
+--- (Additional Root Structure) ---
+Content: 5.             Conflicting
+Agreements. You hereby represent and warrant that the execution of this L...
+
+--- (Additional Root Structure) ---
+Content: 6.             Definitions.
+Words or phrases which are initially capitalized or are within quotation...
+
+--- (Additional Root Structure) ---
+Content: (a)           “Affiliates”
+means all persons and entities directly or indirectly controlling, contro...
+
+--- (Additional Root Structure) ---
+Content: (b)           “Change
+in Control Event” means either of the following: (i) sale of substantially all...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (c)           “Confidential
+Information” means any and all information, inventions, dis...
+
+--- (Additional Root Structure) ---
+Content: (d)           “Good
+Reason” means a material reduction in your duties or material reduction in compe...
+
+--- (Additional Root Structure) ---
+Content: (c)           “Person”
+means an individual, a corporation, an association, a partnership, an estate,...
+
+--- (Additional Root Structure) ---
+Content: 7.             Withholding.
+All payments made under this Letter shall be reduced by any tax or other...
+
+--- (Additional Root Structure) ---
+Content: 8.             Severability.
+If any portion or provision of this Letter shall to any extent be decla...
+
+--- (Additional Root Structure) ---
+Content: 9.             Waiver.
+No waiver of any provision hereof shall be effective unless made in writing a...
+
+--- (Additional Root Structure) ---
+Content: 10.           Notices.
+Any and all notices, requests, demands and other communications provided for ...
+
+--- (Additional Root Structure) ---
+Content: 11.           Entire
+Letter. This Letter constitutes the entire Letter between the parties and super...
+
+--- (Additional Root Structure) ---
+Content: 12.           Amendment.
+This Letter may be amended or modified only by a written instrument signed ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 13.           Headings.
+The headings and captions in this Letter are for convenience on...
+
+--- (Additional Root Structure) ---
+Content: 14.           Counterparts.
+This Letter may be executed in two or more counterparts, each of which s...
+
+--- (Additional Root Structure) ---
+Content: 15.           Governing
+Law. This Letter shall be construed and enforced under and be governed in al...
+
+--- (Additional Root Structure) ---
+Content: Daron, we look forward to you joining the Rezolute
+team!
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Sincerely,Rezolute, Inc.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Nevan ElamChief Executive Officer
+
+--- (Additional Root Structure) ---
+Heading (L2): Agreed and accepted:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Rule-Page Daron EvansDate: January 23, 2024 Field: /Page

@@ -1,0 +1,46 @@
+AGREEMENT: THIS
+AGREEMENT is by and between BOT LOGIC LABS, INC., a Colorado S-Corporation (hereinafter referre...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Clause (c)
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Clause (e)
+
+--- (Additional Root Structure) ---
+Heading (L2): THEREFORE
+it is agreed as follows:
+
+--- (Additional Root Structure) ---
+Article Article I: SERVICES TO BE PERFORMED BY BOT
+
+--- (Additional Root Structure) ---
+Article Article II: SERVICES PROVIDED BY HMLA
+
+--- (Additional Root Structure) ---
+Article Article III: Revenue Sharer’s Entitlement to other Revenue or Consideration
+
+--- (Additional Root Structure) ---
+Article Article IV: Independent Contributor
+
+--- (Additional Root Structure) ---
+Article Article V: Miscellaneous
+
+--- (Additional Root Structure) ---
+AGREEMENT: Entire
+Agreement
+
+--- (Additional Root Structure) ---
+Section 5.03

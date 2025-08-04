@@ -1,0 +1,3 @@
+Total parsed elements: 1
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.5  FORM OF  ASSET REPRESENTATIONS REVIEW AGREEMENT  among  PORSCHE FINANCIAL AUTO SECURITIZATION TRUST 20[ ]-[ ],  as Issuer,  PORSCHE FINANCIAL SERVICES, INC.,  as Sponsor and Servicer  an

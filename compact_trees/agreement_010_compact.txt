@@ -1,0 +1,8 @@
+Total parsed elements: 6
+Element types and content:
+  1. HeadingElement (level=1): GROUPON, INC. 2011 INCENTIVE PLAN
+  2. HeadingElement (level=1): NOTICE OF RESTRICTED SHARE UNIT AWARD
+  3. TextElement (level=N/A): The Participant (as defined herein) has been granted a Full Value Award of restricted share units (“RSUs”) in Groupon, Inc. (the “Company”), subject to the terms and conditions of the Restricted Share
+  4. HeadingElement (level=1): GROUPON, INC. 2011 INCENTIVE PLAN
+  5. HeadingElement (level=1): RESTRICTED SHARE UNIT AWARD AGREEMENT
+  6. TextElement (level=N/A): Capitalized terms in this agreement (this “Agreement”), unless otherwise defined herein, shall have the meanings assigned to them in the Groupon, Inc. 2011 Incentive Plan (the “Plan”).  You, as the Pa

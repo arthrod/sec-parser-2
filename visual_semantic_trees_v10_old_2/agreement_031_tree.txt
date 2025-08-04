@@ -1,0 +1,44 @@
+AGREEMENT: EXCLUSIVE
+OPTION AND ASSET PURCHASE AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Heading (L1): 1.CONTINUATION
+                                         OF OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.OPTION
+                                         TO PURCHASE.
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.SALE
+                                         AND PURCHASE OF ASSETS.
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.CONFIDENTIAL
+                                         INFORMATION
+
+--- (Additional Root Structure) ---
+Heading (L1): 5.REPRESENTATIONS
+                                         AND WARRANTIES.
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.2.Aptar’s
+                                         Representations and Warranties.
+
+--- (Additional Root Structure) ---
+Heading (L1): 6.OBLIGATIONS
+                                         OF THE PARTIES AFTER CLOSING.
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.1.Indemnification
+                                         by Collaboration Partner.
+
+--- (Additional Root Structure) ---
+Heading (L1): 7.TERMINATION.
+
+--- (Additional Root Structure) ---
+Heading (L1): 8.GENERAL
+                                         PROVISIONS.

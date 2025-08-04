@@ -1,0 +1,10 @@
+Total parsed elements: 8
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.11
+  2. HeadingElement (level=1): THE GETTY IMAGES HOLDINGS, INC.
+  3. HeadingElement (level=1): EARN OUT PLAN
+  4. TextElement (level=N/A): Restricted Stock Unit Award AgreementThis Restricted Stock Unit Award Agreement (this “Agreement”) is made by and between Getty Images Holdings, Inc., a corporation organized and existing under the la
+  5. HeadingElement (level=1): RECITALS
+  6. TextElement (level=N/A): WHEREAS, the Company has adopted the Getty Images Holdings, Inc. Earn Out Plan (as may be further amended, amended and restated or modified from time to time (the “Plan”), which is incorporated herein
+  7. HeadingElement (level=2): 5.Miscellaneous Provisions
+  8. TextElement (level=N/A): (a)Rights of a Shareholder. Prior to settlement of the RSUs in shares of Common Stock, neither the Participant nor the Participant’s representatives will have any rights as a shareholder of the Compan

@@ -1,0 +1,11 @@
+Total parsed elements: 9
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.4
+  2. HeadingElement (level=1): DEVELOPMENT AGREEMENT
+  3. ContentTextElement (level=4): THIS AGREEMENT is by and between BOT LOGIC LABS, INC., a Colorado S-Corporation (hereinafter referred to as “BOT”), whose business address is 8800 W. 116th Circle, Suite 7625 Broomfield CO 80021 and w
+  4. HeadingElement (level=1): RECITALS:
+  5. TextElement (level=N/A): WHEREAS BOT is the developer of the Active World Holdings portfolio of web based applications (“Website”), which uses ChatGPT4, as well as Solidity Smart Contracts to develop Web3, Web3.5 and Web4 DAp
+  6. HeadingElement (level=2): THEREFORE it is agreed as follows:
+  7. TextElement (level=N/A): Article I. SERVICES TO BE PERFORMED BY BOTBOT will create and mint the EVEREST solidity smart contract with the following tokenomics:Name: The Everest Token Symbol: EVERESTTotal Supply: 250,000,000 De
+  8. HeadingElement (level=2): Article V. Miscellaneous
+  9. TextElement (level=N/A): Attorney FeesIn the event any party deems it necessary to commence an action or proceeding to enforce its rights here under, the prevailing party to such action shall be entitled to have all costs of 

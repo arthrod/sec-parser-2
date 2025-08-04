@@ -1,0 +1,43 @@
+Content: Exhibit 10.1 
+EXECUTION VERSION  COMMITMENT
+INCREASE AGREEMENT  January 17, 2024 
+JPMorgan Chase Ban...
+
+--- (Additional Root Structure) ---
+Content: EXECUTION VERSION   
+D. Governing Law. This Commitment Increase Agreement shall be construed in acco...
+
+--- (Additional Root Structure) ---
+Content: EXECUTION VERSION   
+
+
+
+
+
+
+
+
+
+Very truly yours,
+
+
+
+INCREASING LENDER
+
+
+
+DEUTSCHE BANK AG NEW YORK BR...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXECUTION VERSION   
+Accepted and agreed: 
+HPS CORPORATE LENDING FUND   
+
+
+
+
+
+
+By:
+ 
+ /s/ Robert Bus...

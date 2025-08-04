@@ -1,0 +1,21 @@
+Total parsed elements: 19
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.3
+  2. HeadingElement (level=1): PRIVATE WARRANT UNDERTAKING AGREEMENT
+  3. TextElement (level=N/A): This AGREEMENT (this "Agreement"), dated as of January 29, 2024, is made by and among Pegasus Digital Mobility Sponsor LLC, a Cayman Islands limited liability company (the "Sponsor"), Pegasus Digital 
+  4. HeadingElement (level=1): 2.UNTERTAKING TO CASHLESS EXERCISE PRIVATE WARRANTS AT $18.00
+  5. ContentTextElement (level=4): Unless previously exercised or redeemed, each of the Sponsor and each of the Insider Parties in its respective capacity as holders of Private Warrants, irrevocably and unconditionally agrees that such
+  6. HeadingElement (level=2): 3.Termination
+  7. TextElement (level=N/A): This Agreement shall terminate and be void and of no further force and effect, and all rights and obligations of the Parties hereunder shall terminate without any further liability on the part of any 
+  8. HeadingElement (level=2): 6.Representations and Warranties
+  9. TextElement (level=N/A): Each of the parties hereto represents and warrants that (a) it has the power and authority, or capacity, as the case may be, to enter into this Agreement and to carry out its obligations hereunder, (b
+  10. HeadingElement (level=2): 9.Notices
+  11. TextElement (level=N/A): Any notice or communication required or permitted hereunder shall be in writing and either delivered personally, emailed or sent by overnight mail via a reputable overnight carrier, or sent by certifi
+  12. HeadingElement (level=2): If to Sponsor:
+  13. TextElement (level=N/A): Pegasus Digital Mobility Sponsor LLC Attention: Jim CondonE-mail: jcondon@stratcap.comwith a required copy (which copy shall not constitute notice) to:Troutman Pepper  Attn:Heath D. Linsky  Email:heat
+  14. HeadingElement (level=2): If to Pegasus:
+  15. TextElement (level=N/A): Pegasus Digital Mobility Acquisition Corp.Attn:Jeremey Mistry and Stefan Berger Email:jmistry@pegasusdm.com; sberger@pegasusdm.com Field: /Page with a required copy (which copy shall not constitute no
+  16. HeadingElement (level=2): If to the Company:
+  17. TextElement (level=N/A): Gebr. Schmid GmbHRobert-Bosch-Str. 32-36 72250 FreudenstadtGermanyAttn:Christian Schmid, Anette Schmid and Julia Natterer Email:natterer.ju@schmid-group.com;    Schmid.Ch@schmid-group.com;  Schmid.An@
+  18. HeadingElement (level=1): INSIDERS:
+  19. TextElement (level=N/A): By: /s/      Sir Ralf Speth      Name: Sir Ralf Speth         By: /s/  F. Jeremy Mistry      Name: F. Jeremy Mistry         By: /s/  Stefan     Berger      Name: Stefan Berger         By: /s/  James  

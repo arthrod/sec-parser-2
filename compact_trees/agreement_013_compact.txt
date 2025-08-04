@@ -1,0 +1,9 @@
+Total parsed elements: 7
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.20
+  2. HeadingElement (level=1): INDEMNIFICATION AGREEMENT
+  3. ContentTextElement (level=4): This Indemnification Agreement (“Agreement”) is made as of January 1, 2024, by and between Ranger Energy Services, Inc., a Delaware corporation (the “Company”), and Carla Mashinski (“Indemnitee”).
+  4. HeadingElement (level=1): RECITALS
+  5. TextElement (level=N/A): WHEREAS, directors, officers and other persons in service to corporations or business enterprises are subjected to expensive and time-consuming litigation relating to, among other things, matters that
+  6. HeadingElement (level=1): TO INDEMNIFICATION AGREEMENT
+  7. TextElement (level=N/A): IN WITNESS WHEREOF, the parties have caused this Agreement to be signed as of the day and year first above written.RANGER ENERGY SERVICES, INC.By:/s/ Stuart BoddenName:Stuart BoddenTitle:President & C

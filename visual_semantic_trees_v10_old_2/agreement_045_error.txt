@@ -1,0 +1,2 @@
+Error processing agreement_045.html:
+AttributeError: 'NoneType' object has no attribute 'lower'

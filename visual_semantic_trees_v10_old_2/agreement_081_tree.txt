@@ -1,0 +1,19 @@
+AGREEMENT: Restricted Stock Unit Agreement
+
+--- (Additional Root Structure) ---
+Heading (L1): PARTICIPANT    HORMEL FOODS CORPORATION
+
+--- (Additional Root Structure) ---
+Heading (L1): HORMEL FOODS CORPORATION
+
+--- (Additional Root Structure) ---
+AGREEMENT: Restricted Stock Unit Agreement
+
+--- (Additional Root Structure) ---
+Section 2: Vesting.
+
+--- (Additional Root Structure) ---
+Clause (b): Accelerated Vesting. Notwithstanding Section 2(a), if, prior to the Scheduled Vesting Date, you die ...
+
+--- (Additional Root Structure) ---
+Section 15: Compensation Recovery Policy; Cancellation and Recission.

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exhibit
+10.15Investment
+AgreementThis
+Agreement was signed in Shenzhen City on November 5, 2022.Pa...Green Reverse Supply Chain Management Co., LTD. (tentative) (hereinafter referred to as “Party B”)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Unified
+Social Credit Code:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Legal
+Representative: Tang Baitong (tentative)Party
+C: Shenzhen Carbon Zero Technology Co., Ltd (h...al
+representative: Tang BaitongParty
+D: Tang Baitong (hereinafter referred to as “Party D”)ID
+No.:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Address:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Party
+A is a natural person in China, Party B is a corporate body to be established and registered... and registered in China. Party D is the proposed legal representative and the founder of Party B.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: In
+consideration of:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Through
+the necessary business investigation and understanding of Party B and Party D, Party A rec...t.(No
+text available below) Field: /Page (This
+is the signing page of this Agreement with no text)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Party
+A:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Date:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Party
+B:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Legal/
+Authorized Representative:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Date:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Party
+C:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Legal/
+Authorized Representative:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Date:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Party
+D:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Date:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Field: /Page</span>
+</div>
+    </div>
+</body>
+</html>

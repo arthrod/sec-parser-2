@@ -1,0 +1,20 @@
+Total parsed elements: 18
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.15Investment AgreementThis Agreement was signed in Shenzhen City on November 5, 2022.Party A: Chen Liguang (hereinafter referred to as “Party A”)ID No.:Address: .Party B: Beijing ABGreen Re
+  2. HeadingElement (level=2): Unified Social Credit Code:
+  3. TextElement (level=N/A): Legal Representative: Tang Baitong (tentative)Party C: Shenzhen Carbon Zero Technology Co., Ltd (hereinafter referred to as “Party C”)Unified social credit code: 91440300MA5HCAXL6D  Legal representati
+  4. HeadingElement (level=2): Address:
+  5. ContentTextElement (level=4): Party A is a natural person in China, Party B is a corporate body to be established and registered in China; Party C is a corporate body legally established and registered in China. Party D is the pro
+  6. HeadingElement (level=2): In consideration of:
+  7. TextElement (level=N/A): Through the necessary business investigation and understanding of Party B and Party D, Party A recognizes Party B’s business concept and model, and shares the same development concept and values, and 
+  8. HeadingElement (level=2): Party A:
+  9. HeadingElement (level=2): Date:
+  10. HeadingElement (level=2): Party B:
+  11. TextElement (level=N/A): Legal/ Authorized Representative:
+  12. HeadingElement (level=2): Date:
+  13. HeadingElement (level=2): Party C:
+  14. TextElement (level=N/A): Legal/ Authorized Representative:
+  15. HeadingElement (level=2): Date:
+  16. HeadingElement (level=2): Party D:
+  17. HeadingElement (level=2): Date:
+  18. TextElement (level=N/A): Field: /Page

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Field: /Rule-Page Exhibit 10.23</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: DEVELOPMENT, EVALUATION, AND OPTION AGREEMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: THIS DEVELOPMENT, EVALUATION, AND OPTION AGREEMENT (this "Agreement"), dated as of the date last w...r may hereinafter be referred to individually as a “Party”
+    or, collectively, as the “Parties.”</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: RECITALS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: WHEREAS, Company is in the business of developing, selling and distributing proprietary product pa...ms have been fully approved in a signed writing by authorized
+    Representatives of both Parties.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 2.1.4</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: At the completion of the
+    Shakedown Milestone (as identified on Exhibit A) and, prior to shippi...rth in this Agreement, include without limitation, the duties set forth below in this Section 2.2:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 2.2.1</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Subject to Section 3,
+    Each Party shall share and provide reasonable access to all of the Backg...under this Agreement, subject to obligations of confidentiality under this Agreement or otherwise.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 2.2.2</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The Parties shall work
+    exclusively together during the Term of this Agreement. Supplier shall ...or otherwise use the Company Technology or P&amp;G Technology, for
+    any party other than Company.
+4</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 2.2.3</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The Parties shall establish
+    a management team for management of each Parties’ obligations unde...eted to conflict with or encumber Company’s ownership of the
+          Fameccanica Design Package.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 5.
+Term and Termination.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 5.1
+Term. This Agreement shall commence on the Effective Date and shall remain in effect through t...ain assurance
+          that confidential treatment will be afforded the Confidential Information.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 7.
+Representations and Warranties.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 7.1
+Mutual. Each Party represents and warrants to the other Party that: (a) it is duly organized, ...     LINE PROJECT OR THE VALIDITY, SCOPE, OR NON-INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHTS.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 8.
+Indemnification.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 8.1
+By Company. Company shall indemnify, defend and hold harmless Supplier and its Affiliates, and...    purported assignment, delegation or transfer in violation of this Section 10 is null and void.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 11.
+Governing Law; Dispute Resolution.</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 11.1
+Governing Law; Language. This Agreement and all related documents, and all matters arising ou...vern for all purposes, regardless of whether this Agreement in translated into any other language.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 11.2
+Dispute Resolution.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 11.2.1
+Mediation. The Parties shall use their respective best efforts to negotiate and resolve in ...cover its reasonable attorneys' fees and court costs from the non-prevailing
+          Party.
+
+
+12</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 12.
+Miscellaneous.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 12.1
+Independent Contractors. The relationship between the Parties is that of independent contract...o be executed as of the Effective Date by their respective officers thereunto duly
+    authorized.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: COMPANY:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: AeroFlexx LLC, a Delaware limited liability company
+
+By:
+/s/Andrew Meyer
+ 
+
+
+
+ 
+Name:
+Andrew Meyer
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+Title: 
+CEO
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+Date: 
+09/12/2019</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SUPPLIER:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Fameccanica.Data S.p.A., an Italian corporation
+
+By:
+/s/ Giampiero de Angelis
+ 
+
+
+
+ 
+Name:
+ Giampiero de Angelis
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+Title: 
+ General Manager
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+Date: 
+12/09/2019
+ 
+
+
+16</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXHIBIT A</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEAD LINE PROJECT PLAN</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 17</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXHIBIT B</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SUPPLY TERMS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 18</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXHIBIT C</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: KEY SUCCESS CRITERIA</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 19</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXHIBIT D</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: COMMERCIAL SUPPLY AGEEMENT FRAMEWORK</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 20</span>
+</div>
+    </div>
+</body>
+</html>

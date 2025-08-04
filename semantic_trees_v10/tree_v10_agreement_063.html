@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: EXHIBIT 10ee</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: RESTRICTED STOCK UNITS AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: UNDER THE BRISTOL-MYERS SQUIBB COMPANY</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 2021 STOCK AWARD AND INCENTIVE PLAN</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: BRISTOL-MYERS SQUIBB COMPANY, a Delaware corporation (the “Company”), has granted to you an award ...y defined herein shall have the meanings ascribed to such terms in the Plan and in the Prospectus.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 1.RESTRICTED STOCK UNITS AWARD</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The Compensation and Management Development Committee of the Board of Directors of Bristol-Myers S...than payments for taxes pursuant to Section 4 hereof) or provide any other monetary consideration.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 2.RESTRICTIONS, FORFEITURES, AND SETTLEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Except as otherwise provided in this Section 2, each RSU shall be subject to the restrictions and ...ing the applicable Covenant Restricted Period, by providing a copy of this Agreement or otherwise.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 4.RESPONSIBILITY FOR TAXES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: You acknowledge that, regardless of any action taken by the Company, any subsidiary, or affiliate ...ferred compensation, and otherwise such withholding or release will comply with Code Section 409A.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 5.DIVIDENDS AND ADJUSTMENTS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Dividends or dividend equivalents are not paid, accrued, or accumulated on RSUs during the Rest...y dividends on Common Stock) or any other “equity restructuring” as defined in FASB ASC Topic 718.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 6.EFFECT ON OTHER BENEFITS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: In no event shall the value, at any time, of the RSUs or any other payment under this Agreement be...der any plan of, or agreement with, the Company, any subsidiary or affiliate, and/or the Employer.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 8.NO ADVICE REGARDING GRANT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: The Company is not providing any tax, legal, or financial advice, nor is the Company making any re...al advisors regarding your participation in the Plan before taking any action related to the Plan.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 9.RIGHT TO CONTINUED EMPLOYMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Nothing in the Plan or this Agreement shall confer on you any right to continue in the employ of t...mployer to terminate your employment without prior notice at any time for any reason or no reason.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 10.ADMINISTRATION; UNFUNDED OBLIGATIONS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: The Committee shall have full authority and discretion, subject only to the express terms of the P... legal heirs, as applicable, shall be a general creditor of the Company with respect to your RSUs.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 11.DEEMED ACCEPTANCE</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: You are required to accept the terms and conditions set forth in this Agreement prior to the Vesti... and, once delivered, you waive any right to assert that you have not accepted the terms hereof.16</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 12.AMENDMENT TO PLAN</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: This Agreement shall be subject to the terms of the Plan, as amended from time to time, except tha...y amendment or termination of the Plan approved after the Award Date without your written consent.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 13.SEVERABILITY AND VALIDITY</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: The various provisions of this Agreement are severable, and, if any one or more provisions are det...able, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 14.GOVERNING LAW, JURISDICTION, AND VENUE</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: This Agreement and Award grant shall be governed by the substantive laws (but not the choice of la...ing upon and inure to the benefit of the successors, assigns, and heirs of the respective parties.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 16.ELECTRONIC DELIVERY AND ACCEPTANCE</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The Company may, in its sole discretion, decide to deliver any documents related to current or fut...onic systems established and maintained by the Company or a third party designated by the Company.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 17.INSIDER TRADING/MARKET ABUSE LAWS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: You acknowledge that, depending on your country or broker’s country, or the country in which Commo...he English version, the English version will control, unless otherwise required by applicable law.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 19.COMPLIANCE WITH LAWS AND REGULATIONS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Notwithstanding any other provisions of the Plan or this Agreement, unless there is an available e... shares.  Any determination by the Company in this regard shall be final, binding, and conclusive.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 20.ENTIRE AGREEMENT AND NO ORAL MODIFICATION OR WAIVER</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: This Agreement (including the terms of the Plan and the Grant Summary) contains the entire underst...e party granting the waiver and shall not be deemed a waiver of any subsequent failure to perform.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 21.ADDENDUM A</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Your RSUs shall be subject to any additional provisions set forth in Addendum A to this Agreement ... or advisable for legal or administrative reasons.  Addendum A constitutes part of this Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 22.FOREIGN ASSET/ACCOUNT REPORTING REQUIREMENTS AND EXCHANGE CONTROLS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Your country may have certain foreign asset and/or foreign account reporting requirements and exch...mpliant with such regulations, and you should consult your personal legal advisor for any details.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 23.IMPOSITION OF OTHER REQUIREMENTS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: The Company reserves the right to impose other requirements on your participation in the Plan, on ... sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 24.    OTHER REPRESENTATIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By accepting this Award, you also represent that you have received and carefully read a copy of th...not limited to, the Post-Vest Holding Period and any post-employment covenants described herein.20</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Addendum A</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: BRISTOL-MYERS SQUIBB COMPANY</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ADDITIONAL PROVISIONS FOR RSUs IN CERTAIN COUNTRIES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Unless otherwise provided below, capitalized terms used but not defined herein shall have the same...n, determine to what extent the additional provisions contained herein shall be applicable to you.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: All Countries</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Retirement.  The following provision supplements Section 2 of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Notwithstanding the foregoing, if the Company receives a legal opinion that there has been a legal... treatment of the RSUs in the event of your Retirement shall not be applicable to you.Addendum A-1</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: All Countries Outside the European Union/ European Economic Area/Switzerland/United Kingdom</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Data Privacy Consent.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By accepting the Award, you explicitly and unambiguously consent to the collection, use and transf...if you fail to provide any such consent or agreement requested by the Company and/or the Employer.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Argentina</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Labor Law Policy and Acknowledgement.  This provision supplements Sections 6 and 7 of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By accepting the RSUs, you acknowledge and agree that the grant of RSUs is made by the Company (no... funds into Argentina, as you are responsible for complying with applicable exchange control laws.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Australia</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Compliance with Laws.  Notwithstanding anything else in the Agreement, you will not be entitled to...000 and inbound international fund transfers of any value, that do not involve an Australian bank.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Austria</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exchange Control Information.  If you hold securities (including shares of Common Stock acquired u...he following month, on the prescribed form (Meldungen SI-Forderungen und/oder SI-Verpflichtungen).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Belgium</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: There are no country-specific provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Brazil</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Labor Law Policy and Acknowledgement.  This provision supplements Sections 6 and 7 of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By accepting the RSUs, you acknowledge and agree that (i) you are making an investment decision, a...e assets and rights that must be reported include shares of Common Stock and may include the RSUs.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Bulgaria</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Exchange Control Information.  You will be required to file statistical forms with the Bulgarian n... You should contact your bank in Bulgaria for additional information regarding these requirements.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Canada</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Settlement of RSUs.  Notwithstanding any terms or conditions of the Plan or the Agreement to the c...Stock is listed.  Currently, the shares of Common Stock are listed on the New York Stock Exchange.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Termination of Employment.  This provision replaces the second paragraph of Section 2(i)(v) of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: In the event of termination of your employment (whether or not later found to be invalid or in bre... you be entitled to any compensation for lost vesting, unless otherwise provided in the Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: The following provision applies if you are resident in Quebec:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Language:  A French translation of the Plan and the Agreement has been made available to you.  Unl...raire, la traduction française du Régime et de la Convention régira votre participation au Régime.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Data Privacy.  This provision supplements the Data Privacy Consent provision above in this Addendum A:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: You hereby authorize the Company, the Employer and their representatives to discuss with and obtai... and to make automated decisions that may have an impact on you or the administration of the Plan.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Chile</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Labor Law Policy and Acknowledgement.  This provision supplements Sections 6 and 7 of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: In accepting the RSUs, you agree the RSUs and the shares of Common Stock underlying the RSUs, and ...o file this report.  Please note that exchange control regulations in Chile are subject to change.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: China</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The following provisions apply if you are subject to the exchange control regulations in China imp...by the Company in the future to facilitate compliance with exchange control requirements in China.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Colombia</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Labor Law Policy and Acknowledgement.  By accepting your Award, you expressly acknowledge that, pu... You should obtain proper legal advice to ensure compliance with applicable Colombian regulations.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Czech Republic</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Exchange Control Information.  The Czech National Bank may require you to fulfill certain notifica...regulations.  It is your responsibility to comply with any applicable Czech exchange control laws.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Denmark</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Stock Option Act.  You acknowledge that you have received an Employer Statement in Danish which in...ption Act, as amended January 1, 2019 (the “Act”), to the extent that the Act applies to the RSUs.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Finland</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: There are no country-specific provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: France</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Language Acknowledgement</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: En signant et renvoyant le présent document décrivant les termes et conditions de votre attributio...uments relating to this grant (the Plan and this Agreement) which were provided to you in English.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: French-Qualified RSUs</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The following provisions apply only if you are eligible to be granted French-Qualified RSUs under ..., in the Agreement or in the Plan shall have the meanings ascribed to them in the French Sub-Plan.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Settlement.  Notwithstanding provision to the contrary in the Agreement, French-Qualified RSUs may not be settled in cash.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Termination Due to Death.  The following provision replaces Section 2(c)(iv) of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: In the event of your death prior to any applicable Vesting Date or the end of the Restricted Perio...he provisions of Sections L. 225-197-1 to L. 225-197-6 of the French Commercial Code, as amended).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Germany</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Exchange Control Information.  Cross-border payments in excess of €12,500 (the “Threshold”) must b...t must be submitted monthly or within other such timing as is permitted or required by Bundesbank.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Greece</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: There are no country-specific provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Hong Kong</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Securities Law Information.  Warning:  The contents of this document have not been reviewed by any...Award Date.  Any shares of Common Stock received at vesting are accepted as a personal investment.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Hungary</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: There are no country-specific provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: India</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Exchange Control Information.  You must repatriate all proceeds received from the sale of shares t...y the Company or the Employer to make any applicable filings under exchange control laws in India.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Ireland</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Acknowledgement of Nature of Plan and RSUs.  This provision supplements Sections 6 and 7 of the Agreement:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: In accepting this Agreement, you understand and agree that the benefits received under the Plan will not be taken into account for any redundancy or unfair dismissal claim.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Israel</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Settlement of RSUs and Sale of Common Stock.  Upon the lapse of the Post-Vest Holding Period, you ...y for any fluctuations in the Common Stock price and/or any applicable exchange rate.Addendum A-13</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Securities Law Information. This offer of RSUs does not constitute a public offering under the Securities Law, 1968.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Italy</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Plan Document Acknowledgment.  By accepting the RSUs, you acknowledge that you have received a cop... Controls); Section 23 (Imposition of Other Requirements); and Section 24 (Other Representations).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Japan</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Exchange Control Information.  If you acquired shares of Common Stock under the Plan valued at mor... Ministry of Finance through the Bank of Japan within 20 days after the acquisition of the shares.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Korea</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Restriction on Sale of Shares of Common Stock.  Korean residents are not permitted to sell foreign... foreign exchange obligations that you may have in connection with your participation in the Plan.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Mexico</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Securities Law Information.  Any Award offered under the Plan and the shares of Common Stock under... directores, agentes y representantes legales con respecto a cualquier demanda que pudiera surgir.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Netherlands</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: There are no country-specific provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Norway</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: There are no country-specific provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Peru</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Securities Law Information.  The grant of RSUs is considered a private offering in Peru; therefore, it is not subject to registration.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Labor Law Acknowledgement.  The following provision supplements Section 6 and 7 of the Agreement:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: By accepting this Award pursuant to this Agreement, you acknowledge that the RSUs are being granted ex gratia to you with the purpose of rewarding you.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Poland</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exchange Control Information.  If you hold shares of Common Stock acquired under the Plan and/or m...advisor to determine what you must do to fulfill any applicable reporting/exchange control duties.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Portugal</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Language Consent.  You hereby expressly declare that you have full knowledge of the English langua...dido e totalmente aceito e concordou com os termos e condições estabelecidas no plano e no acordo.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Puerto Rico</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: There are no country-specific provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Romania</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Language Consent.  By accepting the grant of RSUs, you acknowledge that you are proficient in read...ul), care au fost furnizate in limba engleza.  Acceptati termenii acestor documente in consecinta.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Saudi Arabia</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Securities Law Information.  This document may not be distributed in the Kingdom except to such pe...o not understand the contents of this document you should consult an authorized financial advisor.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Singapore</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Sale Restriction.  You agree that any shares of Common Stock acquired pursuant to the RSUs will no...tive Officer of the Singapore subsidiary of the Company, these requirements may also apply to you.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Spain</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Labor Law Acknowledgment.  This provision supplements Sections 2(g), 6 and 7 of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By accepting the RSUs, you consent to participation in the Plan and acknowledge that you have rece... D-6 filed with the Spanish Registro de Inversiones within one month from the acquisition or sale.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Sweden</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Responsibility for Taxes.  This provision supplements Section 4 of the Agreement:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Without limiting the Company’s and the Employer’s authority to satisfy their withholding obligatio... of whether the Company and/or the Employer have an obligation to withhold such Tax-Related Items.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Switzerland</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Securities Law Information.  Because the offer of the Award is considered a private offering in Sw... Swiss regulatory authority, including the Swiss Financial Market Supervisory Authority (“FINMA”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Taiwan</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Securities Law Information.  The grant of RSUs and any shares of Common Stock acquired pursuant to...the remitting bank and provide supporting documentation to the satisfaction of the remitting bank.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Thailand</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Exchange Control Information.  If the proceeds from the sale of shares of Common Stock or the rece...l be liable for any fines or penalties resulting from your failure to comply with applicable laws.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Türkiye</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Securities Law Information.  Under Turkish law, you are not permitted to sell shares of Common Sto...y shares of Common Stock acquired under the Plan to confirm the applicability of this requirement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: United Arab Emirates</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Acknowledgment of Nature of Plan and RSUs.  This provision supplements Section 7 of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: You acknowledge that the RSUs and related benefits do not constitute a component of your “wages” f...ive purchasers of the securities offered should conduct their own due diligence on the securities.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: United Kingdom</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Responsibility for Taxes.  This provision supplements Section 4 of the Agreement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Without limitation to Section 4 of the Agreement, you hereby agree that you are liable for all Tax...epting the Agreement, or at such subsequent time as may be designated by the Company.Addendum A-22</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Section 431 Election for U.K. Participants</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Joint Election under s431 ITEPA 2003 for full or partial disapplication of Chapter 2 Income Tax (Earnings and Pensions) Act 2003 One Part Election</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">SectionElement (level=2)</span>
+  <span class="element-content">: 1.    Between</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: the Employee                                 [insert name of employee]whose National Insurance Num... Company Registration Number                                  [insert Company Registration Number]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">SectionElement (level=2)</span>
+  <span class="element-content">: 2.    Purpose of Election</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: This joint election is made pursuant to section 431(1) or 431(2) Income Tax (Earnings and Pensions...f the securities acquired are subsequently transferred, forfeited or revert to the original owner.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">SectionElement (level=2)</span>
+  <span class="element-content">: 3.    Application</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: This joint election is made not later than 14 days after the date of acquisition of the securities...er the terms of the Bristol-Myers Squibb Company 2021 Stock Award and Incentive Plan.Addendum A-23</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">SectionElement (level=2)</span>
+  <span class="element-content">: 4.    Extent of Application</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: This election disapplies to S.431(1) ITEPA: All restrictions attaching to the securities</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">SectionElement (level=2)</span>
+  <span class="element-content">: 5.    Declaration</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: This election will become irrevocable upon the later of its signing or the acquisition (and each s...t, by clicking on the “ACCEPT” box, the Employee agrees to be bound by the terms of this election.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: OR:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The Employee acknowledges that, by signing this election, the Employee agrees to be bound by the t...ement between the employee and employer in respect of that and any later acquisition.Addendum A-24</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Addendum B</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Limited Application of Restrictive Covenants in Certain States, Territories and Related Notices</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)    California.  If I am hired to primarily perform services for the Company in California or a..., and nothing in the Agreement is intended to impose an agreement contrary to the Act.Addendum B-2</span>
+</div>
+    </div>
+</body>
+</html>

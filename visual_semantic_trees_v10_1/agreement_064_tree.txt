@@ -1,0 +1,68 @@
+TextElement (Lvl: ?): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+Heading (L1): AMENDMENT NO. 2
+TO
+INVESTMENT MANAGEMENT TRUST AGREEMENT
+`-- Content: THIS AMENDMENT NO. 2 TO THE INVESTMENT MANAGEMENT
+TRUST AGREEMENT (this “Amendment”) is made as of J...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, on December 15, 2021, the Company consummated
+an initial public offering (the “Offering”) o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page NOW, THEREFORE, in consideration of the mutual
+agreements contained herein and other go...
+
+--- (Additional Root Structure) ---
+Content: “(i) Commence
+liquidation of the Trust Account only after and promptly after (x) receipt of, and onl...
+
+--- (Additional Root Structure) ---
+Heading (L2): 2. Miscellaneous
+Provisions.
+|-- Content: 2.1. Successors.
+All the covenants and provisions of this Amendment by or for the benefit of the Com...
+|-- Content: 2.2. Severability.
+This Amendment shall be deemed severable, and the invalidity or unenforceability ...
+|-- Content: 2.3. Applicable
+Law. This Amendment shall be governed by and construed and enforced in accordance wi...
+|-- Content: 2.4. Counterparts.
+This Amendment may be executed in several original or facsimile counterparts, eac...
+|-- Content: 2.5. Effect
+of Headings. The section headings herein are for convenience only and are not part of th...
+`-- Content: 2.6. Entire
+Agreement. The Original Agreement, as modified by this Amendment, constitutes the entire...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature page follows] Field: /Page IN WITNESS WHEREOF, the parties hereto
+have caused this Amendm...
+
+--- (Additional Root Structure) ---
+Content: Continental Stock Transfer & Trust Company, as Trustee
+
+
+ 
+ 
+
+
+ 
+By:
+ 
+
+
+ 
+Name:  
+Francis Wolf
+
+
+ 
+...
+
+--- (Additional Root Structure) ---
+Content: [Signature Page to Amendment No. 2 to Investment
+Management Trust Agreement]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Rule-Page

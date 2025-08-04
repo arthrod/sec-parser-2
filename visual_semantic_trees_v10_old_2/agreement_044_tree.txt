@@ -1,0 +1,97 @@
+AGREEMENT: DEVELOPMENT, EVALUATION, AND OPTION AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Clause (a): “Affiliate” means any other Person that directly or indirectly, through one or more intermediaries, ...
+
+--- (Additional Root Structure) ---
+Clause (b): “Background Intellectual Property” means a Party’s pre-existing know-how, technology and processes a...
+
+--- (Additional Root Structure) ---
+Clause (c): “Change of Control” means with respect to a Party, a change of the Person that has control, directly...
+
+--- (Additional Root Structure) ---
+Clause (d): “Claim” means any claim, suit, action or proceeding by any Person.
+
+--- (Additional Root Structure) ---
+Clause (f): “Commercial Line Machines” means all machines commercially manufactured for Company in accordance wi...
+
+--- (Additional Root Structure) ---
+Clause (g): “Company Technology” means all Intellectual Property Rights underlying the Company Packaging, or oth...
+
+--- (Additional Root Structure) ---
+Clause (h): “Supplier Technology” means any drawings, information, data, results, improvements, inventions (cove...
+
+--- (Additional Root Structure) ---
+Clause (j): “Intellectual Property Rights” means Patents, Marks, copyrights, trade secrets and similar intangibl...
+
+--- (Additional Root Structure) ---
+Clause (k): "Law" means any statute, Law, ordinance, regulation, rule, code, order, constitution, treaty, common...
+
+--- (Additional Root Structure) ---
+Clause (l): "Loss" means all losses, damages, liabilities, deficiencies, Claims, judgments, settlements, interes...
+
+--- (Additional Root Structure) ---
+Clause (m): “Marks” means trademarks, service marks, trade dress, trade names, logos and slogans, whether regist...
+
+--- (Additional Root Structure) ---
+Clause (n): “Patent” means patent(s) or patent application(s) (including, but not limited to, all divisionals, c...
+
+--- (Additional Root Structure) ---
+Clause (o): "Person" means a natural person, corporation, partnership, joint venture, limited liability company,...
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.1.4
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2.1
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2.2
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2.3
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.
+Term and Termination.
+
+--- (Additional Root Structure) ---
+Heading (L2): 7.
+Representations and Warranties.
+
+--- (Additional Root Structure) ---
+Heading (L2): 8.
+Indemnification.
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.
+Governing Law; Dispute Resolution.
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.2
+Dispute Resolution.
+
+--- (Additional Root Structure) ---
+Heading (L2): 12.
+Miscellaneous.
+
+--- (Additional Root Structure) ---
+Heading (L1): COMPANY:
+
+--- (Additional Root Structure) ---
+Heading (L1): SUPPLIER:
+
+--- (Additional Root Structure) ---
+Heading (L1): LEAD LINE PROJECT PLAN
+
+--- (Additional Root Structure) ---
+AGREEMENT: SUPPLY TERMS
+
+--- (Additional Root Structure) ---
+Heading (L1): KEY SUCCESS CRITERIA
+
+--- (Additional Root Structure) ---
+Heading (L1): COMMERCIAL SUPPLY AGEEMENT FRAMEWORK

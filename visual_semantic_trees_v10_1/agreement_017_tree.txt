@@ -1,0 +1,18 @@
+TextElement (Lvl: ?): Exhibit 10.21.16
+
+--- (Additional Root Structure) ---
+Heading (L1): AMENDMENT NUMBER 12 TO THE
+
+--- (Additional Root Structure) ---
+Heading (L1): METLIFE AUXILIARY RETIREMENT PLAN
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (As amended and restated effective January 1, 2008)The MetLife Auxiliary Retirement Plan (the “Plan”...
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, the Company has caused this Amendment to be adopted in its name and behalf this ...
+
+--- (Additional Root Structure) ---
+Heading (L1): METROPOLITAN LIFE INSURANCE COMPANY
+|-- Content: By: __/s/ Andrew J. Bernstein______________________________ Andrew J. Bernstein, Plan Administrator
+`-- Content: ATTEST: ___/s/ Danielle Hodorowski___________________________________

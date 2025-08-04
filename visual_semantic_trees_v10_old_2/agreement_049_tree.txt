@@ -1,0 +1,88 @@
+AGREEMENT: EIGHTH AMENDMENT TO OFFICE LEASE
+
+--- (Additional Root Structure) ---
+Heading (L1): CERTAIN INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II)...
+|-- Heading (L2): A.Landlord, pursuant to the provisions of that certain Office Lease, dated November 22, 2010 and a c...
+`-- Heading (L2): B.Pursuant to Article 25 of the Original Lease, as amended by Section 9.3 of the First Amendment, Se...
+
+--- (Additional Root Structure) ---
+Clause (C)
+
+--- (Additional Root Structure) ---
+Clause (D)
+
+--- (Additional Root Structure) ---
+Clause (E)
+
+--- (Additional Root Structure) ---
+Heading (L1): NOW, THEREFORE, in consideration of the covenants and provisions contained herein, and other good an...
+
+--- (Additional Root Structure) ---
+Heading (L1): 1.Confirmation of Defined Terms. Unless modified herein, all terms previously defined and capitalize...
+
+--- (Additional Root Structure) ---
+AGREEMENT: EIGHTH AMENDMENT TO OFFICE LEASE
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.Rescission of Early Termination and Waiver of Termination Compensation. Tenant hereby rescinds its...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.Revision in Fixed Monthly Rent. Landlord agrees that the payment terms for Fixed Monthly Rent shal...
+
+--- (Additional Root Structure) ---
+Heading (L1): Period Fixed Monthly Rent
+
+--- (Additional Root Structure) ---
+Heading (L1): January 1, 2022 through January 31, 2023                        [***]
+|-- Heading (L2): February 1, 2023 through January 31, 2024                        [***]
+`-- Heading (L2): Tenant agrees that all deferrals and abatements of Fixed Monthly Rent as set forth in the Sixth Amen...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.Confirmation of the Usable Area and Rentable Area of Premises. Tenant acknowledges and agrees that...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5.Option to Extend Term. The Option set forth in Article 23 of the Original Lease and amended in Sec...
+
+--- (Additional Root Structure) ---
+Heading (L1): 6.Acceptance of Premises. Subject to the terms and conditions of the Lease (including, without limit...
+
+--- (Additional Root Structure) ---
+Heading (L1): 7.Warranty of Authority. If Landlord or Tenant signs as a corporation, or a limited liability compan...
+
+--- (Additional Root Structure) ---
+Heading (L1): 8.Broker Representation. Landlord and Tenant represent to one another that it has dealt with no brok...
+
+--- (Additional Root Structure) ---
+Heading (L1): EIGHTH AMENDMENT TO OFFICE LEASE
+
+--- (Additional Root Structure) ---
+Heading (L1): damage, expense, claim, action, demand, suit or obligation arising out of or relating to a breach by...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9.Confidentiality. Landlord and Tenant agrees that, except for matters of record or as required by a...
+
+--- (Additional Root Structure) ---
+Heading (L1): 10.Governing Law. The provisions of this Eighth Amendment shall be governed by the laws of the State...
+
+--- (Additional Root Structure) ---
+Heading (L1): 11.Reaffirmation. Landlord and Tenant acknowledge and agree that the Lease, as amended herein, const...
+
+--- (Additional Root Structure) ---
+Heading (L1): 12.Civil Code Section 1938 Disclosure. Pursuant to California Civil Code Section 1938, Landlord here...
+
+--- (Additional Root Structure) ---
+Heading (L1): 13.Submission of Document. The submission of this Eighth Amendment to Tenant shall be for examinatio...
+
+--- (Additional Root Structure) ---
+Heading (L1): 14.Digital Counterparts. This Eighth Amendment may be executed in several counterparts, each of whic...
+
+--- (Additional Root Structure) ---
+Heading (L1): 15.Notices. The address of Landlord for notices shall be the following:
+|-- Heading (L3): 1299 Ocean Avenue, Suite 1000 Santa Monica, California 90401
+`-- Heading (L3): Attention: Senior Vice President of Property Management
+
+--- (Additional Root Structure) ---
+Heading (L1): EIGHTH AMENDMENT TO OFFICE LEASE
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, Landlord and Tenant have duly executed this document, effective as of the later ...

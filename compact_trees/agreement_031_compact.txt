@@ -1,0 +1,26 @@
+Total parsed elements: 24
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1CERTAIN INFORMATION IN THIS DOCUMENT, MARKED BY [***], HAS BEEN EXCLUDED PURSUANT TO REGULATION S-K, ITEM 601(b)(10)(iv). SUCH EXCLUDED INFORMATION IS NOT MATERIAL AND IS THE TYPE THAT THE
+  2. HeadingElement (level=1): EXCLUSIVE OPTION AND ASSET PURCHASE AGREEMENT
+  3. TextElement (level=N/A): This Exclusive Option and Asset Purchase Agreement (the “Agreement”) and is made and effective as of January 1, 2024 (the “Effective Date”) between:Enteris Biopharma, Inc., a Delaware corporation with
+  4. HeadingElement (level=1): RECITALS
+  5. TextElement (level=N/A): WHEREAS, the Parties entered into a Collaboration Agreement effective as of April 21, 2023 (the “Collaboration Agreement”), which will be referenced in this Agreement;WHEREAS, the Parties now wish to 
+  6. HeadingElement (level=1): 1.CONTINUATION                                          OF OBLIGATIONS
+  7. ContentTextElement (level=4): 1.1.Unless                                          otherwise specifically agreed herein, the Parties agree to continue to perform the obligations                                          pursuant to 
+  8. HeadingElement (level=1): 2.OPTION                                          TO PURCHASE.
+  9. TextElement (level=N/A): 2.1.Grant                                          of Option. Enteris hereby grants Aptar an exclusive option (the “Option”)                                          to purchase, as a going concern, a
+  10. HeadingElement (level=1): 3.SALE                                          AND PURCHASE OF ASSETS.
+  11. TextElement (level=N/A): 3.1.Purchase                                          Price. [***].
+  12. HeadingElement (level=1): 4.CONFIDENTIAL                                          INFORMATION
+  13. ContentTextElement (level=4): 4.1.Non-Disclosure.                                          The Parties agree that the confidentiality terms as set forth in the Collaboration Agreement                                          shall
+  14. HeadingElement (level=1): 5.REPRESENTATIONS                                          AND WARRANTIES.
+  15. TextElement (level=N/A): 5.1.Collaboration                                          Partner Representations and Warranties. Enteris makes the following representations                                          and warranties a
+  16. HeadingElement (level=2): 5.2.Aptar’s                                          Representations and Warranties.
+  17. TextElement (level=N/A): 5.2.1.The                                          execution of this Agreement and the consummation of the transaction contemplated herein                                          does not conflict wi
+  18. HeadingElement (level=1): 6.OBLIGATIONS                                          OF THE PARTIES AFTER CLOSING.
+  19. HeadingElement (level=2): 6.1.Indemnification                                          by Collaboration Partner.
+  20. TextElement (level=N/A): 6.1.1.Collaboration                                          Partner shall indemnify and hold harmless Aptar and its officers, directors, employees,                                          attorneys,
+  21. HeadingElement (level=1): 7.TERMINATION.
+  22. TextElement (level=N/A): 7.1.Termination.                                          This Agreement may be terminated, and the transactions contemplated herein may be abandoned                                          at any ti
+  23. HeadingElement (level=1): 8.GENERAL                                          PROVISIONS.
+  24. TextElement (level=N/A): 8.1.Joint                                          and Several Liability. Enteris and SWK agree that they are each jointly and severally                                          liable to Aptar for th

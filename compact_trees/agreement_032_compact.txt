@@ -1,0 +1,8 @@
+Total parsed elements: 6
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10(cc)(13)
+  2. HeadingElement (level=1): CENTERPOINT ENERGY, INC.
+  3. HeadingElement (level=1): 2022 LONG TERM INCENTIVE PLAN
+  4. HeadingElement (level=1): FORM OF RESTRICTED STOCK UNIT AWARD AGREEMENT
+  5. HeadingElement (level=1): FOR OFFICERS AND DIRECTOR EMPLOYEES
+  6. TextElement (level=N/A): (with Performance Goals)Pursuant to this Restricted Stock Unit Award Agreement (“Award Agreement”), CenterPoint Energy, Inc. (the “Company”) hereby grants to <first_name> <last_name>, an employee of t

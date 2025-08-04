@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: EXHIBIT 10.69</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: LIMITED WAIVER TO CREDIT AGREEMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: This LIMITED WAIVER TO CREDIT AGREEMENT (this “Waiver”) is entered into as of March 11, 2024, amon... capacity, together with its successors and assigns in such capacity, the “Administrative Agent”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: RECITALS:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certa...eed to waive certain provisions set forth in the Credit Agreement, as more fully set forth herein.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: AGREEMENT:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: In consideration of the premises and mutual covenants herein and for other valuable consideration,...ntations and warranties shall be true and correct in all respects) on and as of such earlier date.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Section 4.    Miscellaneous.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 4.1    Credit Agreement Unaffected.  Each reference to the Credit Agreement in any Loan Document s...NESS WHEREOF, this Waiver has been duly executed and delivered as of the date first above written.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ASHFORD HOSPITALITY TRUST, INC.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By: /s/ J. Robison Hays III Name:    J. Robison Hays IIITitle:    Chief Executive Officer</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ASHFORD OP GENERAL PARTNER LLCASHFORD OP LIMITED PARTNER LLC</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By: s/ J. Robison Hays III Name:    J. Robison Hays IIITitle:    President and Chief Executive    Officer</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ASHFORD HOSPITALITY LIMITED PARTNERSHIP</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By:    Ashford OP General Partner LLC, its     general partnerBy: /s/ Alex Rose    Name:    Alex R...EubanksName:  Deric S. EubanksTitle:    President and Secretary [Signature Page to Limited Waiver]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ASHFORD CHAMBERS LP</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: By:  ASHFORD CHAMBERS GP LLC,its general partner</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: By: /s/ Alex RoseName:  Alex RoseTitle:    Vice President and Secretary</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ASHFORD WQ HOTEL LP</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: By: ASHFORD WQ HOTEL GP LLC, its general partner</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: By: /s/ Alex RoseName:  Alex RoseTitle:    Vice President and Secretary</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ASHFORD WQ LICENSEE LLC</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: By: ASHFORD TRS CORPORATION, its sole member</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By:/s/ Deric S. EubanksName:  Deric S. EubanksTitle:    President[Signature Page to Limited Waiver]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: OPPS AHT HOLDINGS, LLC</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By: Oaktree Fund GP, LLC, its Manager By: Oaktree Fund GP I, L.P., its Managing MemberBy: /s/ Jord... /s/ Manish Desai Name: Manish DesaiTitle:  Authorized Signatory[Signature Page to Limited Waiver]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ROF8 AHT PT, LLC</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By: /s/ Taejo KimName: Taejo KimTitle:  Authorized SignatoryBy: /s/ Cary Kleinman Name: Cary KleinmanTitle:  Authorized Signatory[Signature Page to Limited Waiver]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: OAKTREE PHOENIX INVESTMENT FUND AIF (DELAWARE), L.P.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By: Oaktree Fund AIF Series, L.P. – Series U, its General Partner By: Oaktree Fund GP AIF, LLC, it...ven Tesoriere Name: Steven TesoriereTitle:  Authorized Signatory[Signature Page to Limited Waiver]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: OAKTREE FUND ADMINISTRATION, LLC, as Administrative Agent</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By: Oaktree Capital Management, L.P., its Managing MemberBy: /s/ Henry OrrenName: Henry OrrenTitle...s/ Brian PriceName:  Brian PriceTitle:    Senior Vice President [Signature Page to Limited Waiver]</span>
+</div>
+    </div>
+</body>
+</html>

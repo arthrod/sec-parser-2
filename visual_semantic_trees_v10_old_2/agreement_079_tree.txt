@@ -1,0 +1,76 @@
+AGREEMENT: RESTRICTED STOCK UNIT AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): (TBRSU – EXECUTIVE)
+
+--- (Additional Root Structure) ---
+Clause (A): The Board of Directors (the “Board”) and stockholders of the Company previously adopted the Jabil In...
+
+--- (Additional Root Structure) ---
+Clause (C): The Grantee desires to accept the Stock Unit Award and agrees to be bound by the terms
+
+--- (Additional Root Structure) ---
+Clause (D): Unless otherwise defined herein, the terms defined in the Plan shall have the same
+
+--- (Additional Root Structure) ---
+AGREEMENT: Agreement
+
+--- (Additional Root Structure) ---
+Clause (a): shall become fully vested on the first anniversary of the date of such Change in Control (the “Chang...
+
+--- (Additional Root Structure) ---
+Clause (b): shall become fully vested on the Date of Termination if the Grantee’s Continuous Service terminates ...
+
+--- (Additional Root Structure) ---
+Clause (c): shall not become fully vested if the Grantee’s Continuous Service terminates prior to the Change in
+
+--- (Additional Root Structure) ---
+Clause (d): “Cause”
+
+--- (Additional Root Structure) ---
+Clause (i): The Grantee’s conviction of a crime involving fraud or dishonesty; or
+
+--- (Additional Root Structure) ---
+Clause (ii): The Grantee’s continued willful or reckless material misconduct in the performance of the
+
+--- (Additional Root Structure) ---
+Section 4: Timing and Manner of Settlement of Restricted Stock Units.
+
+--- (Additional Root Structure) ---
+Clause (B): Restricted Stock Units that become vested in accordance with Section 6(c) (due to the Grantee’s
+
+--- (Additional Root Structure) ---
+Clause (iii): The Grant Date or the anniversary of the Grant Date at which the Non-EU/UK Executive has attained ag...
+
+--- (Additional Root Structure) ---
+Clause (e): During the period of one (1) year following termination of the Grantee’s employment with Jabil, the ...
+
+--- (Additional Root Structure) ---
+Clause (h): If
+
+--- (Additional Root Structure) ---
+Clause (E): during the six-month delay period, accelerated settlement will be permitted in the event of the Gran...
+
+--- (Additional Root Structure) ---
+Clause (F): any
+
+--- (Additional Root Structure) ---
+Clause (iv): For
+
+--- (Additional Root Structure) ---
+Clause (v): Any restriction imposed on 409A RSUs hereunder or under the terms of other documents solely to ensur...
+
+--- (Additional Root Structure) ---
+Clause (vi): If
+
+--- (Additional Root Structure) ---
+Clause (vii): In the case of any settlement of Restricted Stock Units during a specified period following the Stat...
+
+--- (Additional Root Structure) ---
+Clause (viii): In the case of any Restricted Stock Unit that is not a 409A RSU, if the circumstances arise constitu...
+
+--- (Additional Root Structure) ---
+Clause (ix): If the Company has a right of setoff that could apply to a 409A RSU, such right may only be exercise...
+
+--- (Additional Root Structure) ---
+Heading (L1): COUNTRY APPENDIX

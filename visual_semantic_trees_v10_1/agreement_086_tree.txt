@@ -1,0 +1,1418 @@
+TextElement (Lvl: ?): Exhibit 10.2CERTAIN
+INFORMATION IDENTIFIED WITH [***] HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Execution
+Copy
+
+--- (Additional Root Structure) ---
+Heading (L1): LICENSE
+AGREEMENT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THIS LICENSE AGREEMENT (this “Agreement”)
+is made and entered into on May 27, 2021 (the “Execution D...
+
+--- (Additional Root Structure) ---
+Content: XENCOR and Licensee may each be referred to herein
+individually as a “Party” and collectively as the...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): A.XENCOR owns or otherwise controls certain patents, patent applications, technology, know-how, scie...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WITNESSETHNOW, THEREFORE, in consideration of the foregoing
+recitals, the mutual promises hereinafte...
+
+--- (Additional Root Structure) ---
+Heading (L2): 1.Definitions and Interpretation.
+
+--- (Additional Root Structure) ---
+Heading (L2): The following terms shall have the meanings ascribed to them below:
+|-- Content: 1.1“Accounting Standard” means United States generally accepted accounting principles or Internation...
+|-- Content: 1.2“Active Ingredient” means the clinically active material(s) that provide pharmacological activity...
+`-- Content: 1.3“Adverse Event” means any adverse medical occurrence in a patient or clinical investigation subje...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.4“Affiliate(s)” means, with respect to any specified Person, any other Person that c...
+
+--- (Additional Root Structure) ---
+Content: 1.5“Anti-Corruption Laws” means the U.S. Foreign Corrupt Practices Act, as amended, the UK Bribery A...
+
+--- (Additional Root Structure) ---
+Content: 1.6“Antibody” means any antibody, whether naturally occurring, artificially produced, raised in an a...
+
+--- (Additional Root Structure) ---
+Content: 1.7“Applicable Laws” means all applicable laws, statutes, ordinances, regulations, rules, mandatory ...
+
+--- (Additional Root Structure) ---
+Content: 1.8“Biosimilar Product” means, with respect to a Product that has received Regulatory Approval in a ...
+
+--- (Additional Root Structure) ---
+Content: 1.9“Business Day” means any day other than a Saturday, Sunday or other day on which commercial banks...
+
+--- (Additional Root Structure) ---
+Content: 1.10“Calendar Quarter” means each of the three (3) consecutive month periods ending on March 31, Jun...
+
+--- (Additional Root Structure) ---
+Content: 1.11“Calendar Year” means each twelve (12) month period ending December 31st; provided, however,
+tha...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.12“[***]” means [***].
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.13“[***]
+Agreement” means that certain [***].
+
+--- (Additional Root Structure) ---
+Content: 1.14“Change of Control” means, with respect to a Party, that: (a) any Third Party acquires directly ...
+
+--- (Additional Root Structure) ---
+Content: 1.15“Clinical Study” means a human clinical trial for the Licensed Asset or a Product and any other ...
+
+--- (Additional Root Structure) ---
+Content: 1.16“CMC” means chemistry, manufacturing and controls.
+
+--- (Additional Root Structure) ---
+Content: 1.17“CMO” means contract manufacturing organization.
+
+--- (Additional Root Structure) ---
+Content: 1.18“Commercialization” means any and all activities directed to marketing, promoting, distributing,...
+
+--- (Additional Root Structure) ---
+Content: 1.19“Commercially Reasonable Efforts” means, with respect to the efforts to be expended by a Party w...
+
+--- (Additional Root Structure) ---
+Content: 1.20“Companion Diagnostic” means any product or service that: (a) identifies a person having a disea...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.21“Competing Product” means a pharmaceutical
+or biologic product in the Field that [...
+
+--- (Additional Root Structure) ---
+Content: 1.22“Confidential Information” means, with respect to a Party, all confidential and proprietary info...
+
+--- (Additional Root Structure) ---
+Content: 1.23“Control” or “Controlled” means, (a) with respect to any Intellectual Property right of
+a Party,...
+
+--- (Additional Root Structure) ---
+Content: 1.24“Cover” means, with respect to a particular subject matter at issue and a Patent Right, that, bu...
+
+--- (Additional Root Structure) ---
+Content: 1.25“Derivative” means a modified or derivative form of [***].
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.26“Development” means, with respect to a product, all activities relating to the pre...
+
+--- (Additional Root Structure) ---
+Content: 1.27“EMA” means the European Medicines Agency or any successor agency thereto.
+
+--- (Additional Root Structure) ---
+Content: 1.28“EU” means the European Union (including the United Kingdom, whether or not the United Kingdom i...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.29“[***]” means any technology that [***].
+
+--- (Additional Root Structure) ---
+Content: 1.30“FD&C Act” means the Federal Food, Drug and Cosmetic Act under United States Code, Title 21, as ...
+
+--- (Additional Root Structure) ---
+Content: 1.31“Field” means all uses in any treatment, palliation, diagnosis or prevention of any disease, dis...
+
+--- (Additional Root Structure) ---
+Content: 1.32“First Commercial Sale” means, with respect to a product and on a Region-by-Region basis, the fi...
+
+--- (Additional Root Structure) ---
+Content: 1.33“Good Clinical Practice” or “GCP” means Applicable Laws and applicable ICH guidelines for the
+de...
+
+--- (Additional Root Structure) ---
+Content: 1.34“Good Laboratory Practice” or “GLP” means the applicable then-current standards for laboratory
+a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.35“Good Manufacturing Practice” or “GMP” means Good Manufacturing Practice and Gener...
+
+--- (Additional Root Structure) ---
+Content: 1.36“Government Authority” means any court or government body, whether national, supra-national, fed...
+
+--- (Additional Root Structure) ---
+Content: 1.37“Government Official” means any Person employed by or acting in an official capacity on behalf o...
+
+--- (Additional Root Structure) ---
+Content: 1.38“ICH” means the International Conference on Harmonisation of Technical Requirements for Registra...
+
+--- (Additional Root Structure) ---
+Content: 1.39“IND” means an Investigational New Drug application as defined in the FD&C Act, or a clinical tr...
+
+--- (Additional Root Structure) ---
+Content: 1.40“Initiation” means, with respect to a Clinical Study, the first dosing of the second patient in ...
+
+--- (Additional Root Structure) ---
+Content: 1.41“Intellectual Property” means all proprietary rights of any kind or nature, whether patentable o...
+
+--- (Additional Root Structure) ---
+Content: 1.42“Invented” means the act of invention by inventors, as determined in accordance with the patent ...
+
+--- (Additional Root Structure) ---
+Content: 1.43“Joint Intellectual Property” means the Joint Know-How, the Joint Patent Rights, and all intelle...
+
+--- (Additional Root Structure) ---
+Content: 1.44“Joint Know-How” means any Know-How that is identified, discovered, authored or developed jointl...
+
+--- (Additional Root Structure) ---
+Content: 1.45“Joint Patent Rights” means all Patent Rights that claim (i) inventions Invented under this Agre...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.46“Know-How” means all discoveries, data, information (including scientific, technic...
+
+--- (Additional Root Structure) ---
+Content: 1.47“Knowledge” means, the actual knowledge, after reasonable inquiry, of XENCOR’s officers as defin...
+
+--- (Additional Root Structure) ---
+Content: 1.48“Licensed Asset” means (a) XENCOR’s
+proprietary CD19 antibody known as obexelimab, designated by...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.49“Licensed Territory” means worldwide.
+
+--- (Additional Root Structure) ---
+Content: 1.50“Licensee Flow-Through Patent Rights”
+means any and all Licensed Patents (as defined in the [***...
+
+--- (Additional Root Structure) ---
+Content: 1.51“Licensee Intellectual Property” means the Licensee Know-How, the Licensee Patent Rights, any Pr...
+
+--- (Additional Root Structure) ---
+Content: 1.52“Licensee Know-How” means all Know-How (i) that is Controlled by Licensee or its Affiliates as o...
+
+--- (Additional Root Structure) ---
+Content: 1.53“Licensee Patent Rights” means all Patent Rights Controlled by Licensee or its Affiliates as of ...
+
+--- (Additional Root Structure) ---
+Content: 1.54“Lien” means any mortgage, pledge, assignment (as security), deposit arrangement, encumbrance, l...
+
+--- (Additional Root Structure) ---
+Content: 1.55“Major Territory” means the U.S., United Kingdom, France, Germany, Italy, and Spain.
+
+--- (Additional Root Structure) ---
+Content: 1.56“Manufacturing” means any and all activities directed to making, producing, manufacturing, proce...
+
+--- (Additional Root Structure) ---
+Content: 1.57“Marketing Authorization Application” or “MAA” means an application for Regulatory Approval
+in t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.58“Material” means, to the extent related to a Licensed Asset or Product and in the ...
+
+--- (Additional Root Structure) ---
+Content: 1.59“[***] Agreement”
+means the Collaboration and License Agreement entered into by Xencor and [***]...
+
+--- (Additional Root Structure) ---
+Content: 1.60“[***] Flow-Through
+Know-How” means any and all [***] Know-How (as defined in the [***]
+Agreemen...
+
+--- (Additional Root Structure) ---
+Content: 1.61“[***] Flow-through
+Patent Rights” means any and all [***] Pre-Sublicensing Patents (as defined ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.62“Net Sales” means, with respect to a Product for any period, the gross amount invoiced for sales...
+
+--- (Additional Root Structure) ---
+Content: 1.64“Patent Right” means any and all: (a) patent applications filed under Applicable Law in any juri...
+
+--- (Additional Root Structure) ---
+Content: 1.65“Patent Term Extension” means any term extensions, supplementary protection certificates and equ...
+
+--- (Additional Root Structure) ---
+Content: 1.66“Person” means an individual, sole proprietorship, partnership, limited partnership, limited lia...
+
+--- (Additional Root Structure) ---
+Content: 1.67“PRC” means the People’s Republic of China, which for the purposes of this Agreement, shall incl...
+
+--- (Additional Root Structure) ---
+Content: 1.68“Product” means, in relation to the Licensed Asset, any biological product in finished form that...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.69“Region” means a country [***].
+
+--- (Additional Root Structure) ---
+Content: 1.70“Regulatory Approval” means the approval(s) and authorization(s) of a Regulatory Authority in a ...
+
+--- (Additional Root Structure) ---
+Content: 1.71“Regulatory Authority” means the NMPA, US FDA, EMA or any Government Authority with similar regu...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.72“Regulatory Exclusivity” means any exclusive marketing rights or data exclusivity ...
+
+--- (Additional Root Structure) ---
+Content: 1.73“Regulatory Submissions” means applications for Regulatory Approval, notifications, communicatio...
+
+--- (Additional Root Structure) ---
+Content: 1.74“Specified Joint Patent Rights” means any Patent Rights with one or more claims primarily based ...
+
+--- (Additional Root Structure) ---
+Content: 1.75“Third Party” means any Person other than XENCOR and its Affiliates, and Licensee and its Affili...
+
+--- (Additional Root Structure) ---
+Content: 1.76“Trademark” means any trademark, trade name, service mark, service name, brand, trade dress, slo...
+
+--- (Additional Root Structure) ---
+Content: 1.77“Upstream Licenses” means the agreements set forth in Schedule 1.77.
+
+--- (Additional Root Structure) ---
+Content: 1.78“Upstream Licensors” means the counterparties of the Upstream Licenses.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.79“US” means the United States.
+
+--- (Additional Root Structure) ---
+Content: 1.80“US FDA” means the United States Food and Drug Administration or any successor agency thereto.
+
+--- (Additional Root Structure) ---
+Content: 1.81“Valid Claim” means a claim of a Patent Right, which has not expired, been revoked or held unenf...
+
+--- (Additional Root Structure) ---
+Content: 1.82“XENCOR General Patent Rights” means
+(i) the Patent Rights identified on Schedule 1.82, (ii) wit...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+1.83“XENCOR Intellectual Property” means the XENCOR Know-How, the XENCOR Patent Rights...
+
+--- (Additional Root Structure) ---
+Content: 1.84“XENCOR Know-How” means (i) all
+Know-How Controlled by XENCOR or its Affiliates as of the Execut...
+
+--- (Additional Root Structure) ---
+Content: 1.85“XENCOR Patent Rights” means all XENCOR
+General Patent Rights, all XENCOR Product Specific Paten...
+
+--- (Additional Root Structure) ---
+Content: 1.86“XENCOR Product Specific Patent Rights” means (i) the Patent Rights identified on Schedule 1.86,...
+
+--- (Additional Root Structure) ---
+Content: 1.87“XmAb5871 Program Antibodies” shall have
+the meaning ascribed to such term in the [***] Agreemen...
+
+--- (Additional Root Structure) ---
+Content: 1.88Other Defined Terms. The following terms shall have the meanings defined for such terms in the S...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Acquirer
+Section 2.5.3
+
+ 
+Acting Improperly
+Section 10.3.3(b)
+
+ 
+Agreement
+Preamble
+
+ 
+Anti-Corrupti...
+
+--- (Additional Root Structure) ---
+Content: 1.89.1The phrase “directly or indirectly” means directly or indirectly through one or more intermedi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.89.2Unless the context otherwise requires, all words (whether gender-specific or gender neutral) s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.89.4“Include,” “including,” “are inclusive of” and similar expressions are not expressions of limi...
+
+--- (Additional Root Structure) ---
+Content: 1.89.7References to this Agreement include the Exhibits and Schedules, which form an integral part h...
+
+--- (Additional Root Structure) ---
+Content: 1.89.8Whenever this Agreement refers to a number of days, unless otherwise specified, such number re...
+
+--- (Additional Root Structure) ---
+Content: 1.89.9References to writing and written include any mode of reproducing words in a legible and non-t...
+
+--- (Additional Root Structure) ---
+Content: 1.89.10References to any Joint Patent Right(s) is inclusive of any Specified Joint Patent Right(s).
+
+--- (Additional Root Structure) ---
+Content: 1.90Language. This Agreement is drawn up in the English language. If this Agreement is translated in...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+2.Grant of Rights; Non-Compete
+2.1License Grants.
+
+--- (Additional Root Structure) ---
+Content: 2.1.1By XENCOR. Subject to the terms and conditions of
+this Agreement, XENCOR hereby grants to Licen...
+
+--- (Additional Root Structure) ---
+Content: 2.1.2Negative Covenant. Licensee covenants that it will not use or practice any of XENCOR’s rights t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.2Sublicensing by Licensee.
+
+--- (Additional Root Structure) ---
+Content: 2.2.1Sublicensing. Licensee shall be permitted to sublicense (through multiple tiers) its rights und...
+
+--- (Additional Root Structure) ---
+Content: 2.2.2Sublicense Requirements. Each sublicense granted
+pursuant to this Section 2.2 (each, a “Sublice...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+2.3Retained Rights.
+
+--- (Additional Root Structure) ---
+Content: 2.3.1Notwithstanding the exclusivity of the licenses under XENCOR Patent Rights and XENCOR’s interes...
+
+--- (Additional Root Structure) ---
+Content: 2.3.2For clarity, XENCOR retains the exclusive right to practice and license XENCOR Intellectual Pro...
+
+--- (Additional Root Structure) ---
+Content: 2.3.3For clarity, Licensee retains the exclusive right under the Licensee Intellectual Property to D...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.4Upstream Licenses.
+
+--- (Additional Root Structure) ---
+Content: 2.4.1Licensee acknowledges and agrees that (a) XENCOR obtained the rights to certain XENCOR Intellec...
+
+--- (Additional Root Structure) ---
+Content: 2.4.2Licensee acknowledges and agrees that Licensee shall be
+responsible for any and all royalty pay...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+2.4.3XENCOR shall promptly inform Licensee of any updates to
+the [***] Core Improvemen...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.5Non-Compete.
+
+--- (Additional Root Structure) ---
+Content: 2.5.1Non-Compete Obligation of Licensee. During the License Term and for two (2) years thereafter, L...
+
+--- (Additional Root Structure) ---
+Content: 2.5.2Non-Compete Obligation of XENCOR. During the License Term, XENCOR shall not, for itself or, wit...
+
+--- (Additional Root Structure) ---
+Content: 2.5.3Change of Control of a Party. In the event that either Party or any
+of its Affiliates undergoes...
+
+--- (Additional Root Structure) ---
+Content: 2.5.4Reasonable Covenants. The Parties agree that the duration and scope of the covenants set forth ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+2.6No Other Rights. No rights, other than those expressly set forth in this Agreement,...
+
+--- (Additional Root Structure) ---
+Content: 3.Communications Related to the Licensed Asset and Products.
+
+--- (Additional Root Structure) ---
+Content: 3.1With respect to the Licensed Asset and Products, Licensee
+shall on a [***] (or more frequently if...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)[***]
+(b)[***]
+(c)[***]
+(d)[***]
+(e)[***]
+(f)[***]
+(g)[***]
+(h)[***]
+(i)[***]
+(j)[***]
+(k)[***]
+3...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.Transition and Transfer
+4.1Information and Material Transfer. Within
+a reasonable period of time a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+4.2Safety Database. Within [***]
+following the Effective Date, XENCOR and Licensee sha...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.Development.
+
+--- (Additional Root Structure) ---
+Content: 5.1General. Licensee shall have sole control and decision-making
+authority for all aspects of the De...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+5.2Development Plan. Licensee shall Develop the Licensed Asset and Products in the Fie...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.3Development Activities.
+
+--- (Additional Root Structure) ---
+Content: 5.3.1Licensee Performance. Licensee shall use Commercially Reasonable Efforts to implement, conduct ...
+
+--- (Additional Root Structure) ---
+Content: 5.3.2Clinical Trials. All clinical trials of the Licensed Asset or Products performed by Licensee pu...
+
+--- (Additional Root Structure) ---
+Content: 5.3.3Development Records. Licensee shall, and shall cause each of its Affiliates and Sublicensees to...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+5.4Right to Subcontract Development Activities. Licensee shall have the right to subco...
+
+--- (Additional Root Structure) ---
+Content: 5.5Reports of Development Activities. Licensee shall report to XENCOR on the progress of the Develop...
+
+--- (Additional Root Structure) ---
+Content: 5.6Development Costs. Licensee shall be solely responsible for all costs and expenses associated wit...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6.Regulatory Matters.
+
+--- (Additional Root Structure) ---
+Content: 6.1Regulatory Strategy and Diligence. The Licensee shall be responsible for formulating regulatory s...
+
+--- (Additional Root Structure) ---
+Content: 6.2Regulatory Approvals in the Licensed Territory.
+
+--- (Additional Root Structure) ---
+Content: 6.2.1Responsibility. Licensee shall have sole control and decision-making authority, and be solely r...
+
+--- (Additional Root Structure) ---
+Content: 6.2.2Ownership of Regulatory Submissions and Regulatory Approvals. Licensee or its Affiliate shall b...
+
+--- (Additional Root Structure) ---
+Content: 6.2.3Reporting and Review. Licensee shall keep XENCOR reasonably and regularly informed in connectio...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+6.2.4No Other Regulatory Filings. Except as otherwise expressly set forth in this Arti...
+
+--- (Additional Root Structure) ---
+Content: 6.3Regulatory Authority Communications. In addition to its obligations under this Agreement, License...
+
+--- (Additional Root Structure) ---
+Content: 6.4Recall, Withdrawal, or Market Notification of Product.
+In the event that any governmental authori...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 7.Manufacture and Supply.
+
+--- (Additional Root Structure) ---
+Content: 7.1In General. Licensee shall have the right to Manufacture the Licensed Asset and Products for the ...
+
+--- (Additional Root Structure) ---
+Content: 7.2Existing Supply. The Parties shall reasonably cooperate
+and assist each other in transferring own...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+8.Commercialization.
+
+--- (Additional Root Structure) ---
+Content: 8.1Commercialization Activities. Licensee shall have
+sole and exclusive responsibility, as well as s...
+
+--- (Additional Root Structure) ---
+Content: 8.2Commercialization Plan. Licensee shall develop a reasonably detailed summary of its Commercializa...
+
+--- (Additional Root Structure) ---
+Content: 8.3Commercialization Reports. Licensee shall report
+to XENCOR on the progress of the Commercializati...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 9.Consideration.
+
+--- (Additional Root Structure) ---
+Content: 9.1Equity Consideration. Licensee shall pay XENCOR the Equity Consideration as partial consideration...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+9.2Milestones.
+
+--- (Additional Root Structure) ---
+Content: 9.2.1Development and Regulatory Milestones. Licensee shall
+notify XENCOR within [***] of the achieve...
+
+--- (Additional Root Structure) ---
+Content: Table 9.2.1
+Development Milestone
+
+Initiation of first Clinical Study of the Licensed Asset or a Pro...
+
+--- (Additional Root Structure) ---
+Content: (a)At XENCOR’s option, to be elected by 30-days advance written notice to Licensee (the “Considerati...
+
+--- (Additional Root Structure) ---
+Content: 9.2.2Sales Milestones. Licensee shall notify XENCOR within
+[***] of the end of the Calendar Year in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Table 9.2.2
+Sales Milestones
+
+First Achievement of Licensed Territory annual Net Sales of the Licens...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+9.3Royalty.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 9.3.1Generally.
+
+--- (Additional Root Structure) ---
+Content: (a)Subject to the remainder of this Section 9.3,
+on a Region-by-Region basis, Licensee shall pay to ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)Table 9.3.1 (Royalty Rates):
+
+Table 9.3.1 Royalty Rates
+
+Total Calendar Year Aggregate Net Sales ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+9.3.3Royalty Reports and Payments. Within [***]
+after each Calendar Quarter, commencin...
+
+--- (Additional Root Structure) ---
+Content: 9.3.4Royalty Reduction. The royalty payment due and payable to XENCOR for Net Sales of a Product in ...
+
+--- (Additional Root Structure) ---
+Content: (a)Expiration of Valid Claims. If at any time during the Royalty Term
+there is no Valid Claim of a X...
+
+--- (Additional Root Structure) ---
+Content: (b)Entry of Biosimilar Products. If, in any Region in
+the Licensed Territory during the Royalty Term...
+
+--- (Additional Root Structure) ---
+Content: (c)Third Party Payments. In the event Licensee obtains
+a Third Party license to any Third Party Pate...
+
+--- (Additional Root Structure) ---
+Content: (d)Reduction Floor. In no circumstances will the royalties
+payable to XENCOR under Section 9.3.1 in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+9.4Taxes and Withholding.
+
+--- (Additional Root Structure) ---
+Content: 9.4.1It is the Parties’ mutual objective and intent to minimize, to the extent feasible, taxes payab...
+
+--- (Additional Root Structure) ---
+Content: 9.4.2Each Party shall each bear any and all taxes levied against such Party on account of any paymen...
+
+--- (Additional Root Structure) ---
+Content: 9.4.3To the extent (a) any payment under this Agreement
+is triggered due to activities of an Affilia...
+
+--- (Additional Root Structure) ---
+Content: 9.5Currency; Exchange Rate. All amounts payable and calculations hereunder shall be in U.S. dollars....
+
+--- (Additional Root Structure) ---
+Content: 9.6Method of Payment. Payments due to XENCOR under this Agreement shall be made by wire transfer in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+9.7Record Keeping. Licensee shall keep and maintain,
+and shall cause its Affiliates an...
+
+--- (Additional Root Structure) ---
+Content: 9.8Audits. Upon [***]
+prior written notice from XENCOR, Licensee shall permit an independent certifi...
+
+--- (Additional Root Structure) ---
+Content: 9.9Underpayments/Overpayments. If a report of an independent
+public accounting firm submitted to XEN...
+
+--- (Additional Root Structure) ---
+Content: 9.10Interest. Licensee shall pay interest on any amounts
+overdue under this Agreement at a per annum...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L2): 10.Covenants.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10.1Confidentiality.
+
+--- (Additional Root Structure) ---
+Content: 10.1.1Confidential Information. Except to the extent expressly
+permitted by this Agreement, and subj...
+
+--- (Additional Root Structure) ---
+Content: 10.1.2Exceptions to Confidentiality. The Receiving Party’s obligations set forth in this Agreement s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)that is or hereafter becomes part of the public domain through no wrongful act, fault or negligen...
+
+--- (Additional Root Structure) ---
+Content: 10.1.3Authorized Disclosure. Notwithstanding the provisions of Section 10.1.1, the Receiving Party a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)to comply with applicable governmental laws, court orders, and regulations (including Applicable ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page In the event that the Receiving Party or its Recipients, as
+applicable, deem it reasona...
+
+--- (Additional Root Structure) ---
+Content: 10.1.4Notification. The Receiving Party shall notify the Disclosing Party immediately, and cooperate...
+
+--- (Additional Root Structure) ---
+Content: 10.1.5Destruction of Confidential Information. Upon the earlier termination of this Agreement, the R...
+
+--- (Additional Root Structure) ---
+Content: 10.1.6Use of Name and Disclosure of Terms. Promptly after the Effective Date, the Parties shall issu...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+10.1.7Remedies. The Parties acknowledge and agree that the restrictions set forth in S...
+
+--- (Additional Root Structure) ---
+Content: 10.1.8Prior CDA. As of the Execution Date, the terms of this Section 10.1 shall supersede any prior ...
+
+--- (Additional Root Structure) ---
+Content: 10.2Compliance with Law. Each Party hereby covenants and agrees to comply with all Applicable Laws r...
+
+--- (Additional Root Structure) ---
+Content: 10.2.1Patient Information. Each Party agrees to abide by all laws, rules, regulations, and orders of...
+
+--- (Additional Root Structure) ---
+Content: 10.2.2Export Controls. This Agreement is made subject to any restrictions concerning the export of p...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+10.2.3Debarment. Each Party agrees that it shall not use, in any capacity, in connecti...
+
+--- (Additional Root Structure) ---
+Content: 10.3Compliance with Anti-Corruption Laws. Licensee agrees, on behalf of itself, its officers, direct...
+
+--- (Additional Root Structure) ---
+Content: 10.3.1As soon as practicable following the Effective Date, the Licensee shall, and shall cause its A...
+
+--- (Additional Root Structure) ---
+Content: 10.3.2Licensee and other Licensee Representatives has, and shall comply with the Anti-Corruption Law...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10.3.3The Licensee Representatives shall not directly or indirectly pay, offer or promise to pay, or...
+
+--- (Additional Root Structure) ---
+Content: 10.3.4The Licensee Representatives shall not, directly or indirectly, solicit, receive or agree to a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10.3.5Licensee shall promptly provide XENCOR with written notice of the following events:
+(a)Upon be...
+
+--- (Additional Root Structure) ---
+Content: 10.3.6XENCOR may disclose the terms of this Agreement or any action taken under this Section 10.3.6 ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10.4[***] Agreement.
+
+--- (Additional Root Structure) ---
+Content: 10.4.1Licensee agrees that it shall comply with the obligations
+of XENCOR with respect to the XmAb58...
+
+--- (Additional Root Structure) ---
+Content: 10.4.2Licensee hereby grants to XENCOR an irrevocable exclusive
+license under the Licensee Flow-Thro...
+
+--- (Additional Root Structure) ---
+Content: 10.4.3Licensee hereby grants to XENCOR an irrevocable non-exclusive
+license under the Licensee Flow-...
+
+--- (Additional Root Structure) ---
+Content: 10.4.4Licensee shall promptly inform XENCOR of any Licensee Flow-Through Patent Rights that arise du...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.Representations and Warranties.
+`-- Content: 11.1Representations and Warranties of Each Party. As of the Execution Date, each of Licensee and XEN...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)it is a corporation or entity duly organized, in good standing, and validly existing under the la...
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.2Additional Representations, Warranties and Covenants.
+`-- Content: 11.2.1Additional Representations and Warranties of XENCOR. XENCOR hereby represents and warrants to ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+(a)subject to the [***]
+Agreement, it is the sole and exclusive owner or licensee of t...
+
+--- (Additional Root Structure) ---
+Content: (n)to its Knowledge, the Development, Manufacture, or Commercialization
+of the Licensed Asset and Pr...
+
+--- (Additional Root Structure) ---
+Content: (o)to its Knowledge, the Development, Manufacture or Commercialization
+of the Licensed Asset or Prod...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+(p)neither XENCOR nor its Affiliates are conducting Development of any XmAb5871 Progra...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (q)except for the Upstream Licenses, there is no agreement between XENCOR or its Affiliates with any...
+
+--- (Additional Root Structure) ---
+Content: 11.2.2Covenants of XENCOR. XENCOR hereby covenants to Licensee that, during the License Term:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)subject to Licensee’s compliance with the first sentence of Section 2.4.2, XENCOR shall remain in...
+
+--- (Additional Root Structure) ---
+Content: 11.2.3Covenants of Licensee. Licensee hereby covenants to XENCOR that, during the License Term, the ...
+
+--- (Additional Root Structure) ---
+Content: 11.3Representation by Legal Counsel. Each Party hereto represents that it has been represented by le...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+11.4No Inconsistent Agreements. Neither Party has in effect and, after the Execution D...
+
+--- (Additional Root Structure) ---
+Content: 11.5Disclaimer. EXCEPT FOR THE REPRESENTATIONS AND WARRANTIES OF EACH PARTY EXPRESSLY SET FORTH IN T...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12.Intellectual Property.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12.1Disclosure.
+
+--- (Additional Root Structure) ---
+Content: 12.1.1Licensee Intellectual Property. Licensee shall disclose to XENCOR all new Licensee Inventions ...
+
+--- (Additional Root Structure) ---
+Content: 12.1.2XENCOR Intellectual Property. XENCOR shall disclose to Licensee all new XENCOR Inventions and ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12.2Ownership.
+
+--- (Additional Root Structure) ---
+Content: 12.2.1Ownership of Technology. As between the Parties, (a) XENCOR shall own all interest in and to a...
+
+--- (Additional Root Structure) ---
+Content: 12.2.2Employee Assignment. To the extent permissible under
+Applicable Laws, each Party shall cause a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+12.2.3Disclosures; Disputes Regarding Inventions. Each
+Party shall, before filing a ne...
+
+--- (Additional Root Structure) ---
+Content: 12.3Filing, Prosecution and Maintenance of Patent Rights.
+
+--- (Additional Root Structure) ---
+Content: 12.3.1XENCOR Intellectual Property. XENCOR shall have the
+sole right to, and shall be responsible fo...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+12.3.2Licensee Intellectual Property, XENCOR Product Specific
+Patent Rights, and Joint...
+
+--- (Additional Root Structure) ---
+Content: 12.3.3Conflict Resolution with Respect to Certain XENCOR Product
+Specific Patent Rights. If XENCOR p...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+12.3.4Expenses. [***]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12.4Product Trademarks and Related Copyrights.
+
+--- (Additional Root Structure) ---
+Content: 12.4.1Product Trademarks. Licensee shall select a Trademark for use with respect to each Product in ...
+
+--- (Additional Root Structure) ---
+Content: 12.4.2Trademark Usage. Unless otherwise agreed by the Parties, all packaging materials, labels and p...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12.5Enforcement of Intellectual Property.
+
+--- (Additional Root Structure) ---
+Content: 12.5.1Notice. Each Party shall promptly notify the other Party in the event of any actual, potential...
+
+--- (Additional Root Structure) ---
+Content: 12.5.2Enforcement of XENCOR Product Specific Patent Rights, Licensee Patent Rights, and Joint Patent...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)As between XENCOR and Licensee, [***].
+
+--- (Additional Root Structure) ---
+Content: (b)Any recoveries resulting from an Infringement Remedy shall be allocated first
+to the costs and ex...
+
+--- (Additional Root Structure) ---
+Content: Unless the prior written consent of the non-enforcing Party
+is obtained pursuant to Section 12.5.2(a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+12.5.3Enforcement of XENCOR General Patent Rights. For
+clarity, without limiting Secti...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12.6Third Party Claims.
+
+--- (Additional Root Structure) ---
+Content: 12.6.1Third Party Claims - Course of Action. If the Development,
+Commercialization or Manufacture of...
+
+--- (Additional Root Structure) ---
+Content: 12.6.2Third Party Suit. If a Third Party sues Licensee alleging that the
+Development, Manufacture or...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12.7Third Party Patent Challenge.
+
+--- (Additional Root Structure) ---
+Content: 12.7.1XENCOR General Patent Rights. XENCOR shall have the sole right (but not the obligation) to con...
+
+--- (Additional Root Structure) ---
+Content: 12.7.2XENCOR Product Specific Patent Rights, Licensee Patent Rights, and Joint
+Patent Rights. Each P...
+
+--- (Additional Root Structure) ---
+Content: 12.7.3The Party defending the Third Party Patent Challenge will keep the other Party timely informed...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+12.8Patent Term Extensions. As between XENCOR and Licensee, (a) XENCOR shall have the ...
+
+--- (Additional Root Structure) ---
+Content: 12.9Patent Marking. Licensee agrees to mark, and to cause its Affiliates and Sublicensees to mark, a...
+
+--- (Additional Root Structure) ---
+Content: 12.10Publication Strategy. If either Party, or any of
+their respective Affiliates or sublicensees (e...
+
+--- (Additional Root Structure) ---
+Content: 12.11Privileged Communications. In furtherance of this Agreement, it is expected that the Parties sh...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+12.12Registration and Submission of Agreement. Subject to the provisions herein and no...
+
+--- (Additional Root Structure) ---
+Content: 12.13Patent Challenge. Unless prohibited by Applicable
+Law, upon [***] prior written notice to Licen...
+
+--- (Additional Root Structure) ---
+Content: 12.14Terminal Disclaimer Filing. The Parties understand and agree that the value of the patent term ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+13.Government Approvals.
+
+--- (Additional Root Structure) ---
+Content: 13.1XENCOR’s and Licensee’s Obligations. Each of XENCOR and Licensee shall use its good faith effort...
+
+--- (Additional Root Structure) ---
+Content: 13.2Additional Approvals. Licensee and XENCOR shall cooperate and shall use Commercially Reasonable ...
+
+--- (Additional Root Structure) ---
+Heading (L2): 14.Term and Termination.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 14.1License Term and Effectiveness.
+
+--- (Additional Root Structure) ---
+Content: 14.1.1License Term. This Agreement shall be effective as provided in Section 14.1.2, and shall conti...
+
+--- (Additional Root Structure) ---
+Content: 14.1.2Effectiveness. This Agreement shall be automatically deemed effective on the date when the fol...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)The consummation (the “Subsequent Financing Closing”)
+by Licensee of an equity financing transact...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+14.1.3Record of Effectiveness. To record the occurrence of the Effective Date, upon sa...
+
+--- (Additional Root Structure) ---
+Content: 14.1.4True-Up at Final Closing of the Subsequent Financing. Without limiting the foregoing, Licensee...
+
+--- (Additional Root Structure) ---
+Heading (L2): 14.2General Termination Rights.
+`-- Content: 14.2.1Termination for Material Breach. This Agreement may
+be terminated effective immediately by eit...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+14.2.2Termination for Bankruptcy. This Agreement may be
+terminated by written notice b...
+
+--- (Additional Root Structure) ---
+Content: 14.2.3Rights in Bankruptcy. All rights and licenses granted under or pursuant to this Agreement by L...
+
+--- (Additional Root Structure) ---
+Content: 14.3Termination by Licensee. Licensee shall have the
+right to terminate this Agreement in its entire...
+
+--- (Additional Root Structure) ---
+Content: 14.4Termination by XENCOR. XENCOR shall have the right to terminate this Agreement in its entirety i...
+
+--- (Additional Root Structure) ---
+Content: 14.5Effects of Termination. If this Agreement is terminated by either Party, then the provisions of ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+14.5.1Termination of Certain Licenses. All licenses granted by XENCOR to Licensee in a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 14.5.2Transfer of Regulatory Approvals.
+
+--- (Additional Root Structure) ---
+Content: (a)Transfer. Subject to Section 14.5.2(b), Licensee shall and hereby does, and shall cause its Subli...
+
+--- (Additional Root Structure) ---
+Content: (b)Regulatory Transition Period. In the event that Licensee or its Sublicensees cannot assign to XEN...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+14.5.3Transition Assistance. Until the effective date of termination, Licensee shall c...
+
+--- (Additional Root Structure) ---
+Content: 14.5.4Assignment of Third Party Agreements. At XENCOR’s sole discretion and direction, Licensee shal...
+
+--- (Additional Root Structure) ---
+Content: 14.5.5Transfer of Commercialization Documentation. At XENCOR’s sole discretion and direction, Licens...
+
+--- (Additional Root Structure) ---
+Content: 14.5.6Transfer of Product Trademark. At XENCOR’s sole discretion and direction, Licensee shall trans...
+
+--- (Additional Root Structure) ---
+Content: 14.5.7Return or Destruction of Confidential Information. Each Party shall return or destroy, at the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+14.5.8Return or Destruction of XENCOR Materials. Licensee shall promptly return to XEN...
+
+--- (Additional Root Structure) ---
+Content: 14.5.9Disclosure and Delivery. Upon the termination of this Agreement and upon XENCOR providing Lice...
+
+--- (Additional Root Structure) ---
+Content: 14.5.10Terminated Asset Materials and Transition Supply.
+
+--- (Additional Root Structure) ---
+Content: (a)At XENCOR’s request, Licensee shall make available
+to XENCOR, [***] XENCOR ([***]), all of the Te...
+
+--- (Additional Root Structure) ---
+Content: (b)If Licensee is, on the effective date of the termination of this Agreement, party to any Third Pa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+14.5.11License Grant by and Payment to Licensee. If (x) the
+license to Licensee under ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+14.5.12Survival of Certain Obligations. Expiration or termination of this Agreement sh...
+
+--- (Additional Root Structure) ---
+Heading (L2): 15.Indemnification and Insurance.
+`-- Content: 15.1Indemnification by XENCOR. XENCOR shall indemnify, defend and hold harmless Licensee, its Affili...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)any XENCOR representation or warranty set forth herein being untrue in any material respect when ...
+
+--- (Additional Root Structure) ---
+Content: except in each case, to the extent such Liability is subject
+to indemnification by Licensee pursuant...
+
+--- (Additional Root Structure) ---
+Content: 15.2Indemnification by Licensee. Licensee shall indemnify, defend and hold harmless XENCOR and its A...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)any Licensee representation or warranty set forth herein being untrue in any material respect whe...
+
+--- (Additional Root Structure) ---
+Content: except in each case, to the extent such Liability is subject
+to indemnification by XENCOR pursuant t...
+
+--- (Additional Root Structure) ---
+Content: 15.3Procedure. Each Party shall notify the other in the event it becomes aware of a claim for which ...
+
+--- (Additional Root Structure) ---
+Content: 15.4Insurance. Licensee shall procure and maintain insurance,
+including clinical trial insurance and...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+15.5No Consequential Damages. NOTWITHSTANDING THE FOREGOING, IN NO EVENT WILL EITHER P...
+
+--- (Additional Root Structure) ---
+Heading (L2): 16.Miscellaneous.
+|-- Content: 16.1Assignment. Neither Party may assign its rights or delegate its obligations under this Agreement...
+`-- Content: 16.2Governing Law. The interpretation and construction of this Agreement, and all matters relating h...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 16.3Dispute Resolution.
+
+--- (Additional Root Structure) ---
+Content: 16.3.1Disputes. Any dispute, controversy or claim arising
+out of or relating to this Agreement, incl...
+
+--- (Additional Root Structure) ---
+Content: 16.3.2If the Parties are unable to resolve such Dispute through
+the negotiations described in Sectio...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+16.3.3The number of arbitrators shall be [***].
+The arbitrators (the “Arbitral Tribuna...
+
+--- (Additional Root Structure) ---
+Content: 16.3.4Within [***]
+after the arbitrators are selected, the Parties will each submit to the arbitrato...
+
+--- (Additional Root Structure) ---
+Content: 16.3.5Each Party shall bear its own attorneys’ fees, costs and disbursements arising out of the arbi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+16.3.6The Parties undertake and agree that all arbitral proceedings conducted with ref...
+
+--- (Additional Root Structure) ---
+Content: 16.3.7The Parties agree that nothing contained in this Agreement will deny either Party the right to...
+
+--- (Additional Root Structure) ---
+Content: 16.3.8In case this Agreement or any part of it is assigned or transferred to a Third Party, such Thi...
+
+--- (Additional Root Structure) ---
+Content: 16.3.9By agreeing to this binding arbitration provision, the Parties understand that they are waivin...
+
+--- (Additional Root Structure) ---
+Content: 16.4Force Majeure. Neither XENCOR nor Licensee shall
+be liable for delay in delivery or nonperforman...
+
+--- (Additional Root Structure) ---
+Content: 16.5Waiver. A Party’s failure to enforce, at any time or for any period of time, any provision of th...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L2): 16.6Notices.
+`-- Content: 16.6.1Notice Requirements. All notices and other communications required or permitted hereunder shal...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 16.6.2Addresses for Notice.
+
+--- (Additional Root Structure) ---
+Heading (L2): Licensee:
+`-- Content: With copies to (which shall not constitute notice):
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR:
+ [***]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): With copies to (which shall not constitute notice):
+16.7Entire Agreement. This Agreement, including ...
+
+--- (Additional Root Structure) ---
+Content: 16.8Exhibits. All Exhibits and Schedules referred to in this Agreement are intended to be, and hereb...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+16.9No Benefit to Others. The provisions of this Agreement are for the sole benefit of...
+
+--- (Additional Root Structure) ---
+Content: 16.10Severability. If any provision hereof should be invalid, illegal or unenforceable in any respec...
+
+--- (Additional Root Structure) ---
+Content: 16.11Further Assurance. Each Party shall duly execute and deliver, or cause to be duly executed and ...
+
+--- (Additional Root Structure) ---
+Content: 16.12Publicity. Subject to Section 10.1.6, neither Party shall issue a press release or make any pub...
+
+--- (Additional Root Structure) ---
+Content: 16.13Relationship of the Parties. Nothing contained in this Agreement shall be construed as creating...
+
+--- (Additional Root Structure) ---
+Content: 16.14Affiliates. Each Party shall cause its respective Affiliates to comply fully with the provision...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+16.15Expenses. Each of the Parties shall pay the fees and expenses of its respective c...
+
+--- (Additional Root Structure) ---
+Content: 16.16Counterparts. This Agreement may be executed in one or more counterpart copies, each of which s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page IN WITNESS WHEREOF, the Parties hereto have executed
+or caused its duly authorized repr...
+
+--- (Additional Root Structure) ---
+Heading (L2): Licensee:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Zenas Biopharma (Cayman) Limited
+
+
+
+
+By:
+/s/ Leon O. Moulder, Jr.
+
+ 
+Name:
+Leon O. Moulder, Jr.
+
+ 
+T...
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Xencor, Inc.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): By:
+[***]
+
+ 
+Name:
+[***]
+
+ 
+Title:
+[***][Signature Page to License
+Agreement] Field: /Page Schedule
+...
+
+--- (Additional Root Structure) ---
+Heading (L1): DESCRIPTION OF LICENSED ASSET
+`-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule setting
+forth the description of the Lice...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+1.61
+
+--- (Additional Root Structure) ---
+Heading (L1): [***] FLOW-THROUGH PATENT RIGHTS
+`-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule setting
+forth the [***] Flow-Through Pate...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+1.74 Specified Joint Patent Rights Biomarkers[Pursuant to Regulation S-K, Item...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+1.77
+
+--- (Additional Root Structure) ---
+Heading (L1): UPSTREAM LICENSES
+`-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule
+setting forth the Upstream Licenses has n...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+1.82
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR GENERAL PATENT RIGHTS
+`-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule setting
+forth the Xencor General Patent R...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+1.86
+
+--- (Additional Root Structure) ---
+Heading (L1): XENCOR PRODUCT SPECIFIC PATENT RIGHTS
+`-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule setting
+forth Xencor Product Specific Pat...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+4.1
+
+--- (Additional Root Structure) ---
+Heading (L1): TRANSFER CHECKLIST
+`-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule setting
+forth the Transfer Checklist has ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+7.2 PRODUCT LOTS and Materials related to clinical Studies[Pursuant
+to Regulat...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+10.3.1
+
+--- (Additional Root Structure) ---
+Heading (L1): ANTI-CORRUPTION POLICIES
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Policy on Anti-Bribery and Anti-CorruptionZenas BioPharma (Cayman) Limited
+I.Purpose/IntroductionZen...
+
+--- (Additional Root Structure) ---
+Content: COMPANY has established the following policy (the “Policy”)
+to help ensure compliance with laws proh...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): II.ScopeThis Policy provides an overview of COMPANY’s Anti-Bribery and
+Anti-Corruption program (the ...
+
+--- (Additional Root Structure) ---
+Content: This Policy applies to all COMPANY Employees. This Policy also applies
+to individuals or organizatio...
+
+--- (Additional Root Structure) ---
+Heading (L2): III.Definitions
+|-- Content: Anything
+of Value – Cash (no minimum threshold), gifts, travel, entertainment, charitable contributi...
+|-- Content: Employees
+or COMPANY Employees – All COMPANY officers and directors, full-time, part-time, and tempo...
+`-- Content: Bribery/Bribe
+ – Offering, giving or promising (or directing someone else to offer, give, or promise...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Corruption
+ – The abuse of entrusted power for private gain.
+
+--- (Additional Root Structure) ---
+Content: Foreign
+or Government Official – Any person acting in an official capacity on behalf of a government...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): •Health care professionals who are affiliated with government-run health care systems, including but...
+
+--- (Additional Root Structure) ---
+Content: Healthcare
+Professional (HCP) – Any person or entity in the position to purchase or prescribe or to ...
+
+--- (Additional Root Structure) ---
+Content: Third
+Party Representatives – Organizations or individuals that are hired directly or indirectly by ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Legal
+Counsel –	     [***]
+IV.PolicyCOMPANY Policy prohibits Bribery in any form, including providin...
+
+--- (Additional Root Structure) ---
+Content: A COMPANY Employee may not offer to pay, pay, promise to pay, or authorize
+the payment of money, or ...
+
+--- (Additional Root Structure) ---
+Content: Just offering a bribe, even if it is not accepted, is a violation of
+this Policy.
+
+--- (Additional Root Structure) ---
+Content: In addition, no COMPANY Employee may accept Anything of Value in exchange
+for allowing an external p...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page COMPANY Employees must seek guidance from COMPANY Legal Counsel in
+any circumstances wh...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Facilitating
+and Expediting PaymentsA facilitating or expediting payment is one made to further an a...
+
+--- (Additional Root Structure) ---
+Content: Even where there is a threat that COMPANY’s business will be
+jeopardized by a Foreign or Government ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Political ContributionsCOMPANY does not contribute COMPANY funds or assets, directly or indirectly,
+...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Third Party RepresentativesCOMPANY relies on Third Party Representatives to accomplish a lot of
+what...
+
+--- (Additional Root Structure) ---
+Content: COMPANY Employees must carefully select Third Party Representatives,
+understand the work that they a...
+
+--- (Additional Root Structure) ---
+Content: Employees are responsible for knowing their Third Party Representatives
+and must understand the purp...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Reporting Possible ViolationsNo person subject to this Policy will suffer adverse conse...
+
+--- (Additional Root Structure) ---
+Content: If you suspect a potential violation of this Policy, or see a “red
+flag”, please immediately inform ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): •Excessive commissions to Third Party Representative agents or consultants;
+•Unreasonably large disc...
+
+--- (Additional Root Structure) ---
+Content: Red flags don’t by themselves mean there is a problem, but red
+flags must be shared with Legal Couns...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Books and RecordsMaintaining accurate books and records are critical components of every
+Anti-Briber...
+
+--- (Additional Root Structure) ---
+Content: Employees are responsible for ensuring that Anti-Bribery and Anti-Corruption
+provisions are included...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ExceptionIf there is an immediate threat to your health or safety, or to the
+health or safety of a b...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page QuestionsCOMPANY takes its responsibility for ensuring that it has a robust
+and effecti...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+14.1.3
+
+--- (Additional Root Structure) ---
+Heading (L1): CONDITIONS FOR EFFECTIVENESS
+`-- Content: [Pursuant to Regulation S-K, Item 601(a)(5), this Schedule setting
+forth the Conditions for Effectiv...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page

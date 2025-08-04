@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: AMN HEALTHCARE EQUITY PLANRESTRICTED STOCK UNIT AGREEMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: THIS RESTRICTED STOCK UNIT AGREEMENT (the “Agreement”), made this _________________ by and between...hcare Services, Inc. (the “Company”), a Delaware corporation, and _______________ (the “Grantee”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: W I T N E S S E T H:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: WHEREAS, the Company sponsors the AMN Healthcare 2017 Equity Plan, (as may be amended from time to...tion of the covenants and agreements herein contained, the parties hereto hereby agree as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 1.Definitions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The following definitions shall be applicable throughout the Agreement.  Where capitalized terms a...13d-3 promulgated under the Exchange Act) of a majority of the combined voting power of the then 1</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: outstanding voting securities of the Company entitled to vote generally in the election of directo...iles from the Grantee’s principal place of employment immediately prior to the Change in Control.2</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (h)“Grant Date” means _______________, which is the date the Committee authorized this RSU grant.(...d anniversary of the Grant Date and the Grantee’s provision of a third period of Credited Service.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 4.Settlement and Deferral of RSUs.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Each vested RSU entitles the Grantee to receive one share of Stock on the “Settlement Date,” wh... to such compliance shall be final and binding on the Grantee.  The shares of Stock delivered to 3</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: the Grantee pursuant to this Section 4 shall be free and clear of all liens, fully paid and non-as... Fair Market Value per share of Stock (as determined under the Plan) on the dividend payment date.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 6.Termination of Service.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Except as provided below, if the Grantee’s Service terminates for any reason prior to the Settl...ervice requirements), and such RSUs shall be settled at the time specified in Section 4 hereof.  4</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (c)If the Grantee’s Service terminates due to a Change in Control Termination after the Grant Date...e forfeited and cancelled, whether or not vested, as of the date of the Committee’s determination.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 7.Company; Grantee.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)The term “Company” as used in this Agreement with reference to employment shall include the Com...r his/her immediate family or, in the case of the RSUs being held by such a trust, by the trustee.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 9.Forfeiture for Violation of Restrictive Covenants.</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: (a)Non-Compete.  The Grantee agrees that during the term of the Grantee’s employment and for a per...) in any State of the United States of America or (ii) in any other country in which the Company 5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (which, for the avoidance of doubt, includes for all purposes of this Section 9 any and all of its... the provisions of Section 9(a), (b), or (c), the Grantee shall immediately forfeit his/her RSUs 6</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (whether vested or unvested) and any issuance of shares of Stock that occurs after (or within six ...and the NQDC Plan if the RSUs are deferred under the NQDC Plan.  The terms and provisions of the 7</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.40Executive Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: plans as they may be amended from time to time are hereby incorporated herein by reference.  In th...EREOF, the parties hereto have executed this Agreement as of the day and year first above written.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: AMN Healthcare Services, Inc.By: _________________________________Name: Title: GRANTEEBy:___________________________________Name:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 8</span>
+</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+Total parsed elements: 19
+Element types and content:
+  1. HeadingElement (level=1): EXHIBIT 10.18
+  2. HeadingElement (level=1): PREMIER FINANCIAL CORP.
+  3. HeadingElement (level=1): 2018 EQUITY INCENTIVE PLAN
+  4. HeadingElement (level=1): RESTRICTED STOCK AWARD AGREEMENT
+  5. TextElement (level=N/A): Grantee:     Grant Date:     Number of Shares of Restricted Stock Granted:     Vesting Schedule:     This Restricted Stock Award Agreement (this “Agreement”) is made as the Grant Date set forth above 
+  6. HeadingElement (level=2): 3.Additional Vesting.
+  7. TextElement (level=N/A): a.Death or Disability.  Notwithstanding any provision of Section 2 or Section 4, the Restricted Stock, or any unvested portion of the Restricted Stock to the extent there are multiple Vesting Dates, s
+  8. HeadingElement (level=2): 5.Administration.
+  9. TextElement (level=N/A): a.Book Entry.  The Restricted Stock granted herein shall be evidenced by a book entry registration by the Company for the benefit of the Grantee.  Each such registration will be held by the Corporatio
+  10. HeadingElement (level=2): 6.Shareholder Rights.
+  11. TextElement (level=N/A): a.Voting.  The Grantee will have the right to vote all Shares of Restricted Stock received under or as a result of this Agreement, including unvested Shares which are subject to forfeiture or restrict
+  12. HeadingElement (level=2): 7.Restrictive Covenants,
+  13. TextElement (level=N/A): a.Covenant Not to Disclose or Use Confidential Information.  Grantee recognizes and agrees that all confidential, proprietary or trade secret information of the Company or an Affiliate (“Confidential 
+  14. HeadingElement (level=1): [SIGNATURES ON FOLLOWING PAGE]
+  15. TextElement (level=N/A): 2018 Equity Incentive Plan – RSA Agr (Rev Feb 2024) IN WITNESS WHEREOF, the parties have executed this Agreement effective as of the Grant Date set forth above.
+  16. HeadingElement (level=1): GRANTEE
+  17. TextElement (level=N/A): Signature______________________________________Print Name	Acceptance Date
+  18. HeadingElement (level=1): PREMIER FINANCIAL CORP.
+  19. TextElement (level=N/A): By: 		_________________________________ Name: 	_________________________________Its:		_________________________________2018 Equity Incentive Plan – RSA Agr (Rev Feb 2024)

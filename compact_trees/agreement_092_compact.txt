@@ -1,0 +1,3 @@
+Total parsed elements: 1
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.2  SALE AND SERVICING AGREEMENT  by and between  BRIDGECREST LENDING AUTO SECURITIZATION TRUST 2024-1,  as Issuer  BRIDGECREST LENDING AUTO SECURITIZATION GRANTOR TRUST 2024-1,  as Grantor 

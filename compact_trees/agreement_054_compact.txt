@@ -1,0 +1,22 @@
+Total parsed elements: 20
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.5
+  2. HeadingElement (level=1): SECURITY AGREEMENT
+  3. TextElement (level=N/A): Dated March 15, 2024FromThe Grantors referred to herein,as Grantorstoas Collateral Agent Field: /Page
+  4. HeadingElement (level=1): TABLE OF CONTENTS
+  5. TextElement (level=N/A): Page         Section 1. Grant of Security 2  Section 2. Security for Obligations 4  Section 3. Grantors Remain Liable 5  Section 4. Delivery and Control of Certain Instruments, Deposit Accounts and Se
+  6. HeadingElement (level=1): SECURITY AGREEMENT
+  7. ContentTextElement (level=4): This SECURITY AGREEMENT dated March 15, 2024 (as it may be amended, restated, amended and restated, supplemented or otherwise modified from time to time, this “Agreement”), is made by Workhorse Group 
+  8. HeadingElement (level=1): PRELIMINARY STATEMENTS
+  9. TextElement (level=N/A): (1)   Company has agreed to issue to the Buyers a certain series of senior secured convertible notes in an aggregate original principal amount of up to $139,000,000 issued pursuant to the terms of the
+  10. HeadingElement (level=2): Section 23. Notices; References.
+  11. ContentTextElement (level=4): (a)   Any notice, request or other communication required or permitted hereunder shall be given in writing (which may be by PDF attachment sent via email) to each of the other parties thereto entitled
+  12. HeadingElement (level=2): If to Company or any Grantor:
+  13. TextElement (level=N/A): Workhorse Group Inc. Attn: Chief Financial Officer 3600 Park 42 Drive, Suite 160E Sharonville, Ohio 45241 Email: bob.ginnan@workhorse.comwith a copy to (which shall not constitute notice):Taft Stettin
+  14. HeadingElement (level=2): If to Collateral Agent:
+  15. TextElement (level=N/A): E-Mail: [*]with a copy to (which shall not constitute notice):Blank Rome LLP Attn: Heather Sonnenberg, Esquire 130 North 18th Street Philadelphia, PA 19103 Email: heather.sonnenberg@blankrome.comSecti
+  16. HeadingElement (level=2): Section 25. Release; Termination.
+  17. TextElement (level=N/A): (a)   Upon any disposition of any item of Collateral by any Grantor that is permitted under the terms of the Securities Purchase Agreement and the Notes and is not otherwise prohibited under the Secur
+  18. HeadingElement (level=1): ATTACHMENT I CERTAIN DEFINITIONS
+  19. HeadingElement (level=2): The following terms shall have the following meanings:
+  20. TextElement (level=N/A): “Applicable Law” means, as to any Person, all statutes, rules, regulations, orders or other requirements having the force of law and applicable to such Person, and all court orders and injunctions, an

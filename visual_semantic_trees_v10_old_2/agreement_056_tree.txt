@@ -1,0 +1,92 @@
+AGREEMENT: HIGH ROLLER TECHNOLOGIES, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 1.
+
+--- (Additional Root Structure) ---
+Heading (L1): BACKGROUND AND PURPOSE
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 2.
+
+--- (Additional Root Structure) ---
+Heading (L1): DEFINITIONS
+
+--- (Additional Root Structure) ---
+Clause (a): Any “person”
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 3
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 4
+
+--- (Additional Root Structure) ---
+Heading (L1): SHARES SUBJECT TO THE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 5
+
+--- (Additional Root Structure) ---
+Heading (L1): STOCK OPTIONS
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.4 Expiration of
+Options.
+
+--- (Additional Root Structure) ---
+Clause (b): Termination
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 6
+
+--- (Additional Root Structure) ---
+Heading (L1): STOCK APPRECIATION RIGHTS
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 7
+
+--- (Additional Root Structure) ---
+Heading (L1): RESTRICTED STOCK
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 8
+
+--- (Additional Root Structure) ---
+Heading (L1): RESTRICTED STOCK UNITS
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 9
+
+--- (Additional Root Structure) ---
+Heading (L1): MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 10
+
+--- (Additional Root Structure) ---
+AGREEMENT: AMENDMENT, SUSPENSION, AND TERMINATION
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 11
+
+--- (Additional Root Structure) ---
+Heading (L1): TAX WITHHOLDING
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 12
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL CONSTRUCTION
+
+--- (Additional Root Structure) ---
+Heading (L2): 12.6 Tax Provisions.
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 13
+
+--- (Additional Root Structure) ---
+Heading (L1): HIGH ROLLER TECHNOLOGIES, INC.
+
+--- (Additional Root Structure) ---
+Heading (L2): By:

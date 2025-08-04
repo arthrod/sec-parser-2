@@ -1,0 +1,12 @@
+Total parsed elements: 10
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.4
+  2. HeadingElement (level=1): INDEMNIFICATION AGREEMENT
+  3. TextElement (level=N/A): THIS INDEMNIFICATION AGREEMENT (“Agreement”) is made and entered into as of the   day of   , 20__, by and between Armada Hoffler Properties, Inc., a Maryland corporation (the “Company”), and   (“Indem
+  4. HeadingElement (level=1): [SIGNATURE PAGE FOLLOWS]
+  5. TextElement (level=N/A): Exhibit 10.4IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written. COMPANY:ARMADA HOFFLER PROPERTIES, INC.By:__________________________________
+  6. HeadingElement (level=1): EXHIBIT A
+  7. HeadingElement (level=1): AFFIRMATION AND UNDERTAKING TO REPAY EXPENSES ADVANCED
+  8. TextElement (level=N/A): To: The Board of Directors of Armada Hoffler Properties, Inc. Re: Affirmation and Undertaking
+  9. HeadingElement (level=2): Ladies and Gentlemen:
+  10. TextElement (level=N/A): This Affirmation and Undertaking is being provided pursuant to that certain Indemnification Agreement dated the   day of  , 20 , by and between Armada Hoffler Properties, Inc., a Maryland corporation 

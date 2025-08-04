@@ -1,0 +1,58 @@
+TextElement (Lvl: ?): Exhibit 10.29
+
+--- (Additional Root Structure) ---
+Heading (L1): INARI MEDICAL, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): NON-EMPLOYEE DIRECTOR COMPENSATION PROGRAM
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (as amended and restated effective as of January 1, 2024)Eligible Directors (as defined below) on th...
+
+--- (Additional Root Structure) ---
+Content: This Program, as amended and restated, is effective as of January 1, 2024 (the “Effective Date”) and...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.Cash Compensation.
+
+--- (Additional Root Structure) ---
+Content: a.Annual Retainers. Each Eligible Director shall be eligible to receive an annual cash retainer of $...
+
+--- (Additional Root Structure) ---
+Content: b.Additional Annual Retainers. An Eligible Director shall be eligible to receive the following addit...
+
+--- (Additional Root Structure) ---
+Content: (i)    Chairman of the Board. An Eligible Director serving as Chairman of the Board shall be eligibl...
+
+--- (Additional Root Structure) ---
+Content: (ii)    Audit Committee. An Eligible Director serving as Chairperson of the Audit Committee shall be...
+
+--- (Additional Root Structure) ---
+Content: (iii)    Compensation Committee. An Eligible Director serving as Chairperson of the Compensation Com...
+
+--- (Additional Root Structure) ---
+Content: (iv)    Nominating and Corporate Governance Committee. An Eligible Director serving as Chairperson o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1c.Payment of Retainers. The annual cash retainers described in Sections 1(a) and 1(b) shall be earn...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Equity Compensation.
+
+--- (Additional Root Structure) ---
+Content: a.General. Eligible Directors shall be granted the equity awards described below.  The awards descri...
+
+--- (Additional Root Structure) ---
+Content: b.Annual Awards. An Eligible Director who is serving on the Board as of the date of the annual meeti...
+
+--- (Additional Root Structure) ---
+Content: c.Initial Awards. Each Eligible Director who is initially elected or appointed to serve on the Board...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2d.Accelerated Vesting Events. Notwithstanding the foregoing, an Eligible Director’s Director Equity...
+
+--- (Additional Root Structure) ---
+Content: e.Compensation Limits. Notwithstanding anything to the contrary in this Program, all compensation pa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3

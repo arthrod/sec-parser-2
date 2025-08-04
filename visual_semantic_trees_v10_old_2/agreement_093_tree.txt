@@ -1,0 +1,40 @@
+AGREEMENT: RESTRICTED STOCK AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L2): 3.Additional Vesting.
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.Administration.
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.Shareholder Rights.
+
+--- (Additional Root Structure) ---
+Heading (L2): 7.Restrictive Covenants,
+
+--- (Additional Root Structure) ---
+Clause (ii)
+
+--- (Additional Root Structure) ---
+Clause (iii): solicit, advise, persuade, encourage or request or attempt to solicit, advise, persuade, encourage o...
+
+--- (Additional Root Structure) ---
+Clause (v): interfere with or attempt to interfere with, or assist, persuade, or encourage or attempt to assist,...
+
+--- (Additional Root Structure) ---
+Clause (c)
+
+--- (Additional Root Structure) ---
+Heading (L1): [SIGNATURES ON FOLLOWING PAGE]
+
+--- (Additional Root Structure) ---
+Heading (L1): GRANTEE
+
+--- (Additional Root Structure) ---
+Heading (L1): PREMIER FINANCIAL CORP.

@@ -1,0 +1,322 @@
+TextElement (Lvl: ?): Exhibit 10.22
+
+--- (Additional Root Structure) ---
+Heading (L1): EXECUTION
+VERSION
+
+--- (Additional Root Structure) ---
+Heading (L1): LOCAL
+MARKETING AGREEMENT
+`-- Content: This
+Local Marketing Agreement (“Agreement”) is made and entered into as of this 1st day of February...
+
+--- (Additional Root Structure) ---
+Heading (L1): W
+I T N E S S E T H
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS,
+Licensee holds the over-the-air television broadcast licenses and other authorizations (col...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS,
+pending the consummation of the transactions contemplated by the Partial Strict Foreclosure...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW,
+THEREFORE, for and in consideration of the mutual covenants herein contained, the sufficiency o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 2.         Consideration. As consideration for the rights granted to it under this Agre...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.        
+Station Facilities.
+
+--- (Additional Root Structure) ---
+Content: (a)        Program Time. Throughout the Term, Licensee shall make available to Broker the broadcast ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (b)        Use
+of Station Facilities and Personnel. To facilitate delivery of programmi...
+
+--- (Additional Root Structure) ---
+Content: (c)        Maintenance; Interruption of Normal Operations. During the Term, Licensee shall (1) maint...
+
+--- (Additional Root Structure) ---
+Content: (d)        Force Majeure. Any failure or impairment of facilities or any delay or interruption in th...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 4.        
+Station Programming Policies.
+
+--- (Additional Root Structure) ---
+Content: (a)        Compliance with Law. Broker agrees and covenants that all programming, advertising spots,...
+
+--- (Additional Root Structure) ---
+Content: (b)        Broker Compliance with Intellectual Property Rights. Broker represents and warrants to Li...
+
+--- (Additional Root Structure) ---
+Content: (c)        Sales. Broker shall have the right to collect and retain (i) all revenues of the Stations...
+
+--- (Additional Root Structure) ---
+Content: (d)     Payola. Broker
+agrees that it will not accept any consideration, compensation, gift or gratu...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (e)        Cooperation on Programming. Broker, with Licensee’s cooperation and assistan...
+
+--- (Additional Root Structure) ---
+Content: (f)         Station Identification and EAS. Broker shall cooperate with Licensee to ensure complianc...
+
+--- (Additional Root Structure) ---
+Content: (g)        Political Advertising. Any qualified political candidate for federal office shall have ac...
+
+--- (Additional Root Structure) ---
+Content: (h)        Licensee Control of Programming. Licensee shall maintain such rights to suspend or preemp...
+
+--- (Additional Root Structure) ---
+Content: (i)         Intellectual Property. Licensee hereby grants to Broker, during the Term, a license (inc...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 5.        
+Responsibility for Employees and Expenses.
+
+--- (Additional Root Structure) ---
+Content: (a)     
+   Employees. Licensee shall maintain such personnel and facilities as shall be necessary t...
+
+--- (Additional Root Structure) ---
+Content: (b)      
+  (i) Subject to the receipt of any Shortfall Reimbursement and the provisions of this Sec...
+
+--- (Additional Root Structure) ---
+Content: (ii)        Broker shall employ and be responsible for the salaries, commissions, taxes, insurance a...
+
+--- (Additional Root Structure) ---
+Content: (iii)       On and after the date that occurs sixty (60) days after the Effective Date, the Broker s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c)       
+ Expenses and Liabilities.
+
+--- (Additional Root Structure) ---
+Content: (i)         Subject
+to the provisions set forth in Attachment I hereto, Licensee shall be responsibl...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (ii)         Subject to the provisions set forth in Attachment I hereto, and except as ...
+
+--- (Additional Root Structure) ---
+Content: 6.         Operation of Stations. Notwithstanding any other provision of this Agreement, Licensee sh...
+
+--- (Additional Root Structure) ---
+Content: (a)        Licensee Control of Station Operations. Licensee shall retain control over the policies, ...
+
+--- (Additional Root Structure) ---
+Content: (b)        Licensee
+Responsibility for FCC Compliance. Licensee shall at all times be solely respons...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (c)         Depiction of Licensee. Broker agrees that, during the Term of this Agreemen...
+
+--- (Additional Root Structure) ---
+Content: (d)        Contracts. Subject to Section 1 above, Broker may elect to assume any or all of Licensee’...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 7.        
+Default.
+
+--- (Additional Root Structure) ---
+Content: (a)     
+   Events of Default by Broker. The following shall, after the expiration of the applicable...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)          Broker’s failure to timely pay pursuant to subsection 3 of Attachment I hereto the undi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (b)     
+  Events of Default by Licensee. The following shall, after the expiration of ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)         if the broadcast of Brokered Programming on the Stations is preempted, suspended, cancel...
+
+--- (Additional Root Structure) ---
+Content: (c)         Cure
+Periods. An Event of Default shall not be deemed to have occurred until the date th...
+
+--- (Additional Root Structure) ---
+Content: 8.         Termination. This Agreement shall terminate (a) upon the assignment of the FCC Licenses f...
+
+--- (Additional Root Structure) ---
+Content: (a)         Termination Upon Default. Upon the occurrence of an Event of Default, the non-defaulting...
+
+--- (Additional Root Structure) ---
+Content: (b)        Termination
+Upon Certain Events. This Agreement may be terminated in Broker’s sole discre...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (c)         Termination Upon Order of Governmental Authority. Subject to the terminatio...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d)        Reserved.
+
+--- (Additional Root Structure) ---
+Content: 9.         Mutual Representations, Warranties and Covenants. Licensee and Broker represent that they...
+
+--- (Additional Root Structure) ---
+Content: (a)        Broker certifies that this Agreement complies with the FCC Rules regarding ownership of b...
+
+--- (Additional Root Structure) ---
+Content: (b)        Licensee certifies that it maintains ultimate control of the Stations’ facilities, includ...
+
+--- (Additional Root Structure) ---
+Content: 10.       Notices.
+All notices, demands, or other communications to be given or delivered under or b...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): If
+to Licensee, to: Sovryn
+Holdings, Inc.
+450 Park Avenue, 30th Floor
+New York, New York 10022
+Atten...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page if
+to Broker, to:
+
+ 
+   
+
+
+   
+
+
+   
+
+
+   
+
+
+   
+
+
+   
+
+
+ 
+
+
+with a copy to (which
+shal...
+
+--- (Additional Root Structure) ---
+Content: 12.       Construction. This Agreement shall be construed in accordance with the Act, the laws of th...
+
+--- (Additional Root Structure) ---
+Content: 13.       Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties h...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 14.       Counterpart Signatures. This Agreement may be signed in one or more counterpa...
+
+--- (Additional Root Structure) ---
+Content: 15.       Amendments. No alteration, modification or change of this Agreement shall be valid unless ...
+
+--- (Additional Root Structure) ---
+Content: 16.       No Partnership or Joint Venture Created. Nothing in this Agreement shall be construed to m...
+
+--- (Additional Root Structure) ---
+Content: 17.       Severability. Subject to the provisions hereof, in the event any provision contained in th...
+
+--- (Additional Root Structure) ---
+Content: 18.       Governing Law. This Agreement shall be construed, performed and enforced in accordance wit...
+
+--- (Additional Root Structure) ---
+Content: 19.       Public Announcement. Licensee shall place a copy of this Agreement in the public files of ...
+
+--- (Additional Root Structure) ---
+Content: 20.       Further Assurances. At the request and the sole expense of the requesting Party, Licensee ...
+
+--- (Additional Root Structure) ---
+Content: 21.       Successors and Assigns. This Agreement shall inure to the benefit of and shall be binding ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 22.       Indemnification
+by Broker. Broker shall indemnify and hold harmless Licensee ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): {Signature
+Page to Follow} Field: /Page IN
+WITNESS WHEREOF, the parties have executed this Agreement...
+
+--- (Additional Root Structure) ---
+Content: LICENSEE:
+ 
+  
+
+ SOVRYN HOLDINGS, INC.
+
+   
+
+ By:/s/ Phillip Falcone
+
+  Name: 
+Phillip Falcone
+
+  Ti...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): BROKER:
+ 
+  
+
+ STATION
+               BREAK OPERATING, LLC
+
+   
+
+ By:/s/ Lawrence Cutler
+
+  Name: 
+L...
+
+--- (Additional Root Structure) ---
+Heading (L1): ATTACHMENT
+I
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Compensation
+and Reimbursement Schedule1.           Expense Reimbursement. During the Term, Licensee...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)      all monthly costs incurred by Licensee in connection with the operation of the Stations, an...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d)
+    all delivery and postal services,(e)
+    all legal, accounting, and other professional fees ...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding
+anything herein to the contrary, Broker shall have the right to perform and/or contr...
+
+--- (Additional Root Structure) ---
+Content: 2.                            Non-Station Expenses. Anything to the contrary contained herein or in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (m)     Licensee’s income and similar taxes based on or measured by Licensee’s net income;(n)     in...
+
+--- (Additional Root Structure) ---
+Content: (q)     any unpaid costs, fees, expenses or obligations of Licensee as of the Effective Date of this...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 3.                           Payment
+Terms. Broker shall pay any Shortfall Reimbursemen...
+
+--- (Additional Root Structure) ---
+Content: 4.                           Reimbursement Cap. Notwithstanding anything to the contrary contained i...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+5(b)Employees Field: /Page

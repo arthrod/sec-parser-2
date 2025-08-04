@@ -1,0 +1,7 @@
+Total parsed elements: 5
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1 Business Loan and Security AgreementFebruary 6th, 2024 This Business Loan and Security Agreement Supplement is part of (and incorporated by reference into) the Business Loan and Security 
+  2. HeadingElement (level=1): LOAN FOR SPECIFIC PURPOSES ONLY
+  3. TextElement (level=N/A): The proceeds of the requested Loan may solely be used for the specific purposes as set forth in the Use of Proceeds Certification of the Business Loan and Security Agreement. IN ADDITION, THE LOAN WIL
+  4. HeadingElement (level=1): 47. INTENTIONALLY LEFT BALNK
+  5. TextElement (level=N/A): 48. CLASS ACTION WAIVER. THE PARTIES HERETO WAIVE ANY RIGHT TO ASSERT ANY CLAIMS AGAINST THE OTHER PARTY AS A REPRESENTATIVE OR MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION, EXCEPT WHERE SUCH WAIVER I

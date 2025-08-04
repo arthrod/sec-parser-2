@@ -1,0 +1,134 @@
+TextElement (Lvl: ?): Exhibit 10.1Mr. Thomas Bartrum
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): January 25, 2024Re: Transition and Release of Claims Dear Thomas:This letter agreement (this “Letter...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.Transition.
+
+--- (Additional Root Structure) ---
+Content: a.You and the Company acknowledge and agree that you will separate from the Company and its subsidia...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): b.During the Transition Period, you will (i) serve the Company in such capacities and perform such d...
+
+--- (Additional Root Structure) ---
+Content: 2.Transition Benefits. You will receive, subject to (and in consideration for) your provision of the...
+
+--- (Additional Root Structure) ---
+Content: 3.Restrictive Covenants. You acknowledge that the Company is providing you with the Transition Benef...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1thereafter, in the case of the Noncompete Period, and two (2) years thereafter, in the c...
+
+--- (Additional Root Structure) ---
+Content: 4.Return of Property. You shall return to the Company all Company property as soon as reasonably pos...
+
+--- (Additional Root Structure) ---
+Content: 5.Confidentiality. You agree and covenant not disclose any of the terms of or amount paid under this...
+
+--- (Additional Root Structure) ---
+Content: 6.Non-Disparagement. You acknowledge and agree that you will not make any negative statement, writte...
+
+--- (Additional Root Structure) ---
+Content: 7.Release. The Transition Benefits are contingent upon and subject to your execution and non-revocat...
+
+--- (Additional Root Structure) ---
+Content: You further agree that, in consideration of your continued employment through the Transition Period,...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1Act, the Genetic Information Nondiscrimination Act of 2008, The False Claims Act, The Vi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This release shall not apply to: the Company’s obligations under this Letter Agreement, your right t...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything in this Letter Agreement to the contrary, nothing contained in this Letter ...
+
+--- (Additional Root Structure) ---
+Content: 8.Section 409A. This Letter Agreement is intended to comply with Section 409A of the Internal Revenu...
+
+--- (Additional Root Structure) ---
+Content: 9.Acknowledgments. You specifically agree and acknowledge that: (a) you have read this Letter Agreem...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5US-LEGAL-12547451Exhibit 10.1you are executing this Letter Agreement, including the waiver and rele...
+
+--- (Additional Root Structure) ---
+Content: 10.Entire Agreement; Miscellaneous. This Letter Agreement sets forth the entire agreement between yo...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [signature page follows]6US-LEGAL-12547451Exhibit 10.1Please indicate your acceptance of the terms a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Very truly yours,                                /s/ Parth MehrotraParth Mehrotra, Chief Executive O...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): /s/ Parth MehrotraParth Mehrotra, Chief Executive Officer On behalf of Privia Health, LLC Signature ...
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT A
+
+--- (Additional Root Structure) ---
+Heading (L1): RELEASE OF CLAIMS AGREEMENT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THE EMPLOYEE IS ADVISED TO CONSULT WITH AN ATTORNEY BEFORE SIGNING THIS RELEASE OF CLAIMS.
+
+--- (Additional Root Structure) ---
+Content: This release of claims agreement (this “Release”), entered into between Thomas Bartrum (the “Employe...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.General Release of Claims.
+
+--- (Additional Root Structure) ---
+Content: In consideration of the Transition Benefits to be made pursuant to and which are defined in that cer...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1disability, life, or any other insurance, 401(k), pension, or other retirement plan or b...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Specific Release of ADEA Claims.
+
+--- (Additional Root Structure) ---
+Content: In further consideration of the payments and benefits provided to the Employee in this Release, the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): A-2US-LEGAL-12547451Exhibit 10.1advised of and has availed himself of Employee’s right to consult wi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Claims not Released.
+
+--- (Additional Root Structure) ---
+Content: This release shall not apply to: the Company’s obligations to provide the Transition Benefits; the E...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything in this Release to the contrary, nothing contained in this Release shall pr...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): A-3US-LEGAL-12547451Exhibit 10.1suspected violation of law or (y) in a complaint or other document f...
+
+--- (Additional Root Structure) ---
+Content: 4.Governing Law. This Release shall be in all respects interpreted, enforced and governed under the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.Knowing and Voluntary Acknowledgment.
+
+--- (Additional Root Structure) ---
+Content: The Employee specifically agrees and acknowledges that: (a) the Employee has read this Release in it...
+
+--- (Additional Root Structure) ---
+Content: The Employee further acknowledges that he has had twenty-one (21) days to consider the terms of this...
+
+--- (Additional Root Structure) ---
+Content: This Release shall not become effective until the eighth (8th) day after the Employee executes this ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [signature page follows]A-4US-LEGAL-12547451Exhibit 10.1Sign only on or within twenty-one (21) days ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Agreed, acknowledged and accepted as of the date set forth below:Thomas Bartrum
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:
+`-- Content: US-LEGAL-12547451    Signature Page to Release of Claims Agreement

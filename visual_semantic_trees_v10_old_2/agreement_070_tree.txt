@@ -1,0 +1,37 @@
+AGREEMENT: THE GETTY IMAGES HOLDINGS, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): EARN OUT PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Clause (e)
+
+--- (Additional Root Structure) ---
+Clause (f)
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.Miscellaneous Provisions
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (g)
+
+--- (Additional Root Structure) ---
+Clause (h)
+
+--- (Additional Root Structure) ---
+Clause (i)
+
+--- (Additional Root Structure) ---
+Clause (k)

@@ -1,0 +1,74 @@
+AGREEMENT: LICENSE AND SERVICES AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Clause (A)
+
+--- (Additional Root Structure) ---
+Clause (C)
+
+--- (Additional Root Structure) ---
+Clause (D)
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Clause (c)
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Clause (e)
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.3 Terms
+Relating to Commercialization Support.
+
+--- (Additional Root Structure) ---
+Section 4: Service Levels.
+
+--- (Additional Root Structure) ---
+Heading (L2): 4.2 Remedies
+for Service Availability Failures.
+
+--- (Additional Root Structure) ---
+Heading (L2): 8.1
+Background Rights. Except
+as expressly set forth herein, each Party shall:
+
+--- (Additional Root Structure) ---
+Heading (L2): 9. Serve
+Representations and Warranties.
+
+--- (Additional Root Structure) ---
+Clause (f)
+
+--- (Additional Root Structure) ---
+Heading (L2): 10.4 Limitations
+of Liability.
+
+--- (Additional Root Structure) ---
+Heading (L2): 11. Term
+and Termination.
+
+--- (Additional Root Structure) ---
+Clause (1)
+
+--- (Additional Root Structure) ---
+Clause (2)
+
+--- (Additional Root Structure) ---
+Section 12: Miscellaneous.
+
+--- (Additional Root Structure) ---
+Heading (L2): Certain Definitions
+
+--- (Additional Root Structure) ---
+Section 1: Definitions.

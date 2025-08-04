@@ -1,0 +1,86 @@
+AGREEMENT: Investment
+Agreement
+
+--- (Additional Root Structure) ---
+Heading (L2): Unified
+Social Credit Code:
+
+--- (Additional Root Structure) ---
+Heading (L2): Address:
+
+--- (Additional Root Structure) ---
+Heading (L2): In
+consideration of:
+
+--- (Additional Root Structure) ---
+Article Article 1: Nature and Business Scope of Party B
+
+--- (Additional Root Structure) ---
+Section 2: Party B is located in Beijing.
+
+--- (Additional Root Structure) ---
+Section 3: Party B is a limited liability company.
+
+--- (Additional Root Structure) ---
+Article Article 2: Investment Plan
+
+--- (Additional Root Structure) ---
+Article Article 3: Method of Payment
+
+--- (Additional Root Structure) ---
+Article Article 4: Equity Registration
+
+--- (Additional Root Structure) ---
+Article Article 5: Exercise of Shareholders’ Rights and Obligations
+
+--- (Additional Root Structure) ---
+Article Article 6: Corporate Governance
+
+--- (Additional Root Structure) ---
+Clause (1): To provide guarantee for shareholders, other enterprises or individuals by the company;
+
+--- (Additional Root Structure) ---
+Clause (2): Decide on the company’s business policies and investment plans.
+
+--- (Additional Root Structure) ---
+Article Article 7: Other Matters
+
+--- (Additional Root Structure) ---
+Article Article 8: Confidentiality Obligation
+
+--- (Additional Root Structure) ---
+Article Article 9: Liability
+
+--- (Additional Root Structure) ---
+Article Article 10: Dispute Resolution
+
+--- (Additional Root Structure) ---
+Article Article 11: Effectiveness of the Agreement and Others
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+A:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+B:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+C:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+D:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:

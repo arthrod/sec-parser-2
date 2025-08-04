@@ -1,0 +1,10 @@
+Content: Exhibit 10.1 
+THIS PROMISSORY NOTE (NOTE) HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933...
+
+--- (Additional Root Structure) ---
+Content: 9. Events of Default. The following shall constitute an event of default
+(Event of Default):  (a) ...
+
+--- (Additional Root Structure) ---
+Content: 13. Notices. All notices, statements or other documents which are required or
+contemplated by this A...

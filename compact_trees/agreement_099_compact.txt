@@ -1,0 +1,9 @@
+Total parsed elements: 7
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.10
+  2. HeadingElement (level=1): VOCODIA HOLDINGS CORP.
+  3. TextElement (level=N/A): 6401 Congress Avenue Suite 160Boca Raton, Florida 33487December         , 2023Re: Note Extension and Increased Conversion Shares  Holder: [*]   Original Issue Discount:   15%  Original Issue Date: Sep
+  4. HeadingElement (level=2): Dear Sirs:
+  5. TextElement (level=N/A): Reference is made to that certain (i) Securities Purchase Agreement, dated as of September 17, 2022 (the “Purchase Agreement”), by and between Vocodia Holdings Corp., a Wyoming corporation (the “Compa
+  6. HeadingElement (level=1): [SIGNATURE PAGE FOLLOWS]
+  7. TextElement (level=N/A): Field: /Page Please execute this letter in the space provided below in order to evidence your agreement with the terms hereof.    Very truly yours,         Vocodia Holdings Corp.         By:      Name

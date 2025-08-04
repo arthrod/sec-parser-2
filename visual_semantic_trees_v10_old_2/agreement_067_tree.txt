@@ -1,0 +1,43 @@
+AGREEMENT: LIMITED WAIVER TO CREDIT AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+
+--- (Additional Root Structure) ---
+AGREEMENT: AGREEMENT:
+
+--- (Additional Root Structure) ---
+Clause (c): the waiver contained in this Waiver shall be effective only in this instance and for the specific pu...
+
+--- (Additional Root Structure) ---
+Clause (a): they have the legal power and authority to execute and deliver this Waiver;
+
+--- (Additional Root Structure) ---
+Clause (b): the officers executing this Waiver on behalf of the Loan Parties have been duly authorized to execut...
+
+--- (Additional Root Structure) ---
+Clause (d): this Waiver constitutes the legal, valid and binding agreement and obligation of the Loan Parties, e...
+
+--- (Additional Root Structure) ---
+Section 4: Miscellaneous.
+
+--- (Additional Root Structure) ---
+Heading (L1): ASHFORD HOSPITALITY TRUST, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): ASHFORD CHAMBERS LP
+
+--- (Additional Root Structure) ---
+Heading (L1): ASHFORD WQ HOTEL LP
+
+--- (Additional Root Structure) ---
+Heading (L1): ASHFORD WQ LICENSEE LLC
+
+--- (Additional Root Structure) ---
+Heading (L1): OPPS AHT HOLDINGS, LLC
+
+--- (Additional Root Structure) ---
+Heading (L1): ROF8 AHT PT, LLC
+
+--- (Additional Root Structure) ---
+Heading (L1): OAKTREE PHOENIX INVESTMENT FUND AIF (DELAWARE), L.P.

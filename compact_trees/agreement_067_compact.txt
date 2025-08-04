@@ -1,0 +1,25 @@
+Total parsed elements: 23
+Element types and content:
+  1. HeadingElement (level=1): EXHIBIT 10.69
+  2. HeadingElement (level=1): LIMITED WAIVER TO CREDIT AGREEMENT
+  3. ContentTextElement (level=4): This LIMITED WAIVER TO CREDIT AGREEMENT (this “Waiver”) is entered into as of March 11, 2024, among ASHFORD HOSPITALITY LIMITED PARTNERSHIP (the “Borrower”), ASHFORD HOSPITALITY TRUST, INC. (the “Pare
+  4. HeadingElement (level=1): RECITALS:
+  5. TextElement (level=N/A): A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement, dated as of January 15, 2021 (as amended by that certain Amendment No. 1 to Credi
+  6. HeadingElement (level=1): AGREEMENT:
+  7. TextElement (level=N/A): In consideration of the premises and mutual covenants herein and for other valuable consideration, the Borrower, the Parent, the Guarantors, the Administrative Agent, and the Lenders party hereto agre
+  8. HeadingElement (level=2): Section 4.    Miscellaneous.
+  9. TextElement (level=N/A): 4.1    Credit Agreement Unaffected.  Each reference to the Credit Agreement in any Loan Document shall hereafter be construed as a reference to the Credit Agreement, as modified hereby.  Except as her
+  10. HeadingElement (level=1): ASHFORD HOSPITALITY TRUST, INC.
+  11. TextElement (level=N/A): By: /s/ J. Robison Hays III Name:    J. Robison Hays IIITitle:    Chief Executive Officer ASHFORD OP GENERAL PARTNER LLCASHFORD OP LIMITED PARTNER LLCBy: s/ J. Robison Hays III Name:    J. Robison Hay
+  12. HeadingElement (level=1): ASHFORD CHAMBERS LP
+  13. ContentTextElement (level=4): By:  ASHFORD CHAMBERS GP LLC,its general partner By: /s/ Alex RoseName:  Alex RoseTitle:    Vice President and Secretary
+  14. HeadingElement (level=1): ASHFORD WQ HOTEL LP
+  15. ContentTextElement (level=4): By: ASHFORD WQ HOTEL GP LLC, its general partner By: /s/ Alex RoseName:  Alex RoseTitle:    Vice President and Secretary
+  16. HeadingElement (level=1): ASHFORD WQ LICENSEE LLC
+  17. TextElement (level=N/A): By: ASHFORD TRS CORPORATION, its sole member By:/s/ Deric S. EubanksName:  Deric S. EubanksTitle:    President[Signature Page to Limited Waiver]
+  18. HeadingElement (level=1): OPPS AHT HOLDINGS, LLC
+  19. TextElement (level=N/A): By: Oaktree Fund GP, LLC, its Manager By: Oaktree Fund GP I, L.P., its Managing MemberBy: /s/ Jordan Mikes Name: Jordan MikesTitle:  Authorized SignatoryBy:  /s/ Manish Desai Name: Manish DesaiTitle: 
+  20. HeadingElement (level=1): ROF8 AHT PT, LLC
+  21. TextElement (level=N/A): By: /s/ Taejo KimName: Taejo KimTitle:  Authorized SignatoryBy: /s/ Cary Kleinman Name: Cary KleinmanTitle:  Authorized Signatory[Signature Page to Limited Waiver]
+  22. HeadingElement (level=1): OAKTREE PHOENIX INVESTMENT FUND AIF (DELAWARE), L.P.
+  23. TextElement (level=N/A): By: Oaktree Fund AIF Series, L.P. – Series U, its General Partner By: Oaktree Fund GP AIF, LLC, its General PartnerBy: Oaktree Fund GP III, L.P., its Managing MemberBy: /s/ Jordan Mikes Name: Jordan M

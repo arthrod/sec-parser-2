@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXECUTION VERSION</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: INVESTMENT AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: dated as of February 22, 2024by and between</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ALTI GLOBAL, INC.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: andCWC ALTI INVESTOR LLC</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: TABLE OF CONTENTS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: PageThe table of contents is empty. Heading styles must be applied in the document and be selected in the table of contents properties panel.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LIST OF SCHEDULES AND EXHIBITS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exhibit B:    Form of Transaction Committee Charter Exhibit C:    Certificate of DesignationExhibi...ion (the “Company”), and CWC AlTi Investor LLC, a Delaware limited liability company(“Purchaser”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: RECITALS:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: A.    Investment.  The Company intends to sell to Purchaser, and Purchaser intends to purchase fro...resentations, warranties, covenants and agreements set forth herein, the parties agree as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ARTICLE IPURCHASES; CLOSINGS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 1.1Purchases.  (a)On the terms and subject to the conditions set forth herein, at the Initial Clos...prior to the Initial Closing; and (B)a duly executed counterpart of the Investor Rights Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: (d)Initial Closing Conditions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (1)The obligation of Purchaser, on the one hand, and the Company, on the other hand, to effect the...pany to Purchaser in writing no later than five (5) business days prior to the Additional Closing.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: (f)Additional Closing Conditions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (1)The obligation of Purchaser, on the one hand, and the Company, on the other hand, to effect the...hat the conditions set forth in Section 1.2(f)(3)(A) and Section 1.2(f)(3)(B) have been satisfied.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE IIREPRESENTATIONS AND WARRANTIES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 1.1Disclosure.(a)Except (i) as disclosed in the disclosure schedule delivered by the Company to Pu...ther than those expressly set forth in Section 2.2 hereof and in the Company Disclosure Schedules.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE IIICOVENANTS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 1.1Interim Operations.(a)The Company shall, and shall cause each of its Subsidiaries to, from and ... board observer agreement whereby he/she agrees to hold in confidence all information so provided.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE IVADDITIONAL AGREEMENTS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 1.1Reservation for Issuance.  The Company will reserve that number of shares of Class A Common Sto...rate purposes (provided that no more than $3 million will be used for general corporate purposes).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE VTERMINATION</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 1.1Termination.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)This Agreement may be terminated prior to the Initial Closing:(1)by mutual written agreement of... material breach of this Agreement or for Fraud by such party occurring prior to such termination.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE VIMISCELLANEOUS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 1.1Survival.  Each of the representations and warranties set forth in this Agreement shall survive...red to the other parties, it being understood that all parties need not sign the same counterpart.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 1.5Governing Law.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)This Agreement shall be governed and construed in accordance with the laws of the State of Dela...d by the duly authorized officers of the parties hereto as of the date first herein above written.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: ALTI GLOBAL, INC.</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: By:    /s/ Michael Tiedemann    Name:  Michael TiedemannTitle:  Director</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: CWC ALTI INVESTOR LLC</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By:    /s/ Karl Heckenberg    Name:  Karl HeckenbergTitle:  Authorized PersonTax ID:Domicile/Principal Place of Business: [Signature Page to Investment Agreement]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SCHEDULE A</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: INDEX OF DEFINED TERMS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Term    Location ofDefinition</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Additional Closing    1.2(b)Additional Closing Date    1.2(b)Additional Purchase Price    1.1(b)Ad...1.1(b)Additional Shares Notice Period    1.1(b)Advisory Agreement    2.2(bb)(1)Affiliate    6.9(a)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Agreement    Recitals Amended Agreement    3.5)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Authorized Preferred Stock    2.2(c)(1)BD Compliance Policies    2.2(dd)(5)Blue Sky Laws    2.2(e)...  4.2(i)Company    2.1(a), Recitals Company Affiliates    4.7Company Disclosure Schedule    2.1(a)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Company Fundamental Representations    1.2(d)(2)(B)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Company Governmental Agreement    2.2(p)Company Material Contracts    2.2(v)(1)Company Non-U.S. RI...ny-Owned IP    2.2(r)(1)Confidential Information    4.5(b)control    6.9(a)controlled by    6.9(a)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SCH. A-1</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Copyrights    2.2(r)(1)De Minimis Claim    4.2(d)Disabling Devices    2.2(r)(7)Disqualification Ev...al Information    2.2(r)(7)Preferred Stock Price Per Share    1.1(a)Previously Disclosed    2.1(a)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SCH. A-2</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Prior Audited Financial Statements    2.2(h)(1)Privacy and Data Security Laws    2.2(r)(7)Privacy ...Requirements    2.2(r)(7)Proceedings    2.2(g)(1)Purchase Price    1.1(b)Purchased Stock    1.1(b)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Purchaser    Recitals Purchaser Affiliates    4.7</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Purchaser Observer    3.8(a)Registered Fund    2.2(aa)(4)Remedies Exceptions    2.2(d)Representati...ed Country    2.2(y)(1)Sanctions Authority    2.2(y)(1)Sanctions Laws    2.2(y)(1)SEC    2.2(e)(2)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Securities    Recitals Securities Act    2.2(e)(2)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Series A Preferred Stock    Recitals Series C Certificate of Designations    1.2(d)(2)(G)Series C ...ry    2.1(b)Takeover Statute    2.2(t)Tax    2.2(s)(13)Tax Return    2.2(s)(14)Taxes    2.2(s)(13)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Termination Date    5.1(a)(2)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Threshold Amount    4.2(d)Trade Secrets    2.2(r)(1)Trademarks    2.2(r)(1)Transaction Committee  ...saction Committee Charter    1.2(d)(2)(G)Transfer Taxes    4.3 under common control with    6.9(a)</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Warrants    Recitals</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SCH. A-3</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: EXHIBIT A</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: FORM OF INVESTOR RIGHTS AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Strictly Confidential</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: EXHIBIT B</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: FORM OF TRANSACTION COMMITTEE CHARTER</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: B-1Strictly Confidential</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: EXHIBIT C</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: CERTIFICATE OF DESIGNATION</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: C-1Strictly Confidential</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: EXHIBIT D</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: FORM OF WARRANT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: D-1Strictly Confidential</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: EXHIBIT E</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: FORM OF  THIRD AMENDMENT TO CREDIT AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: E-1</span>
+</div>
+    </div>
+</body>
+</html>

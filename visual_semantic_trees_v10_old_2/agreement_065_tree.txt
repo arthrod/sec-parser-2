@@ -1,0 +1,79 @@
+AGREEMENT: THIS EMPLOYMENT AGREEMENT (this “Agreement”) is made and entered into as of January 3, 2023, by and ...
+
+--- (Additional Root Structure) ---
+Section 1: Retention and Duties.
+
+--- (Additional Root Structure) ---
+Section 3: Compensation.
+
+--- (Additional Root Structure) ---
+Section 4: Benefits.
+
+--- (Additional Root Structure) ---
+Section 5: Termination.
+
+--- (Additional Root Structure) ---
+Clause (a): The Company shall pay the Executive (or, in the event of his or her death, the Executive’s estate) a...
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.4    Release; Exclusive Remedy; Leave.
+
+--- (Additional Root Structure) ---
+Clause (c): In the event that the Company provides the Executive notice of termination without Cause pursuant to...
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.5    Certain Defined Terms.
+
+--- (Additional Root Structure) ---
+Clause (i): any Base Salary that had accrued but had not been paid on or before the Severance Date;
+
+--- (Additional Root Structure) ---
+Clause (ii): any reimbursement due to the Executive pursuant to Section 4.2 for expenses reasonably incurred by t...
+
+--- (Additional Root Structure) ---
+Clause (iii): all other payments and benefits to which Executive may then or thereafter be entitled under the term...
+
+--- (Additional Root Structure) ---
+Clause (iv): other than in connection with a termination by the Company for Cause or by Executive without Good Re...
+
+--- (Additional Root Structure) ---
+Clause (v): has engaged in unfair competition with (in violation of Section 6.2 hereof), or otherwise acted inte...
+
+--- (Additional Root Structure) ---
+Clause (vi): has improperly induced a vendor or customer to breach or terminate any contract with the Company or ...
+
+--- (Additional Root Structure) ---
+Clause (vii): has made disparaging comments about the Company, its Affiliates or its management; or
+
+--- (Additional Root Structure) ---
+Clause (viii): failure to materially comply with the Company’s and its Affiliates’ policies listed in Section 1.6;
+
+--- (Additional Root Structure) ---
+Clause (e): As used herein, “Good Reason” shall mean the occurrence (without the Executive’s consent) of any one...
+
+--- (Additional Root Structure) ---
+Clause (f): As used herein, the term “Person” shall be construed broadly and shall include, without limitation, ...
+
+--- (Additional Root Structure) ---
+Clause (g): As used herein, a “Separation from Service” occurs when the Executive dies, retires, or otherwise ha...
+
+--- (Additional Root Structure) ---
+Section 6: Protective Covenants.
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.1    Confidential Information; Inventions.
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Section 8: Successors and Assigns.
+
+--- (Additional Root Structure) ---
+Section 21: Section 409A.
+
+--- (Additional Root Structure) ---
+Section 22: Indemnification; Liability Insurance.
+
+--- (Additional Root Structure) ---
+Heading (L1): AFC MANAGEMENT, LLC

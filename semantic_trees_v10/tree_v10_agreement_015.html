@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exhibit
+10.1</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: STOCK
+PURCHASE AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: THIS
+STOCK PURCHASE AGREEMENT, effective as of December 22, 2023 (the “Effective Date”) by and amo...th and the
+mutual benefits to the parties to be derived therefrom, it is hereby agreed as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+I</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SALE
+AND PURCHASE OF THE SHARES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section
+1.1 Closing. The purchase of the Shares shall be consummated on December 22, 2023 unless e...rom Seller to Buyer. Wire instructions for Seller are set forth on Schedule B hereto. Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+II REPRESENTATIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: AND WARRANTIES OF SELLER</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: As
+an inducement to and to obtain the reliance of Buyer, Seller represents and warrants to Buyer t... including but not limited to broker’s fee, finder’s
+fees or any similar compensation arrangement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+III</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: REPRESENTATIONS
+AND WARRANTIES OF THE COMPANY</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The
+Seller and the Company, jointly and severally, represent and warrant to Buyer that each of the...le
+of any shares owned by such stockholder under the Securities Act on any registration statement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+IV REPRESENTATIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: AND WARRANTIES OF BUYER</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: As
+an inducement to and to obtain the reliance of Seller, Buyer represents and warrants to Seller ...ny breach of a representation or
+warranty in this Agreement by Seller or the Company. Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+V</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXCHANGE
+PROCEDURE AND OTHER CONSIDERATION</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section
+5.1 Seller’s Delivery. On the Closing Date, the Seller shall deliver the following to Buye...ee to serve as President and to other offices of the Company, effective upon Closing. Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+VI</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: CLOSING
+COVENANTS OF THE PARTIES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section
+6.1 Notification of OTC Markets, FINRA and Nevada Secretary of State. Seller shall, at its...at or following the execution and/or closing of
+the transactions contemplated hereby. Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+VII</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: MISCELLANEOUS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section
+7.1 Indemnification. Seller and the Company shall jointly and severally indemnify and hold...THER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS
+AND CERTIFICATIONS IN THIS SECTION.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: [SIGNATURE
+PAGE FOLLOWS]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Field: /Page IN
+WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as o...
+    CWR 1, LLC
+
+ 
+ 
+
+ 
+/s/
+    Brett Rosen
+
+ 
+By:
+Brett
+    Rosen
+
+ 
+Title:
+Manager
+ Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SCHEDULE
+A</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: BuyerCWR
+1, LLC, a Delaware limited liability company Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SCHEDULE
+B</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Seller
+
+Seller 
+Shares 
+Purchase Price 
+Wire Instructions
+
+FastBase, Inc. 
+ 90,437,591  
+$350,000....New York, NY 10005 
+    
+    
+ 
+
+  
+ 500,000  
+    
+ 
+
+  
+ Preferred Shares  
+    
+ 
+ Field: /Page</span>
+</div>
+    </div>
+</body>
+</html>

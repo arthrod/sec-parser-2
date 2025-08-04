@@ -1,0 +1,61 @@
+AGREEMENT: This Employment Agreement ("Agreement") is between SunOpta Inc. (such entity together with all past,...
+
+--- (Additional Root Structure) ---
+Heading (L1): 1. EMPLOYMENT
+
+--- (Additional Root Structure) ---
+Clause (a): Title and Duties.  Employee's title is Chief Customer Officer, and Employee will perform job duties ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3. COMPENSATION AND BENEFITS
+
+--- (Additional Root Structure) ---
+Clause (b): Short Term Incentive. Eligibility for the annual Short-Term Incentive is based upon a fifty percent ...
+
+--- (Additional Root Structure) ---
+Clause (c): Long Term Incentive. Employee is eligible for participation in the Long-Term Incentive Plan at a tar...
+
+--- (Additional Root Structure) ---
+Clause (d): Special Equity Grants. Employee will be awarded a one-time equity award of 50,000 restricted stock u...
+
+--- (Additional Root Structure) ---
+Clause (f): Vacation.  Employee is eligible for Paid Time Off in accordance with Company policy.
+
+--- (Additional Root Structure) ---
+Clause (g): Expenses. Company will reimburse Employee for business expenses consistent with past practices and p...
+
+--- (Additional Root Structure) ---
+Clause (h): Withholdings and Deductions.  Company will deduct or withhold from any payment made or
+
+--- (Additional Root Structure) ---
+Heading (L1): 4. NONDISCLOSURE OF TRADE SECRETS AND OTHER CONFIDENTIAL INFORMATION
+
+--- (Additional Root Structure) ---
+Heading (L1): 5. DUTY OF LOYALTY DURING EMPLOYMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): 6. OWNERSHIP OF MATERIALS
+
+--- (Additional Root Structure) ---
+Clause (1): Any provision in an employment agreement which provides that an employee shall assign, or offer to a...
+
+--- (Additional Root Structure) ---
+Clause (2): To the extent a provision in an employment agreement purports to require an employee to assign an in...
+
+--- (Additional Root Structure) ---
+Heading (L1): 7. TERMINATION.
+
+--- (Additional Root Structure) ---
+Heading (L1): 8. NON-DISPARAGEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): 9. CONFLICTS OF INTEREST
+
+--- (Additional Root Structure) ---
+Heading (L1): 10. INDEMNIFICATION
+
+--- (Additional Root Structure) ---
+Heading (L1): 11. DISPUTE RESOLUTION
+
+--- (Additional Root Structure) ---
+Heading (L1): EMPLOYEE:

@@ -1,0 +1,152 @@
+TextElement (Lvl: ?): Exhibit 10.1THIS PROMISSORY NOTE (“NOTE”) HAS
+NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, ...
+
+--- (Additional Root Structure) ---
+Heading (L1): PROMISSORY NOTE
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Principal Amount: US$30,000 Dated: December 26, 2023New York, New YorkFOR VALUE RECEIVED, Blue World...
+
+--- (Additional Root Structure) ---
+Content: 1.Principal. The principal balance of this Note shall
+be payable by the Maker to the Payee upon the ...
+
+--- (Additional Root Structure) ---
+Content: 2.Conversion Rights. The Payee has the right, but not
+the obligation, to convert this Note, in whole...
+
+--- (Additional Root Structure) ---
+Content: (a)Fractional Units. No fractional Units will be issued
+upon conversion of this Note. In lieu of any...
+
+--- (Additional Root Structure) ---
+Content: (b)Effect of Conversion. If the Maker timely receives
+notice of the Payee’s intention to convert thi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+3.Interest. This Note does not carry any interest on
+the unpaid principal balance of t...
+
+--- (Additional Root Structure) ---
+Content: 4.Application of Payments. All payments shall be applied
+first to payment in full of any costs incur...
+
+--- (Additional Root Structure) ---
+Content: 5.Events of Default. The following shall constitute
+an event of default (each, an “Event of Default”...
+
+--- (Additional Root Structure) ---
+Content: (a)Failure to Make Required Payments. Failure by the
+Maker to pay the principal amount due pursuant ...
+
+--- (Additional Root Structure) ---
+Content: (b)Voluntary Bankruptcy, etc. The commencement by the
+Maker of a voluntary case under any applicable...
+
+--- (Additional Root Structure) ---
+Content: (c)Involuntary Bankruptcy, etc. The entry of a decree
+or order for relief by a court having jurisdic...
+
+--- (Additional Root Structure) ---
+Content: (d)Breach of Other Obligations. The Maker fails to perform
+or comply with any one or more of its obl...
+
+--- (Additional Root Structure) ---
+Content: (e)Cross Default. Any present or future indebtedness
+of the Maker in respect of moneys borrowed or r...
+
+--- (Additional Root Structure) ---
+Content: (f)Enforcement Proceedings. A distress, attachment, execution
+or other legal process is levied or en...
+
+--- (Additional Root Structure) ---
+Content: (g)Unlawfulness and Invalidity. It is or becomes unlawful
+for the Maker to perform any of its obliga...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+6.Remedies.
+
+--- (Additional Root Structure) ---
+Content: (a)Upon the occurrence of an Event of Default specified in Section
+5(a) and 5(d) hereof, the Payee m...
+
+--- (Additional Root Structure) ---
+Content: (b)Upon the occurrence of an Event of Default specified in Sections
+5(b), 5(c), 5(e), 5(f) and 5(g) ...
+
+--- (Additional Root Structure) ---
+Content: 7.Taxes. The Maker will pay all amounts due hereunder
+free and clear of and without reduction for an...
+
+--- (Additional Root Structure) ---
+Content: 8.Waivers. The Maker and all endorsers and guarantors
+of, and sureties for, this Note waive presentm...
+
+--- (Additional Root Structure) ---
+Content: 9.Unconditional Liability. The Maker hereby waives all
+notices in connection with the delivery, acce...
+
+--- (Additional Root Structure) ---
+Content: 10.Notices. All notices, statements or other documents
+which are required or contemplated by this No...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+11.Construction. This Note shall be construed and enforced
+in accordance with the laws...
+
+--- (Additional Root Structure) ---
+Content: 12.Severability. Any provision contained in this Note
+which is prohibited or unenforceable in any ju...
+
+--- (Additional Root Structure) ---
+Content: 13.Amendment; Waiver. Any amendment hereto or waiver
+of any provision hereof may be made with, and o...
+
+--- (Additional Root Structure) ---
+Content: 14.Assignment. This Note shall be binding upon the Maker
+and its successors and assigns and is for t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [signature page follows] Field: /Page The Parties, intending to be legally bound hereby,
+have caused...
+
+--- (Additional Root Structure) ---
+Heading (L1): MAKER:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Blue World Acquisition Corporation
+
+
+By:
+/s/ Liang Shi
+ 
+
+Name: 
+Liang Shi
+ 
+
+Title:
+
+CEO and Direct...
+
+--- (Additional Root Structure) ---
+Heading (L1): PAYEE:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Blue World Holdings Limited
+
+By:
+/s/ Liang Shi
+ 
+
+Name: 
+Liang Shi
+ 
+
+Title:
+Director
+ 
+[signature p...

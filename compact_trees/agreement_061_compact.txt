@@ -1,0 +1,9 @@
+Total parsed elements: 7
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.40Executive Version AMN HEALTHCARE EQUITY PLANRESTRICTED STOCK UNIT AGREEMENTTHIS RESTRICTED STOCK UNIT AGREEMENT (the “Agreement”), made this _________________ by and between AMN Healthcar
+  2. HeadingElement (level=1): W I T N E S S E T H:
+  3. TextElement (level=N/A): WHEREAS, the Company sponsors the AMN Healthcare 2017 Equity Plan, (as may be amended from time to time, the “Plan”), and desires to afford the Grantee the opportunity to share in the appreciation of 
+  4. HeadingElement (level=2): 1.Definitions.
+  5. TextElement (level=N/A): The following definitions shall be applicable throughout the Agreement.  Where capitalized terms are used but not defined herein, their meaning shall be that set forth in the Plan (unless the context 
+  6. HeadingElement (level=2): 6.Termination of Service.
+  7. TextElement (level=N/A): (a)Except as provided below, if the Grantee’s Service terminates for any reason prior to the Settlement Date, then all vested RSUs shall be settled in accordance with Section 4, and any unvested RSUs 

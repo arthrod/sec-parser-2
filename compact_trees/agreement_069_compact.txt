@@ -1,0 +1,4 @@
+Total parsed elements: 2
+Element types and content:
+  1. HeadingElement (level=1): EXHIBIT 10.3
+  2. TextElement (level=N/A): Welltower Inc.Non-Employee Director Compensation Effective January 1, 2024For each calendar year, each non-employee member of the Board of Directors of Welltower Inc. (the “Company”) will receive an a

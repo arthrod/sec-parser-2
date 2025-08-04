@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EMPLOYMENT AGREEMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: This Employment Agreement ("Agreement") is between SunOpta Inc. (such entity together with all pas...ies, and affiliates are referred to collectively herein as "Company") and Chad Hagen ("Employee").</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 1. EMPLOYMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: This Agreement commences January 19, 2024 ("Effective Date") and shall continue in effect until te...so has the right to terminate the Agreement immediately for Cause (as defined in Section 7 below).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 2. TITLE AND EXCLUSIVE SERVICES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a) Title and Duties.  Employee's title is Chief Customer Officer, and Employee will perform job d...rfere with the performance of Employee's duties or conflict with Employee's obligations hereunder.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 3. COMPENSATION AND BENEFITS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a) Base Salary.  Employee shall be paid an annualized salary of Three Hundred Sixty-Five Thousand...ith the wages and benefits provided in connection with the Employee's employment with the Company.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 4. NONDISCLOSURE OF TRADE SECRETS AND OTHER CONFIDENTIAL INFORMATION</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a) For purposes of this Agreement, "Trade Secret" shall mean all forms and types of financial, bu...ompany trade secrets shall survive the expiration or termination of this Agreement for any reason.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 5. DUTY OF LOYALTY DURING EMPLOYMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: (a) Duty of Loyalty. Employee owes Company an undivided duty of loyalty during the term of Employe...atsoever with the business of Company, or otherwise violate Employee's duty of loyalty to Company.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 6. OWNERSHIP OF MATERIALS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a) Ownership. Employee agrees that all inventions, improvements, discoveries, designs, technology...al property and potential conflicts of interest.
+
+
+5
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 7. TERMINATION.</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: In the event Employee is terminated without Cause, the Company Severance Pay Plan will apply.  "Ca...he terms of this Agreement and any other agreements with Company as of the dates of such payments.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 8. NON-DISPARAGEMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: During and at any time after Employee's employment with Company, Employee shall not, directly or i...regarding Company or Employee's relationship with Company or the termination of such relationship.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 9. CONFLICTS OF INTEREST</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Employee acknowledges familiarity with Company policies on conflicts of interest and warrants that...in writing if there is any attempt to induce Employee to violate the conflicts of interest policy.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 10. INDEMNIFICATION</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Company shall defend and indemnify Employee for acts committed in the course and scope of employme...g Employee's conduct outside the scope of employment, or the breach by Employee of this Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 11. DISPUTE RESOLUTION</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a) Arbitration.  This Agreement is governed by the Federal Arbitration Act, 9 U.S.C. § 1 et seq. ...ll execution by all parties, this Agreement shall be effective on the Effective Date in Section 1.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EMPLOYEE:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: /s/ Chad Hagen
+Date:  1/23/2024
+
+
+Chad Hagen
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+COMPANY:
+ 
+
+
+ 
+ 
+
+
+/s/ Jill Barnett
+D...24
+
+
+Jill Barnett
+ 
+
+
+Chief Administrative Officer 8
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____</span>
+</div>
+    </div>
+</body>
+</html>

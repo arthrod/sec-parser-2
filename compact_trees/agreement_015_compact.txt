@@ -1,0 +1,32 @@
+Total parsed elements: 30
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1
+  2. HeadingElement (level=1): STOCK PURCHASE AGREEMENT
+  3. TextElement (level=N/A): THIS STOCK PURCHASE AGREEMENT, effective as of December 22, 2023 (the “Effective Date”) by and among Fastbase, Inc., a Nevada corporation (“Seller”), CWR 1, LLC, a Delaware limited liability company (
+  4. HeadingElement (level=1): ARTICLE I
+  5. HeadingElement (level=1): SALE AND PURCHASE OF THE SHARES
+  6. TextElement (level=N/A): Section 1.1 Closing. The purchase of the Shares shall be consummated on December 22, 2023 unless extended by agreement of the parties hereto (the “Closing Date”).Section 1.2 Sale and Purchase. Subject
+  7. HeadingElement (level=1): ARTICLE II REPRESENTATIONS
+  8. HeadingElement (level=1): AND WARRANTIES OF SELLER
+  9. TextElement (level=N/A): As an inducement to and to obtain the reliance of Buyer, Seller represents and warrants to Buyer that each of the following are true, correct, and complete as of the Effective Date and will be correct
+  10. HeadingElement (level=1): ARTICLE III
+  11. HeadingElement (level=1): REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+  12. TextElement (level=N/A): The Seller and the Company, jointly and severally, represent and warrant to Buyer that each of the following are true, correct, and complete as of the Effective Date and will be correct and complete a
+  13. HeadingElement (level=1): ARTICLE IV REPRESENTATIONS
+  14. HeadingElement (level=1): AND WARRANTIES OF BUYER
+  15. TextElement (level=N/A): As an inducement to and to obtain the reliance of Seller, Buyer represents and warrants to Seller that each of the following are true, correct, and complete as of the Effective Date and will be correc
+  16. HeadingElement (level=1): ARTICLE V
+  17. HeadingElement (level=1): EXCHANGE PROCEDURE AND OTHER CONSIDERATION
+  18. TextElement (level=N/A): Section 5.1 Seller’s Delivery. On the Closing Date, the Seller shall deliver the following to Buyer or the transfer agent, as applicable, conditioned upon (i) all of Buyer’s representations and warran
+  19. HeadingElement (level=1): ARTICLE VI
+  20. HeadingElement (level=1): CLOSING COVENANTS OF THE PARTIES
+  21. TextElement (level=N/A): Section 6.1 Notification of OTC Markets, FINRA and Nevada Secretary of State. Seller shall, at its sole expense, not later than forty-eight (48) hours following the Closing take the following actions,
+  22. HeadingElement (level=1): ARTICLE VII
+  23. HeadingElement (level=1): MISCELLANEOUS
+  24. TextElement (level=N/A): Section 7.1 Indemnification. Seller and the Company shall jointly and severally indemnify and hold the Buyer and its agents, representatives, designees and affiliates harmless from and against any los
+  25. HeadingElement (level=1): [SIGNATURE PAGE FOLLOWS]
+  26. TextElement (level=N/A): Field: /Page IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date first above written.    COMPANY         /s/     Rasmus Refer    By:      Rasmus     Refer  
+  27. HeadingElement (level=1): SCHEDULE A
+  28. TextElement (level=N/A): BuyerCWR 1, LLC, a Delaware limited liability company Field: /Page
+  29. HeadingElement (level=1): SCHEDULE B
+  30. TextElement (level=N/A): Seller  Seller  Shares  Purchase Price  Wire Instructions  FastBase, Inc.   90,437,591   $350,000.00      140 Broadway, 46th Fl   Common Shares           New York, NY 10005                   500,000  

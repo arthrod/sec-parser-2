@@ -1,0 +1,168 @@
+TextElement (Lvl: ?): Exhibit 10.2
+
+--- (Additional Root Structure) ---
+Heading (L1): WARRANT CANCELLATION AND EXCHANGE AGREEMENT
+`-- Content: This WARRANT CANCELLATION
+AND EXCHANGE AGREEMENT (this “Agreement”) is made as of March 12, 2024, by...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, pursuant to that
+certain (i) Warrant Agreement, dated January 31, 2024, by and between the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, in consideration
+of the premises and the mutual promises herein and other good and v...
+
+--- (Additional Root Structure) ---
+Content: (a)             Warrant
+Holder hereby surrenders the Prior Warrants, which Prior Warrants shall be c...
+
+--- (Additional Root Structure) ---
+Content: (b)             Warrant
+Holder agrees that the issuance of the New Warrants in exchange for surrende...
+
+--- (Additional Root Structure) ---
+Content: (c)             It
+is hereby agreed and acknowledged that as of the date hereof, the Prior Warrants ...
+
+--- (Additional Root Structure) ---
+Content: 2.             Representations
+and Warranties of Warrant Holder. Warrant Holder represents and warra...
+
+--- (Additional Root Structure) ---
+Content: (a)             Prior
+Warrants. Warrant Holder (i) has not exercised or purported to exercise the Pr...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (b)             Accredited
+Investor. Warrant Holder is an “Accredited Investor” as such...
+
+--- (Additional Root Structure) ---
+Content: (c)             Investment
+Purpose. Warrant Holder has substantial experience in evaluating
+and inve...
+
+--- (Additional Root Structure) ---
+Content: (d)             Exemptions.
+Warrant Holder understands that the New Warrants will not be registered ...
+
+--- (Additional Root Structure) ---
+Content: (e)             Authorization
+and Compliance. The execution, delivery and performance by Warrant Hol...
+
+--- (Additional Root Structure) ---
+Content: 3.             Representations
+and Warranties of the Company. The Company represents and warrants th...
+
+--- (Additional Root Structure) ---
+Content: (a)             Organization
+and Good Standing. The Company is a corporation duly organized and vali...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (b)             Authorization.
+The execution, delivery and performance by the Company o...
+
+--- (Additional Root Structure) ---
+Content: (c)             Certificate
+of Incorporation and Bylaws. The Certificate of Incorporation and the By...
+
+--- (Additional Root Structure) ---
+Content: (d)             Governmental
+Approval. No consent or approval of any governmental agency or authorit...
+
+--- (Additional Root Structure) ---
+Content: (e)             Compliance.
+The Company is not in violation of (i) any provision of its Certificate ...
+
+--- (Additional Root Structure) ---
+Content: 4.             Further
+Assurances. Each of the Company and Warrant Holder agrees to take such furthe...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.             General.
+
+--- (Additional Root Structure) ---
+Content: (a)             Governing
+Law. This Agreement shall be governed by and construed and enforced in acc...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page (b)             Amendments
+and Waivers. Any provision of this Agreement may be amended ...
+
+--- (Additional Root Structure) ---
+Content: (c)             Successors
+and Assigns; Third Party Beneficiaries. The provisions of this Agreement ...
+
+--- (Additional Root Structure) ---
+Content: (d)             Counterparts.
+This Agreement may be signed in any number of counterparts, each of wh...
+
+--- (Additional Root Structure) ---
+Content: (e)             Entire
+Agreement. This Agreement (taken together with the New Warrants) constitutes ...
+
+--- (Additional Root Structure) ---
+Content: (f)             Severability.
+If any term, provision, covenant or restriction of this Agreement is h...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature Pages Follow] Field: /Page IN WITNESS WHEREOF, the parties
+hereto have executed this Warr...
+
+--- (Additional Root Structure) ---
+Content: CANOO INC.
+
+ 
+ 
+
+ 
+By:
+/s/
+    Tony Aquila
+
+ 
+ 
+Name: 
+Tony Aquila
+
+ 
+ 
+Title:
+Chief Executive Offic...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature Page to
+Warrant Cancellation and Exchange Agreement] Field: /Page IN WITNESS WHEREOF, the...
+
+--- (Additional Root Structure) ---
+Content: YA II PN, LTD.
+
+ 
+ 
+
+ 
+By: 
+Yorkville Advisors
+    Global LP
+
+ 
+Its:
+Investment Manager
+
+ 
+ 
+By:
+Yor...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature Page to
+Warrant Cancellation and Exchange Agreement] Field: /Page Exhibit A
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF NEW WARRANT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): See attached.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page

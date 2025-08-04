@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exhibit
+10.8</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SECURITIES
+PURCHASE AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: This
+Securities Purchase Agreement (this “Agreement”) is dated as of December 28, 2023, by and bet...ipt
+and adequacy of which are hereby acknowledged, the Company and the Purchaser agree as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+I.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: DEFINITIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 1.1
+Definitions. In addition to the words and terms defined elsewhere in this Agreement, for all p...reasonably acceptable to the
+Company, the fees and expenses of which shall be paid by the Company.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+II.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: PURCHASE AND SALE</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 2.1
+Closing. On the Closing Dates, upon the terms and subject to the conditions set forth herein, ...g
+shall occur at the Company’s offices or such other location as the parties shall mutually agree.</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 2.2
+Deliveries.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)
+On or prior to the Closing Date, the Company shall deliver or cause to be delivered to the Pur...s
+common stock equal to 100% of the Face Value of each Purchaser’s Note divided by the Base Price.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 2.3
+Closing Conditions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)
+The obligations of the Company hereunder in connection with the Closing are subject to the fol...here shall have been no Material Adverse Effect with respect to the Company since the date hereof.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+III.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: REPRESENTATIONS
+AND WARRANTIES OF COMPANY</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The
+Company hereby makes the following representations and warranties to each Purchaser as of the ..., subsisting and enforceable leases with
+which the Company and the Subsidiaries are in compliance.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 3.16
+Intellectual Property.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (i)
+To the Company’s knowledge, the Company owns or possesses or has the right to use pursuant to ...oney Laundering Laws is pending or, to the knowledge of the Company or any Subsidiary, threatened.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+IV.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: REPRESENTATIONS
+AND WARRANTIES OF PURCHASERS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 4.1 Representations
+and Warranties of the Purchaser. Each Purchaser, for itself and for no other P...ered in connection with this Agreement
+or the consummation of the transaction contemplated hereby.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+V.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: OTHER
+AGREEMENTS OF THE PARTIES</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 5.1
+Removal of Legends.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The
+Registrable Securities may only be disposed of in compliance with state and federal securities... shall be payable to such Purchaser
+to the extent Purchaser obtains judgment in Purchaser’s favor.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 5.2
+Furnishing of Information.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)
+Until no Purchaser owns Bridge Shares, the Company covenants to timely file (or obtain extensi... give credit, or make advances
+to any officers, directors, employees or affiliates of the Company.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 5.8
+Indemnification of Purchaser.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Subject
+to the provisions of this Section 5.8, the Company will indemnify and hold each Purchaser ... be prohibited from entering a Variable Rate
+Transaction without the prior consent of each Holder.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 5.18
+Registration Rights and Lock-Up Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)
+With respect to the Registrable Securities, the Company shall:(1)
+With the Registration Statem...he IPO and the Purchaser shall have up to the time of pricing to determine whether to participate.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE
+IV.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: MISCELLANEOUS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 6.1
+Termination. This Agreement may be terminated by the Purchaser by written notice to the other ...o the
+Company, the manner of handling such excess to be at such Purchaser’s election. Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 6.24
+Adjustment of the Base Price</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)
+Stock Dividends and Splits. If the Company, at any time while the Note is outstanding: (i) pay...
+ 
+740
+    E. 3900 S. Suite 108
+
+Title:
+Chief
+    Executive Officer
+ 
+Salt
+    Lake City, UT 84107</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: [REMAINDER
+OF PAGE INTENTIONALLY LEFT BLANK</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SIGNATURE PAGE FOR PURCHASER FOLLOWS]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: PURCHASER
+SIGNATURE PAGE TO</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SECURITIES PURCHASE AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: IN
+WITNESS WHEREOF, the undersigned have caused this Securities Purchase Agreement to be duly exec...tory: Abdul70Rasool@Yahoo.comFacsimile Number of Authorized Signatory: ___________________________</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Address
+for Notice to Purchaser:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 7333 Reese CourtWarrenton, VA 20187Address
+for Delivery of Securities to Purchaser (if not same as...cription
+  Amount:
+$100,000.00
+ 
+
+
+EIN Number:
+###-##-####
+ 
+Purchaser
+Signature Page Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXHIBIT
+A</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: NEITHER
+THIS SECURITY NOR THE SECURITIES INTO WHICH THIS SECURITY IS CONVERTIBLE HAVE BEEN REGISTE... and Face Value $100,000.00 Purchase Price / Subscription Amount$11,111.11 Original Issue Discount</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ORIGINAL
+ISSUE DISCOUNT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: PROMISSORY NOTE</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: THIS
+ORIGINAL ISSUE DISCOUNT CONVERTIBLE PROMISSORY NOTE is duly authorized and validly issued at ... is cured,
+this Note shall accrue interest at an interest rate equal to the Default Interest Rate.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Section
+8. Miscellaneous.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)
+No Rights as Stockholder. This Note does not entitle the Holder to any voting rights, dividend...e:
+Chief
+    Executive Officer
+740 E. 3900 S. Suite 108
+Salt
+    Lake City, UT 84107
+ Field: /Page</span>
+</div>
+    </div>
+</body>
+</html>

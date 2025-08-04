@@ -1,0 +1,3 @@
+Total parsed elements: 1
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.3STANDARD  INDUSTRIAL/COMMERCIAL SINGLE - TENANT LEASE  - GROSS   (DO  NOT  USE THIS FORM  FOR MULTI - TENANT BUILDINGS) 1. Basic Provisions ("Basic Provisions"). 1.1     Parties.   This  L

@@ -1,0 +1,11 @@
+Total parsed elements: 9
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.2THE SECURITIES TO BE ISSUED PURSUANT TO THIS AGREEMENT HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (“SECURITIES ACT”), OR ANY OTHER APPLICABLE STATE SECURITIES LA
+  2. HeadingElement (level=2): Ladies and Gentlemen:
+  3. TextElement (level=N/A): Subscription. The undersigned (sometimes referred to herein as the “Investor” or “I” or “me”) hereby subscribes for and agrees to purchase the Common Shares (as defined below) of Veg House Holdings In
+  4. HeadingElement (level=2): a.Indemnification.
+  5. TextElement (level=N/A): I hereby agree to indemnify and hold harmless the Company and its officers, directors, shareholders, employees, agents, advisors and counsel, and Boustead and its officers, directors, shareholders, em
+  6. HeadingElement (level=1): THE AGGREGATE AMOUNT SUBSCRIBED FOR HEREBY IS:
+  7. TextElement (level=N/A): __________ Common Shares at a per Share Purchase Price of US$1.00 per shareManner in Which Title is to be Held. (check one)  — Individual Ownership — Community Property  — Joint Tenant with Right of S
+  8. HeadingElement (level=1): CERTIFICATE OF SIGNATORY
+  9. TextElement (level=N/A): (To be completed if Common Shares are being subscribed for by an entity)I, _____________________________, the _____________________________________  (name     of signatory)   (title) of ______________

@@ -1,0 +1,5 @@
+Total parsed elements: 3
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.7Execution VersionAdministration Service AgreementThis Administration Service Agreement (the “Agreement”) dated this 20th day of February, 2024 is between DT Cloud Capital Corp., herein ref
+  2. HeadingElement (level=2): 3. Termination
+  3. TextElement (level=N/A): If either party seeks termination of this Agreement, the terminating party must provide a 30 days written notice to the other party.4. CompensationThe Customer will provide compensation to the Service

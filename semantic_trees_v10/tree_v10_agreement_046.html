@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Long Term Incentive Plan (“LTI Plan”) AMENDED LONG-TERM INCENTIVE PLAN</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Established: July 27, 2017</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Board Approved Amendment: August 9, 2022</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Shareholder Approved: September 22, 2022</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.36=</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE 1</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: DEFINITIONS AND INTERPRETATION</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 1.1For the purposes of this Plan, unless such word or term is otherwise defined herein or the cont...nd terms with the initial letter or letters thereof capitalized shall have the following meanings:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: A.“Act” means the Business Corporations Act (British Columbia), or its successor, as amended, from time to time;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: B.“Affiliate” means any corporation that is an affiliate of the Corporation as defined in National...rized to act, a committee appointed for such purpose by the Board of Directors of the Corporation;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: E.“Change of Control” shall occur if any of the following events occur:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (i)a consolidation, merger, amalgamation, arrangement or other reorganization or acquisition invol...ade other than as a result of a dissident public proxy solicitation, whether actual or threatened.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: F.“Corporation” means Cordoba Minerals Corp., a corporation existing under the Act, and includes any successor corporation thereof;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: G.“Discounted Market Price” means the Market Price less the following maximum discounts based on c...ns or measures and other terms outlined in the Share Unit grant letter evidencing such Share Unit;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: N.“Plan” means this Long Term Incentive Plan, as may be amended from time to time;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: O.“Required Shareholder Approval” means the approval of this Plan by the disinterested shareholder...ordance with the Corporation’s normal retirement policy or earlier with the Corporation’s consent;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: R.“Shares” means the common shares in the capital of the Corporation;</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: S.“Share Unit” means a unit (which may be referred to as a restricted share unit or a performance ...ng such number of Shares from treasury determined in accordance with Section 3.5(b) and Article 4;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: T.“Share Unit Award” means an award of Share Units under this Plan to a Participant;</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: U.“Stock Exchange” means the TSXV or any other stock exchange on which the Shares are listed for trading at the relevant time;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: V.“Subsidiary” means a subsidiary of the Corporation as determined under the Act;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 3W.“Termination” means: (i) in the case of a director, the termination of board membership of the ...r, the termination of the services of the Eligible Contractor by the Corporation or any Affiliate;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Y.“TSXV” means the TSX Venture Exchange; and</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Z.“Voting Securities” means any securities of the Corporation ordinarily carrying the right to vot... provided, all references to dollar amounts in this Plan are references to lawful money of Canada.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE 2</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: PURPOSE AND ADMINISTRATION OF THE PLAN</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 2.1This Plan provides for the granting of Share Unit Awards and the settlement of such Share Unit ... unless and until the Share Units have been allocated to a particular Participant or Participants.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE 3</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SHARE UNITS AWARDS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 3.1This Plan is hereby established for employees, officers and Eligible Contractors of the Corpora... grant letter.3.10The Board shall establish criteria for the grant of Share Units to Participants.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE 4</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ADDITIONAL PROVISION FOR TREASURY BASED SHARE ISSUANCES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 4.1Article 4 shall become effective only on receipt by the Corporation of any Stock Exchange appro...al, if required, by any Stock Exchange having jurisdiction over the securities of the Corporation.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE 5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: WITHHOLDING TAXES</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 5.1The Corporation or its Affiliates may take such steps as are considered necessary or appropriat...4.4 whatsoever to withhold in connection with any payment made, or Shares issued, under this Plan.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">ArticleElement (level=1)</span>
+  <span class="element-content">: ARTICLE 6</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: GENERAL6.1This Plan shall remain in effect until it is terminated by the Board.6.2The Board may am... the Province of British Columbia and the federal laws of Canada applicable therein.            10</span>
+</div>
+    </div>
+</body>
+</html>

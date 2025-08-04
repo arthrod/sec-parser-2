@@ -1,0 +1,237 @@
+Heading (L1): EMPLOYMENT AGREEMENT
+`-- Content: This Employment Agreement ("Agreement") is between SunOpta Inc. (such entity together with all past,...
+
+--- (Additional Root Structure) ---
+Heading (L1): 1. EMPLOYMENT
+`-- Content: This Agreement commences January 19, 2024 ("Effective Date") and shall continue in effect until term...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2. TITLE AND EXCLUSIVE SERVICES
+|-- Content: (a) Title and Duties.  Employee's title is Chief Customer Officer, and Employee will perform job dut...
+`-- Content: (b) Exclusive Services. Employee shall not be employed or render services elsewhere during the emplo...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3. COMPENSATION AND BENEFITS
+|-- Content: (a) Base Salary.  Employee shall be paid an annualized salary of Three Hundred Sixty-Five Thousand D...
+|-- Content: (b) Short Term Incentive. Eligibility for the annual Short-Term Incentive is based upon a fifty perc...
+|-- Content: (c) Long Term Incentive. Employee is eligible for participation in the Long-Term Incentive Plan at a...
+`-- Content: (d) Special Equity Grants. Employee will be awarded a one-time equity award of 50,000 restricted sto...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____
+
+
+
+Additionally, Employee will have the opportunity ...
+
+--- (Additional Root Structure) ---
+Content: (e) Employment Benefit Plans.  Employee may participate in all employee welfare benefit plans in whi...
+
+--- (Additional Root Structure) ---
+Content: (f) Vacation.  Employee is eligible for Paid Time Off in accordance with Company policy.
+
+--- (Additional Root Structure) ---
+Content: (g) Expenses. Company will reimburse Employee for business expenses consistent with past practices a...
+
+--- (Additional Root Structure) ---
+Content: (h) Withholdings and Deductions.  Company will deduct or withhold from any payment made or benefit p...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4. NONDISCLOSURE OF TRADE SECRETS AND OTHER CONFIDENTIAL INFORMATION
+|-- Content: (a) For purposes of this Agreement, "Trade Secret" shall mean all forms and types of financial, busi...
+`-- Content: (b) For purposes of this Agreement, "Confidential Information" is defined as the confidential and pr...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____
+
+
+
+(c) During the term of Employee's employment by C...
+
+--- (Additional Root Structure) ---
+Content: (d) Employee hereby promises, covenants, and agrees (i) to not use any Trade Secret, Confidential In...
+
+--- (Additional Root Structure) ---
+Content: (e) Employee acknowledges that such Trade Secrets and Confidential Information is proprietary and ag...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____
+
+
+
+(f) In the event Employee is requested to disclos...
+
+--- (Additional Root Structure) ---
+Content: (g) Pursuant to 18 U.S.C. § 1833(b), Employee shall not be held criminally or civilly liable under a...
+
+--- (Additional Root Structure) ---
+Content: (h) The terms of this Section 4 with respect to Company trade secrets shall survive the expiration o...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5. DUTY OF LOYALTY DURING EMPLOYMENT
+`-- Content: (a) Duty of Loyalty. Employee owes Company an undivided duty of loyalty during the term of Employee'...
+
+--- (Additional Root Structure) ---
+Heading (L1): 6. OWNERSHIP OF MATERIALS
+|-- Content: (a) Ownership. Employee agrees that all inventions, improvements, discoveries, designs, technology, ...
+`-- Content: (b) Assignment.  In consideration of Employee's employment or continued employment by Company, the c...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____
+
+
+
+(1) Any provision in an employment agreement whic...
+
+--- (Additional Root Structure) ---
+Content: (2) To the extent a provision in an employment agreement purports to require an employee to assign a...
+
+--- (Additional Root Structure) ---
+Content: (c) Employee understands that the Works may be modified or altered and expressly waives any rights o...
+
+--- (Additional Root Structure) ---
+Content: (d) Third Party Information.  Employee shall not improperly use for the benefit of, bring to any pre...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____
+
+--- (Additional Root Structure) ---
+Heading (L1): 7. TERMINATION.
+`-- Content: In the event Employee is terminated without Cause, the Company Severance Pay Plan will apply.  "Caus...
+
+--- (Additional Root Structure) ---
+Heading (L1): 8. NON-DISPARAGEMENT
+`-- Content: During and at any time after Employee's employment with Company, Employee shall not, directly or ind...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9. CONFLICTS OF INTEREST
+`-- Content: Employee acknowledges familiarity with Company policies on conflicts of interest and warrants that E...
+
+--- (Additional Root Structure) ---
+Heading (L1): 10. INDEMNIFICATION
+`-- Content: Company shall defend and indemnify Employee for acts committed in the course and scope of employment...
+
+--- (Additional Root Structure) ---
+Heading (L1): 11. DISPUTE RESOLUTION
+`-- Content: (a) Arbitration.  This Agreement is governed by the Federal Arbitration Act, 9 U.S.C. § 1 et seq. an...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____
+
+
+
+(b) Injunctive Relief.  A party may apply to a co...
+
+--- (Additional Root Structure) ---
+Content: (c) This Section 11 is the full and complete agreement relating to the formal resolution of employme...
+
+--- (Additional Root Structure) ---
+Content: (d) This Section 11 shall survive the expiration or termination of this Agreement for any reason.
+
+--- (Additional Root Structure) ---
+Content: Employee Initials: _________
+Company Initials: ________ 12. MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Content: (a) Entire Agreement. This Agreement contains the entire agreement of the parties and supersedes any...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 7
+
+
+ 
+ 
+
+Initials:
+Company: ____
+Employee: ____
+
+
+
+(b) Reasonable Restrictions; Severability. Compan...
+
+--- (Additional Root Structure) ---
+Content: (c) Headings. The headings in this Agreement are inserted for convenience of reference only and shal...
+
+--- (Additional Root Structure) ---
+Content: (d) Governing Law and Jurisdiction. This Agreement shall be governed in all respects by the internal...
+
+--- (Additional Root Structure) ---
+Content: Upon full execution by all parties, this Agreement shall be effective on the Effective Date in Secti...
+
+--- (Additional Root Structure) ---
+Heading (L1): EMPLOYEE:
+`-- Content: /s/ Chad Hagen
+Date:  1/23/2024
+
+
+Chad Hagen
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+COMPANY:
+ 
+
+
+ 
+ 
+
+
+/s/ Jill Barnett
+Dat...

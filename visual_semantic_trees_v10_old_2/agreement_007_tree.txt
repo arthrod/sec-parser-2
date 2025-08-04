@@ -1,0 +1,23 @@
+AGREEMENT: This Repurchase Agreement is entered into as of this
+___th day of January 2024, by and among AB Inte...
+
+--- (Additional Root Structure) ---
+AGREEMENT: AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 1
+
+--- (Additional Root Structure) ---
+Heading (L1): REPURCHASE AND SALE OF SHARES
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 2
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS AND WARRANTIES
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 3
+
+--- (Additional Root Structure) ---
+Heading (L1): MISCELLANEOUS

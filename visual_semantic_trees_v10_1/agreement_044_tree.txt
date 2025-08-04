@@ -1,0 +1,486 @@
+TextElement (Lvl: ?): Field: /Rule-Page Exhibit 10.23
+
+--- (Additional Root Structure) ---
+Heading (L1): DEVELOPMENT, EVALUATION, AND OPTION AGREEMENT
+`-- Content: THIS DEVELOPMENT, EVALUATION, AND OPTION AGREEMENT (this "Agreement"), dated as of the date last wri...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, Company is in the business of developing, selling and distributing proprietary product pack...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth and fo...
+
+--- (Additional Root Structure) ---
+Content: (a)
+“Affiliate” means any other Person that directly or indirectly, through one or more intermediari...
+
+--- (Additional Root Structure) ---
+Content: (b)
+“Background Intellectual Property” means a Party’s pre-existing know-how, technology and process...
+
+--- (Additional Root Structure) ---
+Content: (c)
+“Change of Control” means with respect to a Party, a change of the Person that has control, dire...
+
+--- (Additional Root Structure) ---
+Content: (d)
+“Claim” means any claim, suit, action or proceeding by any Person.
+
+--- (Additional Root Structure) ---
+Content: (e)
+“Commercially Reasonable Efforts” means the carrying out of a Party’s obligations under this Agr...
+
+--- (Additional Root Structure) ---
+Content: (f)
+“Commercial Line Machines” means all machines commercially manufactured for Company in accordanc...
+
+--- (Additional Root Structure) ---
+Content: (g)
+“Company Technology” means all Intellectual Property Rights underlying the Company Packaging, or...
+
+--- (Additional Root Structure) ---
+Content: (h)
+“Supplier Technology” means any drawings, information, data, results, improvements, inventions (...
+
+--- (Additional Root Structure) ---
+Content: (i)
+"Confidential Information" means any information that is treated as confidential by either Party...
+
+--- (Additional Root Structure) ---
+Content: (j)
+“Intellectual Property Rights” means Patents, Marks, copyrights, trade secrets and similar intan...
+
+--- (Additional Root Structure) ---
+Content: (k)
+"Law" means any statute, Law, ordinance, regulation, rule, code, order, constitution, treaty, co...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2
+
+ 
+
+
+
+(l)
+"Loss" means all losses, damages, liabilities, deficiencies, Claims, judgments, settleme...
+
+--- (Additional Root Structure) ---
+Content: (m)
+“Marks” means trademarks, service marks, trade dress, trade names, logos and slogans, whether re...
+
+--- (Additional Root Structure) ---
+Content: (n)
+“Patent” means patent(s) or patent application(s) (including, but not limited to, all divisional...
+
+--- (Additional Root Structure) ---
+Content: (o)
+"Person" means a natural person, corporation, partnership, joint venture, limited liability comp...
+
+--- (Additional Root Structure) ---
+Content: (p)
+“Lead Line” means a prototype machine capable of manufacturing the Company Packaging, which shal...
+
+--- (Additional Root Structure) ---
+Content: (q)
+“Representatives” means a Party's and its Affiliates' employees, officers, directors, consultant...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.
+Lead Line Project Development Obligations.
+
+--- (Additional Root Structure) ---
+Content: 2.1
+Supplier Services. Supplier shall provide Company the Services as set forth in this Agreement in...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.1.1Supplier shall use
+    Commercially Reasonable Efforts to meet the project deadlines and achiev...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.1.2With Company’s cooperation as
+    set forth below, Supplier shall prepare and deliver to Compan...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3
+
+ 
+2.1.3The Services shall be subject
+    to and performed in accordance with Supplier’s standard ...
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.1.4
+|-- Content: At the completion of the
+    Shakedown Milestone (as identified on Exhibit A) and, prior to shipping...
+`-- Content: 2.2
+Duties and Cooperation. Company hereby agrees to cooperate with Supplier as reasonably necessary...
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2.1
+`-- Content: Subject to Section 3,
+    Each Party shall share and provide reasonable access to all of the Backgro...
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2.2
+`-- Content: The Parties shall work
+    exclusively together during the Term of this Agreement. Supplier shall no...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2.3
+`-- Content: The Parties shall establish
+    a management team for management of each Parties’ obligations under ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.
+Intellectual Property Rights.
+
+--- (Additional Root Structure) ---
+Content: 3.1
+Lead Line. Supplier agrees that the Services are provided on a work-for-hire basis, and that all...
+
+--- (Additional Root Structure) ---
+Content: 3.2
+Fameccanica Design Package. Supplier agrees that the Fameccanica Design Package shall be provide...
+
+--- (Additional Root Structure) ---
+Content: 3.3
+No License to P&G Technology. Nothing in this Agreement shall be construed as granting Supplier ...
+
+--- (Additional Root Structure) ---
+Content: 3.4
+License of Supplier Technology. Supplier grants to Company a perpetual, non-exclusive, non-subli...
+
+--- (Additional Root Structure) ---
+Content: 3.5
+Company Technology. Company shall maintain exclusive ownership of the Company Technology, and an...
+
+--- (Additional Root Structure) ---
+Content: 3.6
+Supplier Technology. Supplier shall maintain exclusive ownership of the Supplier Technology, and...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5
+
+ 
+
+
+
+3.7
+General. Other than as expressly set forth in this Agreement, nothing shall be construed...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.
+Evaluation and Commercial Supply Agreement.
+
+--- (Additional Root Structure) ---
+Content: 4.1
+Lead Line Success Criteria. Supplier shall meet all lead line technical success criteria as desc...
+
+--- (Additional Root Structure) ---
+Content: 4.2
+Commercial Supply Agreement. Upon achievement of a Lead Line Success as set forth in Section 4.1...
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.
+Term and Termination.
+|-- Content: 5.1
+Term. This Agreement shall commence on the Effective Date and shall remain in effect through the...
+|-- Content: 5.2
+Termination by Company for Convenience;. The Company may terminate this Agreement at any time af...
+|-- Content: 5.3
+Termination for Force Majeure Event. Either Party may terminate this Agreement due to a Force Ma...
+`-- Content: 5.4
+Termination for Breach. If a Party (the “Breaching Party”) is in breach of any material obligati...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6
+
+ 
+
+
+
+5.5
+Termination for Insolvency of Party. If either Party shall have a receiver or insolvency...
+
+--- (Additional Root Structure) ---
+Content: 5.6
+Termination for Commercial Supply Agreement. In the event the Parties enter into a Commercial Su...
+
+--- (Additional Root Structure) ---
+Content: 5.7
+No Effect on Accrued Rights. The Parties agree that expiration or any termination of this Agreem...
+
+--- (Additional Root Structure) ---
+Content: 5.8
+Effect of Termination. Upon the expiration or termination of this Agreement, all rights and obli...
+
+--- (Additional Root Structure) ---
+Content: 5.9
+Survival. The rights and obligations of the Parties set forth in Section 1 (Definitions), Sectio...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 7
+
+ 
+
+
+
+6.
+Confidentiality.
+
+--- (Additional Root Structure) ---
+Content: 6.1
+Confidentiality Obligations. Each Party (the “Receiving Party”) acknowledges that in connection ...
+
+--- (Additional Root Structure) ---
+Content: 6.2
+Exceptions. If the Receiving Party becomes legally compelled to disclose any Confidential Inform...
+
+--- (Additional Root Structure) ---
+Heading (L2): 7.
+Representations and Warranties.
+|-- Content: 7.1
+Mutual. Each Party represents and warrants to the other Party that: (a) it is duly organized, va...
+`-- Content: 7.2
+By Company. Company represents and warrants to Supplier and its Affiliates that: (a) it is the s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 8
+
+ 
+
+
+
+7.3
+By Supplier. Supplier represents and warrants to Company and its Affiliates that: (a) it...
+
+--- (Additional Root Structure) ---
+Content: 7.4
+Warranty Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS AGREEMENT, EACH PARTY D...
+
+--- (Additional Root Structure) ---
+Heading (L2): 8.
+Indemnification.
+|-- Content: 8.1
+By Company. Company shall indemnify, defend and hold harmless Supplier and its Affiliates, and i...
+|-- Content: 8.2
+By Supplier. Supplier shall indemnify, defend and hold harmless Company and its Affiliates, and ...
+`-- Content: 8.3
+Indemnification Procedure. The indemnified Party shall promptly notify the indemnifying Party in...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 9
+
+ 
+
+
+
+8.4
+Limits on Liability. IN NO EVENT SHALL EITHER PARTY OR EACH OF ITS AFFILIATES AND EACH O...
+
+--- (Additional Root Structure) ---
+Content: 9.
+Notices. All notices required to be given under this Agreement shall be in writing and shall be d...
+
+--- (Additional Root Structure) ---
+Content: SUPPLIER:
+
+
+Fameccanica.Data S.p.A.
+Attn: Rocco Amicone
+Via Aterno 136, 66020
+Sambuceto di S.G.T. (C...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10.
+Assignment.
+
+--- (Additional Root Structure) ---
+Content: 10.1
+By Supplier. Supplier may not, without the prior written consent of Company, assign or otherwis...
+
+--- (Additional Root Structure) ---
+Content: 10.2
+By Company. Company may freely assign its rights and obligations and delegate its duties under ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10
+
+ 
+
+
+
+10.3
+Effect of Assignment. No delegation or other transfer will relieve a Party of any of i...
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.
+Governing Law; Dispute Resolution.
+`-- Content: 11.1
+Governing Law; Language. This Agreement and all related documents, and all matters arising out ...
+
+--- (Additional Root Structure) ---
+Heading (L2): 11.2
+Dispute Resolution.
+`-- Content: 11.2.1
+Mediation. The Parties shall use their respective best efforts to negotiate and resolve in go...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 11
+
+ 
+
+
+
+11.2.2
+Arbitration. Any Dispute that is not amicably settled by the Parties shall be exclus...
+
+--- (Additional Root Structure) ---
+Content: 11.2.3
+Enforcement; Consent to Jurisdiction; Service of Process. Judgment on the Arbitration Decisio...
+
+--- (Additional Root Structure) ---
+Content: 11.2.4
+Waiver of Jury Trial. Each Party irrevocably and unconditionally waives any right it may have...
+
+--- (Additional Root Structure) ---
+Content: 11.2.5
+Equitable Relief. Each Party acknowledges that a breach by the other Party of this Agreement ...
+
+--- (Additional Root Structure) ---
+Content: 11.2.6
+Attorneys’ Fees. In the event that any Dispute results in an Arbitration, or in any action, s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12
+
+--- (Additional Root Structure) ---
+Heading (L2): 12.
+Miscellaneous.
+|-- Content: 12.1
+Independent Contractors. The relationship between the Parties is that of independent contractor...
+|-- Content: 12.2
+Compliance with Laws. Each Party will comply with all applicable Laws related to the exercise o...
+|-- Content: 12.3
+Force Majeure. Neither Party shall be liable or responsible to the other Party, nor be deemed t...
+|-- Content: 12.4
+Entire Agreement. This Agreement, together with its preamble, recitals and all exhibits, schedu...
+`-- Content: 12.5
+Amendment; Modification; Waiver. This Agreement may only be amended, modified, or supplemented ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 13
+
+ 
+
+
+
+12.6
+Severability. If any term or provision of this Agreement is invalid, illegal, or unenf...
+
+--- (Additional Root Structure) ---
+Content: 12.7
+Interpretation. The headings and sub-headings in this Agreement are inserted for convenience of...
+
+--- (Additional Root Structure) ---
+Content: 12.8
+Binding Effect. This Agreement shall not be binding upon the Parties until it has been signed b...
+
+--- (Additional Root Structure) ---
+Content: 12.9
+No Third-Party Beneficiaries. Other than as expressly otherwise set forth in this Agreement, th...
+
+--- (Additional Root Structure) ---
+Content: 12.10
+Further Assurances. Each Party shall, upon the reasonable request, and at the sole cost and ex...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 14
+
+ 
+
+
+
+12.11
+Counterparts. This Agreement may be executed in counterparts, each of which shall be ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature page follows]
+15
+
+ 
+[Signature Page to Development, Evaluation and Option Agreement]IN WI...
+
+--- (Additional Root Structure) ---
+Heading (L1): COMPANY:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): AeroFlexx LLC, a Delaware limited liability company
+
+By:
+/s/Andrew Meyer
+ 
+
+
+
+ 
+Name:
+Andrew Meyer
+ ...
+
+--- (Additional Root Structure) ---
+Heading (L1): SUPPLIER:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Fameccanica.Data S.p.A., an Italian corporation
+
+By:
+/s/ Giampiero de Angelis
+ 
+
+
+
+ 
+Name:
+ Giampier...
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT A
+
+--- (Additional Root Structure) ---
+Heading (L1): LEAD LINE PROJECT PLAN
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 17
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT B
+
+--- (Additional Root Structure) ---
+Heading (L1): SUPPLY TERMS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 18
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT C
+
+--- (Additional Root Structure) ---
+Heading (L1): KEY SUCCESS CRITERIA
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 19
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT D
+
+--- (Additional Root Structure) ---
+Heading (L1): COMMERCIAL SUPPLY AGEEMENT FRAMEWORK
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 20

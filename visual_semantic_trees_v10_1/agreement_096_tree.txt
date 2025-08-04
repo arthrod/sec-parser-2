@@ -1,0 +1,60 @@
+TextElement (Lvl: ?): Exhibit
+10.1AMENDMENTTHIS
+AMENDMENT to the Note (as defined below) (the “Amendment”) is entered into...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): BACKGROUNDA.
+The Company and Holder are the parties to that certain promissory note in the original ...
+
+--- (Additional Root Structure) ---
+Content: B.
+The Parties desire to amend the Note as set forth expressly below.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW
+THEREFORE, in consideration of the execution and delivery of the Amendment and other good and va...
+
+--- (Additional Root Structure) ---
+Content: 2.
+In connection with the Note Additional Funding, the Company shall issue a common stock purchase w...
+
+--- (Additional Root Structure) ---
+Content: 3.
+Section 4.6 of the Note shall apply to this Amendment.
+
+--- (Additional Root Structure) ---
+Content: 4.
+This Amendment may be executed in two or more counterparts, each of which when so executed and de...
+
+--- (Additional Root Structure) ---
+Content: 5.
+This Amendment shall be deemed part of, but shall take precedence over and supersede any provisio...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature
+page to follow] Field: /Page IN
+WITNESS WHEREOF, the parties hereto have executed this Am...
+
+--- (Additional Root Structure) ---
+Content: Clearday,
+    Inc.
+ 
+Mast Hill Fund, L.P.
+
+ 
+ 
+ 
+ 
+ 
+
+By:
+/s/
+    James Walesa
+ 
+By:
+/s/ Patrick
+   ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Exhibit
+A(see attached) Field: /Page

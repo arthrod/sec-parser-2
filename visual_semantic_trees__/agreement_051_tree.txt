@@ -1,0 +1,138 @@
+Heading (L1): Mr. Thomas Bartrum
+
+--- (Additional Root Structure) ---
+Heading (L1): January 25, 2024
+
+--- (Additional Root Structure) ---
+AGREEMENT: Re: Transition and Release of Claims Dear Thomas:
+
+--- (Additional Root Structure) ---
+Heading (L2): 1.Transition.
+|-- Heading (L3): a.You and the Company acknowledge and agree that you will separate from the Company and its subsidia...
+`-- Heading (L3): b.During the Transition Period, you will (i) serve the Company in such capacities and perform such d...
+
+--- (Additional Root Structure) ---
+Heading (L1): the “Transition Services”). For the avoidance of doubt, effective as of the Transition Date, you wil...
+
+--- (Additional Root Structure) ---
+Exhibit Exhibit A
+
+--- (Additional Root Structure) ---
+Heading (L2): 3.Restrictive Covenants. You acknowledge that the Company is providing you with the Transition Benef...
+
+--- (Additional Root Structure) ---
+Heading (L1): thereafter, in the case of the Noncompete Period, and two (2) years thereafter, in the case of the n...
+|-- Heading (L2): 4.Return of Property. You shall return to the Company all Company property as soon as reasonably pos...
+|-- Heading (L2): 5.Confidentiality. You agree and covenant not disclose any of the terms of or amount paid under this...
+|-- Heading (L2): 6.Non-Disparagement. You acknowledge and agree that you will not make any negative statement, writte...
+|-- Heading (L2): 7.Release. The Transition Benefits are contingent upon and subject to your execution and non-revocat...
+`-- Heading (L2): You further agree that, in consideration of your continued employment through the Transition Period,...
+
+--- (Additional Root Structure) ---
+Heading (L1): Act, the Genetic Information Nondiscrimination Act of 2008, The False Claims Act, The Virginians wit...
+`-- Heading (L2): This release shall not apply to: the Company’s obligations under this Letter Agreement, your right t...
+
+--- (Additional Root Structure) ---
+Heading (L1): Relations Act; your vested rights under any retirement or welfare benefit plan of the Company; your ...
+|-- Heading (L2): Notwithstanding anything in this Letter Agreement to the contrary, nothing contained in this Letter ...
+|-- Heading (L2): 8.Section 409A. This Letter Agreement is intended to comply with Section 409A of the Internal Revenu...
+`-- Heading (L2): 9.Acknowledgments. You specifically agree and acknowledge that: (a) you have read this Letter Agreem...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5US-LEGAL-12547451
+
+--- (Additional Root Structure) ---
+Heading (L1): you are executing this Letter Agreement, including the waiver and release herein, in exchange for go...
+`-- Heading (L2): 10.Entire Agreement; Miscellaneous. This Letter Agreement sets forth the entire agreement between yo...
+
+--- (Additional Root Structure) ---
+Heading (L1): [signature page follows]
+
+--- (Additional Root Structure) ---
+Heading (L1): 6US-LEGAL-12547451
+`-- Heading (L3): Please indicate your acceptance of the terms and provisions of this Letter Agreement by signing both...
+
+--- (Additional Root Structure) ---
+Heading (L1): Very truly yours,
+
+--- (Additional Root Structure) ---
+Heading (L1): /s/ Parth Mehrotra
+
+--- (Additional Root Structure) ---
+Heading (L1): Parth Mehrotra, Chief Executive Officer On behalf of Privia Health Group, Inc.
+
+--- (Additional Root Structure) ---
+Heading (L1): /s/ Parth Mehrotra
+
+--- (Additional Root Structure) ---
+Heading (L1): Parth Mehrotra, Chief Executive Officer On behalf of Privia Health, LLC Signature Page to Transition...
+
+--- (Additional Root Structure) ---
+Heading (L1): Agreed, Acknowledged and Accepted as of the first date set forth above:
+
+--- (Additional Root Structure) ---
+Heading (L1): /s/ Thomas Bartrum
+
+--- (Additional Root Structure) ---
+Heading (L1): Thomas Bartrum
+
+--- (Additional Root Structure) ---
+Heading (L1): US-LEGAL-12547451
+
+--- (Additional Root Structure) ---
+AGREEMENT: RELEASE OF CLAIMS AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L4): THE EMPLOYEE IS ADVISED TO CONSULT WITH AN ATTORNEY BEFORE SIGNING THIS RELEASE OF CLAIMS.
+
+--- (Additional Root Structure) ---
+Heading (L2): This release of claims agreement (this “Release”), entered into between Thomas Bartrum (the “Employe...
+
+--- (Additional Root Structure) ---
+Heading (L2): 1.General Release of Claims.
+`-- Heading (L3): In consideration of the Transition Benefits to be made pursuant to and which are defined in that cer...
+
+--- (Additional Root Structure) ---
+Heading (L1): disability, life, or any other insurance, 401(k), pension, or other retirement plan or benefits, or ...
+`-- Heading (L2): 2.Specific Release of ADEA Claims.
+    `-- Heading (L3): In further consideration of the payments and benefits provided to the Employee in this Release, the ...
+
+--- (Additional Root Structure) ---
+Heading (L1): A-2US-LEGAL-12547451
+
+--- (Additional Root Structure) ---
+Heading (L1): advised of and has availed himself of Employee’s right to consult with Employee’s attorney prior to ...
+|-- Clause (7): days from the date he signs this Release to revoke the release in this paragraph by delivering notic...
+`-- Heading (L2): 3.Claims not Released.
+    |-- Heading (L3): This release shall not apply to: the Company’s obligations to provide the Transition Benefits; the E...
+    `-- Heading (L3): Notwithstanding anything in this Release to the contrary, nothing contained in this Release shall pr...
+
+--- (Additional Root Structure) ---
+Heading (L1): A-3US-LEGAL-12547451
+
+--- (Additional Root Structure) ---
+Heading (L1): suspected violation of law or (y) in a complaint or other document filed in a lawsuit or other proce...
+|-- Heading (L2): 4.Governing Law. This Release shall be in all respects interpreted, enforced and governed under the ...
+`-- Heading (L2): 5.Knowing and Voluntary Acknowledgment.
+    |-- Heading (L3): The Employee specifically agrees and acknowledges that: (a) the Employee has read this Release in it...
+    |-- Heading (L3): The Employee further acknowledges that he has had twenty-one (21) days to consider the terms of this...
+    `-- Heading (L3): This Release shall not become effective until the eighth (8th) day after the Employee executes this ...
+
+--- (Additional Root Structure) ---
+Heading (L1): [signature page follows]
+
+--- (Additional Root Structure) ---
+Heading (L1): A-4US-LEGAL-12547451
+
+--- (Additional Root Structure) ---
+Heading (L1): Sign only on or within twenty-one (21) days after May 31, 2024.
+
+--- (Additional Root Structure) ---
+Heading (L1): Agreed, acknowledged and accepted as of the date set forth below:
+
+--- (Additional Root Structure) ---
+Heading (L1): Thomas Bartrum
+`-- Heading (L2): Date:
+
+--- (Additional Root Structure) ---
+Heading (L1): US-LEGAL-12547451    Signature Page to Release of Claims Agreement

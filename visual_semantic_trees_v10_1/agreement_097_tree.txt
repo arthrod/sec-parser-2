@@ -1,0 +1,133 @@
+TextElement (Lvl: ?): Exhibit 10.3
+
+--- (Additional Root Structure) ---
+Heading (L1): PRIVATE WARRANT UNDERTAKING AGREEMENT
+`-- Content: This
+AGREEMENT (this "Agreement"), dated as of January 29, 2024, is made by and among Pegasus Digita...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS,
+Pegasus, the Company, TopCo, and Pegasus MergerSub Corp., a Cayman Islands exempted company...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page NOW,
+THEREFORE, in consideration of the premises and the mutual promises contained here...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.UNTERTAKING TO CASHLESS EXERCISE PRIVATE WARRANTS AT $18.00
+|-- Content: Unless previously exercised or redeemed,
+each of the Sponsor and each of the Insider Parties in its ...
+`-- Heading (L2): 3.Termination
+    `-- Content: This Agreement shall terminate and be
+void and of no further force and effect, and all rights and ob...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.No RecourseNotwithstanding anything to the contrary
+contained herein or otherwise, but without lim...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+5.Fiduciary DutiesNotwithstanding anything in this Agreement
+to the contrary, (a) the ...
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.Representations and Warranties
+`-- Content: Each of the parties hereto represents
+and warrants that (a) it has the power and authority, or capac...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 7.No Third Party BeneficiariesThis Agreement shall be for the sole
+benefit of the Parties and their ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+8.Further AssurancesEach of the Parties hereto is entitled
+to rely upon this Agreement...
+
+--- (Additional Root Structure) ---
+Heading (L2): 9.Notices
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Any notice or communication required
+or permitted hereunder shall be in writing and either delivered...
+
+--- (Additional Root Structure) ---
+Heading (L2): If to Sponsor:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Pegasus Digital Mobility Sponsor LLC Attention: Jim CondonE-mail: jcondon@stratcap.comwith a require...
+
+--- (Additional Root Structure) ---
+Heading (L2): If to Pegasus:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Pegasus Digital Mobility Acquisition
+Corp.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Attn:Jeremey Mistry and Stefan
+Berger Email:jmistry@pegasusdm.com; sberger@pegasusdm.com Field: /Pag...
+
+--- (Additional Root Structure) ---
+Heading (L2): If to the Company:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Gebr.
+Schmid GmbH
+
+--- (Additional Root Structure) ---
+Content: Robert-Bosch-Str.
+32-36 72250 Freudenstadt
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): GermanyAttn:Christian Schmid, Anette
+Schmid and Julia Natterer Email:natterer.ju@schmid-group.com;
+
+...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+11.Incorporation by ReferenceSections
+1.2 (Construction); 12.3 (Assignment); 12.6 (Gov...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [signature pages follow] Field: /Page IN
+WITNESS WHEREOF, each of the Parties has caused this Agreem...
+
+--- (Additional Root Structure) ---
+Content: PEGASUS DIGITAL MOBILITY ACQUISITION
+    CORP.
+ 
+
+ 
+ 
+
+By:
+/s/ F. Jeremey Mistry                    ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): INSIDERS:
+`-- Content: By:
+/s/ 
+    Sir Ralf Speth
+ 
+
+ 
+Name: Sir Ralf Speth
+ 
+
+ 
+ 
+
+By:
+/s/  F. Jeremy Mistry
+ 
+
+ 
+Name: F...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page

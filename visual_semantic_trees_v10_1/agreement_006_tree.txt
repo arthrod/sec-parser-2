@@ -1,0 +1,43 @@
+TextElement (Lvl: ?): Exhibit 10(a)11
+
+--- (Additional Root Structure) ---
+Heading (L1): AMENDMENT NO. 3
+
+--- (Additional Root Structure) ---
+Heading (L1): TO THE
+
+--- (Additional Root Structure) ---
+Heading (L1): DEFINED CONTRIBUTION RESTORATION PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): OF ENTERGY CORPORATION AND SUBSIDIARIES
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (As Amended and Restated Effective January 1, 2009)THIS AMENDMENT, executed this 13th day of Decembe...
+
+--- (Additional Root Structure) ---
+Content: All capitalized terms used in this Amendment No. 3 shall have the meanings assigned to them in the P...
+
+--- (Additional Root Structure) ---
+Content: Pursuant to Section 10.01 of the Plan and in accordance with the Resolutions of the Board of Directo...
+
+--- (Additional Root Structure) ---
+Heading (L2): Definitions.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.All references in the Plan to “Personnel Committee” shall mean and are replaced with “Talent and C...
+
+--- (Additional Root Structure) ---
+Content: Where not inconsistent herewith, all the terms and provisions of the Plan shall remain in full force...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1    IN WITNESS WHEREOF, this Amendment is executed on the day, month and year set forth above.
+
+--- (Additional Root Structure) ---
+Heading (L1): ENTERGY CORPORATION
+
+--- (Additional Root Structure) ---
+Heading (L1): TALENT AND COMPENSATION COMMITTEE
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): through the undersigned duly authorized representative_/s/ Kathryn Collins__________________________...

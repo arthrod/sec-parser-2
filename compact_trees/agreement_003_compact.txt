@@ -1,0 +1,22 @@
+Total parsed elements: 20
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.5
+  2. HeadingElement (level=1): EXECUTION VERSION
+  3. HeadingElement (level=1): INTELLECTUAL PROPERTY LICENSE AGREEMENT
+  4. ContentTextElement (level=4): This INTELLECTUAL PROPERTY LICENSE AGREEMENT (this “Agreement”) is made and entered into as of as of January 12, 2024 (the “Effective Date”), by and between, on the one hand, Cementos Argos S.A., soci
+  5. HeadingElement (level=1): RECITALS
+  6. TextElement (level=N/A): WHEREAS, Cementos Argos and Summit Materials have entered into a Transaction Agreement, dated as of September 7, 2023 (as amended, modified, supplemented or restated from time to time, the “Transactio
+  7. HeadingElement (level=2): Article I   DEFINITIONS
+  8. TextElement (level=N/A): Section 1.1   Definitions. The following terms, as used herein, have the following meanings; provided that, capitalized terms used but not otherwise defined in this Agreement shall have the respective
+  9. HeadingElement (level=1): TRADEMARK LICENSE
+  10. TextElement (level=N/A): Section 3.1   Trademark License. Subject to the terms and conditions of this Agreement, Cementos Argos (on behalf of itself and its Subsidiaries) hereby grants to Summit Materials and its Subsidiaries
+  11. HeadingElement (level=1): REPRESENTATIONS AND WARRANTIES
+  12. TextElement (level=N/A): Section 6.1   Mutual Representations and Warranties. Each Party represents and warrants to the other Party that, as of the Effective Date: (a) such Party is duly organized and validly existing under t
+  13. HeadingElement (level=2): Section 7.2   Termination; Expiration.
+  14. TextElement (level=N/A): (a)   Subject to Section 7.3, this Agreement shall expire in its entirety automatically upon the expiration of each of the Non-Trademark IP Licenses, the Trademark License and the licenses granted to 
+  15. HeadingElement (level=2): Article X   GENERAL PROVISIONS
+  16. TextElement (level=N/A): Section 10.1   Assignment; SM Control Event.(a)   Summit Materials may not assign this Agreement or any of its rights or obligations hereunder to any Person without the prior written consent of Cement
+  17. HeadingElement (level=2): To Cementos Argos:
+  18. TextElement (level=N/A): Cementos Argos S.A.[***] Attention: [***] Email: [***]with a copy (which shall not constitute notice) to:Sullivan & Cromwell LLP[***] Attention: [***] Email: [***] Field: /Page
+  19. HeadingElement (level=2): To Summit Materials or the Transferred Company:
+  20. TextElement (level=N/A): Summit Materials, Inc. [***] [***] Attention: [***] E-mail: [***]with a copy (which shall not constitute notice) to:Davis Polk & Wardwell LLP [***] [***] Attention: [***]Email: [***]Section 10.6   Rel

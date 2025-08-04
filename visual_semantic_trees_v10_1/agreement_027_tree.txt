@@ -1,0 +1,305 @@
+TextElement (Lvl: ?): Exhibit 10.1
+Business Loan and Security AgreementFebruary 6th, 2024
+This Business Loan and Security ...
+
+--- (Additional Root Structure) ---
+Content: Borrower:
+
+APPLIED UV, INC, a Delaware corporation.
+    STERILUMEN INC
+MUNN WORKS LLC
+
+Lender:
+CEDAR...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page Interest RateThe interest rate disclosed on
+th...
+
+--- (Additional Root Structure) ---
+Content: The APR equals a single percentage
+number that represents the actual yearly cost of funds over the t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Disbursement AmountThe Disbursement Amount is the Amount of Loan minus the Origination
+Fee and the p...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): FeesThe Origination Fee is deducted at the time of disbursement.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Total Repayment AmountThe Total Repayment Amount includes the Amount of Loan plus
+the Interest Charg...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Loan Pricing DisclosureLender uses a system of risk-based pricing to determine
+interest charges and ...
+
+--- (Additional Root Structure) ---
+Content: Although Lender believes that
+its loan process provides expedited turnaround time and its underwriti...
+
+--- (Additional Root Structure) ---
+Heading (L1): LOAN FOR SPECIFIC PURPOSES ONLY
+|-- Content: The proceeds of the requested Loan
+may solely be used for the specific purposes as set forth in the ...
+|-- Content: 1. INTRODUCTION.
+This Business Loan and Security Agreement (together with the accompanying Business ...
+|-- Content: 2. EFFECTIVE
+DATE. This Agreement begins on the date we accept this Agreement. Borrower understands ...
+`-- Content: 3. AUTHORIZATION.
+Borrower agrees that the Loan made by Lender to Borrower shall be conclusively dee...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page 4. LOAN
+FOR SPECIFIC PURPOSES ONLY. The procee...
+
+--- (Additional Root Structure) ---
+Content: 5. DISBURSEMENT OF LOAN PROCEEDS AND
+MAINTENANCE OF BORROWER’S BANK ACCOUNT. If Borrower applied and...
+
+--- (Additional Root Structure) ---
+Content: 6. PROMISE
+TO PAY. Borrower agrees to pay Lender the Total Repayment Amount shown in the accompanyin...
+
+--- (Additional Root Structure) ---
+Content: 7. ALTERNATIVE
+PAYMENT METHODS. If Borrower knows that for any reason Lender will be unable to proce...
+
+--- (Additional Root Structure) ---
+Content: 8. APPLICATION
+OF PAYMENTS. Subject to applicable law, Lender reserves the right to allocate and app...
+
+--- (Additional Root Structure) ---
+Content: 9. POSTDATED
+CHECKS, RESTRICTED ENDORSEMENT CHECKS AND OTHER DISPUTED OR QUALIFIED PAYMENTS. Lender ...
+
+--- (Additional Root Structure) ---
+Content: 10. PREPAYMENT.
+This loan may be prepaid at any time provided that the Total Repayment Amount is pai...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page 11. SECURITY
+INTEREST. In the event of a defau...
+
+--- (Additional Root Structure) ---
+Content: 12. PROTECTING
+THE SECURITY INTEREST. Borrower agrees that Lender and/or Lender’s Representative may...
+
+--- (Additional Root Structure) ---
+Content: 13. LOCATION
+OF COLLATERAL; TRANSACTIONS INVOLVING COLLATERAL. Unless Lender has agreed otherwise in...
+
+--- (Additional Root Structure) ---
+Content: 14. TAXES,
+ASSESSMENTS AND LIENS. Borrower will complete and file all necessary federal, state and l...
+
+--- (Additional Root Structure) ---
+Content: 15. INSURANCE. Borrower
+shall procure and maintain such insurance as Lender may require with respect...
+
+--- (Additional Root Structure) ---
+Content: 16. REPAIRS AND MAINTENANCE. Borrower agrees to keep and maintain, and to cause others to keep and m...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page 17. INSPECTION
+OF COLLATERAL AND PLACE OF BUSI...
+
+--- (Additional Root Structure) ---
+Content: 18. LENDER’S
+EXPENDITURES. If any action or proceeding is commenced that would materially affect Len...
+
+--- (Additional Root Structure) ---
+Content: 19. BORROWER’S REPRESENTATIONS AND
+WARRANTIES. Borrower represents and warrants that: (i) Borrower w...
+
+--- (Additional Root Structure) ---
+Content: 20. INTEREST
+AND FEES. Borrower agrees to pay in full the interest as set forth in the accompanying ...
+
+--- (Additional Root Structure) ---
+Content: A.
+Origination Fee: A one-time Origination Fee in the amount set forth in the accompanying Business ...
+
+--- (Additional Root Structure) ---
+Content: B. Returned
+Payment Fee: A Returned Payment Fee in the amount set forth in the accompanying Business...
+
+--- (Additional Root Structure) ---
+Content: C. Late
+Fee: A Late Fee in the amount set forth in the accompanying Business Loan and Security Agree...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page Payments made by Borrower hereunder
+will be ap...
+
+--- (Additional Root Structure) ---
+Content: 21. INTEREST
+AND FEES EXCEEDING PERMITTED LIMIT. If the Loan is subject to a law that sets maximum c...
+
+--- (Additional Root Structure) ---
+Content: 22. FINANCIAL
+INFORMATION AND REEVALUATION OF CREDIT. Borrower and each guarantor (if any) authorize...
+
+--- (Additional Root Structure) ---
+Content: 23. ATTORNEYS’
+FEES AND COLLECTION COSTS. To the extent not prohibited by applicable law, Borrower s...
+
+--- (Additional Root Structure) ---
+Content: 24. BORROWER’S
+REPORTS. Promptly upon Lenders written request, Borrower and each guarantor agrees to...
+
+--- (Additional Root Structure) ---
+Content: 25. TELEPHONE
+COMMUNICATIONS. Borrower hereby expressly consents to receiving calls and messages, in...
+
+--- (Additional Root Structure) ---
+Content: 26. INDEMNIFICATION. Except for Lenders gross negligence or willful misconduct, Borrower will indemn...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 27. Intentionally left blank
+
+--- (Additional Root Structure) ---
+Content: 28. CHANGE IN LEGAL STATUS. Without Lenders consent, Borrower represents and agrees that Borrower wi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page 29. EVENTS OF DEFAULT. The
+occurrence of any o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page  30. RIGHTS AND REMEDIES UPON DEFAULT. Subject...
+
+--- (Additional Root Structure) ---
+Content: A.
+Refrain from Disbursing Loan Proceeds: Lender may refrain from disbursing Borrower’s Loan proceed...
+
+--- (Additional Root Structure) ---
+Content: B.
+Debit Amounts Due From Borrower’s Accounts: Lender may debit from Borrower’s Designated Checking ...
+
+--- (Additional Root Structure) ---
+Content: C.
+Accelerate Indebtedness: Lender may declare the entire Obligations immediately due and payable, w...
+
+--- (Additional Root Structure) ---
+Content: D.
+Assemble Collateral: Lender may require Borrower and/or Guarantor to deliver to Lender all or any...
+
+--- (Additional Root Structure) ---
+Content: E.
+Sell the Collateral: Lender shall have full power to sell, lease, transfer, or otherwise deal wit...
+
+--- (Additional Root Structure) ---
+Content: F.
+Appoint Receiver: Lender shall have the right to have a receiver appointed to take possession of ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): G.
+Intentionally left blank.
+
+--- (Additional Root Structure) ---
+Content: H. Collect
+Revenues. Apply Accounts: Lender, either itself or through a receiver, may collect the pa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page I.
+Obtain Deficiency: If Lender chooses to sel...
+
+--- (Additional Root Structure) ---
+Content: K.
+Other Rights and Remedies: Upon the occurrence of any Event of Default or breach of any term of t...
+
+--- (Additional Root Structure) ---
+Content: L.
+Election of Remedies: Except as may be prohibited by applicable law, all of Lender’s rights and r...
+
+--- (Additional Root Structure) ---
+Content: 31. GOVERNING LAW; CONSENT TO JURISDICTION AND VENUE. Borrower and Lender agree that this Agreement ...
+
+--- (Additional Root Structure) ---
+Content: 32. NO WAIVER BY LENDER. No delay or omission on the part of Lender in exercising any rights under t...
+
+--- (Additional Root Structure) ---
+Content: 33. ASSIGNMENT. This Agreement shall bind and inure to the benefit of the respective successors and ...
+
+--- (Additional Root Structure) ---
+Content: 34. INTERPRETATION. Paragraph and section headings used in this Agreement are for convenience only, ...
+
+--- (Additional Root Structure) ---
+Content: 35. SEVERABILITY. If one or more provisions of this Agreement (or the application thereof) is determ...
+
+--- (Additional Root Structure) ---
+Content: 36. NOTICES. Except as otherwise provided in this Agreement, notice under this Agreement must be in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page 37.
+RECORDKEEPING AND AUDIT REQUIREMENTS. Lend...
+
+--- (Additional Root Structure) ---
+Content: 38. GOVERNING
+LAW. Subject to Section 31 above, our relationship including this Agreement and any cl...
+
+--- (Additional Root Structure) ---
+Content: 39. WAIVER
+OF NOTICES AND OTHER TERMS. Except for any notices provided for in this Agreement, Borrow...
+
+--- (Additional Root Structure) ---
+Content: 40. MONITORING, RECORDING AND ELECTRONIC COMMUNICATIONS. In order to ensure a high quality of servic...
+
+--- (Additional Root Structure) ---
+Content: 41. JURY TRIAL WAIVER. To the extent not prohibited by applicable law, Borrower and Lender waive the...
+
+--- (Additional Root Structure) ---
+Content: 42. CONFIDENTIALITY. Borrower shall not make, publish or otherwise disseminate in any manner a copy ...
+
+--- (Additional Root Structure) ---
+Content: 43. ENTIRE AGREEMENT. Any application Borrower signed or otherwise submitted in connection with the ...
+
+--- (Additional Root Structure) ---
+Content: 44. COUNTERPARTS;
+ELECTRONIC SIGNATURES. This Agreement may be executed in one or more counterparts,...
+
+--- (Additional Root Structure) ---
+Content: 45. CUSTOMER
+SERVICE CONTACT INFORMATION. If you have questions or comments about your Loan, you may...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______ Field: /Page 46. PERSONAL
+GUARANTY. The undersigned (each a...
+
+--- (Additional Root Structure) ---
+Heading (L1): 47. INTENTIONALLY LEFT BALNK
+|-- Content: 48.
+CLASS ACTION WAIVER. THE PARTIES HERETO WAIVE ANY RIGHT TO ASSERT ANY CLAIMS AGAINST THE OTHER P...
+`-- Content: 49.
+CERTIFICATION AND SIGNATURES. By initialing below or authorizing the person signing below to sig...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): FOR THE BORROWER (#1)
+By: 
+Max
+Munn
+/s/ Max
+Munn
+
+ 
+ 
+(Print Name and Title)
+(Signature)
+
+
+BY GUARAN...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Please initial this
+document here_______11 Field: /Rule-Page

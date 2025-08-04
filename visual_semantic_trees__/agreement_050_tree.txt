@@ -1,0 +1,132 @@
+AGREEMENT: Agreement
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): of 18 January 2024ADC Therapeutics SABiopôleRoute de la Corniche 3 B 1066 EpalingesSwitzerlandLegal@...
+
+--- (Additional Root Structure) ---
+AGREEMENT: One Letterman Drive, Suite D3-300
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): San Francisco, CA 94129 United StatesRedmile_legal@redmilegrp.com“Redmile”Company and Redmile each a...
+
+--- (Additional Root Structure) ---
+Clause (A)
+|-- Content: B.The articles of association of the Company (the "Articles") provide in article 4a (4)(g) that in t...
+`-- Content: C.Furthermore, the Articles provide in article 4c (3) that in the event of an issue of bonds, notes,...
+
+--- (Additional Root Structure) ---
+Clause (D)
+`-- Content: E.The Parties wish to agree on the principles based on which the Board may restrict the pre-emptive ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE,
+the Parties agree as follows:
+1.Granting of Pre-emptive Rights and Advance Subscript...
+
+--- (Additional Root Structure) ---
+Content: Furthermore, the Company agrees that if
+the Group, directly or indirectly controls, owns or has the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Information
+2.1.  Redmile
+
+--- (Additional Root Structure) ---
+Heading (L2): Redmile agrees that it shall:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Page 2 / 6
+a)notify the Company promptly (but no later than two business days) upon becoming aware t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.2.  The Company
+
+--- (Additional Root Structure) ---
+Content: The Company agrees that it shall, upon
+request by Redmile (which may be via email), promptly (but no...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Intent to Effect a Change of ControlIf, at any time, the Group directly or
+indirectly controls, ow...
+
+--- (Additional Root Structure) ---
+Content: a)If, following the explanation by Redmile, the Board determines (in the exercise of its fiduciary d...
+
+--- (Additional Root Structure) ---
+Content: b)If, following the explanation by Redmile (or if Redmile fails to explain its intentions to the Boa...
+
+--- (Additional Root Structure) ---
+Content: For the avoidance of doubt, so long as
+consistent with Board’s fiduciary duties, for purposes of the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Page 3 / 6
+4.Registration as shareholder with and exercise of voting rightsExcept as otherwise mutua...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.RedomiciliationPrior to a Redomiciliation (as defined
+below), the Company will use reasonable effo...
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.General Provisions
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6.1.    Amendments
+
+--- (Additional Root Structure) ---
+Content: This Agreement may only be modified or
+amended by a document duly signed by all Parties. Any provisi...
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.2.    Termination
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This Agreement shall automatically terminate
+and cease to be effective without further action upon t...
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.3.    Notices
+`-- Content: All notices or other communications to
+be given under or in connection with this Agreement shall be ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Page 4 / 6
+6.4.    Severability / Good Faith
+
+--- (Additional Root Structure) ---
+Content: Should any part or provision of this Agreement
+be held to be invalid by any competent court, governm...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6.5.    No Waiver
+
+--- (Additional Root Structure) ---
+Content: The failure of any of the Parties to enforce
+any of the provisions of this Agreement or any rights w...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6.6.    No Assignment
+
+--- (Additional Root Structure) ---
+Content: Except as otherwise provided for in this
+Agreement, the Parties shall not assign this Agreement or a...
+
+--- (Additional Root Structure) ---
+Heading (L2): 7.Governing Law and Jurisdiction
+|-- Content: This Agreement shall be governed by and
+construed in accordance with the substantive laws of Switzer...
+`-- Content: All disputes arising out of or in connection
+with the present Agreement, including disputes on its c...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [signature page follows]Page 5 / 6IN
+WITNESS WHEREOF, the Parties have caused this Agreement to be d...
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Page 6 / 6

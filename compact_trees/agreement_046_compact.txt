@@ -1,0 +1,20 @@
+Total parsed elements: 18
+Element types and content:
+  1. TextElement (level=N/A): Long Term Incentive Plan (“LTI Plan”) AMENDED LONG-TERM INCENTIVE PLAN Established: July 27, 2017Board Approved Amendment: August 9, 2022 Shareholder Approved: September 22, 2022Exhibit 10.36=
+  2. HeadingElement (level=1): ARTICLE 1
+  3. HeadingElement (level=1): DEFINITIONS AND INTERPRETATION
+  4. TextElement (level=N/A): 1.1For the purposes of this Plan, unless such word or term is otherwise defined herein or the context in which such word or term is used herein otherwise requires, the following words and terms with t
+  5. HeadingElement (level=1): ARTICLE 2
+  6. HeadingElement (level=1): PURPOSE AND ADMINISTRATION OF THE PLAN
+  7. TextElement (level=N/A): 2.1This Plan provides for the granting of Share Unit Awards and the settlement of such Share Unit Awards through the payment of cash (or, subject to the Required Shareholder Approval and at the electi
+  8. HeadingElement (level=1): ARTICLE 3
+  9. HeadingElement (level=1): SHARE UNITS AWARDS
+  10. TextElement (level=N/A): 3.1This Plan is hereby established for employees, officers and Eligible Contractors of the Corporation and its Affiliates. No grant of a Share Unit Award shall be made to a director of the Corporation
+  11. HeadingElement (level=1): ARTICLE 4
+  12. HeadingElement (level=1): ADDITIONAL PROVISION FOR TREASURY BASED SHARE ISSUANCES
+  13. TextElement (level=N/A): 4.1Article 4 shall become effective only on receipt by the Corporation of any Stock Exchange approval and of the Required Shareholder Approval. On Article 4 becoming effective, the 7Corporation shall 
+  14. HeadingElement (level=1): ARTICLE 5
+  15. HeadingElement (level=1): WITHHOLDING TAXES
+  16. ContentTextElement (level=4): 5.1The Corporation or its Affiliates may take such steps as are considered necessary or appropriate for the withholding of any taxes or source deduction which the Corporation or its Affiliate is requi
+  17. HeadingElement (level=1): ARTICLE 6
+  18. TextElement (level=N/A): GENERAL6.1This Plan shall remain in effect until it is terminated by the Board.6.2The Board may amend or discontinue this Plan at any time in its sole discretion, provided that such amendment or disco

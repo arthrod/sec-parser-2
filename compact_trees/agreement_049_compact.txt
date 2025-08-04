@@ -1,0 +1,11 @@
+Total parsed elements: 9
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.29
+  2. HeadingElement (level=1): EIGHTH AMENDMENT TO OFFICE LEASE
+  3. TextElement (level=N/A): CERTAIN INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) THE TYPE THAT THE COMPANY TREATS AS PRIVATE OR CONFIDENTIAL, [***] INDICATES THAT THE INFORMATION H
+  4. HeadingElement (level=1): EIGHTH AMENDMENT TO OFFICE LEASE
+  5. TextElement (level=N/A): 2.Rescission of Early Termination and Waiver of Termination Compensation. Tenant hereby rescinds its Termination Notice and unconditionally and irrevocably waives and relinquishes any right to termina
+  6. HeadingElement (level=1): EIGHTH AMENDMENT TO OFFICE LEASE
+  7. TextElement (level=N/A): damage, expense, claim, action, demand, suit or obligation arising out of or relating to a breach by the indemnifying party of such representation. Landlord and Tenant agree that Landlord shall have n
+  8. HeadingElement (level=1): EIGHTH AMENDMENT TO OFFICE LEASE
+  9. TextElement (level=N/A): Attention: Senior Vice President of Property ManagementIN WITNESS WHEREOF, Landlord and Tenant have duly executed this document, effective as of the later of the date(s) written below.LANDLORD: TENANT

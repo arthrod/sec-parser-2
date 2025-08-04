@@ -1,0 +1,9 @@
+Total parsed elements: 7
+Element types and content:
+  1. HeadingElement (level=2): Exhibit 10.17
+  2. HeadingElement (level=2): Forte Biosciences, Inc.
+  3. TextElement (level=N/A): Amended and Restated Non-Employee Director Compensation Policy (March 14, 2024)Each member of the Board of Directors (the “Board”) who is not also serving as an employee of or consultant to Forte Bios
+  4. HeadingElement (level=2): Annual Cash Compensation
+  5. TextElement (level=N/A): The annual cash compensation amount set forth below is payable in equal quarterly installments, payable in arrears on the last day of each fiscal quarter in which the service occurred. If an Eligible 
+  6. HeadingElement (level=2): Equity Compensation
+  7. TextElement (level=N/A): The equity compensation set forth below will be granted under the Forte Biosciences, Inc. 2021 Equity Incentive Plan (the “Plan”). All stock options granted under this policy will be nonstatutory stoc

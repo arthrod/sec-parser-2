@@ -1,0 +1,30 @@
+Heading (L1): EXHIBIT 10.21
+
+--- (Additional Root Structure) ---
+Heading (L1): AMENDMENT TO CHANGE IN CONTROL AGREEMENT
+|-- Content: AMENDMENT TO CHANGE IN CONTROL AGREEMENT (this “Amendment”), by and between Webster Financial Corpor...
+`-- Content: WHEREAS, the Company and the Executive are party to that certain Change in Control Agreement, dated ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, in consideration of the foregoing, the parties hereto agree as follows:1.Section 6(a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Section 6(a)(i)(C) of the Change in Control Agreement is hereby amended in its entirety to read as...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Section 6(a)(i)(D) of the Change in Control Agreement is hereby amended in its entirety to read as...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.Section 6(a)(iii) of the Change in Control Agreement is hereby amended in its entirety to read as ...
+
+--- (Additional Root Structure) ---
+Content: 5.In all other respects, the parties hereby ratify and affirm the terms of the Change in Control Agr...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2[Signature Page Follows]3    IN WITNESS WHEREOF, the Parties have executed this Amendment on the da...
+
+--- (Additional Root Structure) ---
+Content: WEBSTER FINANCIAL CORPORATION/s/ John R. CiullaJohn R. CiullaChairman & CEOEXECUTIVE/s/ Christopher ...
+
+--- (Additional Root Structure) ---
+Content: [Signature Page to Amendment to Change in Control Agreement]

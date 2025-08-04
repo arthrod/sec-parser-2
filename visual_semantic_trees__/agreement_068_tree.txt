@@ -1,0 +1,258 @@
+AGREEMENT: Exhibit
+10.12
+
+--- (Additional Root Structure) ---
+Heading (L1): DATED
+THIS DAY OF 2022
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): BETWEEN
+
+--- (Additional Root Structure) ---
+Heading (L1): MYISCO
+SDN BHD
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (Registration
+No: 201901046119)(1355449-A)AND
+
+--- (Additional Root Structure) ---
+Heading (L1): SUPER
+APPS HOLDINGS SDN BHD
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (Registration
+No: 202201014353)(1460050-W)
+
+--- (Additional Root Structure) ---
+AGREEMENT: COLLABORATION
+AGREEMENT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This
+Collaboration Agreement (the “Agreement”) is made and entered into on 19th day of October 2022 ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ANDSUPER
+APPS HOLDINGS SDN BHD (Registration No: 202201014353 (1460050-W)), a company incorporated i...
+
+--- (Additional Root Structure) ---
+Content: MYISCO
+and the Financing Partner may be referred to in this Agreement individually as a “Party” and ...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-2
+
+--- (Additional Root Structure) ---
+Heading (L2): NOW
+IT IS HEREBY AGREED as follows:
+
+--- (Additional Root Structure) ---
+Section 1: DEFINITION AND INTERPRETATION
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “Agreement”
+means
+    this collaboration agreement, including all of its schedules;
+
+ 
+ 
+ 
+
+ 
+“Appli...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-4
+
+--- (Additional Root Structure) ---
+Section 2: PERSONAL FINANCING PROGRAMME
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-5
+
+2.8
+Upon
+    written confirmation of the Returns Statement by the Financing Partner, MYISCO sha...
+
+--- (Additional Root Structure) ---
+Section 3: FINANCING PARTNER’S
+  OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.
+OBLIGATIONS OF MYISCO
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-6
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Section 5: MUTUAL OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.1
+Both Parties shall:
+`-- Content: (a)
+    
+provide
+    the other with reasonable information and other support, advise, consultation, ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-7
+
+--- (Additional Root Structure) ---
+Section 6: CONFIDENTIALITY
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-8
+
+--- (Additional Root Structure) ---
+Section 7: DATA PROTECTION
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Section 8: INTELLECTUAL PROPERTY RIGHTS
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Section 9: EXCLUSIVITY
+`-- Content: This
+Agreement is non-exclusive in nature and this agreement will not prohibit either parties from e...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-9
+
+--- (Additional Root Structure) ---
+Section 10: TERMINATION
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Section 11: INDEMNITIES AND LIABILITIES
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-10
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Section 12: NOTICES
+|-- Content: 12.1
+    
+Service
+    of notice
+
+ 
+ 
+
+ 
+A
+    notice or other communication required or permitted un...
+`-- Content: 12.2
+    
+Particulars
+    for Service
+
+ 
+ 
+
+ 
+12.2.1
+The
+    particulars for service of MYISCO are:
+...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-11
+
+ 
+12.2.2
+The
+    particulars for service of the Financing Partner are:
+
+ 
+ 
+ 
+
+ 
+ 
+Address
+:
+L...
+
+--- (Additional Root Structure) ---
+Content: 12.3
+Either
+    Party may change its particulars for service by way of written notice to the other P...
+
+--- (Additional Root Structure) ---
+Section 13: FORCE
+    MAJEURE
+
+--- (Additional Root Structure) ---
+Section 14: DURATION
+    OF AGREEMENT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-12
+
+--- (Additional Root Structure) ---
+Section 15: MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-13
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [The
+remainder of this page is intentionally left blank]L-14MYISCO
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Heading (L1): THE
+FINANCING PARTNER
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-15L-16Details
+of Personal FinancingMYISCO
+shall provide the Customers with personal financings as ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): L-17

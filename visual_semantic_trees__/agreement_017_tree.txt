@@ -1,0 +1,21 @@
+AGREEMENT: METLIFE AUXILIARY RETIREMENT PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): (As amended and restated effective January 1, 2008)
+
+--- (Additional Root Structure) ---
+Heading (L1): The MetLife Auxiliary Retirement Plan (the “Plan”) is hereby amended, effective as of December 1, 20...
+|-- Section 4.9
+`-- Heading (L2): 4.9    Dodd-Frank Recoupment/Clawback: Notwithstanding anything contained herein to the contrary, a ...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the Company has caused this Amendment to be adopted in its name and behalf this ...
+
+--- (Additional Root Structure) ---
+Heading (L1): METROPOLITAN LIFE INSURANCE COMPANY
+
+--- (Additional Root Structure) ---
+Heading (L1): By: __/s/ Andrew J. Bernstein______________________________ Andrew J. Bernstein, Plan Administrator
+
+--- (Additional Root Structure) ---
+Heading (L1): ATTEST: ___/s/ Danielle Hodorowski___________________________________

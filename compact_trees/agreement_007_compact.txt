@@ -1,0 +1,13 @@
+Total parsed elements: 11
+Element types and content:
+  1. HeadingElement (level=1): REPURCHASE AGREEMENT
+  2. TextElement (level=N/A): This Repurchase Agreement is entered into as of this ___th day of January 2024, by and among AB International Group Corp. a Nevada corporation (the "Company"), and _________(the "Stockholder").BACKGRO
+  3. HeadingElement (level=1): SECTION 1
+  4. HeadingElement (level=1): REPURCHASE AND SALE OF SHARES
+  5. TextElement (level=N/A): 1.1 Repurchase and Sale of Shares. On the terms and subject to the conditions set forth in this Agreement, the Company agrees to purchase from the Stockholder and the Stockholder agrees to sell, trans
+  6. HeadingElement (level=1): SECTION 2
+  7. HeadingElement (level=1): REPRESENTATIONS AND WARRANTIES
+  8. TextElement (level=N/A): 2.1 Representations and Warranties of the Stockholder. The Stockholder represents and warrants to the Company as follows:2.1.1 Power and Authority. The Stockholder has the power and authority to execu
+  9. HeadingElement (level=1): SECTION 3
+  10. HeadingElement (level=1): MISCELLANEOUS
+  11. TextElement (level=N/A): 3.2 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective permitted successors and assigns.3.3 Entire Agreement, Amendment. T

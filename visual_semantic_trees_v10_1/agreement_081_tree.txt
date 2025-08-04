@@ -1,0 +1,92 @@
+Heading (L1): HORMEL FOODS CORPORATION
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Restricted Stock Unit Agreement Under the 2018 Incentive Compensation Plan    Hormel Foods Corporati...
+
+--- (Additional Root Structure) ---
+Content: Name of Participant:    _______________________No. of Restricted Stock Units Granted:      _______Gr...
+
+--- (Additional Root Structure) ---
+Content: By signing below or otherwise evidencing your acceptance of this Agreement in a manner approved by t...
+
+--- (Additional Root Structure) ---
+Heading (L1): PARTICIPANT    HORMEL FOODS CORPORATION
+`-- Content: By:___ /s/ James P. Snee________________ Name: James P. Snee
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Title: Chairman of the Board, President and CEO_____________________________________________________...
+
+--- (Additional Root Structure) ---
+Heading (L1): HORMEL FOODS CORPORATION
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2018 Incentive Compensation Plan Restricted Stock Unit AgreementRestricted Stock Unit Terms and Cond...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.    Vesting.
+
+--- (Additional Root Structure) ---
+Content: (a)    Scheduled Vesting.  The Units will vest on the date specified in the Vesting Schedule on the ...
+
+--- (Additional Root Structure) ---
+Content: (b)    Accelerated Vesting. Notwithstanding Section 2(a), if, prior to the Scheduled Vesting Date, y...
+
+--- (Additional Root Structure) ---
+Content: 3.    Service Requirement.  Except as otherwise provided in Section 2 of this Agreement, if you ceas...
+
+--- (Additional Root Structure) ---
+Content: 4.    Settlement of Units; Delivery of Shares.  Subject to Section 15 below, after any Units vest pu...
+
+--- (Additional Root Structure) ---
+Content: provisions of applicable law, as determined by the Committee in its sole discretion, you (or your pe...
+
+--- (Additional Root Structure) ---
+Content: 5.    Dividend Equivalents.  If the Company pays cash dividends on its Shares while any Units subjec...
+
+--- (Additional Root Structure) ---
+Content: 6.    Withholding Taxes.  No Shares will be delivered to you in settlement of vested Units unless yo...
+
+--- (Additional Root Structure) ---
+Content: 7.    Transfer of Award or Units.  You may not assign or transfer this Award or the Units subject to...
+
+--- (Additional Root Structure) ---
+Content: 8.    No Stockholder Rights.  The Units subject to this Award do not entitle you or any permitted tr...
+
+--- (Additional Root Structure) ---
+Content: 9.    Section 409A of the Code.  The award of Units as provided in this Agreement and any issuance o...
+
+--- (Additional Root Structure) ---
+Content: 10.    Governing Plan Document.  This Agreement and Award are subject to all the provisions of the P...
+
+--- (Additional Root Structure) ---
+Content: 11.    Choice of Law.  This Agreement will be interpreted and enforced under the laws of the state o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ____________________________________________________________________________________________________...
+
+--- (Additional Root Structure) ---
+Content: 13.    Other Agreements.  You agree that in connection with the settlement of the Shares, you will e...
+
+--- (Additional Root Structure) ---
+Content: 14.    Restrictive Legends.  The Company may place a legend or legends on any certificate representi...
+
+--- (Additional Root Structure) ---
+Content: 15.    Compensation Recovery Policy; Cancellation and Recission.
+
+--- (Additional Root Structure) ---
+Content: (a)    You agree that (i) during the period of your Service with the Company or any of its Affiliate...
+
+--- (Additional Root Structure) ---
+Content: (b)    Failure to comply with the provisions of Section 15(a) shall cause this Award to be canceled....
+
+--- (Additional Root Structure) ---
+Content: (c)    Additionally, this Award and any compensation associated herewith is subject to reduction, ca...
+
+--- (Additional Root Structure) ---
+Content: 16.    Electronic Delivery and Acceptance.  The Company may deliver any documents related to this Aw...
+
+--- (Additional Root Structure) ---
+Content: By signing the cover page of this Agreement or otherwise accepting this Agreement in a manner approv...
+
+--- (Additional Root Structure) ---
+Content: ____________________________________________________________________________________________________...

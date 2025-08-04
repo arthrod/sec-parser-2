@@ -1,0 +1,13 @@
+Total parsed elements: 11
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1Agreementof 18 January 2024betweenADC Therapeutics SABiopôleRoute de la Corniche 3 B 1066 EpalingesSwitzerlandLegal@adctherapeutics.com“Company”andRedmile Group, LLCOne Letterman Drive, Su
+  2. HeadingElement (level=2): Redmile agrees that it shall:
+  3. TextElement (level=N/A): Field: /Page  a)notify the Company promptly (but no later than two business days) upon becoming aware that the Group directly or indirectly controls, owns or has the right to control or own (regardles
+  4. HeadingElement (level=2): 6.General Provisions
+  5. TextElement (level=N/A): 6.1.    AmendmentsThis Agreement may only be modified or amended by a document duly signed by all Parties. Any provision contained in this Agreement may only be waived by a document duly signed by the
+  6. HeadingElement (level=2): 6.2.    Termination
+  7. TextElement (level=N/A): This Agreement shall automatically terminate and cease to be effective without further action upon the earlier of: a)if the Company removes the 20% clauses (article 4a (4)(g) and article 4c (3) of the
+  8. HeadingElement (level=2): 6.3.    Notices
+  9. TextElement (level=N/A): All notices or other communications to be given under or in connection with this Agreement shall be made in writing and shall be delivered by e-mail to the addresses mentioned on the cover page of thi
+  10. HeadingElement (level=2): 7.Governing Law and Jurisdiction
+  11. TextElement (level=N/A): This Agreement shall be governed by and construed in accordance with the substantive laws of Switzerland, without regard to its conflicts of laws rules.All disputes arising out of or in connection wit

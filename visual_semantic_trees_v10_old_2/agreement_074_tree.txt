@@ -1,0 +1,109 @@
+AGREEMENT: FORM OF RESTRICTED STOCK UNIT AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): LONG-TERM INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Clause (2): TO BE BOUND BY THE PROVISIONS OF THE AWARD AGREEMENT AND THE PLAN INCLUDING WITHOUT LIMITATION ANY L...
+
+--- (Additional Root Structure) ---
+Clause (3): YOU (A) HAVE REVIEWED THE AWARD AGREEMENT AND THE PLAN IN THEIR ENTIRETIES; (B) WERE GIVEN A REASONA...
+
+--- (Additional Root Structure) ---
+Clause (4): YOU HAVE BEEN PROVIDED WITH A COPY OR ELECTRONIC ACCESS TO A COPY OF THE PLAN AND THE U.S. PROSPECTU...
+
+--- (Additional Root Structure) ---
+Clause (5): TO ACCEPT AS BINDING, CONCLUSIVE AND FINAL ALL DECISIONS OR INTERPRETATIONS OF THE CORPORATION UPON ...
+
+--- (Additional Root Structure) ---
+Heading (L1): PARTICIPANT ACCEPTANCE DATE:   [ACCEPTANCE DATE]
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF EXHIBIT A
+
+--- (Additional Root Structure) ---
+Heading (L1): THE BANK OF NEW YORK MELLON CORPORATION
+
+--- (Additional Root Structure) ---
+AGREEMENT: FORM OF TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Heading (L1): OF RESTRICTED STOCK UNITS – EXECUTIVE COMMITTEE US
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 1:  Restricted Stock Unit Award
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 2:  Vesting, Forfeiture, Termination of Employment and Disability
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.1    Vesting and Forfeiture.
+
+--- (Additional Root Structure) ---
+Clause (c): Forfeiture upon Termination of Employment for Cause.  Notwithstanding anything to the contrary conta...
+
+--- (Additional Root Structure) ---
+Clause (i): you have been convicted of, or have entered into a pretrial diversion or entered a plea of guilty or...
+
+--- (Additional Root Structure) ---
+Clause (ii): you are grossly negligent in the performance of your duties or have failed to perform the duties of ...
+
+--- (Additional Root Structure) ---
+Clause (iii): you have violated the Corporation’s Code of Conduct or any of the policies of the Corporation or you...
+
+--- (Additional Root Structure) ---
+Clause (iv): you have engaged in any misconduct which has the effect or potential of being injurious to the Corpo...
+
+--- (Additional Root Structure) ---
+Clause (v): you have engaged in an act of fraud or dishonesty, including, but not limited to, taking or failing ...
+
+--- (Additional Root Structure) ---
+Clause (vi): if you are employed outside the United States, any other circumstances (beyond those listed above) t...
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2    Specified Terminations of Employment.
+
+--- (Additional Root Structure) ---
+Clause (d): Sale of Business.  If you cease to be continuously employed with your Employer due to a sale of a bu...
+
+--- (Additional Root Structure) ---
+Clause (f): Termination of Employment Prior to the Grant Date.  If your Termination Date (as defined in Section ...
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 3:  Notice of Resignation, Non-Solicitation, Non-Competition, Confidential Information, Non-...
+
+--- (Additional Root Structure) ---
+Heading (L2): 3.2    Non-Solicitation of Clients, Contractors and Employees; Non-Competition.
+
+--- (Additional Root Structure) ---
+Heading (L2): 3.3    Confidential Information.
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 4:  Settlement
+
+--- (Additional Root Structure) ---
+Heading (L2): 4.1    Time of Settlement.
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 5:  Other Terms and Conditions
+
+--- (Additional Root Structure) ---
+Clause (b): during the course of your employment with your Employer, you engage (other than for the benefit of t...
+
+--- (Additional Root Structure) ---
+Clause (e): any compensation that the Corporation or its Affiliates has promised or paid to you is required to b...
+
+--- (Additional Root Structure) ---
+Clause (a): The Plan is discretionary in nature and limited in duration, and may be amended, cancelled, or termi...
+
+--- (Additional Root Structure) ---
+Heading (L1): THE BANK OF NEW YORK MELLON CORPORATION
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF ADDENDUM TOTERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Heading (L1): OF RESTRICTED STOCK UNITS
+
+--- (Additional Root Structure) ---
+Heading (L2): 3.2    Non-Solicitation of Clients, Contractors and Employees; Non-Competition.

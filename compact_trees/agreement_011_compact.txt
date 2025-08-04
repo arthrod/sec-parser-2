@@ -1,0 +1,8 @@
+Total parsed elements: 6
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1January 23, 2024
+  2. HeadingElement (level=1): VIA EMAIL:
+  3. HeadingElement (level=2): Dear Daron:
+  4. TextElement (level=N/A): We are very excited to offer you the position of Chief Financial Officer, at Rezolute, Inc., a Nevada corporation (“Company”). If you accept this offer, your first day of employment will be today, Jan
+  5. HeadingElement (level=2): Agreed and accepted:
+  6. TextElement (level=N/A): Field: /Rule-Page Daron EvansDate: January 23, 2024 Field: /Page

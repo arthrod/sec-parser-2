@@ -1,0 +1,20 @@
+Total parsed elements: 18
+Element types and content:
+  1. HeadingElement (level=2): Exhibit 10.5
+  2. HeadingElement (level=1): AN2 THERAPEUTICS, INC.
+  3. HeadingElement (level=1): RSU AWARD GRANT NOTICE
+  4. HeadingElement (level=1): (2022 EQUITY INCENTIVE PLAN)
+  5. TextElement (level=N/A): AN2 Therapeutics, Inc. (the “Company”), pursuant to its 2022 Equity Incentive Plan (the “Plan”) has awarded to you (the “Participant”) the number of restricted stock units specified, and on the terms 
+  6. HeadingElement (level=2): ATTACHMENTS: RSU Award Agreement, 2022 Equity Incentive Plan
+  7. HeadingElement (level=1): ATTACHMENT I
+  8. HeadingElement (level=1): AWARD AGREEMENT
+  9. HeadingElement (level=1): AN2 THERAPEUTICS, INC.
+  10. HeadingElement (level=1): 2022 EQUITY INCENTIVE PLAN
+  11. HeadingElement (level=1): RSU AWARD AGREEMENT
+  12. ContentTextElement (level=4): As reflected by your Restricted Stock Unit Grant Notice (“Grant Notice”), AN2 Therapeutics, Inc. (the “Company”) has granted you a RSU Award under its 2022 Equity Incentive Plan (the “Plan”) for the n
+  13. HeadingElement (level=2): The general terms applicable to your RSU Award are as follows:
+  14. TextElement (level=N/A): 1. GOVERNING PLAN DOCUMENT. Your RSU Award is subject to all the provisions of the Plan, including but not limited to the provisions in: (a) Section 6 of the Plan regarding the impact of a Capitalizat
+  15. HeadingElement (level=1): 5. DATE OF ISSUANCE.
+  16. TextElement (level=N/A): (a) The issuance of shares in respect of the Restricted Stock Units is intended to comply with Treasury Regulations Section 1.409A-1(b)(4) and will be construed and administered in such a manner. Subj
+  17. HeadingElement (level=1): ATTACHMENT II
+  18. HeadingElement (level=1): 2022 EQUITY INCENTIVE PLAN

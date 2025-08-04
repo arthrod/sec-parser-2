@@ -1,0 +1,4 @@
+AGREEMENT: Welltower Inc.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Effective January 1, 2024

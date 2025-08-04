@@ -1,0 +1,41 @@
+Content: Exhibit 10.19  CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS B...
+
+--- (Additional Root Structure) ---
+Content: Second Amendment to Product Agreement between Patheon Pharmaceuticals Inc. and ACADIA Pharmaceutical...
+
+--- (Additional Root Structure) ---
+Content: This Second Amendment to Product Agreement (the “Amendment”), dated October 6, 2016 (the “Amendment ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, Patheon and ACADIA have entered into that certain Master Manufacturing Services Agreement, ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW THEREFORE in consideration of the premises hereof and other good and valuable consideration, the...
+
+--- (Additional Root Structure) ---
+Content: 2.Side Letter Agreements.  The parties hereby agree that any future changes to stability testing set...
+
+--- (Additional Root Structure) ---
+Content: 3.No Other Modifications. Except as specifically modified by this Amendment, the terms and condition...
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed by their authorized r...
+
+--- (Additional Root Structure) ---
+Heading (L2): Patheon Pharmaceuticals Inc.	ACADIA Pharmaceuticals Inc.
+`-- Content: By:  /s/ Nicholas M. Buschur				By:  /s/ James Nash
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Name:  Nicholas M. Buschur				Name:  James Nash
+
+--- (Additional Root Structure) ---
+Content: Title:  Executive Director & GM		Title:   SVP, Technology Development & Operations
+
+--- (Additional Root Structure) ---
+Heading (L2): Exhibit 1
+
+--- (Additional Root Structure) ---
+Heading (L2): Updated Stability Pricing
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2 3 4 5

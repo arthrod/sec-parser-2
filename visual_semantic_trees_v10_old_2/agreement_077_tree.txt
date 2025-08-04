@@ -1,0 +1,204 @@
+AGREEMENT: This
+Securities Purchase Agreement (this “Agreement”) is dated as of December 28, 2023, by and betwe...
+
+--- (Additional Root Structure) ---
+Article ARTICLE I
+
+--- (Additional Root Structure) ---
+Heading (L1): DEFINITIONS
+
+--- (Additional Root Structure) ---
+Article ARTICLE II
+
+--- (Additional Root Structure) ---
+Heading (L1): PURCHASE AND SALE
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.2
+Deliveries.
+
+--- (Additional Root Structure) ---
+Clause (a): On or prior to the Closing Date, the Company shall deliver or cause to be delivered to the Purchaser...
+
+--- (Additional Root Structure) ---
+Clause (i): this Agreement duly executed by the Company;
+
+--- (Additional Root Structure) ---
+Clause (ii): a Note in the principal amount of <PRINCIPAL AMOUNT> registered in the name of the Purchaser;
+
+--- (Additional Root Structure) ---
+Clause (iii): a Board Consent approving the issuance of the Notes and the execution of the Transaction Documents l...
+
+--- (Additional Root Structure) ---
+Clause (b): On or prior to the Closing Date each Purchaser shall deliver or cause to be delivered to the Company...
+
+--- (Additional Root Structure) ---
+Clause (c): On the (i) date of the pricing of the Company’s IPO, the Company shall deliver to each Purchaser Bri...
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.3
+Closing Conditions.
+
+--- (Additional Root Structure) ---
+Clause (iv): there shall have been no Material Adverse Effect with respect to the Company since the date hereof.
+
+--- (Additional Root Structure) ---
+Article ARTICLE III
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS
+AND WARRANTIES OF COMPANY
+
+--- (Additional Root Structure) ---
+Heading (L2): 3.16
+Intellectual Property.
+
+--- (Additional Root Structure) ---
+Clause (A): The Licensed Intellectual Property Agreement is legal, valid, binding, enforceable, and in full forc...
+
+--- (Additional Root Structure) ---
+Clause (D): Except as set forth in such Licensed Intellectual Property Agreement, the Company has not received w...
+
+--- (Additional Root Structure) ---
+Clause (E): Except as set forth on Schedule 3.16, the Company has not granted any sublicense or similar right wi...
+
+--- (Additional Root Structure) ---
+Clause (vi): Each Developer has signed a perpetual non-disclosure agreement with the Company.
+
+--- (Additional Root Structure) ---
+Article ARTICLE IV
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS
+AND WARRANTIES OF PURCHASERS
+
+--- (Additional Root Structure) ---
+Article ARTICLE V
+
+--- (Additional Root Structure) ---
+AGREEMENT: OTHER
+AGREEMENTS OF THE PARTIES
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.1
+Removal of Legends.
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.2
+Furnishing of Information.
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.8
+Indemnification of Purchaser.
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.18
+Registration Rights and Lock-Up Agreement.
+
+--- (Additional Root Structure) ---
+Clause (1): With the Registration Statement on Form S-1 filed by the Company with the IPO, the Company shall inc...
+
+--- (Additional Root Structure) ---
+Clause (2): Prepare and file with the SEC such amendments, including post-effective amendments, to the Registrat...
+
+--- (Additional Root Structure) ---
+Clause (3): Use its best efforts to avoid the issuance of, or, if issued, obtain the withdrawal of, (i) any orde...
+
+--- (Additional Root Structure) ---
+Clause (4): Furnish to the Holder, without charge, at least one conformed copy of each Registration Statement an...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE
+IV.
+
+--- (Additional Root Structure) ---
+Heading (L1): MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Heading (L2): 6.24
+Adjustment of the Base Price
+
+--- (Additional Root Structure) ---
+Clause (f): Fundamental Transaction.
+
+--- (Additional Root Structure) ---
+Clause (g): Calculations. All calculations under this Section 6.24 shall be made to the nearest cent or the near...
+
+--- (Additional Root Structure) ---
+Clause (h): Notice to Holder.
+
+--- (Additional Root Structure) ---
+Heading (L1): [REMAINDER
+OF PAGE INTENTIONALLY LEFT BLANK
+
+--- (Additional Root Structure) ---
+Heading (L1): SIGNATURE PAGE FOR PURCHASER FOLLOWS]
+
+--- (Additional Root Structure) ---
+Heading (L1): PURCHASER
+SIGNATURE PAGE TO
+
+--- (Additional Root Structure) ---
+Heading (L1): SECURITIES PURCHASE AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L2): Address
+for Notice to Purchaser:
+
+--- (Additional Root Structure) ---
+Heading (L1): ORIGINAL
+ISSUE DISCOUNT
+
+--- (Additional Root Structure) ---
+Heading (L1): PROMISSORY NOTE
+
+--- (Additional Root Structure) ---
+Section 2: Payments of Principal and Interest.
+
+--- (Additional Root Structure) ---
+Section 3: Registration of Transfers and Exchanges.
+
+--- (Additional Root Structure) ---
+Section 4: Conversion.
+
+--- (Additional Root Structure) ---
+Section 5: Certain Adjustments. Reserved.
+
+--- (Additional Root Structure) ---
+Clause (d): purchase or otherwise acquire more than a de minimis number of shares of its Common Stock or Common ...
+
+--- (Additional Root Structure) ---
+Clause (e): repay, or offer to repay, any Indebtedness, other than Permitted Indebtedness, as such terms Indebte...
+
+--- (Additional Root Structure) ---
+Section 7: Events of Default.
+
+--- (Additional Root Structure) ---
+Clause (v): the Company or any Subsidiary shall be subject to a Bankruptcy Event;
+
+--- (Additional Root Structure) ---
+Clause (viii): the occurrence of any levy upon or seizure or attachment of, or any uninsured loss of or damage to, ...
+
+--- (Additional Root Structure) ---
+Clause (ix): any monetary judgment, writ or similar final process shall be entered or filed against the Company, ...
+
+--- (Additional Root Structure) ---
+Clause (x): any Material Adverse Effect occurs;
+
+--- (Additional Root Structure) ---
+Clause (xii): the Company fails to use the proceeds in the manner as described in Section 5.7 of the Purchase Agre...
+
+--- (Additional Root Structure) ---
+Clause (xiv): from and after 90 days after the Original Issue Date, the Company fails to have authorized and reser...
+
+--- (Additional Root Structure) ---
+Clause (xv): the Company fails to file with the SEC any required reports under Section 13 or 15(d) of the Exchang...
+
+--- (Additional Root Structure) ---
+Clause (xvi): the Company fails to convert from a limited liability company to a corporation.
+
+--- (Additional Root Structure) ---
+Section 8: Miscellaneous.
+
+--- (Additional Root Structure) ---
+Clause (j): Headings.

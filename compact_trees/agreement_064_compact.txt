@@ -1,0 +1,7 @@
+Total parsed elements: 5
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1
+  2. HeadingElement (level=1): AMENDMENT NO. 2 TO INVESTMENT MANAGEMENT TRUST AGREEMENT
+  3. TextElement (level=N/A): THIS AMENDMENT NO. 2 TO THE INVESTMENT MANAGEMENT TRUST AGREEMENT (this “Amendment”) is made as of January 19, 2024, by and between FTAC Emerald Acquisition Corp., a Delaware corporation (the “Company
+  4. HeadingElement (level=2): 2. Miscellaneous Provisions.
+  5. TextElement (level=N/A): 2.1. Successors. All the covenants and provisions of this Amendment by or for the benefit of the Company or the Trustee shall bind and inure to the benefit of their permitted respective successors and

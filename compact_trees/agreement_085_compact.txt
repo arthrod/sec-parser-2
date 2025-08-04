@@ -1,0 +1,5 @@
+Total parsed elements: 3
+Element types and content:
+  1. TextElement (level=N/A): Field: /Rule-Page
+  2. HeadingElement (level=1): EXHIBIT 10.35
+  3. TextElement (level=N/A): Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Page  Field: /Rule-Page

@@ -1,0 +1,18 @@
+Total parsed elements: 16
+Element types and content:
+  1. TextElement (level=N/A): Execution Version
+  2. HeadingElement (level=1): EMPLOYMENT AGREEMENT
+  3. TextElement (level=N/A): THIS EMPLOYMENT AGREEMENT (this “Agreement”) is made and entered into as of January 3, 2023, by and between AFC Management, LLC, a Delaware limited liability company (“AFC Management” or the “Company”
+  4. HeadingElement (level=2): 5.    Termination.
+  5. TextElement (level=N/A): 5.1    Termination by the Company.  During the Period of Employment, the Executive’s employment by the Company, and the Period of Employment, may be terminated at any time by the Company: (i) with Cau
+  6. HeadingElement (level=2): 5.4    Release; Exclusive Remedy; Leave.
+  7. TextElement (level=N/A): (a)    This Section 5.4 shall apply notwithstanding anything else contained in this Agreement or any stock option or other equity-based award agreement to the contrary.  As a condition precedent to an
+  8. HeadingElement (level=2): 5.5    Certain Defined Terms.
+  9. TextElement (level=N/A): (a)    As used herein, “Accrued Obligations” means:(i)    any Base Salary that had accrued but had not been paid on or before the Severance Date; (ii)    any reimbursement due to the Executive pursuan
+  10. HeadingElement (level=2): 6.    Protective Covenants.
+  11. HeadingElement (level=2): 6.1    Confidential Information; Inventions.
+  12. TextElement (level=N/A): (a)The Executive shall not disclose or use at any time, either during the Period of Employment or thereafter, any Confidential Information (as defined below) of which the Executive is or becomes aware
+  13. HeadingElement (level=2): 22.    Indemnification; Liability Insurance.
+  14. TextElement (level=N/A): (a)    The Company shall indemnify the Executive to the maximum extent provided for under its operating agreement (or similar organizational documents of the Company as they may be in effect at the re
+  15. HeadingElement (level=1): AFC MANAGEMENT, LLC
+  16. TextElement (level=N/A): a Delaware limited liability companyBy:  /s/ Leonard Tannenbaum Name: Leonard TannenbaumTitle: Chief Executive OfficerEXECUTIVE/s/ Brandon Hetzel                Brandon Hetzel18

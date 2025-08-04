@@ -1,0 +1,1573 @@
+<core>
+from __future__ import annotations
+
+from abc import ABC, abstractmethod
+from typing import TYPE_CHECKING, Callable
+
+from sec_parser.processing_engine.html_tag_parser import (
+    AbstractHtmlTagParser,
+    HtmlTagParser,
+)
+from sec_parser.processing_engine.types import ParsingOptions
+from sec_parser.processing_steps.empty_element_classifier import EmptyElementClassifier
+from sec_parser.processing_steps.highlighted_text_classifier import (
+    HighlightedTextClassifier,
+)
+from sec_parser.processing_steps.image_classifier import ImageClassifier
+from sec_parser.processing_steps.individual_semantic_element_extractor.individual_semantic_element_extractor import (
+    IndividualSemanticElementExtractor,
+)
+from sec_parser.processing_steps.individual_semantic_element_extractor.single_element_checks.image_check import (
+    ImageCheck,
+)
+from sec_parser.processing_steps.individual_semantic_element_extractor.single_element_checks.table_check import (
+    TableCheck,
+)
+from sec_parser.processing_steps.individual_semantic_element_extractor.single_element_checks.top_section_title_check import (
+    TopSectionTitleCheck,
+)
+from sec_parser.processing_steps.individual_semantic_element_extractor.single_element_checks.xbrl_tag_check import (
+    XbrlTagCheck,
+)
+from sec_parser.processing_steps.introductory_section_classifier import (
+    IntroductorySectionElementClassifier,
+)
+from sec_parser.processing_steps.page_header_classifier import PageHeaderClassifier
+from sec_parser.processing_steps.page_number_classifier import PageNumberClassifier
+from sec_parser.processing_steps.supplementary_text_classifier import (
+    SupplementaryTextClassifier,
+)
+from sec_parser.processing_steps.table_classifier import TableClassifier
+from sec_parser.processing_steps.table_of_contents_classifier import (
+    TableOfContentsClassifier,
+)
+from sec_parser.processing_steps.text_classifier import TextClassifier
+from sec_parser.processing_steps.text_element_merger import TextElementMerger
+from sec_parser.processing_steps.title_classifier import TitleClassifier
+from sec_parser.processing_steps.top_section_manager import (
+    TopSectionManagerFor10K,
+    TopSectionManagerFor10Q,
+)
+from sec_parser.semantic_elements.composite_semantic_element import (
+    CompositeSemanticElement,
+)
+from sec_parser.semantic_elements.highlighted_text_element import HighlightedTextElement
+from sec_parser.semantic_elements.semantic_elements import (
+    IrrelevantElement,
+    NotYetClassifiedElement,
+    TextElement,
+)
+from sec_parser.semantic_elements.table_element.table_element import TableElement
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.processing_engine.html_tag import HtmlTag
+    from sec_parser.processing_steps.abstract_classes.abstract_processing_step import (
+        AbstractProcessingStep,
+    )
+    from sec_parser.processing_steps.individual_semantic_element_extractor.single_element_checks.abstract_single_element_check import (
+        AbstractSingleElementCheck,
+    )
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+
+class AbstractSemanticElementParser(ABC):
+    """Responsible for parsing semantic elements from HTML documents.
+    It takes raw HTML and turns it into a list of objects
+    representing semantic elements.
+
+    At a High Level:
+    ==================
+    1. Extract top-level HTML tags from the document.
+    2. Transform these tags into a list of more specific semantic
+       elements step-by-step.
+
+    Why Focus on Top-Level Tags?
+    ============================
+    SEC filings usually have a flat HTML structure, which simplifies the
+    parsing process. Each top-level HTML tag often directly corresponds
+    to a single semantic element. This is different from many websites
+    where HTML tags are nested deeply,requiring more complex parsing.
+
+    For Advanced Users:
+    ====================
+    The parsing process is implemented as a sequence of steps and allows for
+    customization at each step.
+
+    - Pipeline Pattern: Raw HTML tags are processed in a sequential manner.
+      The steps follow an ordered, step-by-step approach, akin to a Finite
+      State Machine (FSM). Each element transitions through various states
+      defined by the sequence of processing steps.
+
+    - Strategy Pattern: Each step is customizable. You can either replace,
+      remove, or extend any of the existing steps with your own or
+      inherited implementation. Alternatively, you can replace the entire pipeline
+      with your own process.
+    """
+
+    def __init__(
+        self,
+        get_steps: Callable[[], list[AbstractProcessingStep]] | None = None,
+        *,
+        parsing_options: ParsingOptions | None = None,
+        html_tag_parser: AbstractHtmlTagParser | None = None,
+    ) -> None:
+        self._get_steps = get_steps or self.get_default_steps
+        self._parsing_options = parsing_options or ParsingOptions()
+        self._html_tag_parser = html_tag_parser or HtmlTagParser()
+
+    @abstractmethod
+    def get_default_steps(self) -> list[AbstractProcessingStep]:
+        raise NotImplementedError  # pragma: no cover
+
+    def parse(
+        self,
+        html: str | bytes,
+        *,
+        unwrap_elements: bool | None = None,
+        include_containers: bool | None = None,
+        include_irrelevant_elements: bool | None = None,
+    ) -> list[AbstractSemanticElement]:
+        root_tags = self._html_tag_parser.parse(html)
+        return self.parse_from_tags(
+            root_tags,
+            unwrap_elements=unwrap_elements,
+            include_containers=include_containers,
+            include_irrelevant_elements=include_irrelevant_elements,
+        )
+
+    def parse_from_tags(
+        self,
+        root_tags: list[HtmlTag],
+        *,
+        unwrap_elements: bool | None = None,
+        include_containers: bool | None = None,
+        include_irrelevant_elements: bool | None = None,
+    ) -> list[AbstractSemanticElement]:
+        steps = self._get_steps()
+        elements: list[AbstractSemanticElement] = [
+            NotYetClassifiedElement(tag) for tag in root_tags
+        ]
+
+        for step in steps:
+            elements = step.process(elements)
+
+        if not include_irrelevant_elements:
+            elements = [
+                e for e in elements if isinstance(e, IrrelevantElement) is False
+            ]
+        if unwrap_elements is False:
+            return elements
+        return CompositeSemanticElement.unwrap_elements(
+            elements,
+            include_containers=include_containers,
+        )
+
+
+class Edgar10QParser(AbstractSemanticElementParser):
+    """The Edgar10QParser class is responsible for parsing SEC EDGAR 10-Q
+    quarterly reports. It transforms the HTML documents into a list
+    of elements. Each element in this list represents a part of
+    the visual structure of the original document.
+    """
+
+    def get_default_steps(
+        self,
+        get_checks: Callable[[], list[AbstractSingleElementCheck]] | None = None,
+    ) -> list[AbstractProcessingStep]:
+        return [
+            IndividualSemanticElementExtractor(
+                get_checks=get_checks or self.get_default_single_element_checks,
+            ),
+            ImageClassifier(types_to_process={NotYetClassifiedElement}),
+            EmptyElementClassifier(types_to_process={NotYetClassifiedElement}),
+            TableClassifier(types_to_process={NotYetClassifiedElement}),
+            TableOfContentsClassifier(types_to_process={TableElement}),
+            TopSectionManagerFor10Q(types_to_process={NotYetClassifiedElement}),
+            IntroductorySectionElementClassifier(),
+            TextClassifier(types_to_process={NotYetClassifiedElement}),
+            HighlightedTextClassifier(types_to_process={TextElement}),
+            SupplementaryTextClassifier(
+                types_to_process={TextElement, HighlightedTextElement},
+            ),
+            PageHeaderClassifier(
+                types_to_process={TextElement, HighlightedTextElement},
+            ),
+            PageNumberClassifier(
+                types_to_process={TextElement, HighlightedTextElement},
+            ),
+            TitleClassifier(types_to_process={HighlightedTextElement}),
+            TextElementMerger(),
+        ]
+
+    def get_default_single_element_checks(self) -> list[AbstractSingleElementCheck]:
+        return [
+            TableCheck(),
+            XbrlTagCheck(),
+            ImageCheck(),
+            TopSectionTitleCheck(),
+        ]
+
+
+class Edgar10KParser(AbstractSemanticElementParser):
+    """The Edgar10KParser class is responsible for parsing SEC EDGAR 10-K
+    quarterly reports. It transforms the HTML documents into a list
+    of elements. Each element in this list represents a part of
+    the visual structure of the original document.
+    """
+
+    def get_default_steps(
+        self,
+        get_checks: Callable[[], list[AbstractSingleElementCheck]] | None = None,
+    ) -> list[AbstractProcessingStep]:
+        return [
+            IndividualSemanticElementExtractor(
+                get_checks=get_checks or self.get_default_single_element_checks,
+            ),
+            ImageClassifier(types_to_process={NotYetClassifiedElement}),
+            EmptyElementClassifier(types_to_process={NotYetClassifiedElement}),
+            TableClassifier(types_to_process={NotYetClassifiedElement}),
+            TableOfContentsClassifier(types_to_process={TableElement}),
+            TopSectionManagerFor10K(types_to_process={NotYetClassifiedElement}),
+            IntroductorySectionElementClassifier(),
+            TextClassifier(types_to_process={NotYetClassifiedElement}),
+            HighlightedTextClassifier(types_to_process={TextElement}),
+            SupplementaryTextClassifier(
+                types_to_process={TextElement, HighlightedTextElement},
+            ),
+            PageHeaderClassifier(
+                types_to_process={TextElement, HighlightedTextElement},
+            ),
+            PageNumberClassifier(
+                types_to_process={TextElement, HighlightedTextElement},
+            ),
+            TitleClassifier(types_to_process={HighlightedTextElement}),
+            TextElementMerger(),
+        ]
+
+    def get_default_single_element_checks(self) -> list[AbstractSingleElementCheck]:
+        return [
+            TableCheck(),
+            XbrlTagCheck(),
+            ImageCheck(),
+            TopSectionTitleCheck(),
+        ]
+
+</core>
+
+<html_tag>
+from __future__ import annotations
+
+import re
+from typing import TYPE_CHECKING, Callable
+
+import bs4
+import xxhash
+from frozendict import frozendict
+from loguru import logger
+
+from sec_parser.exceptions import SecParserValueError
+from sec_parser.utils.bs4_.approx_table_metrics import (
+    ApproxTableMetrics,
+    get_approx_table_metrics,
+)
+from sec_parser.utils.bs4_.contains_tag import contains_tag
+from sec_parser.utils.bs4_.count_tags import count_tags
+from sec_parser.utils.bs4_.count_text_matches_in_descendants import (
+    count_text_matches_in_descendants,
+)
+from sec_parser.utils.bs4_.has_tag_children import has_tag_children
+from sec_parser.utils.bs4_.has_text_outside_tags import has_text_outside_tags
+from sec_parser.utils.bs4_.is_unary_tree import is_unary_tree
+from sec_parser.utils.bs4_.table_check_data_cell import check_table_contains_text_page
+from sec_parser.utils.bs4_.table_to_markdown import TableToMarkdown
+from sec_parser.utils.bs4_.text_styles_metrics import compute_text_styles_metrics
+from sec_parser.utils.bs4_.without_tags import without_tags
+from sec_parser.utils.bs4_.wrap_tags_in_new_parent import wrap_tags_in_new_parent
+
+if TYPE_CHECKING:  # pragma: no cover
+    from collections.abc import Iterable
+
+TEXT_PREVIEW_LENGTH = 40
+
+# Regex pattern for opening ix tags
+opening_tag_pattern = re.compile(r"<ix:[^>]+>")
+
+# Regex pattern for closing ix tags
+closing_tag_pattern = re.compile(r"</ix:[^>]+>")
+
+
+class HtmlTag:
+    """The HtmlTag class is a wrapper for BeautifulSoup4 Tag objects.
+
+    It serves three main purposes:
+
+    1. Decoupling: By abstracting the underlying BeautifulSoup4 library, we
+       can isolate our application logic from the library specifics. This
+       makes it easier to modify or even replace the HTML parsing library in
+       the future without extensive codebase changes.
+
+    2. Usability: The HtmlTag class provides a convenient location to add
+       extension methods or additional properties not offered by the native
+       BeautifulSoup4 Tag class. This enhances the usability of the class.
+
+    3. Caching: The HtmlTag class also caches processing results, improving
+       performance by avoiding unnecessary re-computation.
+    """
+
+    def __init__(
+        self,
+        bs4_element: bs4.PageElement,
+    ) -> None:
+        self._bs4: bs4.Tag = self._to_tag(bs4_element)
+        self._parent: HtmlTag | None = None
+
+        # We use cached properties to prevent performance issues in intensive loops.
+        # As the source code is immutable, we can afford to use some extra memory
+        # for caching. A decorator might be a cleaner solution here.
+        self._text: str | None = None
+        self._children: list[HtmlTag] | None = None
+        self._is_unary_tree: bool | None = None
+        self._first_deepest_tag: HtmlTag | None | NotSetType = NotSet
+        self._text_styles_metrics: dict[tuple[str, str], float] | None = None
+        self._frozen_dict: frozendict | None = None
+        self._source_code: str | None = None
+        self._pretty_source_code: str | None = None
+        self._compatible_source_code: str | None = None
+        self._approx_table_metrics: ApproxTableMetrics | None | NotSetType = NotSet
+        self._contains_tag: dict[tuple[str, bool], bool] = {}
+        self._without_tags: dict[tuple[str, ...], HtmlTag] = {}
+        self._count_tags: dict[str, int] = {}
+        self._has_text_outside_tags: dict[tuple[str, ...], bool] = {}
+        self._contains_words: bool | None = None
+        self._markdown_table: str | None = None
+
+    @property
+    def parent(self) -> HtmlTag | None:
+        if self._parent is None:
+            parent = self._bs4.parent
+            if parent is not None:
+                self._parent = HtmlTag(parent)
+        return self._parent
+
+    def get_source_code(
+        self,
+        *,
+        pretty: bool = False,
+        enable_compatibility: bool = False,
+    ) -> str:
+        if enable_compatibility:
+            if self._compatible_source_code is None:
+                # Streamlit's st.markdown(html) doesn't work with colons in tags names.
+                s = self.get_source_code(pretty=True)
+                s = opening_tag_pattern.sub("<span>", s)
+                s = closing_tag_pattern.sub("</span>", s)
+                self._compatible_source_code = s
+            return self._compatible_source_code
+
+        if pretty:
+            if self._pretty_source_code is None:
+                # Streamlit's st.markdown(html) doesn't colons in tags.
+                self._pretty_source_code = self._bs4.prettify()
+            return self._pretty_source_code
+
+        if self._source_code is None:
+            self._source_code = str(self._bs4)
+        return self._source_code
+
+    def _generate_preview(self, text: str) -> str:
+        """Generate a preview of the text with a specified length."""
+        text = text.replace("\n", " ").strip()
+        return (
+            text[: TEXT_PREVIEW_LENGTH // 2]
+            + f"...[{len(text) - TEXT_PREVIEW_LENGTH}]..."
+            + text[-TEXT_PREVIEW_LENGTH // 2 :]
+            if len(text) > TEXT_PREVIEW_LENGTH
+            else text
+        )
+
+    def to_dict(self) -> frozendict:
+        """Compute the hash of the HTML tag."""
+        if self._frozen_dict is None:
+            self._frozen_dict = frozendict(
+                {
+                    "tag_name": self._bs4.name,
+                    "html_preview": self._generate_preview(
+                        remove_affixes(
+                            self.get_source_code(),
+                            prefixes=(f"<{self._bs4.name}>", f"<{self._bs4.name} "),
+                            suffix=f"</{self._bs4.name}>",
+                        ),
+                    ),
+                    "html_hash": xxhash.xxh32(self.get_source_code()).hexdigest(),
+                },
+            )
+        return self._frozen_dict
+
+    def contains_words(self) -> bool:
+        """Return True if the semantic element contains text."""
+        if self._contains_words is None:
+            self._contains_words = (
+                any(char.isalnum() for char in self.text) if self.text else False
+            )
+        return self._contains_words
+
+    @property
+    def text(self) -> str:
+        """`text` property recursively extracts text from the child tags.
+        The result is cached as the underlying data doesn't change.
+        """
+        if self._text is None:
+            self._text = self._bs4.text.strip()
+        return self._text
+
+    @property
+    def name(self) -> str:
+        """Returns tag name, e.g. for <div> return 'div'."""
+        return self._bs4.name.lower()
+
+    def has_tag_children(self) -> bool:
+        return has_tag_children(self._bs4)
+
+    def get_children(self) -> list[HtmlTag]:
+        if self._children is None:
+            self._children = [
+                HtmlTag(child)
+                for child in self._bs4.children
+                if not (isinstance(child, bs4.NavigableString) and child.strip() == "")
+            ]
+        return self._children
+
+    def contains_tag(self, name: str, *, include_self: bool = False) -> bool:
+        """`contains_tag` method checks if the current HTML tag contains a descendant tag
+        with the specified name. For example, calling contains_tag("b") on an
+        HtmlTag instance representing "<div><p><b>text</b></p></div>" would
+        return True, as there is a 'b' tag within the descendants of the 'div' tag.
+        """
+        tag_key = (name, include_self)
+        if self._contains_tag.get(tag_key) is None:
+            self._contains_tag[tag_key] = contains_tag(
+                self._bs4,
+                name,
+                include_self=include_self,
+            )
+        return self._contains_tag[tag_key]
+
+    def has_text_outside_tags(self, tags: list[str] | str) -> bool:
+        """`has_text_outside_tags` function checks if the given
+        node has any text outside the specified tag.
+        For example, calling has_text_outside_tags(node, ["b"])
+        on a node representing "<div><p><b>text</b>extra text</p></div>"
+        would return True, as there is text outside the 'b'
+        tag within the descendants of the 'div' tag.
+        """
+        tag_names = tuple(tags if isinstance(tags, list) else [tags])
+        if tag_names not in self._has_text_outside_tags:
+            self._has_text_outside_tags[tag_names] = has_text_outside_tags(
+                self._bs4,
+                tag_names,
+            )
+        return self._has_text_outside_tags[tag_names]
+
+    def without_tags(self, names: Iterable[str]) -> HtmlTag:
+        """`without_tags` method creates a copy of the current HTML tag and removes all
+        descendant tags with the specified name. For example, calling
+        without_tags(tag, ["b","i"]) on an HtmlTag instance representing
+        "<div><b>foo</b><p>bar<i>bax</i></p></div>" would
+        return a copy HtmlTag instance representing "<div><p>bar</p></div>".
+        """
+        tag_key = tuple(names)
+        if self._without_tags.get(tag_key) is None:
+            self._without_tags[tag_key] = HtmlTag(
+                without_tags(
+                    self._bs4,
+                    names,
+                ),
+            )
+        return self._without_tags[tag_key]
+
+    def count_tags(self, name: str) -> int:
+        """`count_tags` method counts the number of descendant tags with the specified name
+        within the current HTML tag. For example, calling count_tags("b") on an
+        HtmlTag instance representing "<div><p><b>text</b></p><b>more text</b></div>"
+        would return 2, as there are two 'b' tags within the descendants of
+        the 'div' tag.
+        """
+        tag_key = name
+        if self._count_tags.get(tag_key) is None:
+            self._count_tags[tag_key] = count_tags(
+                self._bs4,
+                name,
+            )
+        return self._count_tags[tag_key]
+
+    def is_unary_tree(self) -> bool:
+        """`is_unary_tree` determines if a BeautifulSoup tag forms a unary tree.
+        In a unary tree, each node has at most one child.
+
+        However, if a non-leaf node contains a non-empty string even without a tag
+        surrounding it, the tree is not considered unary.
+
+        Additionally, if the some tag is a 'table', the function will return True
+        regardless of its children. This is because in the context of this application,
+        'table' tags are always considered unary.
+        """
+        if self._is_unary_tree is None:
+            self._is_unary_tree = is_unary_tree(self._bs4)
+        return self._is_unary_tree
+
+    def get_text_styles_metrics(self) -> dict[tuple[str, str], float]:
+        """Compute the percentage distribution of various CSS styles within the text
+        content of a given HTML tag and its descendants.
+
+        This function iterates through all the text nodes within the tag, recursively
+        includes text from child elements, and calculates the effective styles applied
+        to each text segment.
+
+        It aggregates these styles and computes their percentage distribution based
+        on the length of text they apply to.
+
+        The function uses BeautifulSoup's recursive text search and parent traversal
+        features. It returns a dictionary containing the aggregated style metrics
+        (the percentage distribution of styles).
+
+        Each dictionary entry corresponds to a unique style, (property, value) and
+        the percentage of text it affects.
+        """
+        if self._text_styles_metrics is None:
+            self._text_styles_metrics = compute_text_styles_metrics(self._bs4)
+        return self._text_styles_metrics
+
+    def get_approx_table_metrics(self) -> ApproxTableMetrics | None:
+        if self._approx_table_metrics is NotSet:
+            self._approx_table_metrics = get_approx_table_metrics(self._bs4)
+
+        # Appeasing type checkers
+        if self._approx_table_metrics is not None and not isinstance(
+            self._approx_table_metrics,
+            ApproxTableMetrics,
+        ):
+            msg = f"Invalid type for _approx_table_metrics: {type(self._approx_table_metrics).__name__}"
+            raise ValueError(msg)
+
+        return self._approx_table_metrics
+
+    def is_table_of_content(self) -> bool:
+        return check_table_contains_text_page(self._bs4)
+
+    def table_to_markdown(self) -> str:
+        if self._markdown_table is None:
+            self._markdown_table = TableToMarkdown(self._bs4).convert()
+        return self._markdown_table
+
+    @staticmethod
+    def _to_tag(element: bs4.PageElement) -> bs4.Tag:
+        if isinstance(element, bs4.Tag):
+            tag = element
+        elif isinstance(element, bs4.NavigableString):
+            if str(element).strip() == "":
+                msg = "NavigableString is empty"
+                raise EmptyNavigableStringError(msg)
+            tag = bs4.Tag(name="span")
+            tag.string = str(element)
+            logger.trace("Converting bs4.NavigableString to bs4.Tag(<span>)")
+        else:
+            msg = f"Unsupported element type: {type(element).__name__}"
+            raise TypeError(msg)
+        return tag
+
+    @staticmethod
+    def wrap_tags_in_new_parent(
+        parent_tag_name: str,
+        tags: Iterable[HtmlTag],
+    ) -> HtmlTag:
+        html_tags = tuple(tags)
+        bs4_tags = [tag._bs4 for tag in html_tags]  # noqa: SLF001
+
+        tag = HtmlTag(wrap_tags_in_new_parent(parent_tag_name, bs4_tags))
+
+        tag._parent = html_tags[0].parent
+        return tag
+
+    @classmethod
+    def create_from_text(cls, text: str, tag_name: str = "span") -> HtmlTag:
+        """Create an HtmlTag from plain text content.
+
+        Args:
+            text: The text content for the new tag
+            tag_name: The HTML tag name to use (default: "span")
+
+        Returns:
+            A new HtmlTag containing the specified text
+        """
+        import bs4
+
+        # Create a new BeautifulSoup document to ensure proper context
+        soup = bs4.BeautifulSoup("", "html.parser")
+        tag = soup.new_tag(tag_name)
+        tag.string = text
+
+        return cls(tag)
+
+    @classmethod
+    def clone_with_text(cls, original: HtmlTag, new_text: str) -> HtmlTag:
+        """Create a clone of an HtmlTag with different text content.
+
+        Args:
+            original: The HtmlTag to clone
+            new_text: The new text content
+
+        Returns:
+            A new HtmlTag that is a copy of the original but with new text content
+        """
+        import copy
+
+        # Create a deep copy of the original bs4 tag
+        new_bs4_tag = copy.deepcopy(original._bs4)
+
+        # Clear existing content and set new text
+        new_bs4_tag.clear()
+        new_bs4_tag.string = new_text
+
+        return cls(new_bs4_tag)
+
+    def get_bs4(self) -> bs4.Tag:
+        """Get the underlying BeautifulSoup4 Tag object.
+
+        This method provides controlled access to the wrapped bs4.Tag object
+        for cases where direct bs4 functionality is needed.
+
+        Returns:
+            The underlying bs4.Tag object
+        """
+        return self._bs4
+
+    def count_text_matches_in_descendants(
+        self,
+        predicate: Callable[[str], bool],
+        *,
+        exclude_links: bool | None = None,
+    ) -> int:
+        return count_text_matches_in_descendants(
+            self._bs4,
+            predicate,
+            exclude_links=exclude_links,
+        )
+
+
+class EmptyNavigableStringError(SecParserValueError):
+    pass
+
+
+class NotSetType:
+    pass
+
+
+NotSet = NotSetType()
+
+
+def remove_affixes(text: str, prefixes: tuple, suffix: str) -> str:
+    start = 0
+    if prefixes is not None:
+        for prefix in prefixes:
+            if text.startswith(prefix):
+                start = len(prefix)
+                break
+    end = -len(suffix) if suffix and text.endswith(suffix) else None
+    return text[start:end]
+
+</html_tag>
+
+<abstract_elementwise_processing_step>
+from __future__ import annotations
+
+from abc import abstractmethod
+from typing import TYPE_CHECKING
+
+from loguru import logger
+
+from sec_parser.exceptions import SecParserError
+from sec_parser.processing_steps.abstract_classes.abstract_processing_step import (
+    AbstractProcessingStep,
+)
+from sec_parser.processing_steps.abstract_classes.processing_context import (
+    ElementProcessingContext,
+)
+from sec_parser.semantic_elements.composite_semantic_element import (
+    CompositeSemanticElement,
+)
+from sec_parser.semantic_elements.semantic_elements import ErrorWhileProcessingElement
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+MODULE_LOGGER_NAME = __name__
+
+
+class AbstractElementwiseProcessingStep(AbstractProcessingStep):
+    """`AbstractElementwiseTransformStep` class is used to iterate over
+    all Semantic Elements with or without applying transformations.
+    """
+
+    # _NUM_ITERATIONS specifies the number of times this subclass will
+    # iterate over all semantic elements. Modify this constant to \
+    # change the iteration count.
+    _NUM_ITERATIONS = 1
+
+    def __init__(
+        self,
+        *,
+        types_to_process: set[type[AbstractSemanticElement]] | None = None,
+        types_to_exclude: set[type[AbstractSemanticElement]] | None = None,
+    ) -> None:
+        super().__init__()
+        self._types_to_process = types_to_process or set()
+        if types_to_process:
+            self._types_to_process.add(CompositeSemanticElement)
+        self._types_to_exclude = types_to_exclude or set()
+        self._types_to_exclude.add(ErrorWhileProcessingElement)
+
+    @abstractmethod
+    def _process_element(
+        self,
+        element: AbstractSemanticElement,
+        context: ElementProcessingContext,
+    ) -> AbstractSemanticElement:
+        """`_process_element` method is responsible for transforming a
+        single semantic element into another.
+
+        It can also be utilized to simply iterate over all
+        elements without applying any transformations.
+        """
+        raise NotImplementedError  # pragma: no cover
+
+    def _process_recursively(
+        self,
+        elements: list[AbstractSemanticElement],
+        *,
+        _context: ElementProcessingContext,
+    ) -> list[AbstractSemanticElement]:
+        for i, e in enumerate(elements):
+            # avoids lint error "`element` overwritten by assignment target"
+            element = e
+
+            try:
+                if self._types_to_process and not any(
+                    isinstance(element, t) for t in self._types_to_process
+                ):
+                    continue
+                if any(isinstance(element, t) for t in self._types_to_exclude):
+                    continue
+
+                if isinstance(element, CompositeSemanticElement):
+                    inner_elements = self._process_recursively(
+                        list(element.inner_elements),
+                        _context=_context,
+                    )
+                    element.inner_elements = tuple(inner_elements)
+                else:
+                    element = self._process_element(element, _context)
+
+                elements[i] = element
+            except SecParserError as e:
+                logger.exception(e)
+                elements[i] = ErrorWhileProcessingElement.create_from_element(
+                    element,
+                    error=e,
+                    log_origin=self.__class__.__name__,
+                )
+
+        return elements
+
+    def _process(
+        self,
+        elements: list[AbstractSemanticElement],
+    ) -> list[AbstractSemanticElement]:
+        for iteration in range(self._NUM_ITERATIONS):
+            context = ElementProcessingContext(
+                iteration=iteration,
+            )
+            self._process_recursively(elements, _context=context)
+
+        return elements
+
+</abstract_elementwise_processing_step>
+
+<abstract_processing_step>
+from __future__ import annotations
+
+from abc import ABC, abstractmethod
+from typing import Callable
+
+from sec_parser.exceptions import SecParserRuntimeError
+from sec_parser.semantic_elements.abstract_semantic_element import (
+    AbstractSemanticElement,
+)
+
+ElementTransformer = Callable[[AbstractSemanticElement], AbstractSemanticElement]
+
+
+class AlreadyProcessedError(SecParserRuntimeError):
+    pass
+
+
+class AbstractProcessingStep(ABC):
+    """AbstractProcessingStep class for transforming a list of elements.
+    Chaining multiple steps together allows for complex transformations
+    while keeping the code modular.
+
+    Each instance of a step is designed to be used for a single
+    transformation operation. This ensures that any internal state
+    maintained during a transformation is isolated to the processing
+    of a single document.
+    """
+
+    def __init__(self) -> None:
+        """Initialize the step. Sets `_transformed` to False to ensure
+        that each instance is used for exactly one transformation operation.
+        """
+        self._already_processed = False
+
+    def process(
+        self,
+        elements: list[AbstractSemanticElement],
+    ) -> list[AbstractSemanticElement]:
+        """Transform the list of semantic elements.
+
+        Note: The `elements` argument could potentially be mutated for
+        performance reasons.
+        """
+        if self._already_processed:
+            msg = (
+                "This Step instance has already processed a document. "
+                "Each Step instance is designed for a single "
+                "transformation operation. Please create a new instance "
+                "of the Step to process another document."
+            )
+            raise AlreadyProcessedError(msg)
+
+        self._already_processed = True
+        return self._process(elements)
+
+    @abstractmethod
+    def _process(
+        self,
+        elements: list[AbstractSemanticElement],
+    ) -> list[AbstractSemanticElement]:
+        """Implement the actual transformation logic in child classes.
+
+        This method is intended to be overridden by child classes to provide specific
+        transformation logic.
+        """
+        raise NotImplementedError  # pragma: no cover
+
+</abstract_processing_step>
+
+<empty_element_classifier>
+from __future__ import annotations
+
+from typing import TYPE_CHECKING
+
+from sec_parser.processing_steps.abstract_classes.abstract_elementwise_processing_step import (
+    AbstractElementwiseProcessingStep,
+    ElementProcessingContext,
+)
+from sec_parser.semantic_elements.semantic_elements import EmptyElement
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+
+class InvalidIterationError(ValueError):
+    """Raised when an invalid iteration value is encountered."""
+
+
+class EmptyElementClassifier(AbstractElementwiseProcessingStep):
+    """IrrelevantElementClassifier class for converting elements
+    into IrrelevantElement instances.
+
+    This step scans through a list of semantic elements and changes it,
+    primarily by replacing suitable candidates with IrrelevantElement instances.
+    """
+
+    def __init__(
+        self,
+        *,
+        types_to_process: set[type[AbstractSemanticElement]] | None = None,
+        types_to_exclude: set[type[AbstractSemanticElement]] | None = None,
+    ) -> None:
+        super().__init__(
+            types_to_process=types_to_process,
+            types_to_exclude=types_to_exclude,
+        )
+
+    def _process_element(
+        self,
+        element: AbstractSemanticElement,
+        _: ElementProcessingContext,
+    ) -> AbstractSemanticElement:
+        """Transform a single semantic element
+        into a EmptyElement if applicable.
+        """
+        if not element.contains_words():
+            element.processing_log.add_item(
+                message="Does not contain words",
+                log_origin=self.__class__.__name__,
+            )
+            return EmptyElement.create_from_element(
+                element,
+                log_origin=self.__class__.__name__,
+            )
+        return element
+
+</empty_element_classifier>
+
+<abstract_single_element_check>
+from __future__ import annotations
+
+from abc import ABC, abstractmethod
+from typing import TYPE_CHECKING
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+
+class AbstractSingleElementCheck(ABC):
+    @abstractmethod
+    def contains_single_element(self, element: AbstractSemanticElement) -> bool | None:
+        """Designed to work as series of subsequent checks.
+        - Returning None means that the check is inconclusive, and the next check should be performed.
+        - Returning True means that no further checks are necessary, and the HTML element will be
+        later be able to be converted into a semantic element without any splits.
+        - Returning False means that the HTML element will be split into multiple semantic elements
+        of type NotYetClassifiedElement.
+        """
+        raise NotImplementedError  # pragma: no cover
+
+</abstract_single_element_check>
+
+<table_classifier>
+from __future__ import annotations
+
+from typing import TYPE_CHECKING
+
+from sec_parser.processing_steps.abstract_classes.abstract_elementwise_processing_step import (
+    AbstractElementwiseProcessingStep,
+    ElementProcessingContext,
+)
+from sec_parser.semantic_elements.table_element.table_element import TableElement
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+
+class TableClassifier(AbstractElementwiseProcessingStep):
+    """TableClassifier class for converting elements into TableElement instances.
+
+    This step scans through a list of semantic elements and changes it,
+    primarily by replacing suitable candidates with TableElement instances.
+    """
+
+    def __init__(
+        self,
+        *,
+        types_to_process: set[type[AbstractSemanticElement]] | None = None,
+        types_to_exclude: set[type[AbstractSemanticElement]] | None = None,
+    ) -> None:
+        super().__init__(
+            types_to_process=types_to_process,
+            types_to_exclude=types_to_exclude,
+        )
+        self._row_count_threshold = 1
+
+    def _process_element(
+        self,
+        element: AbstractSemanticElement,
+        _: ElementProcessingContext,
+    ) -> AbstractSemanticElement:
+        if element.html_tag.contains_tag("table", include_self=True):
+            metrics = element.html_tag.get_approx_table_metrics()
+            if metrics is None:
+                element.processing_log.add_item(
+                    log_origin=self.__class__.__name__,
+                    message=("Skipping: Failed to get table metrics."),
+                )
+                return element
+            if metrics.rows > self._row_count_threshold:
+                return TableElement.create_from_element(
+                    element,
+                    log_origin=self.__class__.__name__,
+                )
+            element.processing_log.add_item(
+                log_origin=self.__class__.__name__,
+                message=(
+                    f"Skipping: Table has {metrics.rows} rows, which is below the "
+                    f"threshold of {self._row_count_threshold}."
+                ),
+            )
+        return element
+
+</table_classifier>
+
+<table_of_contents_classifier>
+from __future__ import annotations
+
+from typing import TYPE_CHECKING
+
+from sec_parser.processing_steps.abstract_classes.abstract_elementwise_processing_step import (
+    AbstractElementwiseProcessingStep,
+    ElementProcessingContext,
+)
+from sec_parser.semantic_elements.table_element.table_of_contents_element import (
+    TableOfContentsElement,
+)
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+
+class TableOfContentsClassifier(AbstractElementwiseProcessingStep):
+    """TableOfContentsClassifier class for converting elements into TableOfContentsElement instances.
+
+    This step scans through a list of semantic elements and changes it,
+    primarily by replacing suitable candidates with TableOfContentsElement instances.
+    """
+
+    def __init__(
+        self,
+        *,
+        types_to_process: set[type[AbstractSemanticElement]] | None = None,
+        types_to_exclude: set[type[AbstractSemanticElement]] | None = None,
+    ) -> None:
+        super().__init__(
+            types_to_process=types_to_process,
+            types_to_exclude=types_to_exclude,
+        )
+
+    def _process_element(
+        self,
+        element: AbstractSemanticElement,
+        _: ElementProcessingContext,
+    ) -> AbstractSemanticElement:
+        is_table_of_content = element.html_tag.is_table_of_content()
+
+        if is_table_of_content is True:
+            return TableOfContentsElement.create_from_element(
+            element,
+            log_origin=self.__class__.__name__,
+            )
+
+        return element
+
+</table_of_contents_classifier>
+
+<text_classifier>
+from __future__ import annotations
+
+from typing import TYPE_CHECKING
+
+from sec_parser.processing_steps.abstract_classes.abstract_elementwise_processing_step import (
+    AbstractElementwiseProcessingStep,
+    ElementProcessingContext,
+)
+from sec_parser.semantic_elements.semantic_elements import TextElement
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+
+class TextClassifier(AbstractElementwiseProcessingStep):
+    """TextClassifier class for converting elements into TextElement instances.
+
+    This step scans through a list of semantic elements and changes it,
+    primarily by replacing suitable candidates with TextElement instances.
+    """
+
+    def __init__(
+        self,
+        *,
+        types_to_process: set[type[AbstractSemanticElement]] | None = None,
+        types_to_exclude: set[type[AbstractSemanticElement]] | None = None,
+    ) -> None:
+        super().__init__(
+            types_to_process=types_to_process,
+            types_to_exclude=types_to_exclude,
+        )
+
+    def _process_element(
+        self,
+        element: AbstractSemanticElement,
+        _: ElementProcessingContext,
+    ) -> AbstractSemanticElement:
+        """Transform a single semantic element
+        into a TextElement if applicable.
+        """
+        if element.contains_words():
+            return TextElement.create_from_element(
+                element,
+                log_origin=self.__class__.__name__,
+            )
+        return element
+
+</text_classifier>
+
+<text_element_merger>
+from __future__ import annotations
+
+from collections import deque
+from typing import TYPE_CHECKING, cast
+
+from sec_parser.processing_engine.html_tag import HtmlTag
+from sec_parser.processing_steps.abstract_classes.abstract_element_batch_processing_step import (
+    AbstractElementBatchProcessingStep,
+)
+from sec_parser.semantic_elements.semantic_elements import (
+    IrrelevantElement,
+    TextElement,
+)
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.processing_steps.abstract_classes.processing_context import (
+        ElementProcessingContext,
+    )
+    from sec_parser.semantic_elements.abstract_semantic_element import (
+        AbstractSemanticElement,
+    )
+
+
+class TextElementMerger(AbstractElementBatchProcessingStep):
+    """TextElementMerger is a processing step that merges adjacent text elements
+    For example, TextElement(<span></span>) and TextElement(<span></span>)
+    into a single TextElement(<span></span><span></span>).
+
+    Intended to fix weird formatting artifacts, such as:
+        <ix:nonnumeric contextref="c-1" name="us-gaap:PropertyPlantAndEquipmentTextBlock" id="f-989" escape="true">
+            <span style="background-color:#ffffff;color:#000000;font-family:'Arial',sans-serif;font-size:10pt;font-weight:400;line-height:120%">Property and equipment, net, co</span>
+            <span style="color:#000000;font-family:'Arial',sans-serif;font-size:10pt;font-weight:400;line-height:120%">nsisted of the following (in millions):</span>
+        </ix:nonnumeric>
+    Notice, how text is split into two spans, even though it's a single sentence.
+    Source: https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/goog-20230930.htm
+    """
+
+    def _process_elements(
+        self,
+        elements: list[AbstractSemanticElement],
+        _: ElementProcessingContext,
+    ) -> list[AbstractSemanticElement]:
+        result: deque[AbstractSemanticElement | None] = deque(elements)
+        batch_indices: list[list[int]] = [[]]
+
+        for i, element in enumerate(elements):
+            if isinstance(element, TextElement):
+                batch_indices[-1].append(i)
+            elif batch_indices[-1] and not isinstance(element, IrrelevantElement):
+                batch_indices.append([])
+
+        for indices in batch_indices:
+            if len(indices) <= 1:
+                continue
+            result[indices[0]] = self._merge(
+                cast(
+                    "list[AbstractSemanticElement]",
+                    # At this point,
+                    # there shouldn't be any None
+                    # elements in the list anyway
+                    [result[i] for i in indices if result[i]],
+                ),
+            )
+            for i in indices[1:]:
+                result[i] = None
+
+        return [element for element in result if element is not None]
+
+    @classmethod
+    def _merge(
+        cls,
+        elements: list[AbstractSemanticElement],
+    ) -> AbstractSemanticElement:
+        new_tag = HtmlTag.wrap_tags_in_new_parent(
+            "sec-parser-merged-text",
+            [e.html_tag for e in elements],
+        )
+        merged_processing_log = elements[0].processing_log.copy()
+        # After merging, we retain the processing log of the first element and drop the logs of the others.
+        # This is because the merged text element now represents a single entity, and we want to avoid
+        # log duplication or confusion about which part of the merged text the logs refer to.
+        dropped_logs = [e.processing_log for e in elements[1:]]
+        if any(dropped_logs):
+            merged_processing_log.add_item(
+                message="Merged multiple TextElements. Processing logs from subsequent elements are dropped.",
+                log_origin=cls.__name__,
+            )
+        return TextElement(
+            new_tag,
+            processing_log=merged_processing_log,
+            log_origin=cls.__name__,
+        )
+
+</text_element_merger>
+
+<abstract_semantic_element>
+from __future__ import annotations
+
+from abc import ABC
+from typing import TYPE_CHECKING, Any
+
+from sec_parser.exceptions import SecParserValueError
+from sec_parser.processing_engine.processing_log import LogItemOrigin, ProcessingLog
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.processing_engine.html_tag import HtmlTag
+
+
+class AbstractSemanticElement(ABC):  # noqa: B024
+    """In the domain of HTML parsing, especially in the context of SEC EDGAR documents,
+    a semantic element refers to a meaningful unit within the document that serves a
+    specific purpose. For example, a paragraph or a table might be considered a
+    semantic element. Unlike syntactic elements, which merely exist to structure the
+    HTML, semantic elements carry information that is vital to the understanding of the
+    document's content.
+
+    This class serves as a foundational representation of such semantic elements,
+    containing an HtmlTag object that stores the raw HTML tag information. Subclasses
+    will implement additional behaviors based on the type of the semantic element.
+    """
+
+    def __init__(
+        self,
+        html_tag: HtmlTag,
+        *,
+        processing_log: ProcessingLog | None = None,
+        log_origin: LogItemOrigin | None = None,
+    ) -> None:
+        self._html_tag = html_tag
+        self.processing_log = processing_log or ProcessingLog()
+
+        # If creating derived classes that override __init__, make sure to call this
+        # at the very end the derived class's __init__ method. Pass log_origin=None to the base class.
+        # This is to ensure that the log_init is called at the very end of the __init__
+        self.log_init(log_origin)
+
+    def log_init(self, log_origin: LogItemOrigin | None = None) -> None:
+        """Has to be called at the very end of the __init__ method."""
+        if log_origin:
+            self.processing_log.add_item(
+                log_origin=log_origin,
+                message=self.to_dict(include_previews=False),
+            )
+
+    @property
+    def html_tag(self) -> HtmlTag:
+        return self._html_tag
+
+    @classmethod
+    def create_from_element(
+        cls,
+        source: AbstractSemanticElement,
+        log_origin: LogItemOrigin,
+    ) -> AbstractSemanticElement:
+        """Convert the semantic element into another semantic element type."""
+        return cls(
+            source._html_tag,
+            processing_log=source.processing_log,
+            log_origin=log_origin,
+        )
+
+    def to_dict(
+        self,
+        *,
+        include_previews: bool = False,
+        include_contents: bool = False,
+    ) -> dict[str, Any]:
+        _ = include_contents
+
+        result = {"cls_name": self.__class__.__name__}
+        if include_previews is not False:
+            result.update(self._html_tag.to_dict())
+        return result
+
+    def __repr__(self) -> str:
+        return f"{self.__class__.__name__}<{self._html_tag.name}>"
+
+    def contains_words(self) -> bool:
+        """Return True if the semantic element contains text."""
+        return self._html_tag.contains_words()
+
+    @property
+    def text(self) -> str:
+        """Property text is a passthrough to the HtmlTag text property."""
+        return self._html_tag.text
+
+    def get_source_code(
+        self,
+        *,
+        pretty: bool = False,
+        enable_compatibility: bool = False,
+    ) -> str:
+        """get_source_code is a passthrough to the HtmlTag method."""
+        return self._html_tag.get_source_code(
+            pretty=pretty,
+            enable_compatibility=enable_compatibility,
+        )
+
+    def get_summary(self) -> str:
+        """Return a human-readable summary of the semantic element.
+
+        This method aims to provide a simplified, human-friendly representation of
+        the underlying HtmlTag. In this base implementation, it is a passthrough
+        to the HtmlTag's get_text() method.
+
+        Note: Subclasses may override this method to provide a more specific summary
+        based on the type of element.
+        """
+        return self.text
+
+
+class AbstractLevelElement(AbstractSemanticElement):
+    """The AbstractLevelElement class provides a level attribute to semantic elements.
+    It represents hierarchical levels in the document structure. For instance,
+    a main section title might be at level 1, a subsection at level 2, etc.
+    """
+
+    MIN_LEVEL = 0
+
+    def __init__(
+        self,
+        html_tag: HtmlTag,
+        *,
+        processing_log: ProcessingLog | None = None,
+        level: int | None = None,
+        log_origin: LogItemOrigin | None = None,
+    ) -> None:
+        super().__init__(html_tag, processing_log=processing_log, log_origin=None)
+        level = level or self.MIN_LEVEL
+
+        if level < self.MIN_LEVEL:
+            msg = f"Level must be equal or greater than {self.MIN_LEVEL}"
+            raise InvalidLevelError(msg)
+        self.level = level
+        self.log_init(log_origin)  # Has to be called at the very end
+
+    @classmethod
+    def create_from_element(
+        cls,
+        source: AbstractSemanticElement,
+        log_origin: LogItemOrigin,
+        *,
+        level: int | None = None,
+    ) -> AbstractLevelElement:
+        return cls(
+            source._html_tag,  # noqa: SLF001
+            processing_log=source.processing_log,
+            level=level,
+            log_origin=log_origin,
+        )
+
+    def to_dict(
+        self,
+        *,
+        include_previews: bool = False,
+        include_contents: bool = False,
+    ) -> dict[str, Any]:
+        return {
+            **super().to_dict(
+                include_previews=include_previews,
+                include_contents=include_contents,
+            ),
+            "level": self.level,
+        }
+
+    def __repr__(self) -> str:
+        return f"{self.__class__.__name__}[L{self.level}]<{self._html_tag.name}>"
+
+
+class InvalidLevelError(SecParserValueError):
+    pass
+
+</abstract_semantic_element>
+
+<semantic_elements>
+from __future__ import annotations
+
+from typing import TYPE_CHECKING
+
+from sec_parser.exceptions import SecParserValueError
+from sec_parser.semantic_elements.abstract_semantic_element import (
+    AbstractSemanticElement,
+)
+from sec_parser.semantic_elements.mixins.dict_text_content_mixin import (
+    DictTextContentMixin,
+)
+
+if TYPE_CHECKING:  # pragma: no cover
+    from sec_parser.processing_engine.html_tag import HtmlTag
+    from sec_parser.processing_engine.processing_log import LogItemOrigin, ProcessingLog
+
+
+class NotYetClassifiedElement(AbstractSemanticElement):
+    """The NotYetClassifiedElement class represents an element whose type
+    has not yet been determined. The parsing process aims to
+    classify all instances of this class into more specific
+    subclasses of AbstractSemanticElement.
+    """
+
+
+class ErrorWhileProcessingElement(AbstractSemanticElement):
+    """The ErrorWhileProcessingElement class represents an element that could
+    not be processed due to an error. This class is used to handle exceptions
+    and errors during the parsing process.
+    """
+
+    def __init__(
+        self,
+        html_tag: HtmlTag,
+        error: Exception,
+        *,
+        processing_log: ProcessingLog | None = None,
+        log_origin: LogItemOrigin | None = None,
+    ) -> None:
+        super().__init__(html_tag, processing_log=processing_log, log_origin=None)
+        self.error = error
+        self.log_init(log_origin)
+
+    @classmethod
+    def create_from_element(
+        cls,
+        source: AbstractSemanticElement,
+        log_origin: LogItemOrigin,
+        *,
+        error: Exception | None = None,
+    ) -> AbstractSemanticElement:
+        if error is None:
+            msg = "Error must be provided."
+            raise SecParserValueError(msg)
+        return cls(
+            source._html_tag,  # noqa: SLF001
+            processing_log=source.processing_log,
+            error=error,
+            log_origin=log_origin,
+        )
+
+
+class IrrelevantElement(AbstractSemanticElement):
+    """The IrrelevantElement class identifies elements in the parsed HTML that do not
+    contribute to the content. These elements often include page separators, page
+    numbers, and other non-content items. For instance, HTML tags without content
+    like <p></p> or <div></div> are deemed irrelevant, often used in documents just
+    to add vertical space.
+    """
+
+
+class PageNumberElement(IrrelevantElement):
+    """The PageNumberElement class represents a page number within a document.
+    It is a subclass of the IrrelevantElement class and is used to identify
+    and handle page numbers in the document.
+    """
+
+
+class PageHeaderElement(IrrelevantElement):
+    """The PageHeaderElement class represents a page header within a document.
+    It is a subclass of the IrrelevantElement class and is used to identify
+    and handle page headers in the document, such as current section titles
+    and company names.
+    """
+
+
+class EmptyElement(IrrelevantElement):
+    """The EmptyElement class represents an HTML element that does not contain any content.
+    It is a subclass of the IrrelevantElement class and is used to identify and handle
+    empty HTML tags in the document.
+    """
+
+
+class IntroductorySectionElement(IrrelevantElement):
+    """The IntroductorySectionElement class represents elements that are part of the
+    introductory sections of a document, such as title page, disclaimers or other
+    preliminary information that precedes the main content of the document.
+    This class is a subclass of the IrrelevantElement class, as these introductory
+    sections are typically not part of the core financial data to be extracted.
+    """
+
+
+class TextElement(DictTextContentMixin, AbstractSemanticElement):
+    """The TextElement class represents a standard text paragraph within a document."""
+
+
+class SupplementaryText(DictTextContentMixin, AbstractSemanticElement):
+    """The SupplementaryText class captures various types of supplementary text
+    within a document, such as unit qualifiers, additional notes, and disclaimers.
+
+    For example:
+    - "(In millions, except number of shares which are reflected in thousands and
+       per share amounts)"
+    - "See accompanying Notes to Condensed Consolidated Financial Statements."
+    - "Disclaimer: This is not financial advice."
+    """
+
+
+class ImageElement(AbstractSemanticElement):
+    """The ImageElement class represents a standard image within a document."""
+
+</semantic_elements>
+
+<table_element>
+from __future__ import annotations
+
+from dataclasses import asdict
+from typing import Any
+
+from sec_parser.semantic_elements.abstract_semantic_element import (
+    AbstractSemanticElement,
+)
+
+
+class TableElement(AbstractSemanticElement):
+    """The TableElement class represents a standard table within a document."""
+
+    def get_summary(self) -> str:
+        """Return a human-readable summary of the semantic element.
+
+        This method aims to provide a simplified, human-friendly representation of
+        the underlying HtmlTag.
+        """
+        metrics = self.html_tag.get_approx_table_metrics()
+        if metrics is None:
+            return "Table with {len(self.text)} characters."
+        return (
+            f"Table with ~{metrics.rows} rows, "
+            f"~{metrics.numbers} numbers, and "
+            f"{len(self.text)} characters."
+        )
+
+    def to_dict(
+        self,
+        *,
+        include_previews: bool = False,
+        include_contents: bool = False,
+    ) -> dict[str, Any]:
+        result_dict = super().to_dict(
+            include_previews=include_previews,
+            include_contents=include_contents,
+        )
+        if include_previews is not False:
+            metrics = self.html_tag.get_approx_table_metrics()
+            result_dict["metrics"] = asdict(metrics) if metrics is not None else None
+        return result_dict
+
+    def table_to_markdown(self) -> str:
+        return self.html_tag.table_to_markdown()
+
+</table_element>

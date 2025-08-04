@@ -1,0 +1,11 @@
+Total parsed elements: 9
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.15
+  2. HeadingElement (level=1): EMPLOYMENT AGREEMENT
+  3. TextElement (level=N/A): THIS EMPLOYMENT AGREEMENT (the "Agreement") is effective as of February 26, 2024 (the "Effective Date"), by and between CANNAE HOLDINGS, INC., a Delaware corporation (the "Company"), and WILLIAM P. FO
+  4. HeadingElement (level=2): To the Company:
+  5. TextElement (level=N/A): Cannae Holdings, Inc.1701 Village Center Circle Las Vegas, NV 89134        Attention: General Counsel
+  6. HeadingElement (level=2): To the Employee:
+  7. TextElement (level=N/A): William P. Foley, II At the address shown on the Company’s records26.Waiver of Breach.  The waiver by any party of any provisions of this Agreement shall not operate or be construed as a waiver of any
+  8. HeadingElement (level=1): APPENDIX A
+  9. TextElement (level=N/A): Position Title:  Chief Executive Officer, Chief Investment Officer and Chairman of the Board DUTIES AND RESPONSIBILITIES:  Reporting to the Board, the Employee's duties and responsibilities include:1.

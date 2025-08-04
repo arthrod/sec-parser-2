@@ -1,0 +1,82 @@
+AGREEMENT: Exhibit
+10.12
+
+--- (Additional Root Structure) ---
+Heading (L1): DATED
+THIS DAY OF 2022
+
+--- (Additional Root Structure) ---
+Heading (L1): MYISCO
+SDN BHD
+
+--- (Additional Root Structure) ---
+Heading (L1): SUPER
+APPS HOLDINGS SDN BHD
+
+--- (Additional Root Structure) ---
+AGREEMENT: COLLABORATION
+AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+
+--- (Additional Root Structure) ---
+Heading (L2): NOW
+IT IS HEREBY AGREED as follows:
+
+--- (Additional Root Structure) ---
+Section 1: DEFINITION AND INTERPRETATION
+
+--- (Additional Root Structure) ---
+Section 2: PERSONAL FINANCING PROGRAMME
+
+--- (Additional Root Structure) ---
+Section 3: FINANCING PARTNER’S
+  OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.
+OBLIGATIONS OF MYISCO
+
+--- (Additional Root Structure) ---
+Section 5: MUTUAL OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.1
+Both Parties shall:
+
+--- (Additional Root Structure) ---
+Section 6: CONFIDENTIALITY
+
+--- (Additional Root Structure) ---
+Section 7: DATA PROTECTION
+
+--- (Additional Root Structure) ---
+Section 8: INTELLECTUAL PROPERTY RIGHTS
+
+--- (Additional Root Structure) ---
+Section 9: EXCLUSIVITY
+
+--- (Additional Root Structure) ---
+Section 10: TERMINATION
+
+--- (Additional Root Structure) ---
+Section 11: INDEMNITIES AND LIABILITIES
+
+--- (Additional Root Structure) ---
+Section 12: NOTICES
+
+--- (Additional Root Structure) ---
+Section 13: FORCE
+    MAJEURE
+
+--- (Additional Root Structure) ---
+Section 14: DURATION
+    OF AGREEMENT
+
+--- (Additional Root Structure) ---
+Section 15: MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Heading (L1): THE
+FINANCING PARTNER

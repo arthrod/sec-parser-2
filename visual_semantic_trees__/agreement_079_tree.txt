@@ -1,0 +1,763 @@
+AGREEMENT: RESTRICTED STOCK UNIT AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): (TBRSU – EXECUTIVE)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Background
+Information
+
+--- (Additional Root Structure) ---
+Clause (A): The Board of Directors (the “Board”) and stockholders of the Company previously adopted the Jabil In...
+`-- Content: B.    Section 3 of the Plan provides that the Compensation Committee of the Board (the “Committee”) ...
+
+--- (Additional Root Structure) ---
+Clause (C): The Grantee desires to accept the Stock Unit Award and agrees to be bound by the terms
+
+--- (Additional Root Structure) ---
+Clause (D): Unless otherwise defined herein, the terms defined in the Plan shall have the same
+
+--- (Additional Root Structure) ---
+AGREEMENT: Agreement
+
+--- (Additional Root Structure) ---
+Content: 1.Restricted Stock Units. Subject to the terms and conditions provided in this Agreement and the Pla...
+
+--- (Additional Root Structure) ---
+Content: 2.Vesting. Except as may be otherwise provided in Section 3, Section 6 or Section 7 of this Agreemen...
+
+--- (Additional Root Structure) ---
+Content: 3.Change in Control. In the event of a Change in Control, any portion of the Restricted Stock Units ...
+
+--- (Additional Root Structure) ---
+Clause (a): shall become fully vested on the first anniversary of the date of such Change in Control (the “Chang...
+
+--- (Additional Root Structure) ---
+Clause (b): shall become fully vested on the Date of Termination if the Grantee’s Continuous Service terminates ...
+
+--- (Additional Root Structure) ---
+Clause (c): shall not become fully vested if the Grantee’s Continuous Service terminates prior to the Change in
+|-- Content: This Section 3 shall
+supersede the standard vesting provision contained in Section 2 of this Agreeme...
+`-- Content: For purposes of this
+Section 3, the following definitions shall apply:
+
+--- (Additional Root Structure) ---
+Clause (d): “Cause”
+
+--- (Additional Root Structure) ---
+Clause (i): The Grantee’s conviction of a crime involving fraud or dishonesty; or
+`-- Clause (ii): The Grantee’s continued willful or reckless material misconduct in the performance of the
+    `-- Content: provided, however, that for purposes of Section 3(d)(ii), Cause shall not include any one or more of...
+
+--- (Additional Root Structure) ---
+Section 4: Timing and Manner of Settlement of Restricted Stock Units.
+`-- Content: (a)    Settlement Timing. Unless and until the Restricted Stock Units become vested and non-forfeita...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)    Restricted Stock Units that do not constitute a deferral of compensation under Code Section 4...
+
+--- (Additional Root Structure) ---
+Clause (B): Restricted Stock Units that become vested in accordance with Section 6(c) (due to the Grantee’s
+`-- Content: (C)    Restricted Stock Units that become vested in accordance with Section 3(a) (on the Change in C...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ii)    Restricted Stock Units that constitute a deferral of compensation under Code Section 409A (“...
+
+--- (Additional Root Structure) ---
+Content: (b)    Manner of Settlement. The Company may make delivery of Shares in settlement of Restricted Sto...
+
+--- (Additional Root Structure) ---
+Content: (c)    Effect of Settlement. Neither the Grantee nor any of the Grantee’s successors, heirs, assigns...
+
+--- (Additional Root Structure) ---
+Content: 5.Restrictions on Transfer. The Grantee shall not have the right to make or permit to occur any tran...
+
+--- (Additional Root Structure) ---
+Content: 6.Forfeiture and Clawback; Termination due to Retirement, Death or Disability. Except as may be othe...
+
+--- (Additional Root Structure) ---
+Content: (a)    Retirement. In the event of the Grantee’s Retirement in accordance with the terms and conditi...
+
+--- (Additional Root Structure) ---
+Content: For purposes of this Section 6(a), “Retirement” for an EU/UK Executive means termination of the EU/U...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): For
+purposes of this Section 6(a), “Retirement” for a Non-EU/UK Executive means termination of the N...
+
+--- (Additional Root Structure) ---
+Clause (iii): The Grant Date or the anniversary of the Grant Date at which the Non-EU/UK Executive has attained ag...
+`-- Content: For purposes of this Section 6(a), “Full Year” means a twelve-month period beginning on the date of
+...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): If this
+Section 6(a) applies to an EU/UK Executive’s Retirement, the EU/UK Executive’s Continuous Se...
+
+--- (Additional Root Structure) ---
+Content: Service as set forth in the above table will be forfeited upon Retirement.
+Accordingly, the death of...
+
+--- (Additional Root Structure) ---
+Content: If this Section 6(a) applies to a Non-EU/UK Executive’s Retirement, the Non-EU/UK Executive’s Contin...
+
+--- (Additional Root Structure) ---
+Table
+|-- Content: Accordingly, upon such Retirement, Restricted Stock Units that otherwise would be forfeited because ...
+|-- Content: Notwithstanding the foregoing, if the Company receives an opinion of counsel that there has been a l...
+|-- Content: (b)    Death. In the event that the Grantee’s Continuous Service terminates due to death at a time t...
+|-- Content: (c)    Disability. In the event that the Grantee’s Continuous Service terminates due to Disability a...
+|-- Content: (d)    Execution of Separation Agreement and Release. Unless otherwise determined by the Committee, ...
+`-- Content: 7.Restrictive Covenants. The Company and including its Subsidiaries ("Jabil") is the owner and posse...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)
+ As the Award is intended to encourage the Grantee to continue employment with Jabil, during whi...
+
+--- (Additional Root Structure) ---
+Content: If the Grantee resides
+and/or primarily works in the State of California, then the foregoing restric...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)     Unless compelled by subpoena or as otherwise permitted under this Section 7, Grantee will no...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, nothing herein shall be construed to prevent Grantee from engaging in...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c) As used herein, “Competitor” means
+any individual
+or entity which competes with Jabil or any cus...
+
+--- (Additional Root Structure) ---
+Content: (d)
+During the period of one (1) year following termination of the Grantee’s employment with Jabil, ...
+
+--- (Additional Root Structure) ---
+Clause (e): During the period of one (1) year following termination of the Grantee’s employment with Jabil, the ...
+|-- Content: The Grantee agrees that the Company may notify any third party about the
+Grantee’s obligations under...
+|-- Content: (f) If any provision of this Section 7 is held to be invalid, illegal or unenforceable in any respec...
+`-- Content: (g) In the event of an anticipated or actual breach by the Grantee of this Section 7, the Grantee ac...
+
+--- (Additional Root Structure) ---
+Clause (h): If
+`-- Content: Notwithstanding the foregoing, no provision of this Section 7 is intended to or shall limit, prevent...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 8.Dividend Equivalents; Adjustments.
+
+--- (Additional Root Structure) ---
+Content: (a)    Dividend Equivalents. During the period beginning on the Grant Date and ending on the date th...
+
+--- (Additional Root Structure) ---
+Content: (b)    Adjustments. The number of Restricted Stock Units (including electively deferred 409A RSUs, a...
+
+--- (Additional Root Structure) ---
+Content: 9.Responsibility for Taxes and Withholding. Regardless of any action the Company, any of its Subsidi...
+
+--- (Additional Root Structure) ---
+Content: obligation to structure the terms of any award to reduce or eliminate the
+Grantee’s liability for Ta...
+
+--- (Additional Root Structure) ---
+Content: Grantee shall satisfy his or her obligation to advance the Tax-Related Items by the Company withhold...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)    a cash payment to the Company;
+(b)    withholding from the
+Grantee’s wages or other cash comp...
+
+--- (Additional Root Structure) ---
+Content: To avoid negative accounting treatment, the Company and/or its
+Subsidiaries may withhold or account ...
+
+--- (Additional Root Structure) ---
+Content: Finally, the Grantee shall pay to the Company and/or its Subsidiaries any amount of Tax-Related Item...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10.Code Section 409A.
+
+--- (Additional Root Structure) ---
+Content: (a)    General. Payments made pursuant to this Agreement are intended to be exempt from Section 409A...
+
+--- (Additional Root Structure) ---
+Content: (b)    Restrictions on 409A RSUs. In the case of any 409A RSUs, the following restrictions will appl...
+
+--- (Additional Root Structure) ---
+Content: (i)    
+Separation from Service. Any payment in settlement of the 409A RSUs that is triggered by a t...
+
+--- (Additional Root Structure) ---
+Content: (ii)    Six-Month Delay Rule. The "six-month delay rule" will apply to 409A RSUs if these four condi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (A)    the Grantee has a separation from service (within the meaning of Treasury Regulation § 1.409A...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): If it applies, the six-month delay rule will delay a settlement of
+409A RSUs triggered by separation...
+
+--- (Additional Root Structure) ---
+Clause (E): during the six-month delay period, accelerated settlement will be permitted in the event of the Gran...
+
+--- (Additional Root Structure) ---
+Clause (F): any
+|-- Content: (c)    Other Compliance Provisions. The following provisions apply to Restricted Stock
+Units:
+|-- Content: (i)    Each tranche of Restricted Stock Units (including dividend equivalents accrued thereon) that ...
+|-- Content: (ii)    The settlement of 409A RSUs may not be accelerated by the Company except to the extent permi...
+|-- Content: (iii)    
+It is understood that Good Reason for purposes of this Agreement is limited to circumstanc...
+`-- Clause (iv): For
+
+--- (Additional Root Structure) ---
+Clause (v): Any restriction imposed on 409A RSUs hereunder or under the terms of other documents solely to ensur...
+|-- Clause (vi): If
+|-- Clause (vii): In the case of any settlement of Restricted Stock Units during a specified period following the Stat...
+|-- Clause (viii): In the case of any Restricted Stock Unit that is not a 409A RSU, if the circumstances arise constitu...
+`-- Clause (ix): If the Company has a right of setoff that could apply to a 409A RSU, such right may only be exercise...
+    |-- Content: 11.No Effect on Employment or Rights under the Plan. Nothing in the Plan or this Agreement shall con...
+    |-- Content: 12.Governing Laws. This Agreement shall be construed and enforced in accordance with the laws of the...
+    `-- Content: 13.
+Successors; Severability; Entire Agreement; Headings. This Agreement shall inure to the benefit ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 14.Grantee Acknowledgements and Consents.
+
+--- (Additional Root Structure) ---
+Content: (a)    Data Privacy. As communicated in Jabil’s Notice of Data Collection, Processing and Transfer o...
+
+--- (Additional Root Structure) ---
+Content: Data Collection and Usage. The Company collects, processes and uses personal data about the Grantee,...
+
+--- (Additional Root Structure) ---
+Content: Stock Plan Administration and Service Providers. The Company may transfer the Grantee’s data to one ...
+
+--- (Additional Root Structure) ---
+Content: International Data Transfers. The Grantee’s personal data will be transferred from the Grantee’s cou...
+
+--- (Additional Root Structure) ---
+Content: Data
+Retention. The Company will use the Grantee’s personal data only as long as necessary to implem...
+
+--- (Additional Root Structure) ---
+Content: Voluntariness and Consequences of
+Consent Denial or Withdraw. The Grantee's participation in the Pla...
+
+--- (Additional Root Structure) ---
+Content: Data
+Subject Rights. The Grantee understands that he or she may have a number of rights under data p...
+
+--- (Additional Root Structure) ---
+Content: (b)    Voluntary Participation. The Grantee's participation in the Plan is voluntary. The value of t...
+
+--- (Additional Root Structure) ---
+Content: (d)    Unfunded Plan. The Grantee acknowledges and agrees that any rights of the Grantee relating to...
+
+--- (Additional Root Structure) ---
+Content: 15.
+Additional Acknowledgements. By accepting this Agreement electronically, the Grantee and the Com...
+
+--- (Additional Root Structure) ---
+Content: 16.Country Appendix. Notwithstanding any provision of this Agreement to the contrary, this Restricte...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Acceptance by the
+GranteeBy selecting the “I
+accept” box on the website of the Company’s administrat...
+
+--- (Additional Root Structure) ---
+Heading (L1): COUNTRY APPENDIX
+`-- Content: This
+Country Appendix ("Appendix") includes the following additional terms and conditions that gover...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications
+This Country Appendix also includes information regarding exchange controls
+and certai...
+
+--- (Additional Root Structure) ---
+Content: In addition, the information contained herein is general in nature and may not apply to the Grantee’...
+
+--- (Additional Root Structure) ---
+Content: Finally, if the Grantee transfers employment after the Grant Date, or is considered a resident of an...
+
+--- (Additional Root Structure) ---
+Content: Terms and Conditions Applicable to All Non-U.S.
+Jurisdictions
+
+--- (Additional Root Structure) ---
+Content: English Language. The Grantee acknowledges and agrees that it is the Grantee’s express intent that t...
+
+--- (Additional Root Structure) ---
+Content: Repatriation; Compliance with Laws. The Grantee agrees, as a condition of the grant of the Stock Awa...
+
+--- (Additional Root Structure) ---
+Content: Commercial Relationship. The Grantee expressly recognizes that the Grantee’s participation in the Pl...
+
+--- (Additional Root Structure) ---
+Content: Private Placement. The grant of the Stock Award is not intended to be a public offering of securitie...
+
+--- (Additional Root Structure) ---
+Content: not submitted any registration statement, prospectus or
+other filings with the local securities auth...
+
+--- (Additional Root Structure) ---
+Content: Additional Acknowledgements. The
+GRANTEE also acknowledges and agrees to the
+following:
+
+--- (Additional Root Structure) ---
+Content: •The grant of the Stock Award is voluntary and occasional and does not create any contractual or oth...
+
+--- (Additional Root Structure) ---
+Content: •The future value of the Shares and any related dividend equivalents is unknown and cannot be predic...
+
+--- (Additional Root Structure) ---
+Content: •No claim or entitlement to compensation or damages arises from the forfeiture of the Stock Award or...
+
+--- (Additional Root Structure) ---
+Content: •None of the Company, its Subsidiaries, nor the Committee is providing any tax, legal or financial a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions
+Applicable to All EU/EEA Jurisdictions, Switzerland and the United KingdomData ...
+
+--- (Additional Root Structure) ---
+Content: (a)Data Collection and Usage. The Company collects, processes and uses personal data about the Grant...
+
+--- (Additional Root Structure) ---
+Content: (b)Stock Plan Administration and Service Providers. The Company may transfer the Grantee’s data to o...
+
+--- (Additional Root Structure) ---
+Content: (c)International Data Transfers. The Grantee’s personal data will be transferred from the Grantee’s ...
+
+--- (Additional Root Structure) ---
+Content: (d)  Data Retention. The Company will use the Grantee’s personal data only as long as necessary to i...
+
+--- (Additional Root Structure) ---
+Content: Data Subject
+Rights. The Grantee understands that he or she may have a number of rights under data p...
+
+--- (Additional Root Structure) ---
+Content: Notifications
+ Applicable to Austria Consumer Protection
+Information. If the provisions of the Austr...
+
+--- (Additional Root Structure) ---
+Content: (i) If the Grantee accepts the
+Stock Award, the Grantee may be entitled to revoke the Grantee’s acce...
+
+--- (Additional Root Structure) ---
+Content: (ii) The revocation must be in written form to be valid and will revoke both acceptance of the Agree...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. The Grantee may be required to comply with certain exchange control ob...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to
+CanadaSettlement
+ in Shares. Notwithstanding anything to the cont...
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. The Grantee is permitted to sell Shares acquired through the Plan throug...
+
+--- (Additional Root Structure) ---
+Content: Use of English Language. The Grantee acknowledges and agrees that it is the Grantee's express wish t...
+
+--- (Additional Root Structure) ---
+Content: Tax
+ Reporting Information. The Grantee is required to report any foreign specified property (includ...
+
+--- (Additional Root Structure) ---
+Content: Termination of Employment. For purposes of the Stock Award, except as otherwise provided under appli...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notwithstanding the foregoing, if applicable employment standards legislation explicitly requires co...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy. The Grantee hereby authorizes the Company and the Company’s representatives to discuss...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to
+ChinaSatisfaction
+ of Regulatory Obligations. If the Grantee is a...
+
+--- (Additional Root Structure) ---
+Content: Immediate Sale of Shares. If the Grantee is a PRC national, he or she will be required to immediatel...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Restrictions. The Grantee understands and agrees that, if the Grantee is subject to...
+
+--- (Additional Root Structure) ---
+Content: Administration. The Company shall not be liable for any costs, fees, lost interest or dividends or o...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy: Data
+Collection and Usage. The Company collects, processes and uses personal data abou...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy: Stock Plan Administration and Service Providers. The Company may transfer the Grantee’...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy: International
+Data Transfers. The Grantee’s personal data will be transferred from the...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy: Data Retention. The Company will use the Grantee’s personal data only as long as neces...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy: Data Subject Rights. The Grantee understands that he or she may have a number of right...
+
+--- (Additional Root Structure) ---
+Content: Restrictive Covenants. In consideration for the Grantee’s performance of the post-termination non-co...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to
+DenmarkTreatment of Stock Awards Upon Termination of Employment. ...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset / Account Reporting Information. The new Danish Tax Reporting Act that entered into fo...
+
+--- (Additional Root Structure) ---
+Content: Labor Law Acknowledgment. By accepting the Stock Awards, the Grantee understands and agrees that thi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to Finland
+Foreign Asset/Account Reporting Information. There are no...
+
+--- (Additional Root Structure) ---
+Content: Terms and Conditions Applicable to France Tax Information. The Stock Award is not intended to be a F...
+
+--- (Additional Root Structure) ---
+Content: Language Consent. By accepting the Award and the Agreement, which provides for the terms and conditi...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset / Account Reporting Information. The Grantee should report all foreign accounts (wheth...
+
+--- (Additional Root Structure) ---
+Content: Notifications
+ Applicable to Germany Exchange Control Information. Cross border payments in excess o...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Information. If the Grantee's acquisition of shares under the Plan l...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications
+Applicable to Hong KongSettlement in Shares. Notwithstanding anything to the contrary ...
+
+--- (Additional Root Structure) ---
+Content: IMPORTANT NOTICE. WARNING: The Agreement, the Plan and all other materials pertaining to the Plan ha...
+
+--- (Additional Root Structure) ---
+Content: Sale of Shares. Shares of common stock received at vesting are accepted as a personal investment. In...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications Applicable to
+HungaryReporting Requirement. The Grantee acknowledges that the Plan has...
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. Based on this Agreement the grant of the Stock Award is not intended to ...
+
+--- (Additional Root Structure) ---
+Content: Notifications Applicable to
+India Exchange Control Notification. The Grantee understands that they m...
+
+--- (Additional Root Structure) ---
+Content: stock to India and convert the proceeds into local
+currency within such time as prescribed under app...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Grantee is required to declare any foreign bank ac...
+
+--- (Additional Root Structure) ---
+Content: Recoupment
+Policy. Notwithstanding anything to the contrary in the Plan or this Stock Award, if (i) ...
+
+--- (Additional Root Structure) ---
+Content: Settlement of Stock Award after
+termination of employment (“Settlement”). If the Stock Award, or a p...
+
+--- (Additional Root Structure) ---
+Content: Compliance obligations of the Indian employer (“Indian Company”). On any settlement or divestment of...
+
+--- (Additional Root Structure) ---
+Content: Notifications Applicable to
+Indonesia Language Acknowledgment. A translation of the documents relati...
+
+--- (Additional Root Structure) ---
+Content: Persetujuan dan Pemberitahuan Bahasa. Terjemahan Bahasa Indonesia dari dokumen-dokumen terkait denga...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Grantee has the obligation to report your worldwid...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control
+Notification. In general, no exchange control approvals are required in Indonesia. ...
+
+--- (Additional Root Structure) ---
+Content: Notifications
+Applicable to Ireland Director Notification
+Requirement. If the Grantee is a director,...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to
+IsraelSecurities Law Information. The grant of the Restricted Sto...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy. The Company
+is based outside of Israel and grants Restricted Stock Units under the Pla...
+
+--- (Additional Root Structure) ---
+Content: Data Collection, Processing and Usage. The Company
+and/or the Grantee’s employer may collect, proces...
+
+--- (Additional Root Structure) ---
+Content: Plan Administration Service
+Providers. The Company may transfer the Grantee’s Personal Data to an af...
+
+--- (Additional Root Structure) ---
+Content: Data Transfers. The Grantee consents and agrees to the Grantee’s employer’s transfer to the Company,...
+
+--- (Additional Root Structure) ---
+Content: Data Retention. The Company will use the Grantee’s Personal Data to, among other things, implement, ...
+
+--- (Additional Root Structure) ---
+Content: remove such data from its systems, except that the Company
+will retain such data longer if it is req...
+
+--- (Additional Root Structure) ---
+Content: Voluntariness. The Grantee’s participation in the Plan and the Grantee’s understanding, agreements a...
+
+--- (Additional Root Structure) ---
+Content: Additional Legal Basis. The Grantee understands and agrees, that the Company and/or the Grantee’s em...
+
+--- (Additional Root Structure) ---
+Content: Authorization. The Grantee authorizes the Company and the Grantee’s employer and their respective re...
+
+--- (Additional Root Structure) ---
+Content: Tax Notification. The Grantee’s Stock Awards is not intended to be tax-qualified under Section 102 o...
+
+--- (Additional Root Structure) ---
+Content: Language. The Grantee has had the opportunity to obtain sufficient explanations, including in Hebrew...
+
+--- (Additional Root Structure) ---
+Content: המשתתף
+מצהיר בזאת, כי השפה האנגלית מוכרת לו ואינו
+זקוק לתרגום לשפה אחרת.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to
+ItalyForeign
+ Asset/Account Reporting Information. If the Grantee...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset Tax Information. The value of the financial assets held outside of Italy by Italian re...
+
+--- (Additional Root Structure) ---
+Content: certain threshold. The Grantee should contact their personal tax advisor for
+additional information ...
+
+--- (Additional Root Structure) ---
+Content: Stamp Duty and Wealth Tax. The Grantee may be subject either to a stamp duty on financial assets, or...
+
+--- (Additional Root Structure) ---
+Content: Taxation of Dividends and Disposal of Shares. The Grantee should consult with his / her personal tax...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications Applicable to Korea (Republic of)Foreign Asset/Account Reporting Notification. Korean ...
+
+--- (Additional Root Structure) ---
+Content: Data
+Retention. The Company will use the Grantee’s personal data only as long as necessary to implem...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications
+Applicable to MalaysiaDirector Reporting Requirement. If the Grantee is a director of ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications Applicable to
+MexicoCommercial
+ Relationship. The Grantee expressly acknowledges that ...
+
+--- (Additional Root Structure) ---
+Content: Extraordinary
+ Item of Compensation. The Grantee expressly recognizes and acknowledges that the Gran...
+
+--- (Additional Root Structure) ---
+Content: redundancy, end of service payments, bonuses, long-service awards, pension or
+retirement benefits, o...
+
+--- (Additional Root Structure) ---
+Content: Securities
+ Law Information. The Restricted Stock Units and the Shares offered under the Plan have n...
+
+--- (Additional Root Structure) ---
+Content: Tax Liability. In accordance with the Mexican Income Tax Law, any income obtained by Mexican residen...
+
+--- (Additional Root Structure) ---
+Content: Tax Withholding. In accordance with the Mexican Income Tax Law, Mexican resident entities acting as ...
+
+--- (Additional Root Structure) ---
+Content: Restrictive Covenants. For the purposes of the Award, the Grantee's employment will be considered ex...
+
+--- (Additional Root Structure) ---
+Content: The confidential information
+shall be treated as an industrial secret and, as such, shall be subject...
+
+--- (Additional Root Structure) ---
+Content: In the event that the Grantee fails to comply with any of the confidentiality obligations within the...
+
+--- (Additional Root Structure) ---
+Content: The Grantee
+acknowledges that the compensation received during their employment is sufficient to sat...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to the
+NetherlandsWaiver of Termination Rights. The Grantee hereby w...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy. The Grantee understands that in the context of this Agreement and the Plan the Company...
+
+--- (Additional Root Structure) ---
+Content: The Controller of the processing of these Personal Data under the Plan is
+Jabil Inc., with registere...
+
+--- (Additional Root Structure) ---
+Content: The Personal Data will be
+processed for the exclusive purpose of (i) allocating Shares, (ii) impleme...
+
+--- (Additional Root Structure) ---
+Content: The Company’s legal bases for the processing of Grantee’s Personal Data for the abovementioned Purpo...
+
+--- (Additional Root Structure) ---
+Content: The Grantee
+also understands that providing the Company with the Personal Data included above is nec...
+
+--- (Additional Root Structure) ---
+Content: The Grantee understands
+that the Personal Data will be shared with the stock plan services provider(...
+
+--- (Additional Root Structure) ---
+Content: The Grantee understands that the recipients of the Personal Data may be located in the United States...
+
+--- (Additional Root Structure) ---
+Content: The Controller will take
+steps to ensure Data is accurate and up to date. From time to time the Gran...
+
+--- (Additional Root Structure) ---
+Content: Under the GDPR, the
+Grantee (as a ‘data subject’) has certain rights in relation to his/her Personal...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)be given access to his/her Personal Data;
+(ii)receive information about the processing of his/her...
+
+--- (Additional Root Structure) ---
+Content: The Grantee may also
+object to the processing of his/her Personal Data within the limits set in the ...
+
+--- (Additional Root Structure) ---
+Content: Notifications Applicable to Poland Exchange Control Notification. If the Grantee transfer funds in e...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. Polish residents holding foreign securities (e.g., sha...
+
+--- (Additional Root Structure) ---
+Content: Notifications
+Applicable to
+Singapore Restriction on
+Sale and Transferability. The Grantee acknowled...
+
+--- (Additional Root Structure) ---
+Content: Notification under Section 309B(1) of the SFA. The Stock Award and Common Units are prescribed capit...
+
+--- (Additional Root Structure) ---
+Content: Director
+Notification Obligation. The Grantee acknowledges that if he / she is a director or shadow ...
+
+--- (Additional Root Structure) ---
+Content: Securities Law
+Information. The Restricted Stock Units are being granted to grantees pursuant to the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Data
+ Protection. The Grantee
+acknowledges
+that:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)   
+ personal data of the Grantee as contained in each document and/or any other notice or commun...
+
+--- (Additional Root Structure) ---
+Content: (d)   
+ To the extent that the Grantee withdraws consent, the Company may use its discretion under t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions Applicable to
+SpainLabor
+ Law Acknowledgment. By accepting this Stock Award, th...
+
+--- (Additional Root Structure) ---
+Content: The Grantee also
+understands and agrees that, as a condition of the grant of the Stock Award, the te...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. The Grantee is required to electronically declare to the Bank of Spai...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Grantee may be subject to a tax reporting obligati...
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. No “offer of securities to the public,” as defined under Spanish law, ha...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Terms and Conditions
+Applicable to SwedenAuthorization to Withhold. This provision supplements Secti...
+
+--- (Additional Root Structure) ---
+Content: Without limiting
+the Company’s and the Employer’s authority to satisfy their withholding obligations...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications
+Applicable to SwitzerlandSecurities Law Information. The Restricted Stock Units are no...
+
+--- (Additional Root Structure) ---
+Content: Tax Reporting Information. (i) At grant. The Grantee will receive an addendum to their annual salary...
+
+--- (Additional Root Structure) ---
+Content: Data
+Privacy – Transfer of personal data to the United States. The Grantee acknowledges and agrees t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notifications
+Applicable to TaiwanSecurities Law Information. The offer to participate in the Plan i...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. The Grantee may acquire and remit foreign currency (including proceed...
+
+--- (Additional Root Structure) ---
+Content: Restrictive
+ Covenants. In consideration for the Grantee’s performance of the post-termination non-c...
+
+--- (Additional Root Structure) ---
+Content: Responsibility for Taxes. This provision supplements Section 9 of the Agreement:
+
+--- (Additional Root Structure) ---
+Content: Without limitation to Section 9 of the Agreement, the Grantee agrees that the Grantee is liable for ...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, if the Grantee is a director or executive officer (as within the mean...
+
+--- (Additional Root Structure) ---
+Content: At the election of the Company, the Grantee shall enter into an election jointly with the Company, p...
+
+--- (Additional Root Structure) ---
+Content: In the event the Grantee has failed to make arrangements pursuant to the “Tax Withholding” section o...
+
+--- (Additional Root Structure) ---
+Content: Restrictive covenants. Section 7 of the Agreement shall be governed by the laws of England and Wales...

@@ -1,0 +1,8 @@
+Total parsed elements: 6
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1Mr. Thomas Bartrum January 25, 2024Re: Transition and Release of Claims Dear Thomas:This letter agreement (this “Letter Agreement”), entered into on the date first set forth above (the “Ef
+  2. HeadingElement (level=1): EXHIBIT A
+  3. HeadingElement (level=1): RELEASE OF CLAIMS AGREEMENT
+  4. TextElement (level=N/A): THE EMPLOYEE IS ADVISED TO CONSULT WITH AN ATTORNEY BEFORE SIGNING THIS RELEASE OF CLAIMS.This release of claims agreement (this “Release”), entered into between Thomas Bartrum (the “Employee” or “you
+  5. HeadingElement (level=2): Date:
+  6. ContentTextElement (level=4): US-LEGAL-12547451    Signature Page to Release of Claims Agreement

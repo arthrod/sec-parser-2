@@ -1,0 +1,10 @@
+Total parsed elements: 8
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.22
+  2. HeadingElement (level=1): EXECUTION VERSION
+  3. HeadingElement (level=1): LOCAL MARKETING AGREEMENT
+  4. ContentTextElement (level=4): This Local Marketing Agreement (“Agreement”) is made and entered into as of this 1st day of February, 2023 (the “Effective Date”), by and among SOVRYN HOLDINGS, INC., a Delaware corporation (the “Lice
+  5. HeadingElement (level=1): W I T N E S S E T H
+  6. TextElement (level=N/A): WHEREAS, Licensee holds the over-the-air television broadcast licenses and other authorizations (collectively, the “FCC Licenses”) issued by the Federal Communications Commission (“FCC”) used and usef
+  7. HeadingElement (level=1): ATTACHMENT I
+  8. TextElement (level=N/A): Compensation and Reimbursement Schedule1.           Expense Reimbursement. During the Term, Licensee shall pay all of its expenses in connection with its operation of the Stations in the ordinary cour

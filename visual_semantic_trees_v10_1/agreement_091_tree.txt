@@ -1,0 +1,48 @@
+Heading (L2): Exhibit 10.17
+
+--- (Additional Root Structure) ---
+Heading (L2): Forte Biosciences, Inc.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Amended and Restated Non-Employee Director Compensation Policy (March 14, 2024)Each member of the Bo...
+
+--- (Additional Root Structure) ---
+Heading (L2): Annual Cash Compensation
+`-- Content: The annual cash compensation amount set forth below is payable in equal quarterly installments, paya...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.	Annual Board Service Retainer:
+
+--- (Additional Root Structure) ---
+Content: a.	All Eligible Directors: $42,500 b.	Chairman of the Board Service Retainer (in addition to Eligibl...
+
+--- (Additional Root Structure) ---
+Content: c.	Lead Independent Director Service Retainer (in addition to Eligible Director Service Retainer): $...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.	Annual Committee Member Service Retainer:
+
+--- (Additional Root Structure) ---
+Content: a.	Member of the Audit Committee: $8,000 b.	Member of the Compensation Committee: $6,000
+
+--- (Additional Root Structure) ---
+Content: c.	Member of the Nominating & Governance Committee: $5,000
+
+--- (Additional Root Structure) ---
+Content: 3.	Annual Committee Chair Service Retainer (in addition to Committee Member Service Retainer):
+
+--- (Additional Root Structure) ---
+Content: a.	Chairman of the Audit Committee: $16,000 b.	Chairman of the Compensation Committee: $12,000
+
+--- (Additional Root Structure) ---
+Content: c.	Chairman of the Nominating & Governance Committee: $10,000
+
+--- (Additional Root Structure) ---
+Heading (L2): Equity Compensation
+|-- Content: The equity compensation set forth below will be granted under the Forte Biosciences, Inc. 2021 Equit...
+|-- Content: of ten years from the date of grant (subject to earlier termination in connection with a termination...
+|-- Content: 1.	Initial Grant: On the date of the Eligible Director’s initial election to the Board, for each Eli...
+`-- Content: 2.	Annual Grant: On the date of each Forte Biosciences annual stockholder meeting held after the Eff...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.

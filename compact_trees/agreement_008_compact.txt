@@ -1,0 +1,3 @@
+Total parsed elements: 1
+Element types and content:
+  1. ContentTextElement (level=4): EXHIBIT 10.2   INVESTOR RIGHTS AGREEMENT   Dated as of January 2, 2024           TABLE OF CONTENTS         Page          ARTICLE I GOVERNANCE MATTERS   1           1.1   Composition of the Parent Boar

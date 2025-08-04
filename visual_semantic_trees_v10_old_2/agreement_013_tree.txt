@@ -1,0 +1,52 @@
+AGREEMENT: This Indemnification Agreement (“Agreement”) is made as of January 1, 2024, by and between Ranger En...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+AGREEMENT: AGREEMENT
+
+--- (Additional Root Structure) ---
+Section 1: Definitions. (a) As used in this Agreement:
+
+--- (Additional Root Structure) ---
+Clause (a): the fullest extent permitted by the provision of the DGCL that authorizes or contemplates additional...
+
+--- (Additional Root Structure) ---
+Clause (b): the fullest extent authorized or permitted by any amendments to or replacements of the DGCL adopted ...
+
+--- (Additional Root Structure) ---
+Section 7: Exclusions. Notwithstanding any provision in this Agreement, the Company shall
+
+--- (Additional Root Structure) ---
+Clause (e): if a final decision by a court having jurisdiction in the matter that is not subject to appeal shall...
+
+--- (Additional Root Structure) ---
+Section 9: Procedure for Notification and Defense of Claim.
+
+--- (Additional Root Structure) ---
+Section 10: Procedure Upon Application for Indemnification.
+
+--- (Additional Root Structure) ---
+Section 11: Presumptions and Effect of Certain Proceedings.
+
+--- (Additional Root Structure) ---
+Section 12: Remedies of Indemnitee.
+
+--- (Additional Root Structure) ---
+Clause (c): If a determination shall have been made pursuant to Section 10(a) of this Agreement that Indemnitee ...
+
+--- (Additional Root Structure) ---
+Section 13: Non-Exclusivity; Survival of Rights; Insurance; Subrogation.
+
+--- (Additional Root Structure) ---
+Section 16: Enforcement.
+
+--- (Additional Root Structure) ---
+Clause (i): If to Indemnitee, at the address indicated on the signature page of this Agreement, or such other ad...
+
+--- (Additional Root Structure) ---
+Clause (ii): If to the Company to
+
+--- (Additional Root Structure) ---
+Heading (L1): TO INDEMNIFICATION AGREEMENT

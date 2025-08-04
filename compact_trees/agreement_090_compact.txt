@@ -1,0 +1,3 @@
+Total parsed elements: 1
+Element types and content:
+  1. ContentTextElement (level=4): Exhibit 10.1​​December 4, 2023​VIA EMAIL​Lindon G. Robertson​Re: Transition Letter Agreement​Dear Lindon:​This Transition Letter Agreement confirms our recent discussions regarding your retirement pla

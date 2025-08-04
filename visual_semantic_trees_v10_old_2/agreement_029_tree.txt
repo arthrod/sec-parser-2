@@ -1,0 +1,378 @@
+AGREEMENT: THE HARTFORD 2020 STOCK INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L2): 2.Eligibility
+
+--- (Additional Root Structure) ---
+Heading (L2): 3.Awards under the Plan
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Clause (c)
+
+--- (Additional Root Structure) ---
+Heading (L1): d.Substitute Awards.  In connection with a merger or consolidation of an entity with the Company or ...
+
+--- (Additional Root Structure) ---
+Heading (L1): e.Dividends or Dividend Equivalents. The Committee may provide that an Award of Restricted Stock sha...
+
+--- (Additional Root Structure) ---
+Heading (L1): of any date, to be equal to the reported closing price for one Share on the New York Stock Exchange ...
+|-- Heading (L2): 4.Granting of Awards; Administration and Delegation The Committee shall have authority to grant Awar...
+`-- Heading (L2): 5.Shares Available for Awards
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (i)
+
+--- (Additional Root Structure) ---
+Clause (A)
+
+--- (Additional Root Structure) ---
+Clause (B)
+
+--- (Additional Root Structure) ---
+Clause (ii)
+
+--- (Additional Root Structure) ---
+Clause (iii)
+
+--- (Additional Root Structure) ---
+Heading (L1): 2© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repro...
+
+--- (Additional Root Structure) ---
+Heading (L1): A.Shares shall be counted as of the Award’s grant date;
+
+--- (Additional Root Structure) ---
+Heading (L1): B.Shares for Awards subject to performance measures shall be counted at target performance based on ...
+
+--- (Additional Root Structure) ---
+Clause (C)
+
+--- (Additional Root Structure) ---
+Clause (D)
+
+--- (Additional Root Structure) ---
+Clause (E)
+
+--- (Additional Root Structure) ---
+Clause (F)
+
+--- (Additional Root Structure) ---
+Clause (G)
+
+--- (Additional Root Structure) ---
+Clause (H)
+
+--- (Additional Root Structure) ---
+Clause (I)
+
+--- (Additional Root Structure) ---
+Heading (L1): b.Sublimits.  Subject to adjustment under Section 10, the following sublimits on the number of Share...
+
+--- (Additional Root Structure) ---
+Heading (L1): i.Per-Participant Limit.
+
+--- (Additional Root Structure) ---
+Heading (L1): A.Calendar Year Limit. The maximum number of Shares that may be granted to any Participant in any ca...
+
+--- (Additional Root Structure) ---
+Heading (L1): B.New Hires & Promotions. Awards to a Participant may, at the discretion of the Committee, exceed th...
+
+--- (Additional Root Structure) ---
+Heading (L1): C.Non-Employee Director Limit. Awards granted to any non-employee director for a board service year ...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Dividends and Dividend Equivalents.  Dividends shall not count against the limits set forth in Sec...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repro...
+`-- Heading (L2): 6.Stock Options
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Heading (L1): a.General. The Committee may grant options to purchase Shares (each, an “Option”) and determine the ...
+
+--- (Additional Root Structure) ---
+Heading (L1): b.Incentive Stock Options. An Option that the Committee intends to be an “incentive stock option” as...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Exercise Price. The Committee shall establish the exercise price of each Option or the formula by ...
+
+--- (Additional Root Structure) ---
+Heading (L1): d.Terms; Duration of Options.  Each Option shall be exercisable at such times and subject to such te...
+
+--- (Additional Root Structure) ---
+Heading (L1): e.Exercise of Options. Options may be exercised by delivery to the Company of a notice of exercise i...
+
+--- (Additional Root Structure) ---
+Heading (L1): i.The product of (x) the number of Shares as to which the Option is being deemed exercised and (y) t...
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.The Fair Market Value on such date,
+
+--- (Additional Root Structure) ---
+Heading (L1): with any remainder being payable in cash to the Participant.  If, on the scheduled expiration date o...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repro...
+
+--- (Additional Root Structure) ---
+Clause (f)
+
+--- (Additional Root Structure) ---
+Heading (L1): i.in cash or by check, in the manner specified by the Company;
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.in the case of Nonqualified Stock Options, a notice of an exercise-and-sell transaction in the ma...
+
+--- (Additional Root Structure) ---
+Heading (L1): iii.Such other lawful consideration as the Committee may determine; provided, however, that in no ev...
+
+--- (Additional Root Structure) ---
+Heading (L1): g.Limitation on Repricing.  Unless such action is approved by the Company's shareholders, the Compan...
+`-- Heading (L2): 7.Stock Appreciation Rights
+
+--- (Additional Root Structure) ---
+Clause (h)
+
+--- (Additional Root Structure) ---
+Heading (L1): a.General.  The Committee may grant Awards consisting of stock appreciation rights ("SARs”) entitlin...
+
+--- (Additional Root Structure) ---
+Heading (L1): b.Measurement Price.  The Committee shall establish the measurement price of each SAR and specify it...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Duration of SARs. Each SAR shall be exercisable at such times and subject to such terms and condit...
+
+--- (Additional Root Structure) ---
+Heading (L1): d.Exercise of SARs.  SARs may be exercised by delivery to the Company of a notice of exercise in a f...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repro...
+
+--- (Additional Root Structure) ---
+Heading (L1): e.Limitation on Repricing.  Unless such action is approved by the Company's shareholders, the Compan...
+
+--- (Additional Root Structure) ---
+Heading (L1): f.No Reload SARs. No SAR granted under the Plan shall contain any provision entitling the Participan...
+`-- Heading (L2): 8.Restricted Stock; Restricted Stock Units
+
+--- (Additional Root Structure) ---
+Heading (L1): a.General. The Committee may grant Awards entitling recipients to acquire Shares, subject to the rig...
+
+--- (Additional Root Structure) ---
+Heading (L1): b.Terms and Conditions for Restricted Stock and RSUs. The Committee shall determine the terms and co...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Additional Provisions Relating to Restricted Stock.
+
+--- (Additional Root Structure) ---
+Heading (L1): i.Evidence of Ownership. Subject to Section 12(g) and Section 13(b), the Company shall cause the iss...
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.Voting Rights.  A Participant shall have voting rights with respect to Restricted Stock.
+
+--- (Additional Root Structure) ---
+Heading (L1): d.Additional Provisions Relating to RSUs.
+
+--- (Additional Root Structure) ---
+Heading (L1): i.Settlement. Upon the vesting of and/or lapsing of any restrictions (i.e., settlement) with respect...
+
+--- (Additional Root Structure) ---
+Heading (L1): the Code or any successor provision thereto, and the regulations thereunder ("Section 409A").
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.Voting Rights. A Participant shall have no voting rights with respect to any RSUs.
+`-- Heading (L2): 9.Performance Awards
+
+--- (Additional Root Structure) ---
+Heading (L1): a.Grants. The Committee may issue Awards under the Plan that are subject to the achievement of perfo...
+
+--- (Additional Root Structure) ---
+Heading (L1): b.Performance Measures. The Committee shall specify in the Award agreement that the degree of granti...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Adjustments. Subject to the terms of the Plan, if during the course of a performance period there ...
+`-- Heading (L2): 10.Adjustments in Event of Change in Shares
+
+--- (Additional Root Structure) ---
+Heading (L1): In the event of any reorganization, merger, recapitalization, consolidation, liquidation, special ca...
+`-- Heading (L2): 11.Change of Control If the Committee reasonably determines in good faith that a Change of Control h...
+
+--- (Additional Root Structure) ---
+Heading (L1): a.If the Committee (as constituted immediately prior to the Change of Control) determines that all A...
+
+--- (Additional Root Structure) ---
+Heading (L1): i.Relate to a class of equity that is (or will be within five business days following the Change of ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.Fully vest and become exercisable if a Participant’s employment or other services are terminated ...
+
+--- (Additional Root Structure) ---
+Heading (L1): applicable exemption from the application of Section 409A of the Code, the payment or distribution o...
+
+--- (Additional Root Structure) ---
+Heading (L1): iii.Provide the Participants with rights and entitlements substantially equivalent to or better than...
+
+--- (Additional Root Structure) ---
+Clause (iv)
+
+--- (Additional Root Structure) ---
+Clause (v)
+
+--- (Additional Root Structure) ---
+Heading (L1): b.If the Committee determines that existing Awards will not be honored or assumed through the issuan...
+
+--- (Additional Root Structure) ---
+Heading (L1): i.Options and SARs may be exercised throughout the remainder of the original term;
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.Any performance measures applicable to Awards shall be deemed to have been satisfied at the targe...
+
+--- (Additional Root Structure) ---
+Heading (L1): iii.All Restricted Stock, RSUs and Performance Awards shall be distributed and paid out immediately ...
+
+--- (Additional Root Structure) ---
+Heading (L1): A.Each Option and SAR shall be surrendered or exercised for an immediate lump sum cash amount equal ...
+
+--- (Additional Root Structure) ---
+Heading (L1): B.Each Restricted Stock, RSU and Performance Award shall be exchanged for an immediate lump sum cash...
+
+--- (Additional Root Structure) ---
+Heading (L1): iv.If the Committee determines that all or any portion of an Award cannot be distributed as a result...
+
+--- (Additional Root Structure) ---
+Heading (L1): 8© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repro...
+
+--- (Additional Root Structure) ---
+Heading (L1): shall be construed to prevent any Participant's rights in respect of any Award from becoming non-for...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Notwithstanding any provision in this Plan to the contrary, in the event of a Change of Control as...
+
+--- (Additional Root Structure) ---
+Heading (L1): d.For purposes of this Plan, a Change of Control shall occur:
+
+--- (Additional Root Structure) ---
+Heading (L1): i.if a report on Schedule 13D shall be filed with the Securities and Exchange Commission pursuant to...
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.if any Person other than the Company or a subsidiary of the Company or any employee benefit plan ...
+
+--- (Additional Root Structure) ---
+Heading (L1): iii.upon the consummation of any merger, consolidation, recapitalization or reorganization of the Co...
+
+--- (Additional Root Structure) ---
+Heading (L1): iv.upon the consummation of any sale, lease, exchange or other transfer (in one transaction or a ser...
+
+--- (Additional Root Structure) ---
+Heading (L1): v.if within any 24 month period, the persons who were directors of the Company immediately before th...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repro...
+
+--- (Additional Root Structure) ---
+Heading (L1): e.For purposes of the Plan, “Beneficial Owner” means any Person who, directly or indirectly, has the...
+
+--- (Additional Root Structure) ---
+Heading (L1): f.For purposes of this Section, “Cause” and “Good Reason” shall be as defined in the employment agre...
+
+--- (Additional Root Structure) ---
+Heading (L2): 12.General Provisions Applicable to Awards
+
+--- (Additional Root Structure) ---
+Heading (L1): a.Transferability of Awards. Awards granted under the Plan, and during any period of restriction on ...
+
+--- (Additional Root Structure) ---
+Heading (L1): b.Documentation.  Each Award shall be evidenced by an Award agreement in such form (written, electro...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Minimum Vesting Requirement.  Except as may be provided in Section 11 regarding a Change of Contro...
+
+--- (Additional Root Structure) ---
+Heading (L1): Participant’s continued employment with or provision of service to the Company shall be subject to a...
+
+--- (Additional Root Structure) ---
+Heading (L1): i.Five Percent Exclusion.  Awards which vest on the basis of an employee’s continued employment with...
+
+--- (Additional Root Structure) ---
+Heading (L1): ii.Other Circumstances.  The Committee may provide for earlier vesting of Awards upon death, disabil...
+
+--- (Additional Root Structure) ---
+Heading (L1): d.Termination of Employment. The Committee shall determine and set forth in the Award agreement (inc...
+
+--- (Additional Root Structure) ---
+Heading (L1): e.Withholding.  All Awards under this Plan are subject to and the Participant must satisfy all appli...
+
+--- (Additional Root Structure) ---
+Heading (L1): f.Amendment of Award. Except as otherwise provided in Sections 6(g) and 7(e), the Committee may amen...
+
+--- (Additional Root Structure) ---
+Heading (L1): Nonqualified Stock Option. Without limiting the generality of the foregoing, if a Change of Control ...
+
+--- (Additional Root Structure) ---
+Heading (L1): g.Conditions on Delivery of Stock. The Company will not be obligated to deliver any Shares pursuant ...
+
+--- (Additional Root Structure) ---
+Heading (L1): h.Acceleration. Subject to the limitations in Section 11 regarding a Change of Control and Section 1...
+
+--- (Additional Root Structure) ---
+Heading (L2): 13.Miscellaneous
+
+--- (Additional Root Structure) ---
+Heading (L1): a.No Right to Employment or Other Status.  No person shall have any claim or right to be granted an ...
+
+--- (Additional Root Structure) ---
+Heading (L1): b.No Rights as Shareholder. Subject to the provisions of the applicable Award agreement, no Particip...
+
+--- (Additional Root Structure) ---
+Heading (L1): c.Forfeiture of Award; Clawback.  In accepting an Award under the Plan, the Participant agrees to be...
+
+--- (Additional Root Structure) ---
+Heading (L1): d.Beneficiary.  Each Participant may file with the Company a written designation on a form (or other...
+
+--- (Additional Root Structure) ---
+Heading (L1): last such designation received by the Company shall be controlling; provided, however, that, unless ...
+
+--- (Additional Root Structure) ---
+Clause (e)
+
+--- (Additional Root Structure) ---
+Heading (L1): f.Amendment and Termination of Plan. The Committee may amend, suspend or terminate the Plan or any p...
+
+--- (Additional Root Structure) ---
+Heading (L1): administrative regulations and rulings promulgated thereunder (including, but not limited to, amendm...
+
+--- (Additional Root Structure) ---
+Heading (L1): g.Authorization of Sub-Plans. The Committee may from time to time establish one or more sub-plans un...
+
+--- (Additional Root Structure) ---
+Heading (L1): h.Non U.S. Employees.  Awards may be granted to Participants who are non-U.S. citizens or residents ...
+
+--- (Additional Root Structure) ---
+Heading (L1): i.Compliance with Section 409A of the Code.  If and to the extent (i) any portion of any payment, co...
+
+--- (Additional Root Structure) ---
+Heading (L1): j.Limitations on Liability. Notwithstanding any other provisions of the Plan, no individual acting a...
+
+--- (Additional Root Structure) ---
+Heading (L1): k.No Representations or Warranties Regarding Taxes.  Notwithstanding any provision of the Plan to th...
+
+--- (Additional Root Structure) ---
+Clause (l)
+
+--- (Additional Root Structure) ---
+Heading (L1): 14© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repr...
+
+--- (Additional Root Structure) ---
+Heading (L1): be governed by the laws of the State of Delaware, excluding any conflicts or choice of law rule or p...
+
+--- (Additional Root Structure) ---
+Heading (L1): 15© 2024 by The Hartford. Classification: Company Confidential. No part of this document may be repr...

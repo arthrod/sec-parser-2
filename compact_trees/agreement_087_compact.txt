@@ -1,0 +1,12 @@
+Total parsed elements: 10
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.35
+  2. HeadingElement (level=1): ARTISAN PARTNERS ASSET MANAGEMENT INC.
+  3. HeadingElement (level=1): 2023 OMNIBUS INCENTIVE COMPENSATION PLAN
+  4. TextElement (level=N/A): Franchise Capital Award Certificate - Career Vesting (Non-PM)Artisan Partners Limited Partnership (“Artisan”), pursuant to the Artisan Partners Asset Management Inc. 2023 Omnibus Incentive Compensatio
+  5. HeadingElement (level=1): ARTISAN PARTNERS ASSET MANAGEMENT INC.
+  6. HeadingElement (level=1): 2023 OMNIBUS INCENTIVE COMPENSATION PLAN
+  7. HeadingElement (level=1): FRANCHISE CAPITAL AWARD AGREEMENT - CAREER VESTING (NON-PM)
+  8. TextElement (level=N/A): This Franchise Capital Award Agreement (this “Award Agreement”) between [ ] (the “Grantee”) and Artisan Partners Limited Partnership (“Artisan”) is effective [ ].1.The Plan. Franchise Capital Awards a
+  9. HeadingElement (level=2): Appendix A:  Restrictive Covenants
+  10. TextElement (level=N/A): 1.Definitions. For purposes of this Appendix A:“Artisan Client” means each of the following:•Any client of the Artisan Group (i) for which Grantee provided services (such as investment management or r

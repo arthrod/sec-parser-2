@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit 10.18-7</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Execution Version</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Schedule II to this exhibit has been omitted pursuant to Item 601(a)(5) of Regulation S-K.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: OPORTUN CCW TRUST</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: FIFTH AMENDMENT TO INDENTURE</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: This FIFTH AMENDMENT TO INDENTURE, dated as of July 27, 2023 (this “Amendment”), is entered into a..., the “Securities Intermediary”) and as depositary bank (in such capacity, the “Depositary Bank”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: RECITALS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: WHEREAS, the Issuer, the Indenture Trustee, the Securities Intermediary and the Depositary Bank ha...n, the receipt and adequacy of which are hereby acknowledged, each party hereto agrees as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IDEFINITIONS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: SECTION 1.01.    Defined Terms Not Defined Herein. All capitalized terms used herein that are not defined herein shall have the meanings assigned to them in, or by reference in, the Indenture.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IIAMENDMENTS TO THE INDENTURE</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: SECTION 2.01.    Amendments.  The Indenture is hereby amended to incorporate the changes reflected...reto as Schedule I, with a conformed copy of the amended Indenture attached hereto as Schedule II.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IIIREPRESENTATIONS AND WARRANTIES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: SECTION 3.01.    Representations and Warranties. The Issuer hereby represents and warrants to the ... Amortization Event, Event of Default, Servicer Default or Default has occurred and is continuing.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IVMISCELLANEOUS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: SECTION 4.01.    Ratification of Indenture. As amended by this Amendment, the Indenture is in all ...W; JURISDICTION. THIS AMENDMENT SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: YORK, WITHOUT REFERENCE TO ITS CONFLICT OF LAW PROVISIONS, AND THE OBLIGATIONS, RIGHTS AND REMEDIE...y or covenant made or undertaken by the Issuer under this Amendment or any other related document.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: (Signature page follows)IN WITNESS WHEREOF, the Issuer, the Indenture Trustee, the Securities Inte...dment to be duly executed by their respective officers as of the day and year first above written.</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: OPORTUN CCW TRUST,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: as IssuerBy:  Wilmington Savings Fund Society, FSB, not in its individual capacity, but solely as Owner Trustee of the IssuerBy: /s/ Devon C. A. Reverdito Name:  Devon C. A. Reverdito</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Title:    Assistant Vice President WILMINGTON TRUST, NATIONAL ASSOCIATION,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: not in its individual capacity but solely as Indenture TrusteeBy: /s/ Drew H. Davis Name: Drew H. Davis    Title: Vice President</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: WILMINGTON TRUST, NATIONAL ASSOCIATION,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: not in its individual capacity but solely as Securities IntermediaryBy: /s/ Drew H. Davis Name: Drew H. Davis    Title: Vice President</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: WILMINGTON TRUST, NATIONAL ASSOCIATION,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: not in its individual capacity but solely as Depositary BankBy: /s/ Drew H. Davis Name: Drew H. Davis    Title: Vice President</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Consent to by the Required Noteholders:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: WEBBANK,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: as Holder of 100% of the outstanding NotesBy:    /s/ Jason Lloyd Name: Jason Lloyd    Title: President &amp; CEO</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SCHEDULE I</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Marked Amendments to Indenture</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: (See attached)CONFORMED COPY</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: As amended by the MasterFifth Amendment to Transaction DocumentsIndenture, dated as of March 7July 27, 2023</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: OPORTUN CCW TRUST, as Issuer andWILMINGTON TRUST, NATIONAL ASSOCIATION, as Indenture Trustee, as S...INDENTUREDated as of December 20, 2021Variable Funding Asset Backed Notes LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE 1.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: DEFINITIONS AND INCORPORATION BY REFERENCE</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 1.1. Definitions. Certain capitalized terms used herein (including the preamble and the re...th in the Transfer Agreement. “Addition Date” has the meaning set forth in the Transfer Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Additional Accounts” means any Accounts designated pursuant to Section 2.6 of the Transfer Agreem...s, on any date of determination, the ratio of (i) Adjusted Liabilities to (ii) Tangible Net Worth.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Adjusted Leverage Ratio Covenant” means that the Parent will have a maximum Adjusted Leverage Rat...suant to Section 5.17(d). “Back-Up Servicer” has the meaning specified in the Servicing Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Back-Up Servicing Agreement” has the meaning specified in the Servicing Agreement.“Bankruptcy Cod...able Interest Period and Available Tenor for any setting of such Unadjusted Benchmark Replacement:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (1)       for purposes of clauses (1) and (2) of the definition of “Benchmark Replacement,” the fi...sary in connection with the administration of this Indenture and the other Transaction Documents).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Benchmark Replacement Date” means the earliest to occur of the following events with respect to t... the Closing Date, which was $41,000,000.00.“Class A Maximum Principal Amount” means $120,000,000.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Class A Monthly Interest” has the meaning specified in Section 5.12(a). “Class A Note Principal” ... time or both would become, an Event of Default, a Servicer Default or a Rapid Amortization Event.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Default Margin” has the meaning specified in the Fee Letter, as notified by the Issuer to the Adm...eto and the Noteholders.“Eligible Receivable” has the meaning set forth in the Purchase Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the rules and r...ion operated by the Seller or its partners.“Increase” has the meaning specified in Section 3.1(b).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Indebtedness” means, with respect to any Person, such Person’s (i) obligations for borrowed money...rchase Agreement. “Insolvency Event” shall be deemed to have occurred with respect to a Person if:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)    a Proceeding shall be commenced, without the application or consent of such Person, before ...um leverage ratio or similar covenant for the Parent set forth in any Oportun Comparable Facility.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Liabilities” means, on any date of determination, the total liabilities which would appear on the...prior written consent of the Required Noteholders).“Moody’s” means Moody’s Investors Service, Inc.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Multiemployer Plan” means a “multiemployer plan” as defined in Section 4001(a)(3) of ERISA with r...ed on any factual matter, rely on an Officer’s Certificate as to the truth of such factual matter.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Oportun” means Oportun, Inc., a Delaware corporation.“Oportun Comparable Facility” means each of ...roceeding” means any suit in equity, action at law or other judicial or administrative proceeding.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Program Agreement” means (i) with respect to the Initial Originator, the Amended and Restated Cre...n or any of its property is subject.“Reserve Account” has the meaning specified in Section 5.3(b).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Reserve Account Requirement” means, for any Monthly Period, (a) initially, and for so long as the...SOFR”.“SOFR Rate Day” has the meaning specified in the definition of “Adjusted Daily Simple SOFR”.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Solvent” means with respect to any Person that as of the date of determination both (A)(i) the th... average Outstanding Receivables Balance of all Eligible Receivables for each such Monthly Period.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Transaction Documents” means, collectively, this Indenture, the Notes, the Servicing Agreement, t... as such agreement may be amended, restated, supplemented or otherwise modified from time to time.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “WebBank Receivables PurchaseSale Agreement” means the Receivables PurchaseSale Agreement, dated a...r the Transfer Agent and Registrar, as the case may be, shall be under a duty to receive the same.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE 3.</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: ISSUANCE OF NOTES; CERTAIN FEES AND EXPENSES Section 3.1. Initial Issuance; Procedure for Increases.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)    Subject to satisfaction of the conditions precedent set forth in subsection (b) of this Sec...icates, the Monthly Statement with respect to such Notes or Certificates prepared by the Servicer.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE 5.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ALLOCATION AND APPLICATION OF COLLECTIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 5.1. Rights of Noteholders. The Notes shall be secured by the entire Trust Estate, includi...e amounts required to be withdrawn from the Collection Account and the Reserve Account as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)    An amount equal to the Distributable Funds for such Payment Date shall be distributed by th...o the Alternative RateABR and communicated to the Servicer and the Issuer, by facsimile or e-mail.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE 6.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: DISTRIBUTIONS AND REPORTS Section 6.1. Distributions.(a)    On each Payment Date, the Indenture Tr...e;(x)    the amount of any Increases and Decreases in the Notes during the related Monthly Period;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (ix)    One Month LIBORthe Benchmark for each day during the related Interest Period;(x)    the da...faultClass A Note Rate inclusive of the Default Margin, which interest shall be payable on demand.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE 7.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: REPRESENTATIONS AND WARRANTIES OF THE ISSUER</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 7.1. Representations and Warranties of the Issuer. The Issuer hereby represents and warran...n could cause, the Issuer to become taxable as a corporation for U.S. federal income tax purposes.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (k)    Accounts. The Issuer shall not maintain any bank accounts other than the Trust Accounts; pr...proposed action and as to the sufficiency of the Receivables in the Trust Estate for such purpose.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Section 10.5. [Reserved].</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 10.6. Waiver of Past Events. If an Event of Default shall have occurred and be continuing,...her Noteholder or to enforce any right under this Indenture, except in the manner herein provided.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: The Indenture Trustee may maintain a Proceeding even if it does not possess any of the Notes or do...nture Trustee and the Noteholders shall continue as though no such Proceeding had been instituted.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 10.10. [Reserved].Section 10.11. Priorities. Following the declaration of an Event of Defa...s may be deemed expedient, by the Indenture Trustee or by the Secured Parties, as the case may be.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 10.15. Control by Noteholders. The Required Noteholders shall have the right to direct the...the aggregate outstanding principal balance of the NotesNote Principal adversely affected thereby.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (d)    Notwithstanding anything to the contrary contained in this Indenture or any of the Transact...Transaction Documents are necessary or advisable, if any, in connection with any of the foregoing.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (w)    The Indenture Trustee shall neither be responsible for, nor chargeable with, knowledge of t...ayment as general creditors unless an applicable abandoned property Law designates another Person.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (c)    All Notes surrendered for payment of the final distribution with respect to such Notes and ... to file, all financing statements, amendments, continuations, terminations, partial terminations,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SCHEDULE II</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Conformed Copy of Indenture</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: ( See attached )</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LEGAL_US_E # 170681720.5</span>
+</div>
+    </div>
+</body>
+</html>

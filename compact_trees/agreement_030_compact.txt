@@ -1,0 +1,11 @@
+Total parsed elements: 9
+Element types and content:
+  1. TextElement (level=N/A): Kemper Corporation 2020 Omnibus Equity Plan NON-QUALIFIED STOCK OPTION AND SAR AWARD AGREEMENT(Installment Vesting Form)This NON-QUALIFIED STOCK OPTION AND SAR AWARD AGREEMENT (“Agreement”) is made as
+  2. HeadingElement (level=1): KEMPER CORPORATION                PARTICIPANT
+  3. ContentTextElement (level=4): By:       _________________________________    ____________________________________ «CEO Signature and Title»    «name»
+  4. HeadingElement (level=1): RECITALS
+  5. TextElement (level=N/A): A.The Board of Directors of the Company (“Board”) has adopted the Kemper Corporation 2020 Omnibus Equity Plan (“Plan”), including all amendments to date, to be administered by the Compensation Committ
+  6. HeadingElement (level=2): (c)Certain Definitions.
+  7. TextElement (level=N/A): (i)“Cause” means any of the following: (1) the Participant’s theft or falsification of any Company or Affiliate documents, records or property; (2) the Participant’s improper use or disclosure of the 
+  8. HeadingElement (level=1): ADDITIONAL PROVISIONS APPLICABLE ONLY TO EXECUTIVE OFFICERS OF THE COMPANY:
+  9. TextElement (level=N/A): 23.Stock Holding Period.  The Participant agrees to hold all shares of Common Stock acquired upon the exercise of the Option and/or the SAR granted hereunder for a minimum of 12 months following the d

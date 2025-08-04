@@ -1,0 +1,337 @@
+TextElement (Lvl: ?): Exhibit
+10.12
+
+--- (Additional Root Structure) ---
+Heading (L1): DATED
+THIS DAY OF 2022
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): BETWEEN
+
+--- (Additional Root Structure) ---
+Heading (L1): MYISCO
+SDN BHD
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (Registration
+No: 201901046119)(1355449-A)AND
+
+--- (Additional Root Structure) ---
+Heading (L1): SUPER
+APPS HOLDINGS SDN BHD
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (Registration
+No: 202201014353)(1460050-W) Field: /Rule-Page
+
+--- (Additional Root Structure) ---
+Heading (L1): COLLABORATION
+AGREEMENT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Rule-Page  Field: /Page This
+Collaboration Agreement (the “Agreement”) is made and entered i...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ANDSUPER
+APPS HOLDINGS SDN BHD (Registration No: 202201014353 (1460050-W)), a company incorporated i...
+
+--- (Additional Root Structure) ---
+Content: MYISCO
+and the Financing Partner may be referred to in this Agreement individually as a “Party” and ...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+`-- Content: A.
+    
+MYISCO
+    is a digital Islamic financial services platform catering to the cooperative segm...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L2): NOW
+IT IS HEREBY AGREED as follows:
+`-- Content: 1.
+DEFINITION AND INTERPRETATION
+
+ 
+ 
+
+1.1
+Definition
+
+ 
+ 
+
+ 
+In this Agreement, unless
+  the contex...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “Agreement”
+means
+    this collaboration agreement, including all of its schedules;
+
+ 
+ 
+ 
+
+ 
+“Appli...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+2.
+PERSONAL FINANCING PROGRAMME
+
+ 
+ 
+
+ 
+The
+  Financing Partner and MYISCO shall esta...
+
+--- (Additional Root Structure) ---
+Content: 2.1
+    
+The
+    Financing Partner shall make available an initial sum of Ringgit Malaysia Ten Milli...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+2.8
+Upon
+    written confirmation of the Returns Statement by the Financing Partner, ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.
+FINANCING PARTNER’S
+  OBLIGATIONS
+`-- Content: 3.1
+    
+The
+    Financing Partner shall be deemed aware of and shall comply with all Applicable Law...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.
+OBLIGATIONS OF MYISCO
+`-- Content: 4.1
+MYISCO
+    shall provide the Personal Financings with due diligence and efficiency and in accord...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+4.6
+    
+MYISCO
+    shall ensure the approved Personal Financing is being provided wi...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5.
+MUTUAL OBLIGATIONS
+`-- Heading (L2): 5.1
+Both Parties shall:
+    `-- Content: (a)
+    
+provide
+    the other with reasonable information and other support, advise, consultation, ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): 6.
+CONFIDENTIALITY
+`-- Content: 6.1
+    
+Neither
+    the Financing Partner nor MYISCO shall, without the prior written approval of t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): 7.
+DATA PROTECTION
+`-- Content: 7.1
+    
+In
+    relation to Personal Data obtained by MYISCO in connection with this Agreement, MYIS...
+
+--- (Additional Root Structure) ---
+Heading (L1): 8.
+INTELLECTUAL PROPERTY RIGHTS
+`-- Content: 8.1
+    
+The
+    Financing Partner acknowledges that the MYISCO Wallet contains confidential proprie...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9.
+EXCLUSIVITY
+`-- Content: This
+Agreement is non-exclusive in nature and this agreement will not prohibit either parties from e...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): 10.
+TERMINATION
+`-- Content: 10.1
+    
+Notwithstanding
+    the provisions hereinabove, this Agreement may be terminated by the oc...
+
+--- (Additional Root Structure) ---
+Heading (L1): 11.
+INDEMNITIES AND LIABILITIES
+`-- Content: 11.1
+    
+The
+    Financing Partner releases and indemnifies MYISCO, its’ employees, servants and ag...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+11.5
+This
+    provision shall extend inter-alia to claims and liabilities in the natu...
+
+--- (Additional Root Structure) ---
+Heading (L1): 12.
+NOTICES
+|-- Content: 12.1
+    
+Service
+    of notice
+
+ 
+ 
+
+ 
+A
+    notice or other communication required or permitted un...
+`-- Content: 12.2
+    
+Particulars
+    for Service
+
+ 
+ 
+
+ 
+12.2.1
+The
+    particulars for service of MYISCO are:
+...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+ 
+12.2.2
+The
+    particulars for service of the Financing Partner are:
+
+ 
+ 
+ 
+
+ 
+ 
+Ad...
+
+--- (Additional Root Structure) ---
+Content: 12.3
+Either
+    Party may change its particulars for service by way of written notice to the other P...
+
+--- (Additional Root Structure) ---
+Content: 13.
+FORCE
+    MAJEURE
+
+ 
+ 
+
+13.1
+If
+    either Party to this Agreement is temporarily unable by reas...
+
+--- (Additional Root Structure) ---
+Content: 14.
+DURATION
+    OF AGREEMENT
+
+ 
+ 
+
+14.1
+    
+This
+    Agreement shall commence immediately upon the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+15.
+MISCELLANEOUS
+
+ 
+ 
+
+15.1
+    
+Severability.
+    If any provision of this Agreemen...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page 
+
+15.7
+Governing
+    Law. This Agreement will be governed by and construed in accordanc...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [The
+remainder of this page is intentionally left blank] Field: /Page IN
+WITNESS WHEREOF the Parties...
+
+--- (Additional Root Structure) ---
+Heading (L1): THE
+FINANCING PARTNER
+`-- Content: Signed
+    by 
+)
+ 
+ 
+
+for
+    and behalf of 
+)
+ 
+ 
+
+SUPER
+    APPS SDN BHD 
+)
+ 
+ 
+
+(Registration
+   ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page Schedule
+1Trust
+Deed Between MYISCO and MyAngkasa Amanah Berhad Field: /Page Schedule
+2...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Page

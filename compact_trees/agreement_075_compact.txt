@@ -1,0 +1,36 @@
+Total parsed elements: 34
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.101NEITHER THIS SECURITY NOR THE SECURITIES INTO WHICH THIS SECURITY IS CONVERTIBLE HAVE BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STAT
+  2. HeadingElement (level=1): FOURTH AMENDMENT TO SECURED REVOLVING LINE OF CREDIT
+  3. TextElement (level=N/A): THIS FOURTH AMENDMENT TO SECURED REVOLVING LINE OF CREDIT (this “Fourth Amendment”) memorializes, modifies, amends, and ratifies a joint and several promissory obligation of ARCA Recycling, Inc., a Ca
+  4. HeadingElement (level=1): ICG JANONE FOURTH AMENDMENT.3+    1
+  5. TextElement (level=N/A): F.WHEREAS, each of the Parties desires to maintain the interest rate on the remaining obligations under this Fourth Amendment at the rate of 8.75% per annum, without compounding;G.WHEREAS, each of the
+  6. HeadingElement (level=1): ICG JANONE FOURTH AMENDMENT.3+    3
+  7. TextElement (level=N/A): TRANSFERRED OR ASSIGNED (I) IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR (B) AN OPINION OF COUNSEL (WHICH COUNSEL SHALL
+  8. HeadingElement (level=1): ICG JANONE FOURTH AMENDMENT.3+    9
+  9. ContentTextElement (level=4): (Remainder of this page intentionally left blank; signatures are on the following page.)
+  10. HeadingElement (level=1): ICG JANONE FOURTH AMENDMENT.3+    10
+  11. ContentTextElement (level=4): IN WITNESS WHEREOF, the Parties have caused this Amendment to be duly executed and delivered as of the Effective Date.
+  12. HeadingElement (level=2): Joint Obligors:
+  13. HeadingElement (level=1): ARCA RECYCLING, INC.
+  14. HeadingElement (level=2): By:
+  15. TextElement (level=N/A): Virland A. JohnsonChief Executive Officer JANONE INC.
+  16. HeadingElement (level=2): By:
+  17. TextElement (level=N/A): Tony Isaac
+  18. HeadingElement (level=2): Chief Executive Officer Lender:
+  19. HeadingElement (level=1): ISAAC CAPITAL GROUP, LLC
+  20. HeadingElement (level=2): By:
+  21. TextElement (level=N/A): Jon IsaacPresident and Chief Executive Officer ICG JANONE FOURTH AMENDMENT.3+    11
+  22. HeadingElement (level=1): SCHEDULE 1
+  23. TextElement (level=N/A): Funding Matrix
+  24. HeadingElement (level=1): LIVE JANONE FOURTH AMENDMENT.3+    FUNDING MATRIX
+  25. HeadingElement (level=1): ANNEX A
+  26. HeadingElement (level=1): NOTICE OF CONVERSION
+  27. TextElement (level=N/A): The undersigned hereby elects to convert obligations of the Joint Obligors under the Original Revolving Line of Credit, as amended, of JanOne Inc. (“JanOne”) into shares of common stock (the “Common S
+  28. HeadingElement (level=2): Conversion calculations:
+  29. HeadingElement (level=2): Date to Effect Conversion:
+  30. ContentTextElement (level=4): Amount of obligations to be Converted:  $ Number of shares of Common Stock to be issued:
+  31. HeadingElement (level=2): Signature:
+  32. HeadingElement (level=2): Name:
+  33. HeadingElement (level=2): Delivery Instructions:
+  34. HeadingElement (level=1): ICG JANONE FOURTH AMENDMENT.3+    ANNEX A

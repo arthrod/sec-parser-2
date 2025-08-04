@@ -1,0 +1,259 @@
+AGREEMENT: among
+
+--- (Additional Root Structure) ---
+Heading (L1): BANK OF AMERICA, N.A., BARCLAYS BANK PLC,
+
+--- (Additional Root Structure) ---
+Heading (L1): MIZUHO BANK, LTD., PNC BANK, NATIONAL ASSOCIATION,
+
+--- (Additional Root Structure) ---
+Heading (L1): JPMORGAN CHASE BANK, N.A.BOFA SECURITIES, INC., BARCLAYS BANK PLC,
+
+--- (Additional Root Structure) ---
+Heading (L1): MIZUHO BANK, LTD., PNC CAPITAL MARKETS LLC,
+
+--- (Additional Root Structure) ---
+Heading (L1): TABLE OF CONTENTS
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULES:
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBITS:
+
+--- (Additional Root Structure) ---
+Heading (L2): The parties hereto agree as follows:
+
+--- (Additional Root Structure) ---
+Article ARTICLE I
+
+--- (Additional Root Structure) ---
+Clause (i): if at any time the Borrower fails to deliver the Financials on or before the date the Financials are...
+
+--- (Additional Root Structure) ---
+Clause (ii): adjustments, if any, to the Category then in effect shall be effective on the date that is three (3)...
+
+--- (Additional Root Structure) ---
+Clause (1): in the case of clause (1) or (2) of the definition of “Benchmark Transition Event,” the later of (a)...
+
+--- (Additional Root Structure) ---
+Clause (3): a public statement or publication of information by the regulatory supervisor for the administrator ...
+
+--- (Additional Root Structure) ---
+Clause (a): direct obligations of, or obligations the principal of and interest on which are unconditionally gua...
+
+--- (Additional Root Structure) ---
+Clause (b): investments in commercial paper maturing within 270 days from the date of acquisition thereof and ha...
+
+--- (Additional Root Structure) ---
+Clause (c): investments in certificates of deposit, banker’s acceptances and time deposits maturing within 180 d...
+
+--- (Additional Root Structure) ---
+Clause (d): fully collateralized repurchase agreements with a term of not more than thirty (30) days for securit...
+
+--- (Additional Root Structure) ---
+Clause (e): money market funds that (i) comply with the criteria set forth in SEC Rule 2a- 7 under the Investmen...
+
+--- (Additional Root Structure) ---
+Clause (f): instruments equivalent to those referred to in clauses (a) through (e) above denominated in other cu...
+
+--- (Additional Root Structure) ---
+Clause (iii): a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b)...
+
+--- (Additional Root Structure) ---
+Clause (g): judgment Liens not giving rise to an Event of Default;
+
+--- (Additional Root Structure) ---
+Clause (h): Liens arising solely by virtue of any statutory or common law provisions relating to banker’s Liens,...
+
+--- (Additional Root Structure) ---
+Clause (j): Deposits made in the ordinary course of business to secure liability to insurance carriers other tha...
+
+--- (Additional Root Structure) ---
+Clause (k): Any interest or title of a lessor or lessee or sublessor or sublessee under any lease of property (r...
+
+--- (Additional Root Structure) ---
+Clause (l): Liens in favor of customs and revenue authorities arising as a matter of law to secure payment of cu...
+
+--- (Additional Root Structure) ---
+Clause (m): Leases, licenses, subleases and sublicenses of assets (including, without limitation, real property ...
+
+--- (Additional Root Structure) ---
+Article ARTICLE II
+
+--- (Additional Root Structure) ---
+Clause (iv): in the case of a Term Benchmark Borrowing, the initial Interest Period to be applicable thereto, whi...
+
+--- (Additional Root Structure) ---
+Clause (v): the location and number of the account of the Borrower (or such other payee designated by the Borrow...
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 2.04.  [Intentionally Omitted].
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 2.14.  Alternate Rate of Interest.
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 2.15.  Increased Costs.  (a) If any Change in Law shall:
+
+--- (Additional Root Structure) ---
+Clause (A): in the case of a Lender that is a U.S. Person, IRS Form W-9 certifying that such Lender is exempt fr...
+
+--- (Additional Root Structure) ---
+Clause (C): in the case of a Non-U.S. Lender for whom payments under this Agreement constitute income that is ef...
+
+--- (Additional Root Structure) ---
+Clause (F): any other form prescribed by law as a basis for claiming exemption from, or a reduction of, U.S. Fed...
+
+--- (Additional Root Structure) ---
+Article ARTICLE III
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 3.15.  [Reserved].
+
+--- (Additional Root Structure) ---
+Article ARTICLE IV
+
+--- (Additional Root Structure) ---
+Clause (o): The Administrative Agent shall have received updated disclosure schedules to the Credit Agreement re...
+
+--- (Additional Root Structure) ---
+Article ARTICLE V
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 5.10.  Subsidiary Guarantors; Pledges; Additional Collateral; Further Assurances; Post-Closi...
+
+--- (Additional Root Structure) ---
+Article ARTICLE VI
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 6.12.  Financial Covenants.
+
+--- (Additional Root Structure) ---
+Article ARTICLE VII
+
+--- (Additional Root Structure) ---
+Clause (n): the occurrence of any “default”, as defined in any Loan Document (other than this Agreement) or the ...
+
+--- (Additional Root Structure) ---
+Clause (p): any Collateral Document shall for any reason fail to create a valid and perfected first priority sec...
+
+--- (Additional Root Structure) ---
+Clause (q): the Spin-Off shall not be consummated at 11:59 p.m. New York City time on the Funding Date following...
+
+--- (Additional Root Structure) ---
+Clause (vi): finally, the balance, if any, after all Secured Obligations have been indefeasibly paid in full, to ...
+
+--- (Additional Root Structure) ---
+Article ARTICLE VIII
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 8.10.  Certain Payments.
+
+--- (Additional Root Structure) ---
+Article ARTICLE IX
+
+--- (Additional Root Structure) ---
+Clause (B): the Administrative Agent, provided that no consent of the Administrative Agent shall be required for...
+
+--- (Additional Root Structure) ---
+Clause (D): the Swingline Lenders provided that no consent of the Swingline Lenders shall be required for an ass...
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 9.06.  Counterparts; Integration; Effectiveness; Electronic Execution.
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 9.14.  No Fiduciary Duty, etc.
+
+--- (Additional Root Structure) ---
+Heading (L2): SECTION 9.16.  Non-Public Information.
+
+--- (Additional Root Structure) ---
+Article ARTICLE X
+
+--- (Additional Root Structure) ---
+AGREEMENT: Signature Page to MasterBrand, Inc. Credit Agreement
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Heading (L1): ASSIGNMENT AND ASSUMPTION
+
+--- (Additional Root Structure) ---
+Section 1: Assignor:
+
+--- (Additional Root Structure) ---
+Section 2: Assignee:                [and is an Affiliate/Approved Fund of [identify Lender]1]
+
+--- (Additional Root Structure) ---
+Section 3: Borrower:    MasterBrand, Inc.
+
+--- (Additional Root Structure) ---
+Section 6: Assigned Interest:
+
+--- (Additional Root Structure) ---
+Heading (L1): [MASTERBRAND, INC.,]
+
+--- (Additional Root Structure) ---
+Heading (L2): 1.    Representations and Warranties.
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Heading (L1): [SIGNATURE PAGE FOLLOWS]
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Heading (L1): BORROWING REQUEST
+
+--- (Additional Root Structure) ---
+Heading (L2): Ladies and Gentlemen:
+
+--- (Additional Root Structure) ---
+Clause (E): Funds are requested to be disbursed to the Borrower’s account as follows:
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Heading (L1): FINANCIAL OFFICER’S CERTIFICATE
+
+--- (Additional Root Structure) ---
+Heading (L1): LIST OF CLOSING DOCUMENTS
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Clause (U)
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Heading (L1): U.S. TAX CERTIFICATE
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Heading (L1): U.S. TAX CERTIFICATE
+
+--- (Additional Root Structure) ---
+Heading (L1): [FORM OF]
+
+--- (Additional Root Structure) ---
+Heading (L1): U.S. TAX CERTIFICATE
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF INTEREST ELECTION REQUEST
+
+--- (Additional Root Structure) ---
+Heading (L2): Ladies and Gentlemen:
+
+--- (Additional Root Structure) ---
+Section 4: Type of Borrowing (ABR, RFR or Term Benchmark):  __________

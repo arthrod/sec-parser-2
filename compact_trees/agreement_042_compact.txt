@@ -1,0 +1,7 @@
+Total parsed elements: 5
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.2
+  2. HeadingElement (level=1): WARRANT CANCELLATION AND EXCHANGE AGREEMENT
+  3. TextElement (level=N/A): This WARRANT CANCELLATION AND EXCHANGE AGREEMENT (this “Agreement”) is made as of March 12, 2024, by and between Canoo Inc., a Delaware corporation (the “Company”), and YA II PN, Ltd. (“Warrant Holder
+  4. HeadingElement (level=1): FORM OF NEW WARRANT
+  5. TextElement (level=N/A): See attached. Field: /Page

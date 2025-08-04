@@ -1,0 +1,64 @@
+AGREEMENT: This Employment Agreement (the “Agreement”) is made and entered into effective the 1st day of Januar...
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Clause (c)
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Clause (e)
+
+--- (Additional Root Structure) ---
+Clause (f)
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.Termination of Agreement.
+
+--- (Additional Root Structure) ---
+Clause (i)
+
+--- (Additional Root Structure) ---
+Clause (ii)
+
+--- (Additional Root Structure) ---
+Heading (L2): d.Termination Due to Total Disability.
+
+--- (Additional Root Structure) ---
+Heading (L2): e.Termination Upon Death of Executive.
+
+--- (Additional Root Structure) ---
+Heading (L2): f.Termination Definitions.
+
+--- (Additional Root Structure) ---
+Clause (iii)
+
+--- (Additional Root Structure) ---
+Clause (iv)
+
+--- (Additional Root Structure) ---
+Clause (v)
+
+--- (Additional Root Structure) ---
+Heading (L2): 12.Miscellaneous.
+
+--- (Additional Root Structure) ---
+Heading (L2): Employer:
+
+--- (Additional Root Structure) ---
+Heading (L2): Executive:
+
+--- (Additional Root Structure) ---
+Heading (L1): EMPLOYER:
+
+--- (Additional Root Structure) ---
+Heading (L1): NORTHRIM BANK
+
+--- (Additional Root Structure) ---
+Heading (L1): EXECUTIVE:

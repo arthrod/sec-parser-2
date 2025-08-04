@@ -1,0 +1,89 @@
+AGREEMENT: GROUPON, INC. 2011 INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): 1.Name: [________] (the “Participant”)
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.Total Number of RSUs: [___]
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.Grant Date: [____]
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.Vesting: Unless otherwise provided in the Participant’s individual employment, severance or other ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5.Settlement:  The RSUs shall be converted to Shares contingent upon the Participant’s Continuous Se...
+
+--- (Additional Root Structure) ---
+Heading (L1): 6.Termination:  Unless otherwise provided in the Participant’s individual employment, severance or o...
+
+--- (Additional Root Structure) ---
+Heading (L1): 7.General Terms:  The Participant understands that the Participant’s employment with or service to t...
+
+--- (Additional Root Structure) ---
+Table
+
+--- (Additional Root Structure) ---
+Heading (L1): GROUPON, INC. 2011 INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+AGREEMENT: RESTRICTED SHARE UNIT AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L2): Capitalized terms in this agreement (this “Agreement”), unless otherwise defined herein, shall have ...
+
+--- (Additional Root Structure) ---
+Heading (L2): You, as the Participant, have been granted a Full Value Award of restricted share units (“RSUs”) in ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 1.No Stockholder Rights.  Unless and until such time as Shares are issued in settlement of vested RS...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.No Transfer.  Awards under the Plan are not transferable except to the Participant’s Beneficiary u...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.Tax Withholding Obligations.
+|-- Heading (L2): (a)Regardless of any action the Company takes with respect to any or all income tax, social insuranc...
+|   |-- Clause (b)
+|   `-- Clause (i)
+|       |-- Clause (ii)
+|       `-- Clause (iii)
+|-- Heading (L2): (c)To avoid negative accounting treatment, the Company may withhold or account for Tax-Related Items...
+`-- Heading (L2): (d)Further, to the extent applicable, the settlement of the RSUs is intended to either be exempt fro...
+
+--- (Additional Root Structure) ---
+Heading (L1): of the Code and will have no liability to the Participant or any other party if the settlement of th...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.Compliance with Laws and Regulations.  The issuance of Shares underlying the RSUs will be subject ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5.No Advice Regarding Award.   The Company is not providing any tax, legal, or financial advice, nor...
+
+--- (Additional Root Structure) ---
+Heading (L1): 7.Successors and Assigns.  The Company may assign any of its rights under this Agreement. This Agree...
+
+--- (Additional Root Structure) ---
+Heading (L1): 8.Entire Agreement; Severability.  The Plan and the Notice are incorporated herein by reference.  Ex...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9.Waiver.  Waiver of any term or condition of this Agreement by any party shall not be construed as ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 10.Governing Law and Venue.  The validity, interpretation, instruction, performance, enforcement and...
+
+--- (Additional Root Structure) ---
+Heading (L1): 11.Notices.  Any notice or document required to be filed with the Committee or the Company under the...
+
+--- (Additional Root Structure) ---
+Heading (L1): 12.Need to Accept Award.  The Participant acknowledges that the Notice and this Agreement must be ac...
+
+--- (Additional Root Structure) ---
+Heading (L1): Participant in hard copy format, the Participant must sign the agreement and return it to the Compan...
+
+--- (Additional Root Structure) ---
+Heading (L1): By the Participant’s signature and the signature of the Company’s representative below and on the No...
+
+--- (Additional Root Structure) ---
+Table

@@ -1,0 +1,32 @@
+Total parsed elements: 30
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.4
+  2. HeadingElement (level=1): SUPPORT AGREEMENT
+  3. TextElement (level=N/A): THIS SUPPORT AGREEMENT (this “Agreement”) is made and entered into as of February 16, 2024, by and among Fathom Digital Manufacturing Corporation, a Delaware corporation (the “Company”), Fathom Digita
+  4. HeadingElement (level=1): ARTICLE I AGREEMENT TO VOTE
+  5. TextElement (level=N/A): 1.1Voting.(a)During the period commencing from the date hereof until the Termination Date (as defined below), each Supporting Holder hereby irrevocably and unconditionally agrees to consent to and vot
+  6. HeadingElement (level=1): ARTICLE II REPRESENTATIONS AND WARRANTIES
+  7. TextElement (level=N/A): Each Supporting Holder, severally for itself, hereby represents and warrants to the Company as follows:2.1Authorization. Such Supporting Holder is duly organized, validly existing and in good standing
+  8. HeadingElement (level=1): ARTICLE III COVENANTS
+  9. TextElement (level=N/A): 3.1No Proxies for or Encumbrances on or Transfer of Covered Shares. Prior to the receipt of the Requisite Stockholder Approval, each Supporting Holder shall not, without the prior written consent of t
+  10. HeadingElement (level=1): ARTICLE IV MISCELLANEOUS
+  11. TextElement (level=N/A): 4.1Termination. This Agreement and all obligations of the parties hereunder shall automatically terminate upon the earliest to occur of (a) the mutual written consent of the parties hereto; provided, 
+  12. HeadingElement (level=1): (B) IT UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER;
+  13. TextElement (level=N/A): (C) IT MAKES THIS WAIVER VOLUNTARILY AND (D) IT HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 4.9.4.10Notices. All notices
+  14. HeadingElement (level=1): COMPANY:
+  15. HeadingElement (level=1): FATHOM	DIGITAL	MANUFACTURING CORPORATION
+  16. TextElement (level=N/A): By: /s/ Carey ChenName: Carey ChenTitle:	CEOIN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed and delivered by their respective duly authorized officers as of the date f
+  17. HeadingElement (level=1): PARENT:
+  18. HeadingElement (level=1): FATHOM	DIGITAL	MANUFACTURING INTERMEDIATE, LLC
+  19. TextElement (level=N/A): By:  /s/ John MayName: John MayTitle: PresidentIN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed and delivered by their respective duly authorized officers as of the dat
+  20. HeadingElement (level=1): SUPPORTING HOLDERS:
+  21. HeadingElement (level=1): CORE INDUSTRIAL PARTNERS FUND I, L.P.
+  22. HeadingElement (level=1): BY: CORE INDUSTRIAL PARTNERS GP I, LLC
+  23. HeadingElement (level=1): ITS: GENERAL PARTNER
+  24. TextElement (level=N/A): By:  /s/ John MayName: John MayTitle: Managing Partner
+  25. HeadingElement (level=1): CORE INDUSTRIAL PARTNERS FUND I PARALLEL, L.P.
+  26. HeadingElement (level=1): BY: CORE INDUSTRIAL PARTNERS GP I, LLC
+  27. HeadingElement (level=1): ITS: GENERAL PARTNER
+  28. TextElement (level=N/A): By:  s/ John MayName: John MayTitle: Manging Partner
+  29. HeadingElement (level=2): Exhibit A
+  30. ContentTextElement (level=4): Supporting Holder Covered Shares   CORE Industrial Partners Fund I, L.P. Class B Common Stock: 3,168,894   CORE Industrial Partners Fund I Parallel, L.P. Class A Common Stock: 1,121,007   Total Covere

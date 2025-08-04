@@ -1,0 +1,8 @@
+Total parsed elements: 6
+Element types and content:
+  1. HeadingElement (level=1): HORMEL FOODS CORPORATION
+  2. TextElement (level=N/A): Restricted Stock Unit Agreement Under the 2018 Incentive Compensation Plan    Hormel Foods Corporation (the “Company”), pursuant to its 2018 Incentive Compensation Plan (the “Plan”), hereby grants an 
+  3. HeadingElement (level=1): PARTICIPANT    HORMEL FOODS CORPORATION
+  4. TextElement (level=N/A): By:___ /s/ James P. Snee________________ Name: James P. Snee        Title: Chairman of the Board, President and CEO_____________________________________________________________________________________
+  5. HeadingElement (level=1): HORMEL FOODS CORPORATION
+  6. TextElement (level=N/A): 2018 Incentive Compensation Plan Restricted Stock Unit AgreementRestricted Stock Unit Terms and Conditions1.    Grant of Restricted Stock Units.  The Company hereby confirms the grant to you, as of th

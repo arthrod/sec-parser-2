@@ -1,0 +1,25 @@
+Total parsed elements: 23
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THE EXHIBIT BECAUSE IT IS BOTH NOT MATERIAL AND IS THE TYPE THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL. SUCH EXCLUDED INFOR
+  2. HeadingElement (level=1): LICENSE AND SERVICES AGREEMENT
+  3. ContentTextElement (level=4): This License and Services Agreement (this “Agreement”) is entered into as of February 20, 2024 (the “Effective Date”), by and between Serve Operating Co., a Delaware corporation (“Serve”), and Magna N
+  4. HeadingElement (level=1): RECITALS
+  5. TextElement (level=N/A): A.Serve has developed, and continues to develop, the Serve AMR Technology and the AMR Products embodying the same; B.the Parties are entering into a strategic partnership comprising three relationship
+  6. HeadingElement (level=2): 2.3 Terms Relating to Commercialization Support.
+  7. TextElement (level=N/A): Following any request made pursuant to Section 2.1 for Development Services anticipated to create new features or software not currently available with respect to existing Serve AMR Technology or AMR 
+  8. HeadingElement (level=2): 4.2 Remedies for Service Availability Failures.
+  9. TextElement (level=N/A): (a)If the actual Availability of the Serve Software is less than the Availability Requirement for any Service Period, such failure shall constitute a “Service Error”. (b)If the actual Availability of 
+  10. HeadingElement (level=2): 8.1 Background Rights. Except as expressly set forth herein, each Party shall:
+  11. TextElement (level=N/A): (a)retain all right, title, and interest in and to all Intellectual Property Rights owned or controlled by it; and  (b)own and retain all right, title, and interest in and to all Intellectual Property
+  12. HeadingElement (level=2): 9. Serve Representations and Warranties.
+  13. TextElement (level=N/A): 9.1 Design Warranty Regarding AMR Vehicles. Serve represents and warrants that the AMR Vehicles designed by Serve (including those for which Serve has delivered an MDP) will, to Serve’s knowledge, be 
+  14. HeadingElement (level=2): 10.4 Limitations of Liability.
+  15. TextElement (level=N/A): (a)NO LIABILITY FOR CONSEQUENTIAL OR INDIRECT DAMAGES. EXCEPT FOR (1) LIABILITIES ARISING OUT OF A PARTY’S FRAUD OR WILLFUL MISCONDUCT, AND (2) LIABILITIES ARISING OUT OF A PARTY’S BREACH OF SECTION 4
+  16. HeadingElement (level=2): 11. Term and Termination.
+  17. TextElement (level=N/A): 11.1 Term. The term of this Agreement begins on the Effective Date and will continue until terminated by either Party in accordance with Section 9.2 (the “Term”).11.2 Termination. In addition to any o
+  18. HeadingElement (level=2): 12. Miscellaneous.
+  19. TextElement (level=N/A): 12.1 Further Assurances. Each Party agrees to execute any and all documents and instruments of transfer, assignment, assumption, or novation and to perform such other acts as may be reasonably necessa
+  20. HeadingElement (level=1): APPENDIX A
+  21. HeadingElement (level=2): Certain Definitions
+  22. HeadingElement (level=2): 1. Definitions.
+  23. TextElement (level=N/A): 1.1 “Affiliate” of a Person means any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such Person.1.2 “AMR Pr

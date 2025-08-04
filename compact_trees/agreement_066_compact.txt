@@ -1,0 +1,6 @@
+Total parsed elements: 4
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.7
+  2. HeadingElement (level=1): GOSSAMER BIO, INC.
+  3. HeadingElement (level=1): NON-EMPLOYEE DIRECTOR COMPENSATION PROGRAM
+  4. TextElement (level=N/A): Non-employee members of the board of directors (the “Board”) of Gossamer Bio, Inc. (the “Company”) shall receive cash and equity compensation as set forth in this Non-Employee Director Compensation Pr

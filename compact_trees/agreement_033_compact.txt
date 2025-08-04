@@ -1,0 +1,9 @@
+Total parsed elements: 7
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1
+  2. HeadingElement (level=1): DOORDASH, INC.
+  3. HeadingElement (level=1): EXECUTIVE CHANGE IN CONTROL AND SEVERANCE PLAN
+  4. HeadingElement (level=1): AND SUMMARY PLAN DESCRIPTION
+  5. TextElement (level=N/A): 1.Introduction.  The purpose of this DoorDash, Inc. Executive Change in Control and Severance Plan is to provide assurances of specified benefits to certain employees of the Company whose employment i
+  6. HeadingElement (level=2): 6.Conditions to Receipt of Severance.
+  7. TextElement (level=N/A): (a)Release Agreement.  As a condition to receiving the Severance Benefits, each Participant will be required to sign and not revoke a separation and release of claims agreement in a form reasonably sa

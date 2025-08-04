@@ -1,0 +1,231 @@
+TextElement (Lvl: ?): Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Heading (L1): EMPLOYMENT AGREEMENT
+`-- Content: This Employment Agreement (the “Agreement”) is made and entered into effective the 1st day of Januar...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): In consideration of the mutual promises made in this Agreement, the parties agree as follows:1.Emplo...
+
+--- (Additional Root Structure) ---
+Content: Employer employs Executive and Executive accepts employment with Employer as Executive Vice Presiden...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Term.
+
+--- (Additional Root Structure) ---
+Content: The term of this Agreement (the “Term”) shall commence on the Effective Date and, unless terminated ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Duties.
+
+--- (Additional Root Structure) ---
+Content: The Executive will serve as Executive Vice President and Chief Information Officer of Northrim Bank....
+
+--- (Additional Root Structure) ---
+Content: 4.Compensation, Benefits, Reimbursement and Profit Sharing.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): a.Base Salary.
+
+--- (Additional Root Structure) ---
+Content: In consideration for all services rendered by Executive during the term of this Agreement, Employer ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): b.Profit Sharing Plan.
+
+--- (Additional Root Structure) ---
+Content: Under the Northrim BanCorp, Inc. Profit Sharing Plan (the “Plan”), Executive shall be eligible to re...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): c.Stock Incentive Plan.
+
+--- (Additional Root Structure) ---
+Content: Executive shall be eligible for awards under the Employer’s Stock Incentive Plan. The type, timing a...
+
+--- (Additional Root Structure) ---
+Content: d.Supplemental Executive Retirement Plan (“SERP”), and Deferred Compensation Plan.
+
+--- (Additional Root Structure) ---
+Content: Executive shall also be entitled to receive an annual contribution equal to five percent (5%) of ann...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): e.Other Benefits.
+
+--- (Additional Root Structure) ---
+Content: Throughout the term of this Agreement, Executive shall be entitled to participate in health insuranc...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): f.Expenses.
+
+--- (Additional Root Structure) ---
+Content: Employer shall reimburse Executive for the Executive’s reasonable expenses (including, without limit...
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.Termination of Agreement.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): a.Termination Due to a Change of Control.
+
+--- (Additional Root Structure) ---
+Content: If (A) Employer (either Northrim BanCorp, Inc. or Northrim Bank) is subjected to a Change of Control...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)Benefits Continuation.
+
+--- (Additional Root Structure) ---
+Content: In addition, Executive shall be entitled to health and dental insurance benefits for a period of one...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ii)Age and Service Credit.
+
+--- (Additional Root Structure) ---
+Content: Executive shall also be entitled to receive age credit and credit for period of service towards all ...
+
+--- (Additional Root Structure) ---
+Content: b.Termination by Employer Without Cause or by Executive for Good Reason.
+
+--- (Additional Root Structure) ---
+Content: If Employer terminates Executive’s employment without Cause, or if Executive terminates their employ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)Benefits Continuation.
+
+--- (Additional Root Structure) ---
+Content: In addition, Executive shall be entitled to health and dental insurance benefits for a period of nin...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ii)Age and Service Credit.
+
+--- (Additional Root Structure) ---
+Content: Executive shall also be entitled to receive age credit and credit for period of service towards all ...
+
+--- (Additional Root Structure) ---
+Content: c.Termination by Employer for Cause or by Executive Without Good Reason.
+
+--- (Additional Root Structure) ---
+Content: If Employer terminates Executive’s employment for Cause or if Executive terminates their employment ...
+
+--- (Additional Root Structure) ---
+Content: If any disputed termination under Section 5.c. is subsequently determined to have been without Cause...
+
+--- (Additional Root Structure) ---
+Heading (L2): d.Termination Due to Total Disability.
+|-- Content: If Executive shall have been unable to perform his duties due to a Total Disability (as defined in S...
+`-- Content: pursuant to this Section 5.d), which payment will be made regardless of whether Executive elects COB...
+
+--- (Additional Root Structure) ---
+Heading (L2): e.Termination Upon Death of Executive.
+`-- Content: Executive’s employment under this Agreement shall be terminated upon the death of Executive. In such...
+
+--- (Additional Root Structure) ---
+Heading (L2): f.Termination Definitions.
+`-- Content: (i)“Change of Control.” For purposes of this Agreement, the term “Change of Control” shall mean the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ii)“Cause.” For purposes of this Agreement, termination for “Cause” shall include termination becau...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, Executive shall not be deemed to have been terminated for Cause unles...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (iii)“Good Reason.” For purposes of this Agreement, termination for “Good Reason” shall mean termina...
+
+--- (Additional Root Structure) ---
+Content: (iv)“Total Disability.” For purposes of this Agreement, “Total Disability” shall mean a medically di...
+
+--- (Additional Root Structure) ---
+Content: (v)“Termination from Employment.” A termination from employment under this Agreement shall mean a “S...
+
+--- (Additional Root Structure) ---
+Content: absence if the period of such leave does not exceed six months, or if longer, so long as the Executi...
+
+--- (Additional Root Structure) ---
+Content: 6.Limit on Severance Payment for Change of Control.
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything above in Section 5.a., if the severance payment provided for in that Sectio...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 7.Covenant Not To Compete.
+
+--- (Additional Root Structure) ---
+Content: a.    Executive agrees that for the term of this Agreement and for a period of nine months after thi...
+
+--- (Additional Root Structure) ---
+Content: b.    The parties agree that if a trial judge with jurisdiction over a dispute related to this Agree...
+
+--- (Additional Root Structure) ---
+Content: relevant circumstances, and to enforce such covenant. The provisions of this Section 7 shall survive...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 8.Nondisclosure of Confidential Information.
+
+--- (Additional Root Structure) ---
+Content: a.    During the term of Executive’s employment and thereafter, Executive agrees to hold Employer’s ...
+
+--- (Additional Root Structure) ---
+Content: b.    “Confidential Information” includes, without limitation, any information in whatever form that...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 9.Non-Solicitation.
+
+--- (Additional Root Structure) ---
+Content: During the course of Executive’s employment and for a period of nine months from the date of termina...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 10.Non-Disparagement.
+
+--- (Additional Root Structure) ---
+Content: Executive will not, during the Term or after the termination or expiration of this Agreement or Exec...
+
+--- (Additional Root Structure) ---
+Content: waived by agreement or from complying with any applicable law or regulation or a valid order of a co...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 11.Mutual Agreement to Arbitrate.
+
+--- (Additional Root Structure) ---
+Content: a.    Except as provided in Section 11.b., in the event of a dispute or claim between Executive and ...
+
+--- (Additional Root Structure) ---
+Content: b.    The only disputes or claims that are not subject to arbitration are any claims by Executive fo...
+
+--- (Additional Root Structure) ---
+Content: c.    Except as provided by section 11.b., the arbitration procedure will afford Executive and Emplo...
+
+--- (Additional Root Structure) ---
+Heading (L2): 12.Miscellaneous.
+|-- Content: a.    This Agreement contains the entire agreement between the parties with respect to Executive’s e...
+|-- Content: b.    This Agreement shall bind and inure to the benefit of the heirs, legal representatives, succes...
+|-- Content: c.    If any provision of this Agreement is invalid or otherwise unenforceable, in whole or in part,...
+|-- Content: d.    In the event of any claim or dispute arising out of this Agreement, the party that substantial...
+`-- Content: e.    Any notice required to be given under this Agreement to either party shall be given by persona...
+
+--- (Additional Root Structure) ---
+Heading (L2): Employer:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3111 “C” StreetAnchorage, AK 99503
+
+--- (Additional Root Structure) ---
+Heading (L2): Executive:
+|-- Content: Address on file with Northrim Bank Human Resources Department.
+|-- Content: f.    This Agreement shall in all respects, including all matters of construction, validity and perf...
+|-- Content: g.    This Agreement (and all payments and other benefits provided under this Agreement and provided...
+|-- Content: h.    Notwithstanding any provision to the contrary in this Agreement, no payment of any type or amo...
+`-- Content: i.          Executive acknowledges and agrees as a condition to receipt of payments or any type or a...
+
+--- (Additional Root Structure) ---
+Heading (L1): EMPLOYER:
+
+--- (Additional Root Structure) ---
+Heading (L1): NORTHRIM BANK
+|-- Content: By: /s/Krystal M. Nelson Krystal M. Nelson
+`-- Content: Its: Chairman of the Compensation Committee of the Board of Directors
+
+--- (Additional Root Structure) ---
+Heading (L1): EXECUTIVE:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): /s/Benjamin Craig    Benjamin Craig

@@ -1,0 +1,310 @@
+AGREEMENT: This FIFTH AMENDMENT TO INDENTURE, dated as of July 27, 2023 (this “Amendment”), is entered into amo...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Article ARTICLE I
+
+--- (Additional Root Structure) ---
+Article ARTICLE II
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Article ARTICLE III
+
+--- (Additional Root Structure) ---
+Clause (a): Representations and Warranties. Both before and immediately after giving effect to this Amendment, t...
+
+--- (Additional Root Structure) ---
+Clause (b): Enforceability. This Amendment and the Indenture, as amended hereby, constitute the legal, valid and...
+
+--- (Additional Root Structure) ---
+Clause (c): No Defaults. No Rapid Amortization Event, Event of Default, Servicer Default or Default has occurred...
+
+--- (Additional Root Structure) ---
+Article ARTICLE IV
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (d): receipt by the Indenture Trustee of evidence of the consent of the Required Noteholders to this Amen...
+
+--- (Additional Root Structure) ---
+Clause (e): receipt by the Indenture Trustee of counterparts of this Amendment, duly executed by each of the par...
+
+--- (Additional Root Structure) ---
+Clause (f): receipt by the Indenture Trustee of such other instruments, documents, agreements and opinions reaso...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): OPORTUN CCW TRUST,
+
+--- (Additional Root Structure) ---
+Heading (L1): WILMINGTON TRUST, NATIONAL ASSOCIATION,
+
+--- (Additional Root Structure) ---
+Heading (L1): WILMINGTON TRUST, NATIONAL ASSOCIATION,
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+AGREEMENT: Consent to by the Required Noteholders:
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Article ARTICLE 1
+
+--- (Additional Root Structure) ---
+Heading (L1): DEFINITIONS AND INCORPORATION BY REFERENCE
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (1): the sum of: (a) Term SOFR and (b) the related Benchmark Replacement Adjustment 0.11448%; and
+
+--- (Additional Root Structure) ---
+Clause (2): the sum of: (a) Daily Simple SOFR and (b) the related Benchmark Replacement Adjustment;
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (3): in the case of a Term SOFR Transition Event, the date that is thirty (30) days after the date a Term...
+
+--- (Additional Root Structure) ---
+Clause (4): in the case of an Early Opt in Election, the sixth (6th) Business Day after the date notice of such ...
+
+--- (Additional Root Structure) ---
+Clause (i): any “person” or “group” (within the meaning of Sections 13(d) and 14(d)(2) of the Exchange Act) beco...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (viii): 13the weighted average 60+ days delinquency status of all Eligible Receivables exceeds 15.0%;
+
+--- (Additional Root Structure) ---
+Clause (ix): the aggregate Outstanding Receivables Balance of all Eligible Receivables arising under Test Account...
+
+--- (Additional Root Structure) ---
+Clause (x): commencing with the third Monthly Period, the Three-Month Weighted Average Yield is less than 20% (i...
+
+--- (Additional Root Structure) ---
+Clause (xi): commencing with the sixth Monthly Period the Six-Month Weighted Average Yield is less than 25% (in w...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (xii): the aggregate Outstanding Receivables Balance of all Eligible Receivables related to Accounts that a...
+
+--- (Additional Root Structure) ---
+Clause (xiii): the aggregate Outstanding Receivables Balance of all Eligible Receivables related to Cash Back Accou...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (iv): obligations which are evidenced by notes, acceptances, or other instruments, (v) Capitalized Lease o...
+
+--- (Additional Root Structure) ---
+Clause (v): above, for which such Person is obligated pursuant to a guaranty, put or similar arrangement.
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 1.3: [Reserved].
+
+--- (Additional Root Structure) ---
+Clause (vii): No service charge shall be made for any registration of transfer or exchange of Notes, but the Trans...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Article ARTICLE 3
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (ii): The representations and warranties of the Issuer, the Depositor, the initial Servicer and the Seller...
+
+--- (Additional Root Structure) ---
+Clause (iii): All required consents have been obtained and all other conditions precedent to the purchase of the N...
+
+--- (Additional Root Structure) ---
+Section 4.3: Reports by Issuer.
+
+--- (Additional Root Structure) ---
+Section 4.5: Reports and Records for the Indenture Trustee and
+
+--- (Additional Root Structure) ---
+Article ARTICLE 5
+
+--- (Additional Root Structure) ---
+Heading (L1): ALLOCATION AND APPLICATION OF COLLECTIONS
+
+--- (Additional Root Structure) ---
+Section 5.7: General Provisions Regarding Accounts.    Subject to
+
+--- (Additional Root Structure) ---
+Section 5.9: [Reserved].
+
+--- (Additional Root Structure) ---
+Section 5.10: [Reserved].
+
+--- (Additional Root Structure) ---
+Section 5.11: [Reserved].
+
+--- (Additional Root Structure) ---
+Section 5.12: Determination of Monthly Interest; LIBOR Notification.
+
+--- (Additional Root Structure) ---
+Section 5.13: [Reserved]. Section 5.14. [Reserved].
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 5.17: Determination of One Month LIBORBenchmark
+
+--- (Additional Root Structure) ---
+Article ARTICLE 6
+
+--- (Additional Root Structure) ---
+Section 6.2: Monthly Statement.
+
+--- (Additional Root Structure) ---
+Clause (vi): the Reserve Account Requirement and the balance in the Reserve Account on such Payment Date;
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Article ARTICLE 7
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS AND WARRANTIES OF THE ISSUER
+
+--- (Additional Root Structure) ---
+Clause (m): No Proceedings. Except as described in Schedule 2:
+
+--- (Additional Root Structure) ---
+Clause (o): Eligible Receivables.    Each Receivable included as an Eligible
+
+--- (Additional Root Structure) ---
+Clause (p): Receivables Schedule.    The most recently delivered schedule of
+
+--- (Additional Root Structure) ---
+Clause (A): (r)    Accuracy of Information. All information heretofore furnished by, or on behalf of, the Issuer...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (B): to the best of such Responsible Officer’s knowledge, based on such review, the Issuer has complied w...
+
+--- (Additional Root Structure) ---
+Clause (h): Use of Proceeds. Use the proceeds of the Notes solely in connection with the acquisition or funding ...
+
+--- (Additional Root Structure) ---
+Clause (k): Furnishing of Information. Provide such cooperation, information and assistance, and prepare and sup...
+
+--- (Additional Root Structure) ---
+Clause (l): Performance and Compliance with Receivables. At its expense, timely and fully perform and comply wit...
+
+--- (Additional Root Structure) ---
+Clause (j): Tax Matters. The Issuer will not take any action that could cause, and will not omit to take any act...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 10.5: [Reserved].
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 10.8: Unconditional Rights of Holders to Receive Payment;  Withholding Taxes.
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 10.10: [Reserved].
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (u): The Indenture Trustee shall not be required to take any action under this Indenture or any related d...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Clause (w): The Indenture Trustee shall neither be responsible for, nor chargeable with, knowledge of the terms ...
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): LEGAL_US_E # 170681720.5

@@ -1,0 +1,919 @@
+Heading (L1): EXECUTION VERSION
+
+--- (Additional Root Structure) ---
+Heading (L1): INVESTMENT AGREEMENT
+`-- Content: dated as of February 22, 2024by and between ALTI GLOBAL, INC.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): andCWC ALTI INVESTOR LLC
+
+--- (Additional Root Structure) ---
+Heading (L1): TABLE OF CONTENTS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): PageThe table of contents is empty. Heading styles must be applied in the document and be selected i...
+
+--- (Additional Root Structure) ---
+Heading (L1): LIST OF SCHEDULES AND EXHIBITS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit B:    Form of Transaction Committee Charter Exhibit C:    Certificate of DesignationExhibit ...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+|-- Content: A.    Investment.  The Company intends to sell to Purchaser, and Purchaser intends to purchase from ...
+|-- Content: B.     Other Investor.  On the date of this Agreement, the Company and another investor (the “Other ...
+|-- Content: C.    Investor Rights Agreement.  At the Initial Closing (as defined herein), the Company and Purcha...
+|-- Content: D.    Securities.  The term “Securities” refers to (1) the shares of Purchased Stock purchased under...
+`-- Content: NOW, THEREFORE, in consideration of the premises, and of the representations, warranties, covenants ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IPURCHASES; CLOSINGS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.1Purchases.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)On the terms and subject to the conditions set forth herein, at the Initial Closing (1) Purchaser...
+
+--- (Additional Root Structure) ---
+Content: (b)In the event that the Company gives notice to Purchaser on or after May 1, 2024 and before Septem...
+
+--- (Additional Root Structure) ---
+Content: (a)Subject to the terms and conditions of this Agreement, the closing of the purchase of the Initial...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c)Initial Closing Deliverables (1)Subject to the satisfaction or waiver on the Initial Closing Date...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (2)Purchaser will deliver to the Company:(A)the Initial Purchase Price, by wire transfer of immediat...
+
+--- (Additional Root Structure) ---
+Heading (L2): (d)Initial Closing Conditions.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (1)The obligation of Purchaser, on the one hand, and the Company, on the other hand, to effect the I...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (2)The obligation of Purchaser to consummate the purchase of the Initial Shares to be purchased by i...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (C)Purchaser shall have received a certificate, dated as of the Initial Closing Date and signed on b...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (3)The obligation of the Company to effect the Initial Closing is subject to the fulfillment or writ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (e)Additional Closing Deliverables (1)Subject to the satisfaction or waiver on the Additional Closin...
+
+--- (Additional Root Structure) ---
+Content: (2)Purchaser will deliver to the Company the Additional Purchase Price, by wire transfer of immediat...
+
+--- (Additional Root Structure) ---
+Heading (L2): (f)Additional Closing Conditions.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (1)The obligation of Purchaser, on the one hand, and the Company, on the other hand, to effect the A...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (2)The obligation of Purchaser to consummate the purchase of the Additional Shares to be purchased b...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Company set forth in this Agreement (read without giving effect to any qualification as to materiali...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (3)The obligation of the Company to effect the Additional Closing is subject to the fulfillment or w...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IIREPRESENTATIONS AND WARRANTIES
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.1Disclosure.
+
+--- (Additional Root Structure) ---
+Content: (a)Except (i) as disclosed in the disclosure schedule delivered by the Company to Purchaser concurre...
+
+--- (Additional Root Structure) ---
+Content: (b)As used in this Agreement, any reference to any fact, change, circumstance or effect being “mater...
+
+--- (Additional Root Structure) ---
+Content: the execution of this Agreement or consummation of the transactions contemplated hereby; (F) actions...
+
+--- (Additional Root Structure) ---
+Content: 1.2Representations and Warranties of the Company.  Except as Previously Disclosed, the Company repre...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)Organization and Qualification; Subsidiaries.
+
+--- (Additional Root Structure) ---
+Content: (1)The Company and each of its Subsidiaries is duly formed or organized, validly existing and in goo...
+
+--- (Additional Root Structure) ---
+Content: (2)A complete and correct list of all of the Company’s Subsidiaries, together with the jurisdiction ...
+
+--- (Additional Root Structure) ---
+Content: (b)Corporate Documents.  The Company has, prior to the date of this Agreement, made available comple...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c)Capitalization.
+
+--- (Additional Root Structure) ---
+Content: (1)As of the date hereof, the authorized capital stock of the Company consists of 875,000,000 shares...
+
+--- (Additional Root Structure) ---
+Content: (2)As of the date hereof, the authorized capital stock of AlTi Global Capital, LLC consists of an un...
+
+--- (Additional Root Structure) ---
+Content: (3)Except as set forth in the Company’s Organizational Documents, (i) there are no options, warrants...
+
+--- (Additional Root Structure) ---
+Content: (4)There are no outstanding contractual obligations of the Company or any of its Subsidiaries to rep...
+
+--- (Additional Root Structure) ---
+Content: (5)(i) There are no commitments or agreements of any character to which the Company or any of its Su...
+
+--- (Additional Root Structure) ---
+Content: (6)Each outstanding equity interest of each of the Company’s Subsidiaries is duly authorized, validl...
+
+--- (Additional Root Structure) ---
+Content: (d)Authority Relative to this Agreement.  The Company has all necessary power and authority to execu...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (e)No Conflict; Required Filings and Consents.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (1)The execution and delivery of this Agreement and the Investor Rights Agreement by the Company doe...
+
+--- (Additional Root Structure) ---
+Content: (2)The execution and delivery by the Company of this Agreement and the Investor Rights Agreement doe...
+
+--- (Additional Root Structure) ---
+Content: (3)The Series C Preferred Stock to be issued hereunder has been or, when issued, will be, duly autho...
+
+--- (Additional Root Structure) ---
+Content: (4)The Warrants to be issued pursuant to this Agreement have been duly authorized by all necessary c...
+
+--- (Additional Root Structure) ---
+Content: constitute a valid and legally binding agreement of the Company enforceable in accordance with its t...
+
+--- (Additional Root Structure) ---
+Content: (f)Permits; Compliance.  Section 2.2(f) of the Company Disclosure Schedule sets forth a true, correc...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (g)Reports.
+
+--- (Additional Root Structure) ---
+Content: (1)The Company and each of its Subsidiaries have timely filed (or furnished, as applicable) all repo...
+
+--- (Additional Root Structure) ---
+Content: Company or any of its Subsidiaries, (y) there is no unresolved violation identified by any Governmen...
+
+--- (Additional Root Structure) ---
+Content: (2)The Company has filed or furnished on a timely basis, taking into account any permitted extension...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (h)Financial Statements.
+
+--- (Additional Root Structure) ---
+Content: (1)Each of Alvarium Investments Limited, Tiedemann Wealth Management Holdings, LLC, TIG Trinity GP, ...
+
+--- (Additional Root Structure) ---
+Content: statements or in the notes thereto.  The books and records of the Company and its Subsidiaries have,...
+
+--- (Additional Root Structure) ---
+Content: (2)Except as would not reasonably be expected to be material to the Company and its Subsidiaries, ta...
+
+--- (Additional Root Structure) ---
+Content: (3)The records, systems, controls, data and information of the Company and its Subsidiaries are reco...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (4)Since January 1, 2021, (i) neither the Company nor any of its Subsidiaries, nor, to the knowledge...
+
+--- (Additional Root Structure) ---
+Content: (i)Absence of Certain Changes or Events.  Since January 1, 2023 through the date of this Agreement, ...
+
+--- (Additional Root Structure) ---
+Content: (j)Absence of Litigation.  There is no material Proceeding pending or threatened in writing or, to t...
+
+--- (Additional Root Structure) ---
+Content: (k)Offering of Securities.  Neither the Company, nor any of its Subsidiaries, nor any person acting ...
+
+--- (Additional Root Structure) ---
+Content: (l)Registration.  Assuming the accuracy of Purchaser’s representations and warranties set forth in S...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (m)Employee Benefit Plans.
+
+--- (Additional Root Structure) ---
+Content: (1)Section 2.2(m) of the Company Disclosure Schedule sets forth an accurate and complete list of eac...
+
+--- (Additional Root Structure) ---
+Content: (2)With respect to each material Company Plan, the Company has made available to Purchaser, if appli...
+
+--- (Additional Root Structure) ---
+Content: (3)Neither the Company nor any of its ERISA Affiliates currently sponsors, maintains or contributes ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (4)Neither the execution and delivery of this Agreement, stockholder or other approval of this Agree...
+
+--- (Additional Root Structure) ---
+Content: (5)None of the Company Plans provides, nor does the Company or any of its Subsidiaries have or reaso...
+
+--- (Additional Root Structure) ---
+Content: (6)Each Company Plan is in compliance, in all material respects, in accordance with its terms and th...
+
+--- (Additional Root Structure) ---
+Content: (7)Each Company Plan that is intended to be qualified under Section 401(a) of the Code or Section 40...
+
+--- (Additional Root Structure) ---
+Content: (8)Each Company Plan that constitutes a nonqualified deferred compensation plan subject to Section 4...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (n)Labor and Employment Matters.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (1)(i) There is no pending or, to the knowledge of the Company, threatened arbitration or grievance,...
+
+--- (Additional Root Structure) ---
+Content: (2)Neither the Company nor any of its Subsidiaries has any requirement under contract or Law to prov...
+
+--- (Additional Root Structure) ---
+Content: (3)The Company and its Subsidiaries are and since January 1, 2021 have been in compliance in all mat...
+
+--- (Additional Root Structure) ---
+Content: (4)Neither the Company nor any of its Subsidiaries has incurred any liability or obligation the Work...
+
+--- (Additional Root Structure) ---
+Content: (o)Risk Management Instruments.  Except as would not reasonably be expected to be material to the Co...
+
+--- (Additional Root Structure) ---
+Content: limited by the Remedies Exceptions).  The Company and each of its Subsidiaries has duly performed in...
+
+--- (Additional Root Structure) ---
+Content: (p)Agreements with Governmental Entities.  Neither the Company nor any of its Subsidiaries is subjec...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (q)Real Property; Title to Assets.
+
+--- (Additional Root Structure) ---
+Content: (1)None of the Company or any of its Subsidiaries owns any real property.
+
+--- (Additional Root Structure) ---
+Content: (2)Section 2.2(q)(2) of the Company Disclosure Schedule sets forth a correct and complete list of al...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (r)Intellectual Property; Data Privacy.
+
+--- (Additional Root Structure) ---
+Content: (1)Section 2.2(r)(1) of the Company Disclosure Schedule contains a true, correct and complete list o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (2)The Company or a Subsidiary of the Company solely and exclusively owns, free and clear of all Lie...
+
+--- (Additional Root Structure) ---
+Content: (3)Since January 1, 2021, the Company and each of its applicable Subsidiaries have taken and take co...
+
+--- (Additional Root Structure) ---
+Content: (4)Except as would not reasonably be expected to be, individually or in the aggregate, material to t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (5)All current and past employees and contractors who have developed any material Intellectual Prope...
+
+--- (Additional Root Structure) ---
+Content: (6)The Company or its Subsidiaries owns, leases, licenses, or otherwise has the legal right to use a...
+
+--- (Additional Root Structure) ---
+Content: (7)Except as would not, individually or in the aggregate, reasonably be expected to be material to t...
+
+--- (Additional Root Structure) ---
+Content: Personal Information.  “Privacy and Data Security Requirements” means all (a) applicable Privacy and...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (s)Taxes.
+
+--- (Additional Root Structure) ---
+Content: (1)The Company and each of its Subsidiaries: (i) have duly and timely filed (taking into account any...
+
+--- (Additional Root Structure) ---
+Content: (2)Neither the Company nor any of its Subsidiaries is a party to, is bound by or has an obligation u...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (3)None of the Company nor any of its Subsidiaries will be required to include any material item of ...
+
+--- (Additional Root Structure) ---
+Content: (4)Each of the Company and its Subsidiaries has withheld and (to the extent legally required) paid t...
+
+--- (Additional Root Structure) ---
+Content: (5)Neither the Company nor any of the Subsidiaries has been a member of an affiliated group filing a...
+
+--- (Additional Root Structure) ---
+Content: (6)Neither the Company nor any of its Subsidiaries has any material liability for the Taxes of any p...
+
+--- (Additional Root Structure) ---
+Content: (7)Neither the Company nor any of its Subsidiaries has requested or received a ruling in respect of ...
+
+--- (Additional Root Structure) ---
+Content: (8)Neither the Company nor any of its Subsidiaries has, in any year for which the applicable statute...
+
+--- (Additional Root Structure) ---
+Content: (9)Neither the Company nor any of its Subsidiaries has engaged in or entered into a “listed transact...
+
+--- (Additional Root Structure) ---
+Content: (10)There are no material Tax Liens upon any assets of the Company or any of its Subsidiaries except...
+
+--- (Additional Root Structure) ---
+Content: (11)The Company is not, has not been and does not expect to become a United States real property hol...
+
+--- (Additional Root Structure) ---
+Content: (12)Neither the Company nor any of its Subsidiaries has been informed in writing by any jurisdiction...
+
+--- (Additional Root Structure) ---
+Content: (13)As used in this Agreement, the term “Tax” (and, with correlative meaning, “Taxes”) means all fed...
+
+--- (Additional Root Structure) ---
+Content: (14)As used in this Agreement, the term “Tax Return” means any return, report or similar statement f...
+
+--- (Additional Root Structure) ---
+Content: (t)Takeover Statutes.  No Takeover Statute is applicable to the Company, the Securities or the trans...
+
+--- (Additional Root Structure) ---
+Content: (u)Knowledge as to Conditions.  As of the date of this Agreement, the Company knows of no reason why...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (v)Material Contracts.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (1)Section 2.2(v) of the Company Disclosure Schedule lists, as of the date hereof, the following typ...
+
+--- (Additional Root Structure) ---
+Content: (2)(i) Each Company Material Contract is a legal, valid and binding obligation of the Company or the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (w)Insurance.
+
+--- (Additional Root Structure) ---
+Content: (1)The Company has made available to Purchaser true and correct copies of each material insurance po...
+
+--- (Additional Root Structure) ---
+Content: (2)Section 2.2(w)(2) of the Company Disclosure Schedule sets forth, with respect to each Insurance P...
+
+--- (Additional Root Structure) ---
+Content: (3)All Insurance Policies provide adequate coverage for all normal risks incident to the business of...
+
+--- (Additional Root Structure) ---
+Content: and, except for policies that have expired under their terms in the ordinary course, is in full forc...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (x)Certain Business Practices.
+
+--- (Additional Root Structure) ---
+Content: (1)Since January 1, 2021, none of the Company, any of its Subsidiaries or, to the knowledge of the C...
+
+--- (Additional Root Structure) ---
+Content: (2)To the extent required by applicable Law, the Company and each of its Subsidiaries has adopted, a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (y)Sanctions Laws.
+
+--- (Additional Root Structure) ---
+Content: (1)None of the Company, any of its Subsidiaries, or, to the Company’s knowledge, any of their respec...
+
+--- (Additional Root Structure) ---
+Content: acting for or on behalf of, a Sanctioned Country; (b) the government of any Sanctioned Country; (c) ...
+
+--- (Additional Root Structure) ---
+Content: (2)Since January 1, 2021, none of the Company, any of its Subsidiaries, or, to the Company’s knowled...
+
+--- (Additional Root Structure) ---
+Content: (3)None of the Company, any of its Subsidiaries, or to the Company’s knowledge, any of their respect...
+
+--- (Additional Root Structure) ---
+Content: (z)Related-Party Transactions.  There are no transactions or series of related transactions, agreeme...
+
+--- (Additional Root Structure) ---
+Content: any Company Report pursuant to Item 404 of Regulation S-K promulgated under the Exchange Act that ha...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (aa)RIA Compliance Matters.
+
+--- (Additional Root Structure) ---
+Content: (1)Section 2.2(aa) of the Company Disclosure Schedule lists the name of each of the Company and its ...
+
+--- (Additional Root Structure) ---
+Content: (2)Since January 1, 2021, (i) each Form ADV and each amendment to Form ADV of each Company U.S. RIA ...
+
+--- (Additional Root Structure) ---
+Content: (3)Each Company RIA Entity has (x) designated and approved a chief compliance officer in accordance ...
+
+--- (Additional Root Structure) ---
+Content: (4)With respect to each Company U.S. RIA Entity, except as would not reasonably be expected to be, i...
+
+--- (Additional Root Structure) ---
+Content: (5)Each Company RIA Entity is, and since January 1, 2021, has been, in compliance with (i) the appli...
+
+--- (Additional Root Structure) ---
+Content: (6)No Company RIA Entity is currently subject to, or since January 1, 2021 has received written noti...
+
+--- (Additional Root Structure) ---
+Content: such responsive communication, if any, except to the extent as would not, individually or in the agg...
+
+--- (Additional Root Structure) ---
+Content: (7)No Company RIA Entity is prohibited from charging fees to any person pursuant to a “pay-to-play” ...
+
+--- (Additional Root Structure) ---
+Content: (8)Neither the Company nor any of its Subsidiaries has, since January 1, 2021, entered into or been ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ab)Client Agreements.
+
+--- (Additional Root Structure) ---
+Content: (1)Section 2.2(bb) of the Company Disclosure Schedule lists, as of the date hereof, each investment ...
+
+--- (Additional Root Structure) ---
+Content: (2)Each Advisory Agreement includes all provisions required by and complies in all respects with the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (3)Except as would not, individually or in the aggregate, reasonably be expected to be material to t...
+
+--- (Additional Root Structure) ---
+Content: (4)No Company RIA Entity provides Investment Advisory Services to any person other than the Clients....
+
+--- (Additional Root Structure) ---
+Content: (5)To the knowledge of the Company, the execution and delivery by the Company of this Agreement and ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ac)Funds.
+
+--- (Additional Root Structure) ---
+Content: (1)Neither the Company nor any of its Subsidiaries currently advises, has plans to commence advising...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (2)Except as would not reasonably be expected to be, individually or in the aggregate, material to t...
+
+--- (Additional Root Structure) ---
+Content: (B)No Fund is or, since January 1, 2021 was, required to register as an investment company under the...
+
+--- (Additional Root Structure) ---
+Content: (C)Since January 1, 2021, none of the offering memoranda used in connection with an offering of shar...
+
+--- (Additional Root Structure) ---
+Content: (D)There are no liabilities or obligations of any Fund of any kind whatsoever, whether known or unkn...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (E)There are no Proceedings pending or, to the knowledge of the Company, threatened in writing, befo...
+
+--- (Additional Root Structure) ---
+Content: (F)No Fund is suspending redemptions and there are no material outstanding written requests for rede...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ad)Broker-Dealer Compliance Matters.
+
+--- (Additional Root Structure) ---
+Content: (1)Neither the Company nor any of its Subsidiaries is a registered “broker” or “dealer” (as defined ...
+
+--- (Additional Root Structure) ---
+Content: (2) (i) Each current Form BD of a Broker-Dealer Entity is, and any Form BD of a Broker-Dealer Entity...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (3)No Broker-Dealer Entity, or any of its Affiliates, or any of its “associated persons” (as defined...
+
+--- (Additional Root Structure) ---
+Content: (4)No fact relating to any Broker-Dealer Entity or any “control affiliate” of a Broker-Dealer Entity...
+
+--- (Additional Root Structure) ---
+Content: (5)Since January 1, 2021, the Brokerage Services performed by each Broker-Dealer Entity have been co...
+
+--- (Additional Root Structure) ---
+Content: (6)Each Broker-Dealer Entity currently maintains, and since January 1, 2021 has maintained, “net cap...
+
+--- (Additional Root Structure) ---
+Content: (7)No Governmental Entity has, since January 1, 2021, formally initiated any Proceeding (other than ...
+
+--- (Additional Root Structure) ---
+Content: no formal examination or inspection has been started or completed for which no examination report is...
+
+--- (Additional Root Structure) ---
+Content: (ae)CPO/CTA Compliance.  Except as would not, individually or in the aggregate, reasonably be expect...
+
+--- (Additional Root Structure) ---
+Content: (1)Neither the Company nor any of its Subsidiaries is required to be registered with the U.S. Commod...
+
+--- (Additional Root Structure) ---
+Content: (2)Each of the Company and its Subsidiaries, including any Exempt CPO/CTA Entity is in compliance in...
+
+--- (Additional Root Structure) ---
+Content: (3)(i) None of the Company and its Subsidiaries, including any Exempt CPO/CTA Entities, or any of th...
+
+--- (Additional Root Structure) ---
+Content: (4)To the knowledge of the Company, no fact relating to the Company or any Subsidiary, including any...
+
+--- (Additional Root Structure) ---
+Content: (5)To the knowledge of the Company, no Governmental Entity has, since January 1, 2021, formally init...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (6)None of the Company, any of its Subsidiaries, or any Affiliate of the Company is or has been regi...
+
+--- (Additional Root Structure) ---
+Content: (af)CFIUS.  The Company does not (a) produce, design, test, manufacture, fabricate or develop one or...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ag)Restricted Activities.
+
+--- (Additional Root Structure) ---
+Content: (1)Neither the Company nor any of its Subsidiaries has any interests of the nature set forth on Comp...
+
+--- (Additional Root Structure) ---
+Content: (2)Neither the Company nor any of its Subsidiaries nor any other person directly or indirectly “cont...
+
+--- (Additional Root Structure) ---
+Content: (ah)Brokers.  With the exception of the engagement of Oppenheimer & Co., neither the Company nor any...
+
+--- (Additional Root Structure) ---
+Content: (ai)Other Investments.  The per-share purchase price of the Series A Preferred Stock purchased under...
+
+--- (Additional Root Structure) ---
+Content: (aj)No Other Company Representations of Warranties.  Except for the representations and warranties m...
+
+--- (Additional Root Structure) ---
+Content: Purchaser nor any other person has made or is making any express or implied representation or warran...
+
+--- (Additional Root Structure) ---
+Content: 1.3Representations and Warranties of Purchaser.  Purchaser hereby makes the representations and warr...
+
+--- (Additional Root Structure) ---
+Content: (a)Organization and Authority.  Purchaser is duly formed or organized, validly existing and in good ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)Authorization.
+
+--- (Additional Root Structure) ---
+Content: (1)Purchaser has all necessary power and authority to execute and deliver this Agreement, to perform...
+
+--- (Additional Root Structure) ---
+Content: (2)The execution and delivery of this Agreement and the Investor Rights Agreement by Purchaser does ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (3)The execution and delivery by Purchaser of this Agreement and the Investor Rights Agreement does ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c)Purchase for Investment.
+
+--- (Additional Root Structure) ---
+Content: (1)Purchaser acknowledges that the Securities have not been registered under the Securities Act or u...
+
+--- (Additional Root Structure) ---
+Content: (2)Purchaser (i) acknowledges that Purchaser has received access to information Purchaser considers ...
+
+--- (Additional Root Structure) ---
+Content: (3)Purchaser has considered the suitability of the Securities as an investment in light of Purchaser...
+
+--- (Additional Root Structure) ---
+Content: (4)No “bad actor” disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a...
+
+--- (Additional Root Structure) ---
+Content: (d)Financial Capability.  At the Initial Closing, Purchaser will have available funds necessary to p...
+
+--- (Additional Root Structure) ---
+Content: (e)Knowledge as to Conditions.  As of the date of this Agreement, Purchaser knows of no reason why a...
+
+--- (Additional Root Structure) ---
+Content: (f)Anti-Money Laundering, Anti-Corruption and Anti-Terrorism Laws.  The funds representing the Purch...
+
+--- (Additional Root Structure) ---
+Content: (g)Orders; Proceedings.  There is no material Proceeding pending or threatened in writing or, to the...
+
+--- (Additional Root Structure) ---
+Content: (h)Brokers.  Neither Purchaser nor any of its officers or directors has employed any broker, finder,...
+
+--- (Additional Root Structure) ---
+Content: (i)Ownership.  Immediately prior to the Initial Closing Date, Purchaser and its Affiliates do not ow...
+
+--- (Additional Root Structure) ---
+Content: (j)Information Supplied.  The information supplied or to be supplied by Purchaser in writing specifi...
+
+--- (Additional Root Structure) ---
+Content: (k)No Other Purchaser Representation and Warranties.  Except for the representations and warranties ...
+
+--- (Additional Root Structure) ---
+Content: or its or their respective Representatives with respect to any oral or written information presented...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IIICOVENANTS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.1Interim Operations.
+
+--- (Additional Root Structure) ---
+Content: (a)The Company shall, and shall cause each of its Subsidiaries to, from and after the date hereof un...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)Without limiting the generality of and in furtherance of the foregoing sentence, from and after t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.2Reasonable Best Efforts.
+
+--- (Additional Root Structure) ---
+Content: (a)On the terms and subject to the conditions set forth in this Agreement, the Company, on the one h...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)To the extent permitted by Law, each of Purchaser and the Company will (i) have the right to revi...
+
+--- (Additional Root Structure) ---
+Content: (c)To the extent permitted by applicable Law, the parties shall promptly advise each other upon rece...
+
+--- (Additional Root Structure) ---
+Content: 1.3Access to Information.  Upon reasonable notice and subject to applicable Laws, the Company shall,...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.4Reserved.
+
+--- (Additional Root Structure) ---
+Content: 1.5Most Favored Nation.  To the extent (a) the Company enters into any amendment to, or modification...
+
+--- (Additional Root Structure) ---
+Content: the Series C Certificate of Designations), with the Series C Preferred Stock, the Company shall, in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.6Reserved.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.7Reserved.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.8Board Observer.
+
+--- (Additional Root Structure) ---
+Content: (a)For so long as Purchaser (together with its Affiliates) beneficially owns at least 50% of the Pur...
+
+--- (Additional Root Structure) ---
+Content: (b)The Purchaser Observer shall be entitled to attend all meetings of the full Board and the Transac...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c)Unless the Board in good faith determines otherwise based on factors identified in Section 3.8(d)...
+
+--- (Additional Root Structure) ---
+Content: (d)Notwithstanding anything in this Section 3.8 to the contrary, the Company may exclude the Purchas...
+
+--- (Additional Root Structure) ---
+Content: (e)The Purchaser Observer shall not be entitled to any fees or other compensation for acting as an o...
+
+--- (Additional Root Structure) ---
+Content: (f)No person shall be appointed as a Purchaser Observer until such person has entered into a reasona...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IVADDITIONAL AGREEMENTS
+`-- Content: 1.1Reservation for Issuance.  The Company will reserve that number of shares of Class A Common Stock...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.2Indemnity.
+
+--- (Additional Root Structure) ---
+Content: (a)From and after the Initial Closing and subject to the provisions of this Section 4.2, the Company...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)From and after the Initial Closing and subject to the provisions of this Section 4.2, Purchaser a...
+
+--- (Additional Root Structure) ---
+Content: (c)A party entitled to indemnification hereunder (each, an “Indemnified Party”) shall give written n...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d)The Company shall not be required to indemnify the Indemnified Parties pursuant to Section 4.2(a)...
+
+--- (Additional Root Structure) ---
+Content: (e)Any claim for indemnification pursuant to this Section 4.2 for breach of any representation or wa...
+
+--- (Additional Root Structure) ---
+Content: (f)The indemnity provided for in this Section 4.2 shall be the sole and exclusive monetary remedy of...
+
+--- (Additional Root Structure) ---
+Content: (g)Any indemnification payments pursuant to this Section 4.2 shall be treated as an adjustment to th...
+
+--- (Additional Root Structure) ---
+Content: (h)In all cases in calculating the amount of any Loss with respect to a breach of any representation...
+
+--- (Additional Root Structure) ---
+Content: (i)The amount of any Loss for which indemnification is provided under this Section 4.2 shall be net ...
+
+--- (Additional Root Structure) ---
+Content: (j)The provisions of this Section 4.2 are not intended to permit duplicate recoveries on the same Lo...
+
+--- (Additional Root Structure) ---
+Content: 1.3Transfer Taxes.  Upon an applicable Closing, the Company shall be liable for 100% of any United S...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.4Tax Matters.
+
+--- (Additional Root Structure) ---
+Content: (a)Unless there has been a change in applicable Law after the date of this Agreement or a “determina...
+
+--- (Additional Root Structure) ---
+Content: (b)The Company shall engage an independent accounting firm or other valuation expert of recognized n...
+
+--- (Additional Root Structure) ---
+Content: (c)If, at any time during which any instruments issued in the Investment are owned by the Purchaser ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.5Confidentiality.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)Purchaser agrees that it shall not disclose any Confidential Information to any person, except th...
+
+--- (Additional Root Structure) ---
+Content: Nothing contained herein shall prevent (i) the use (subject, to the extent possible, to a protective...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)“Confidential Information” means any information concerning the Company or any persons that are o...
+
+--- (Additional Root Structure) ---
+Content: (c)Notwithstanding anything to the contrary in this Section 4.5, the Company acknowledges that Purch...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.6Company Opportunities.
+
+--- (Additional Root Structure) ---
+Content: (a)The Company understands that Purchaser and its Affiliates are or may become interested, directly ...
+
+--- (Additional Root Structure) ---
+Content: (b)None of Purchaser, any Purchaser Observer or any of their respective Affiliates shall be liable, ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c)Solely in the event the Purchaser Observer, exclusively and expressly in his or her capacity as a...
+
+--- (Additional Root Structure) ---
+Content: 1.7No Recourse.  This Agreement may only be enforced against, and any Proceedings (whether in contra...
+
+--- (Additional Root Structure) ---
+Content: 1.8Form D.  The Company agrees to timely file a Notice of Exempt Offerings of Securities on Form D w...
+
+--- (Additional Root Structure) ---
+Content: 1.9Use of Proceeds.  The Company shall only use the net proceeds from the sale of the Securities her...
+
+--- (Additional Root Structure) ---
+Content: (c) for general corporate purposes (provided that no more than $3 million will be used for general c...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE VTERMINATION
+`-- Heading (L2): 1.1Termination.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)This Agreement may be terminated prior to the Initial Closing:(1)by mutual written agreement of t...
+
+--- (Additional Root Structure) ---
+Content: 1.2Effects of Termination.  In the event of any termination of this Agreement as provided in Section...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE VIMISCELLANEOUS
+|-- Content: 1.1Survival.  Each of the representations and warranties set forth in this Agreement shall survive e...
+|-- Content: 1.2Expenses.  Each of the parties will bear and pay all other costs and expenses incurred by it or o...
+|-- Content: 1.3Amendment; Waiver.  No amendment or waiver of any provision of this Agreement will be effective w...
+|-- Content: 1.4Counterparts.  This Agreement may be executed in counterparts (including by electronic means), al...
+`-- Heading (L2): 1.5Governing Law.
+    `-- Content: (a)This Agreement shall be governed and construed in accordance with the laws of the State of Delawa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)Each party agrees that it will bring any Proceeding in respect of any claim arising out of or rel...
+
+--- (Additional Root Structure) ---
+Content: 1.6WAIVER OF JURY TRIAL.  EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UN...
+
+--- (Additional Root Structure) ---
+Content: 1.7Notices.  Any notice, request, instruction or other document to be given hereunder by any party t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): If to the Company, to:AlTi Global, Inc.Attn: Michael Tiedemann, Kevin Moran520 Madison Avenue, 26th ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): If to Purchaser:CWC AlTi Investor LLCAttn: Karl Heckenberg; Pat McHughc/o Constellation Wealth Capit...
+
+--- (Additional Root Structure) ---
+Content: 1.9Interpretation; Other Definitions.  Wherever required by the context of this Agreement, the singu...
+
+--- (Additional Root Structure) ---
+Content: (a)the term “Affiliate” means, with respect to any person, any person directly or indirectly control...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)the word “or” is not exclusive;(c)the words “including,” “includes,” “included” and “include” are...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)any capitalized term used in any Schedule or Exhibit but not otherwise defined therein shall have...
+
+--- (Additional Root Structure) ---
+Content: 1.10Captions.  The article, section, paragraph and clause captions herein are for convenience of ref...
+
+--- (Additional Root Structure) ---
+Content: 1.11Severability.  If any provision of this Agreement or the application thereof to any person (incl...
+
+--- (Additional Root Structure) ---
+Content: and shall in no way be affected, impaired or invalidated thereby, so long as the economic or legal s...
+
+--- (Additional Root Structure) ---
+Content: 1.12No Third-Party Beneficiaries.  Except as otherwise provided herein, nothing contained in this Ag...
+
+--- (Additional Root Structure) ---
+Content: 1.13Public Announcements.  Each of the parties agrees that no public release or announcement or stat...
+
+--- (Additional Root Structure) ---
+Content: 1.14Specific Performance.  The parties agree that irreparable damage would occur in the event that a...
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, this Agreement has been duly executed and delivered by the duly authorized offic...
+
+--- (Additional Root Structure) ---
+Heading (L1): ALTI GLOBAL, INC.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): By:    /s/ Michael Tiedemann    Name:  Michael TiedemannTitle:  Director CWC ALTI INVESTOR LLCBy:   ...
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE A
+
+--- (Additional Root Structure) ---
+Heading (L1): INDEX OF DEFINED TERMS
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Term    Location ofDefinition Additional Closing    1.2(b)Additional Closing Date    1.2(b)Additiona...
+
+--- (Additional Root Structure) ---
+Heading (L2): Agreement    Recitals Amended Agreement    3.5)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Authorized Preferred Stock    2.2(c)(1)BD Compliance Policies    2.2(dd)(5)Blue Sky Laws    2.2(e)(2...
+
+--- (Additional Root Structure) ---
+Heading (L2): Company Fundamental Representations    1.2(d)(2)(B)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Company Governmental Agreement    2.2(p)Company Material Contracts    2.2(v)(1)Company Non-U.S. RIA ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Company Permits    2.2(f)Company Plan    2.2(m)(2)Company Reports    2.2(g)(2)Company RIA Entities  ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Company’s knowledge    6.9(g)Company-Owned IP    2.2(r)(1)Confidential Information    4.5(b)control ...
+
+--- (Additional Root Structure) ---
+Heading (L1): SCH. A-1
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Copyrights    2.2(r)(1)De Minimis Claim    4.2(d)Disabling Devices    2.2(r)(7)Disqualification Even...
+
+--- (Additional Root Structure) ---
+Heading (L1): SCH. A-2
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Prior Audited Financial Statements    2.2(h)(1)Privacy and Data Security Laws    2.2(r)(7)Privacy an...
+
+--- (Additional Root Structure) ---
+Heading (L2): Purchaser    Recitals Purchaser Affiliates    4.7
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Purchaser Observer    3.8(a)Registered Fund    2.2(aa)(4)Remedies Exceptions    2.2(d)Representative...
+
+--- (Additional Root Structure) ---
+Heading (L2): Securities    Recitals Securities Act    2.2(e)(2)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Series A Preferred Stock    Recitals Series C Certificate of Designations    1.2(d)(2)(G)Series C Pr...
+
+--- (Additional Root Structure) ---
+Heading (L2): Termination Date    5.1(a)(2)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Threshold Amount    4.2(d)Trade Secrets    2.2(r)(1)Trademarks    2.2(r)(1)Transaction Committee    ...
+
+--- (Additional Root Structure) ---
+Heading (L2): Warrants    Recitals
+
+--- (Additional Root Structure) ---
+Heading (L1): SCH. A-3
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT A
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF INVESTOR RIGHTS AGREEMENT
+`-- Content: Strictly Confidential EXHIBIT B
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF TRANSACTION COMMITTEE CHARTER
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): B-1Strictly Confidential EXHIBIT C
+
+--- (Additional Root Structure) ---
+Heading (L1): CERTIFICATE OF DESIGNATION
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): C-1Strictly Confidential EXHIBIT D
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF WARRANT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): D-1Strictly Confidential EXHIBIT E
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF  THIRD AMENDMENT TO CREDIT AGREEMENT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): E-1

@@ -1,0 +1,10 @@
+Total parsed elements: 8
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.3
+  2. HeadingElement (level=1): JABIL INC.
+  3. HeadingElement (level=1): RESTRICTED STOCK UNIT AWARD AGREEMENT
+  4. HeadingElement (level=1): (TBRSU – EXECUTIVE)
+  5. TextElement (level=N/A): This RESTRICTED STOCK UNIT AWARD AGREEMENT (the “Agreement”) is made as of October 19, 2023 (the “Grant Date”) between JABIL INC., a Delaware corporation (the “Company”), and ______________ (the “Gran
+  6. HeadingElement (level=1): COUNTRY APPENDIX
+  7. HeadingElement (level=1): ADDITIONAL TERMS AND CONDITIONS TO RESTRICTED STOCK UNIT AWARD AGREEMENT
+  8. TextElement (level=N/A): This Country Appendix ("Appendix") includes the following additional terms and conditions that govern the Grantee’s Stock Award for all Grantees that reside and/or work outside of the United States. N

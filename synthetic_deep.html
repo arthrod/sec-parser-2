@@ -1,0 +1,1597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arthur Souza Rodrigues - The Synthetic Lawyer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* Cicero Design Token System */
+        :root {
+            /* Color Tokens */
+            --color-primary-scarlet: #9D0208;
+            --color-primary-scarlet-light: #c1121f;
+            --color-neutral-pure-white: #FFFFFF;
+            --color-neutral-off-white-warm: #F9F7F4;
+            --color-neutral-off-white-cool: #F8F8F8;
+            --color-neutral-light-gray: #F5F5F5;
+            --color-neutral-black: #000000;
+            --color-neutral-deep-black: #0F0F0F;
+            --color-neutral-gray-800: #1e1e1e;
+            
+            /* Typography Tokens */
+            --font-family-primary: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-family-secondary: 'Inter', sans-serif;
+            --font-weight-ultra-bold: 900;
+            --font-weight-bold: 700;
+            --font-weight-medium: 500;
+            --font-weight-regular: 400;
+            --font-weight-light: 300;
+            
+            --font-size-massive: clamp(4rem, 12vw, 9rem);
+            --font-size-massive-xl: clamp(4rem, 15vw, 12rem);
+            --font-size-headline-l: clamp(1.5rem, 4vw, 2.5rem);
+            --font-size-body-l: clamp(1rem, 2.5vw, 1.25rem);
+            --font-size-body-m: 1rem;
+            --font-size-caption: 0.875rem;
+            
+            --line-height-tight: 1;
+            --line-height-normal: 1.2;
+            --line-height-relaxed: 1.6;
+            
+            /* Spacing Tokens */
+            --space-2: 0.5rem;
+            --space-4: 1rem;
+            --space-6: 1.5rem;
+            --space-8: 2rem;
+            --space-12: 3rem;
+            --space-16: 4rem;
+            --space-vw-small: 5vw;
+            --space-vw-medium: 10vw;
+            --space-vw-large: 15vw;
+            
+            /* Animation Tokens */
+            --duration-fast: 200ms;
+            --duration-normal: 300ms;
+            --duration-slow: 700ms;
+            --easing-ease-out: cubic-bezier(0, 0, 0.2, 1);
+            --easing-ease-in-out: cubic-bezier(0.42, 0, 0.58, 1);
+            
+            /* Component Tokens */
+            --nav-dot-active-size: 10px;
+            --nav-dot-inactive-size: 6px;
+            --border-width-thin: 1px;
+            
+            /* Gradients */
+            --gradient-text-black-to-scarlet: linear-gradient(90deg, var(--color-neutral-black) 0%, var(--color-primary-scarlet) 100%);
+            --gradient-bg-white-to-gray: linear-gradient(180deg, var(--color-neutral-pure-white) 0%, var(--color-neutral-light-gray) 100%);
+            --gradient-scarlet-radial: radial-gradient(circle, rgba(157,2,8,0.15) 0%, rgba(157,2,8,0) 70%);
+            --gradient-card-hover: linear-gradient(135deg, rgba(157,2,8,0.08) 0%, rgba(0,0,0,0.04) 100%);
+            --gradient-text-scarlet-gold: linear-gradient(135deg, var(--color-primary-scarlet) 0%, #e9b949 100%);
+            
+            /* Shadows */
+            --shadow-card: 0 4px 20px rgba(0,0,0,0.05);
+            --shadow-card-hover: 0 10px 30px rgba(157,2,8,0.15);
+            --shadow-button: 0 4px 15px rgba(157,2,8,0.3);
+            --shadow-text: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        /* Reset and Base */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-family-primary);
+            background: var(--color-neutral-pure-white);
+            overflow-x: hidden;
+            scroll-behavior: smooth;
+            color: var(--color-neutral-black);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* Navigation */
+        .nav-dots {
+            position: fixed;
+            right: var(--space-8);
+            top: 50%;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-6);
+            z-index: 1000;
+        }
+
+        .nav-dot {
+            width: var(--nav-dot-inactive-size);
+            height: var(--nav-dot-inactive-size);
+            border-radius: 50%;
+            background: var(--color-neutral-pure-white);
+            border: var(--border-width-thin) solid var(--color-neutral-black);
+            cursor: pointer;
+            transition: all var(--duration-fast) var(--easing-ease-out);
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .nav-dot.active {
+            width: var(--nav-dot-active-size);
+            height: var(--nav-dot-active-size);
+            background: var(--color-primary-scarlet);
+            border: none;
+            box-shadow: 0 0 0 4px rgba(157, 2, 8, 0.3);
+        }
+
+        .nav-dot:hover {
+            transform: scale(1.2);
+        }
+
+        .nav-dot::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: var(--color-primary-scarlet-light);
+            opacity: 0;
+            transform: scale(1.5);
+            transition: all var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .nav-dot:hover::after {
+            opacity: 0.3;
+        }
+
+        /* Sections */
+        .section {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+            padding: var(--space-16) var(--space-8);
+            scroll-snap-align: start;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity var(--duration-slow) var(--easing-ease-out), 
+                        transform var(--duration-slow) var(--easing-ease-out);
+        }
+
+        .section.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Hero Section */
+        .hero-section {
+            background: var(--color-neutral-pure-white);
+            position: relative;
+            overflow: hidden;
+            padding-top: var(--space-16);
+        }
+
+        .hero-content {
+            margin-left: var(--space-vw-medium);
+            position: relative;
+            z-index: 10;
+            max-width: 900px;
+        }
+
+        .hero-subtitle {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-caption);
+            color: var(--color-primary-scarlet);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            margin-bottom: var(--space-4);
+            position: relative;
+            display: inline-block;
+            padding-left: var(--space-8);
+        }
+
+        .hero-subtitle::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            height: 2px;
+            width: var(--space-6);
+            background: var(--color-primary-scarlet);
+        }
+
+        .hero-headline {
+            font-weight: var(--font-weight-ultra-bold);
+            font-size: var(--font-size-massive);
+            line-height: var(--line-height-tight);
+            color: var(--color-neutral-black);
+            margin-bottom: var(--space-6);
+            text-shadow: var(--shadow-text);
+            max-width: 900px;
+        }
+
+        .hero-headline .accent {
+            color: transparent;
+            background: var(--gradient-text-scarlet-gold);
+            -webkit-background-clip: text;
+            background-clip: text;
+            position: relative;
+            display: inline-block;
+        }
+
+        .hero-headline .accent::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--gradient-text-scarlet-gold);
+            transform-origin: left;
+            transform: scaleX(0);
+            transition: transform 0.5s var(--easing-ease-in-out);
+        }
+
+        .hero-headline:hover .accent::after {
+            transform: scaleX(1);
+        }
+
+        .hero-description {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-body-l);
+            line-height: var(--line-height-relaxed);
+            color: var(--color-neutral-black);
+            max-width: 600px;
+            margin-bottom: var(--space-8);
+            position: relative;
+            padding-left: var(--space-8);
+        }
+
+        .hero-description::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 2px;
+            background: var(--gradient-text-scarlet-gold);
+        }
+
+        .hero-cta {
+            display: flex;
+            gap: var(--space-6);
+            align-items: center;
+        }
+
+        .btn {
+            padding: var(--space-4) var(--space-8);
+            border: none;
+            font-family: var(--font-family-primary);
+            font-weight: var(--font-weight-medium);
+            font-size: var(--font-size-body-m);
+            cursor: pointer;
+            transition: all var(--duration-fast) var(--easing-ease-out);
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: var(--space-4);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            position: relative;
+            overflow: hidden;
+            z-index: 1;
+        }
+
+        .btn::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--color-neutral-deep-black);
+            transform: translateX(-100%);
+            transition: transform var(--duration-normal) var(--easing-ease-in-out);
+            z-index: -1;
+        }
+
+        .btn:hover::after {
+            transform: translateX(0);
+        }
+
+        .btn-primary {
+            background: var(--color-neutral-black);
+            color: var(--color-neutral-pure-white);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--color-neutral-black);
+            border: var(--border-width-thin) solid var(--color-neutral-black);
+        }
+
+        .btn:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-button);
+        }
+
+        .btn:hover .btn-icon {
+            transform: translateX(4px);
+        }
+
+        .btn-icon {
+            transition: transform var(--duration-fast) var(--easing-ease-out);
+        }
+
+        /* Geometric Elements */
+        .geometric-circle-large {
+            position: absolute;
+            right: -25%;
+            top: 20%;
+            width: 60vw;
+            height: 60vw;
+            border: var(--border-width-thin) solid var(--color-primary-scarlet);
+            border-radius: 50%;
+            opacity: 0.15;
+            animation: pulse 8s infinite var(--easing-ease-in-out);
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.15; }
+            50% { transform: scale(1.05); opacity: 0.3; }
+        }
+
+        .geometric-lines {
+            position: absolute;
+            left: 0;
+            bottom: 30%;
+        }
+
+        .geometric-line {
+            height: var(--border-width-thin);
+            background: var(--color-primary-scarlet);
+            margin-bottom: var(--space-6);
+            transform-origin: left center;
+        }
+
+        .geometric-line:nth-child(1) { 
+            width: 30vw; 
+            transform: rotate(15deg); 
+            opacity: 0.8;
+            animation: lineAnimation 15s infinite;
+        }
+        .geometric-line:nth-child(2) { 
+            width: 25vw; 
+            transform: rotate(-8deg); 
+            opacity: 0.6;
+            animation: lineAnimation 12s infinite 1s;
+        }
+        .geometric-line:nth-child(3) { 
+            width: 35vw; 
+            transform: rotate(22deg); 
+            opacity: 0.4;
+            animation: lineAnimation 18s infinite 2s;
+        }
+
+        @keyframes lineAnimation {
+            0%, 100% { transform: rotate(var(--initial-rotation)) translateX(0); }
+            50% { transform: rotate(calc(var(--initial-rotation) + 5deg)) translateX(20px); }
+        }
+
+        /* Experience Section */
+        .experience-section {
+            background: var(--color-neutral-off-white-warm);
+            position: relative;
+        }
+
+        .experience-content {
+            margin-left: var(--space-vw-medium);
+            margin-right: var(--space-vw-medium);
+        }
+
+        .experience-headline {
+            font-weight: var(--font-weight-ultra-bold);
+            font-size: var(--font-size-massive-xl);
+            line-height: var(--line-height-tight);
+            background: var(--gradient-text-black-to-scarlet);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-align: center;
+            margin-bottom: var(--space-12);
+            position: relative;
+            display: inline-block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .experience-headline::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 4px;
+            background: var(--gradient-text-scarlet-gold);
+        }
+
+        .experience-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--space-16);
+            align-items: start;
+        }
+
+        .experience-text {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-body-l);
+            line-height: var(--line-height-relaxed);
+            color: var(--color-neutral-black);
+        }
+
+        .experience-highlight {
+            font-weight: var(--font-weight-medium);
+            background: var(--gradient-text-scarlet-gold);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            position: relative;
+        }
+
+        .experience-timeline {
+            position: relative;
+            padding-left: var(--space-8);
+        }
+
+        .experience-timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 2px;
+            background: var(--gradient-text-scarlet-gold);
+        }
+
+        .timeline-item {
+            position: relative;
+            padding-left: var(--space-8);
+            margin-bottom: var(--space-8);
+            transition: transform var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .timeline-item:hover {
+            transform: translateX(8px);
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -5px;
+            top: 8px;
+            width: 12px;
+            height: 12px;
+            background: var(--color-primary-scarlet);
+            border-radius: 50%;
+            z-index: 2;
+            transition: all var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .timeline-item:hover::before {
+            transform: scale(1.2);
+            background: var(--color-primary-scarlet-light);
+            box-shadow: 0 0 0 4px rgba(157, 2, 8, 0.2);
+        }
+
+        .timeline-company {
+            font-weight: var(--font-weight-bold);
+            font-size: var(--font-size-body-l);
+            color: var(--color-neutral-black);
+            margin-bottom: var(--space-2);
+        }
+
+        .timeline-role {
+            font-weight: var(--font-weight-medium);
+            font-size: var(--font-size-caption);
+            color: var(--color-primary-scarlet);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Projects Section */
+        .projects-section {
+            background: var(--color-neutral-black);
+            color: var(--color-neutral-pure-white);
+        }
+
+        .projects-headline {
+            font-weight: var(--font-weight-ultra-bold);
+            font-size: var(--font-size-massive-xl);
+            line-height: var(--line-height-tight);
+            text-align: right;
+            margin-right: var(--space-vw-medium);
+            margin-bottom: var(--space-12);
+            position: relative;
+            display: inline-block;
+            margin-left: auto;
+        }
+
+        .projects-headline::after {
+            content: '.';
+            color: var(--color-primary-scarlet);
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: var(--space-8);
+            margin: 0 var(--space-vw-medium);
+        }
+
+        .project-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: var(--border-width-thin) solid rgba(255, 255, 255, 0.1);
+            padding: var(--space-8);
+            transition: all var(--duration-normal) var(--easing-ease-out);
+            border-radius: 4px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: var(--shadow-card);
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--gradient-card-hover);
+            opacity: 0;
+            transition: opacity var(--duration-fast) var(--easing-ease-out);
+            z-index: 0;
+        }
+
+        .project-card:hover {
+            transform: translateY(-8px);
+            background: rgba(255, 255, 255, 0.08);
+            box-shadow: var(--shadow-card-hover);
+            border-color: rgba(157, 2, 8, 0.3);
+        }
+
+        .project-card:hover::before {
+            opacity: 1;
+        }
+
+        .project-card:hover .project-title {
+            color: var(--color-primary-scarlet-light);
+        }
+
+        .project-title {
+            font-weight: var(--font-weight-bold);
+            font-size: var(--font-size-headline-l);
+            margin-bottom: var(--space-4);
+            color: var(--color-neutral-pure-white);
+            position: relative;
+            transition: color var(--duration-fast) var(--easing-ease-out);
+            z-index: 1;
+        }
+
+        .project-description {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-body-m);
+            line-height: var(--line-height-relaxed);
+            margin-bottom: var(--space-6);
+            color: rgba(255, 255, 255, 0.8);
+            position: relative;
+            z-index: 1;
+        }
+
+        .project-tech {
+            display: flex;
+            gap: var(--space-2);
+            flex-wrap: wrap;
+            margin-bottom: var(--space-6);
+            position: relative;
+            z-index: 1;
+        }
+
+        .tech-tag {
+            font-size: var(--font-size-caption);
+            padding: var(--space-2) var(--space-4);
+            background: var(--color-primary-scarlet);
+            color: var(--color-neutral-pure-white);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-radius: 20px;
+            transition: all var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .tech-tag:hover {
+            transform: translateY(-2px);
+            background: var(--color-primary-scarlet-light);
+        }
+
+        .project-link {
+            color: var(--color-primary-scarlet);
+            text-decoration: none;
+            font-weight: var(--font-weight-medium);
+            font-size: var(--font-size-caption);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            transition: all var(--duration-fast) var(--easing-ease-out);
+            display: inline-flex;
+            align-items: center;
+            gap: var(--space-2);
+            position: relative;
+            z-index: 1;
+        }
+
+        .project-link::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background: var(--color-primary-scarlet);
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .project-link:hover {
+            color: var(--color-neutral-pure-white);
+        }
+
+        .project-link:hover::after {
+            transform: scaleX(1);
+        }
+
+        /* AI Section */
+        .ai-section {
+            background: var(--gradient-bg-white-to-gray);
+            position: relative;
+        }
+
+        .ai-content {
+            text-align: center;
+            margin: 0 var(--space-vw-medium);
+        }
+
+        .ai-headline {
+            font-weight: var(--font-weight-ultra-bold);
+            font-size: var(--font-size-massive);
+            line-height: var(--line-height-tight);
+            color: var(--color-neutral-black);
+            margin-bottom: var(--space-8);
+            position: relative;
+            display: inline-block;
+        }
+
+        .ai-headline::after {
+            content: '';
+            position: absolute;
+            bottom: -8px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 4px;
+            background: var(--gradient-text-scarlet-gold);
+        }
+
+        .ai-subheadline {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-headline-l);
+            line-height: var(--line-height-normal);
+            color: var(--color-neutral-black);
+            margin-bottom: var(--space-12);
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .ai-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: var(--space-8);
+            margin-bottom: var(--space-16);
+        }
+
+        .ai-feature {
+            text-align: left;
+            background: var(--color-neutral-pure-white);
+            padding: var(--space-8);
+            border-radius: 8px;
+            box-shadow: var(--shadow-card);
+            transition: all var(--duration-fast) var(--easing-ease-out);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .ai-feature::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: var(--gradient-text-scarlet-gold);
+        }
+
+        .ai-feature:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-card-hover);
+        }
+
+        .ai-feature-icon {
+            font-size: 2.5rem;
+            color: var(--color-primary-scarlet);
+            margin-bottom: var(--space-4);
+        }
+
+        .ai-feature-title {
+            font-weight: var(--font-weight-bold);
+            font-size: var(--font-size-body-l);
+            color: var(--color-primary-scarlet);
+            margin-bottom: var(--space-4);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .ai-feature-description {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-body-m);
+            line-height: var(--line-height-relaxed);
+            color: var(--color-neutral-black);
+        }
+
+        /* Writing Section */
+        .writing-section {
+            background: var(--color-neutral-off-white-cool);
+            position: relative;
+        }
+
+        .writing-content {
+            margin: 0 var(--space-vw-medium);
+            text-align: center;
+        }
+
+        .writing-subtitle {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-caption);
+            color: var(--color-primary-scarlet);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            margin-bottom: var(--space-4);
+        }
+
+        .writing-headline {
+            font-weight: var(--font-weight-ultra-bold);
+            font-size: var(--font-size-massive);
+            line-height: var(--line-height-tight);
+            color: var(--color-neutral-black);
+            margin-bottom: var(--space-8);
+            position: relative;
+        }
+
+        .writing-headline::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 4px;
+            background: var(--gradient-text-scarlet-gold);
+        }
+
+        .writing-description {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-body-l);
+            line-height: var(--line-height-relaxed);
+            color: var(--color-neutral-black);
+            max-width: 700px;
+            margin: 0 auto var(--space-16);
+        }
+
+        .writing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: var(--space-8);
+            margin-bottom: var(--space-16);
+        }
+
+        .blog-post {
+            background: var(--color-neutral-pure-white);
+            padding: var(--space-8);
+            border: var(--border-width-thin) solid var(--color-neutral-light-gray);
+            text-align: left;
+            transition: all var(--duration-normal) var(--easing-ease-out);
+            border-radius: 4px;
+            box-shadow: var(--shadow-card);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .blog-post::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--gradient-text-scarlet-gold);
+            transform: translateY(-100%);
+            transition: transform var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .blog-post:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-card-hover);
+        }
+
+        .blog-post:hover::before {
+            transform: translateY(0);
+        }
+
+        .post-date {
+            font-size: var(--font-size-caption);
+            font-weight: var(--font-weight-medium);
+            color: var(--color-primary-scarlet);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: var(--space-4);
+            display: flex;
+            align-items: center;
+            gap: var(--space-2);
+        }
+
+        .post-title {
+            font-weight: var(--font-weight-bold);
+            font-size: var(--font-size-headline-l);
+            line-height: var(--line-height-normal);
+            color: var(--color-neutral-black);
+            margin-bottom: var(--space-4);
+            transition: color var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .blog-post:hover .post-title {
+            color: var(--color-primary-scarlet);
+        }
+
+        .post-excerpt {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-body-m);
+            line-height: var(--line-height-relaxed);
+            color: var(--color-neutral-black);
+            margin-bottom: var(--space-6);
+        }
+
+        .post-tags {
+            display: flex;
+            gap: var(--space-2);
+            flex-wrap: wrap;
+        }
+
+        .post-tag {
+            font-size: var(--font-size-caption);
+            padding: var(--space-2) var(--space-4);
+            background: var(--color-neutral-light-gray);
+            color: var(--color-neutral-black);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: var(--font-weight-medium);
+            border-radius: 20px;
+            transition: all var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .post-tag:hover {
+            background: var(--color-primary-scarlet);
+            color: var(--color-neutral-pure-white);
+            transform: translateY(-2px);
+        }
+
+        .writing-cta {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-6);
+            flex-wrap: wrap;
+        }
+
+        .geometric-grid {
+            position: absolute;
+            bottom: 10%;
+            right: 10%;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: var(--space-4);
+            opacity: 0.3;
+            animation: gridPulse 5s infinite var(--easing-ease-in-out);
+        }
+
+        @keyframes gridPulse {
+            0%, 100% { transform: scale(1); opacity: 0.3; }
+            50% { transform: scale(1.05); opacity: 0.5; }
+        }
+
+        .grid-item {
+            width: 40px;
+            height: 40px;
+            background: var(--color-neutral-black);
+            transition: all var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .grid-item.accent {
+            background: var(--color-primary-scarlet);
+        }
+
+        .grid-item:hover {
+            transform: rotate(15deg) scale(1.1);
+        }
+
+        /* Contact Section */
+        .contact-section {
+            background: var(--color-primary-scarlet);
+            color: var(--color-neutral-pure-white);
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .contact-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--gradient-scarlet-radial);
+            pointer-events: none;
+        }
+
+        .contact-specialties {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: var(--space-8);
+            margin: var(--space-16) auto;
+            max-width: 900px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .specialty-item {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.1);
+            padding: var(--space-8);
+            border-radius: 8px;
+            backdrop-filter: blur(5px);
+            transition: all var(--duration-fast) var(--easing-ease-out);
+        }
+
+        .specialty-item:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .specialty-item h3 {
+            font-weight: var(--font-weight-bold);
+            font-size: var(--font-size-body-l);
+            margin-bottom: var(--space-4);
+            color: var(--color-neutral-pure-white);
+        }
+
+        .specialty-item p {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-body-m);
+            line-height: var(--line-height-relaxed);
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .contact-headline {
+            font-weight: var(--font-weight-ultra-bold);
+            font-size: var(--font-size-massive);
+            line-height: var(--line-height-tight);
+            margin-bottom: var(--space-8);
+            position: relative;
+            z-index: 1;
+        }
+
+        .contact-description {
+            font-weight: var(--font-weight-light);
+            font-size: var(--font-size-headline-l);
+            line-height: var(--line-height-normal);
+            margin-bottom: var(--space-16);
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-8);
+            flex-wrap: wrap;
+            position: relative;
+            z-index: 1;
+        }
+
+        .contact-link {
+            padding: var(--space-6) var(--space-12);
+            background: var(--color-neutral-pure-white);
+            color: var(--color-neutral-black);
+            text-decoration: none;
+            font-weight: var(--font-weight-medium);
+            font-size: var(--font-size-body-m);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            transition: all var(--duration-fast) var(--easing-ease-out);
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            gap: var(--space-4);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .contact-link::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--color-neutral-black);
+            transform: translateY(100%);
+            transition: transform var(--duration-normal) var(--easing-ease-in-out);
+            z-index: -1;
+        }
+
+        .contact-link:hover {
+            transform: translateY(-4px);
+            color: var(--color-neutral-pure-white);
+            box-shadow: var(--shadow-button);
+        }
+
+        .contact-link:hover::after {
+            transform: translateY(0);
+        }
+
+        /* Geometric Animations */
+        .floating-dots {
+            position: absolute;
+            top: 20%;
+            right: 20%;
+        }
+
+        .floating-dot {
+            width: 6px;
+            height: 6px;
+            background: var(--color-primary-scarlet);
+            border-radius: 50%;
+            position: absolute;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .floating-dot:nth-child(1) { 
+            animation-delay: 0s; 
+            top: 0; 
+            left: 0; 
+        }
+        .floating-dot:nth-child(2) { 
+            animation-delay: 2s; 
+            top: 30px; 
+            left: 40px; 
+        }
+        .floating-dot:nth-child(3) { 
+            animation-delay: 4s; 
+            top: 60px; 
+            left: 20px; 
+        }
+
+        @keyframes float {
+            0%, 100% { 
+                transform: translateY(0) scale(1); 
+                opacity: 0.6; 
+            }
+            50% { 
+                transform: translateY(-20px) scale(1.2); 
+                opacity: 1; 
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero-headline,
+            .experience-headline,
+            .projects-headline,
+            .writing-headline,
+            .ai-headline,
+            .contact-headline {
+                font-size: clamp(2.5rem, 10vw, 5rem);
+            }
+            
+            .experience-grid {
+                grid-template-columns: 1fr;
+                gap: var(--space-8);
+            }
+            
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .writing-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .ai-features {
+                grid-template-columns: 1fr;
+            }
+            
+            .contact-specialties {
+                grid-template-columns: 1fr;
+            }
+            
+            .hero-cta {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .writing-cta {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .contact-links {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .nav-dots {
+                right: var(--space-4);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .section {
+                padding: var(--space-8);
+            }
+            
+            .hero-content,
+            .experience-content,
+            .writing-content,
+            .ai-content {
+                margin-left: var(--space-4);
+                margin-right: var(--space-4);
+            }
+            
+            .projects-grid {
+                margin: 0 var(--space-4);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Dots -->
+    <div class="nav-dots">
+        <div class="nav-dot active" data-section="0"></div>
+        <div class="nav-dot" data-section="1"></div>
+        <div class="nav-dot" data-section="2"></div>
+        <div class="nav-dot" data-section="3"></div>
+        <div class="nav-dot" data-section="4"></div>
+        <div class="nav-dot" data-section="5"></div>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="section hero-section" id="hero">
+        <div class="hero-content">
+            <div class="hero-subtitle">New York Attorney × AI Enthusiast</div>
+            <h1 class="hero-headline">THE <span class="accent">SYNTHETIC</span><br>LAWYER</h1>
+            <p class="hero-description">
+                Bridging traditional legal practice with cutting-edge artificial intelligence. 
+                From securities law at top-tier firms to pioneering legal AI automation.
+            </p>
+            <div class="hero-cta">
+                <a href="#contact" class="btn btn-primary">
+                    <span>Let's Collaborate</span>
+                    <i class="fas fa-arrow-right btn-icon"></i>
+                </a>
+                <a href="#projects" class="btn btn-secondary">
+                    <span>View Projects</span>
+                    <i class="fas fa-code-branch btn-icon"></i>
+                </a>
+            </div>
+        </div>
+        
+        <div class="geometric-circle-large"></div>
+        <div class="geometric-lines">
+            <div class="geometric-line" style="--initial-rotation: 15deg;"></div>
+            <div class="geometric-line" style="--initial-rotation: -8deg;"></div>
+            <div class="geometric-line" style="--initial-rotation: 22deg;"></div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section class="section experience-section" id="experience">
+        <h2 class="experience-headline">EXPERIENCE</h2>
+        <div class="experience-content">
+            <div class="experience-grid">
+                <div class="experience-text">
+                    <p>A <span class="experience-highlight">proud Michigan Wolverine</span> and tech-savvy attorney with 8+ years navigating both startup and mature business worlds. From <span class="experience-highlight">bootstrapped startups to IPO rockstars</span>, I've been the secret weapon in scaling legal ops and crushing growth milestones.</p>
+                    
+                    <p>Fluent in the language of <span class="experience-highlight">SEC and FINRA</span>, prepping companies to level up their compliance game as they disrupt industries. An automation wizard who's become the go-to sensei for lawyers diving into the machine learning matrix.</p>
+                </div>
+                
+                <div class="experience-timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-company">Teachable (Hotmart)</div>
+                        <div class="timeline-role">Counsel</div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-company">Forge Global</div>
+                        <div class="timeline-role">Legal Counsel</div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-company">Carta</div>
+                        <div class="timeline-role">Senior Corporate Counsel</div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-company">O'Melveny & Myers</div>
+                        <div class="timeline-role">Associate</div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-company">Weil, Gotshal & Manges</div>
+                        <div class="timeline-role">Associate</div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-company">Hughes Hubbard & Reed</div>
+                        <div class="timeline-role">Associate</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section projects-section" id="projects">
+        <h2 class="projects-headline">PROJECTS</h2>
+        <div class="projects-grid">
+            <div class="project-card">
+                <h3 class="project-title">Cicero</h3>
+                <p class="project-description">
+                    AI-powered educational tool for teaching contract law in Portuguese. 
+                    Bridging the gap between legal education and artificial intelligence in Brazilian academia.
+                </p>
+                <div class="project-tech">
+                    <span class="tech-tag">AI/ML</span>
+                    <span class="tech-tag">Legal Tech</span>
+                    <span class="tech-tag">Education</span>
+                </div>
+                <a href="#" class="project-link">View Project <i class="fas fa-external-link-alt"></i></a>
+            </div>
+            
+            <div class="project-card">
+                <h3 class="project-title">SEC Edgar Bulker</h3>
+                <p class="project-description">
+                    Advanced SEC filing processor and downloader focused on material contracts (Exhibit 10). 
+                    Streamlines due diligence for securities law practice.
+                </p>
+                <div class="project-tech">
+                    <span class="tech-tag">Python</span>
+                    <span class="tech-tag">Data Processing</span>
+                    <span class="tech-tag">SEC</span>
+                </div>
+                <a href="https://github.com/arthrod/sec-edgar-bulker" class="project-link">View on GitHub <i class="fab fa-github"></i></a>
+            </div>
+            
+            <div class="project-card">
+                <h3 class="project-title">Prompting for Attorneys</h3>
+                <p class="project-description">
+                    Comprehensive collection of prompting techniques specifically designed for legal professionals. 
+                    Teaching lawyers to harness AI effectively.
+                </p>
+                <div class="project-tech">
+                    <span class="tech-tag">AI Training</span>
+                    <span class="tech-tag">Legal Education</span>
+                    <span class="tech-tag">Prompting</span>
+                </div>
+                <a href="https://github.com/arthrod/prompting" class="project-link">View on GitHub <i class="fab fa-github"></i></a>
+            </div>
+            
+            <div class="project-card">
+                <h3 class="project-title">Taming-12773</h3>
+                <p class="project-description">
+                    Performance comparison study of GPT, Gemini, and NuExtract for extracting structured data 
+                    from unstructured legal documents.
+                </p>
+                <div class="project-tech">
+                    <span class="tech-tag">Machine Learning</span>
+                    <span class="tech-tag">Data Extraction</span>
+                    <span class="tech-tag">Research</span>
+                </div>
+                <a href="https://github.com/arthrod/taming-12773" class="project-link">View on GitHub <i class="fab fa-github"></i></a>
+            </div>
+        </div>
+        
+        <div class="floating-dots">
+            <div class="floating-dot"></div>
+            <div class="floating-dot"></div>
+            <div class="floating-dot"></div>
+        </div>
+    </section>
+
+    <!-- AI Expertise Section -->
+    <section class="section ai-section" id="ai">
+        <div class="ai-content">
+            <h2 class="ai-headline">AI FOR LAWYERS</h2>
+            <p class="ai-subheadline">
+                Mentoring legal professionals to wield AI tools like pros and revolutionize the legal stack
+            </p>
+            
+            <div class="ai-features">
+                <div class="ai-feature">
+                    <div class="ai-feature-icon">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <h3 class="ai-feature-title">Automation Wizard</h3>
+                    <p class="ai-feature-description">
+                        Architecting game-changing workflows that transform manual legal processes into streamlined, AI-powered operations.
+                    </p>
+                </div>
+                
+                <div class="ai-feature">
+                    <div class="ai-feature-icon">
+                        <i class="fas fa-globe-americas"></i>
+                    </div>
+                    <h3 class="ai-feature-title">Cross-Cultural Bridge</h3>
+                    <p class="ai-feature-description">
+                        Connecting US legal innovation with Brazilian legal education, creating opportunities for global legal tech adoption.
+                    </p>
+                </div>
+                
+                <div class="ai-feature">
+                    <div class="ai-feature-icon">
+                        <i class="fas fa-code"></i>
+                    </div>
+                    <h3 class="ai-feature-title">Open Source Advocate</h3>
+                    <p class="ai-feature-description">
+                        Committed to democratizing legal knowledge through open-source tools and transparent AI implementations.
+                    </p>
+                </div>
+                
+                <div class="ai-feature">
+                    <div class="ai-feature-icon">
+                        <i class="fas fa-layer-group"></i>
+                    </div>
+                    <h3 class="ai-feature-title">Tech Stack Revolutionary</h3>
+                    <p class="ai-feature-description">
+                        From Python automation to machine learning models, bringing software engineering principles to legal practice.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Writing Section -->
+    <section class="section writing-section" id="writing">
+        <div class="writing-content">
+            <p class="writing-subtitle">The Synthetic Lawyer Blog</p>
+            <h2 class="writing-headline">WRITING</h2>
+            <p class="writing-description">
+                Exploring the intersection of law, AI, and Brazilian legal tech through 
+                technical deep-dives and cultural observations.
+            </p>
+            
+            <div class="writing-grid">
+                <article class="blog-post">
+                    <div class="post-date">
+                        <i class="far fa-calendar"></i> Apr 2025
+                    </div>
+                    <h3 class="post-title">Devouring Sensitive Data: the Birth of the Synthetic Brazilian</h3>
+                    <p class="post-excerpt">
+                        Or, Tech Macunaíma. Building PTBr-Sampler to generate statistically realistic Brazilian data 
+                        while navigating LGPD compliance and cultural authenticity.
+                    </p>
+                    <div class="post-tags">
+                        <span class="post-tag">LGPD</span>
+                        <span class="post-tag">Data Privacy</span>
+                        <span class="post-tag">Brazilian Tech</span>
+                    </div>
+                </article>
+                
+                <article class="blog-post">
+                    <div class="post-date">
+                        <i class="far fa-calendar"></i> Dec 2024
+                    </div>
+                    <h3 class="post-title">"Where do you get all these agreements, Arthur?" or I WANT ALL AGREEMENTS, ALL!</h3>
+                    <p class="post-excerpt">
+                        Extracting agreements from EDGAR in bulk. A technical guide to mining SEC filings 
+                        for material contracts and building legal datasets at scale.
+                    </p>
+                    <div class="post-tags">
+                        <span class="post-tag">SEC</span>
+                        <span class="post-tag">Data Mining</span>
+                        <span class="post-tag">Legal Tech</span>
+                    </div>
+                </article>
+                
+                <article class="blog-post">
+                    <div class="post-date">
+                        <i class="far fa-calendar"></i> Oct 2024
+                    </div>
+                    <h3 class="post-title">Taming 12,773 Contracts for $39.26!</h3>
+                    <p class="post-excerpt">
+                        Using LLMs to extract what matters from thousands of contracts. 
+                        A cost-effective approach to large-scale contract analysis with AI.
+                    </p>
+                    <div class="post-tags">
+                        <span class="post-tag">LLMs</span>
+                        <span class="post-tag">Contract Analysis</span>
+                        <span class="post-tag">Cost Optimization</span>
+                    </div>
+                </article>
+            </div>
+            
+            <div class="writing-cta">
+                <a href="https://substack.com/@arthur-souza-rodrigues" class="btn btn-secondary" target="_blank">
+                    <i class="fab fa-substack"></i> Read More on Substack
+                </a>
+                <a href="https://medium.com/@arthur-souza-rodrigues" class="btn btn-secondary" target="_blank">
+                    <i class="fab fa-medium"></i> Medium Articles
+                </a>
+            </div>
+        </div>
+        
+        <div class="geometric-grid">
+            <div class="grid-item"></div>
+            <div class="grid-item"></div>
+            <div class="grid-item"></div>
+            <div class="grid-item accent"></div>
+            <div class="grid-item"></div>
+            <div class="grid-item"></div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section contact-section" id="contact">
+        <h2 class="contact-headline">LET'S BUILD THE FUTURE</h2>
+        <p class="contact-description">
+            Ready to revolutionize legal practice with AI? 
+            Let's collaborate on the next generation of legal technology.
+        </p>
+        
+        <div class="contact-specialties">
+            <div class="specialty-item">
+                <h3>Legal AI Consulting</h3>
+                <p>Strategic guidance on implementing AI in legal workflows</p>
+            </div>
+            <div class="specialty-item">
+                <h3>Securities & Contract Law</h3>
+                <p>From startups to IPOs, scaling legal operations efficiently</p>
+            </div>
+            <div class="specialty-item">
+                <h3>Wedding Officiant NYC</h3>
+                <p>Licensed to officiate weddings in New York City</p>
+            </div>
+        </div>
+        
+        <div class="contact-links">
+            <a href="mailto:arthrod@umich.edu" class="contact-link">
+                <i class="fas fa-envelope"></i> Email Me
+            </a>
+            <a href="https://www.linkedin.com/in/arthrod" class="contact-link" target="_blank">
+                <i class="fab fa-linkedin-in"></i> LinkedIn
+            </a>
+            <a href="https://github.com/arthrod" class="contact-link" target="_blank">
+                <i class="fab fa-github"></i> GitHub
+            </a>
+            <a href="#" class="contact-link">
+                <i class="fas fa-phone-alt"></i> Schedule a Call
+            </a>
+        </div>
+    </section>
+
+    <script>
+        // Navigation functionality
+        const navDots = document.querySelectorAll('.nav-dot');
+        const sections = document.querySelectorAll('.section');
+        
+        // Click navigation
+        navDots.forEach((dot, index) => {
+            dot.addEventListener('click', () => {
+                navDots.forEach(d => d.classList.remove('active'));
+                dot.classList.add('active');
+                sections[index].scrollIntoView({ behavior: 'smooth' });
+            });
+        });
+
+        // Scroll-based navigation updates
+        function updateActiveNavigation() {
+            const scrollPosition = window.scrollY + window.innerHeight / 2;
+            
+            sections.forEach((section, index) => {
+                const sectionTop = section.offsetTop;
+                const sectionBottom = sectionTop + section.offsetHeight;
+                
+                if (scrollPosition >= sectionTop && scrollPosition < sectionBottom) {
+                    navDots.forEach(d => d.classList.remove('active'));
+                    if (navDots[index]) {
+                        navDots[index].classList.add('active');
+                    }
+                }
+            });
+        }
+
+        // Section fade-in on scroll
+        function checkSectionVisibility() {
+            sections.forEach(section => {
+                const sectionTop = section.getBoundingClientRect().top;
+                const sectionBottom = section.getBoundingClientRect().bottom;
+                const isVisible = (sectionTop < window.innerHeight * 0.75) && (sectionBottom > 0);
+                
+                if (isVisible) {
+                    section.classList.add('visible');
+                }
+            });
+        }
+
+        // Smooth scroll for internal links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+
+        // Scroll listeners
+        let ticking = false;
+        
+        function handleScroll() {
+            if (!ticking) {
+                requestAnimationFrame(() => {
+                    updateActiveNavigation();
+                    checkSectionVisibility();
+                    ticking = false;
+                });
+                ticking = true;
+            }
+        }
+
+        window.addEventListener('scroll', handleScroll);
+        
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', () => {
+            updateActiveNavigation();
+            checkSectionVisibility();
+            
+            // Set initial visible state for hero section
+            sections[0].classList.add('visible');
+        });
+
+        // Add subtle parallax effect to geometric elements
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const parallax = document.querySelectorAll('.geometric-circle-large, .geometric-lines');
+            
+            parallax.forEach(element => {
+                const speed = 0.1;
+                const yPos = -(scrolled * speed);
+                element.style.transform = `translateY(${yPos}px)`;
+            });
+        });
+    </script>
+</body>
+</html>

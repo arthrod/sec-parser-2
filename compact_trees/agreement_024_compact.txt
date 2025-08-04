@@ -1,0 +1,3 @@
+Total parsed elements: 1
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.19  August 18, 2023  Heidy King-Jones  Re: Offer of Employment  Dear Heidy:  On behalf of Aeglea BioTherapeutics, Inc. (the Company), I am very pleased to offer you a position as Chief Le

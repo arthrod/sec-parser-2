@@ -1,0 +1,5 @@
+Total parsed elements: 3
+Element types and content:
+  1. HeadingElement (level=2): Exhibit 10.1
+  2. HeadingElement (level=1): EXECUTION VERSION
+  3. ContentTextElement (level=4): $350,000,000   CREDIT AND GUARANTY AGREEMENT   dated as of January 18, 2024   by and among   ARTIVION, INC.,       as Borrower,   CERTAIN SUBSIDIARIES OF THE BORROWER       FROM TIME TO TIME PARTY HER

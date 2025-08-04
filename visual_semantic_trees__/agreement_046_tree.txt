@@ -1,0 +1,251 @@
+AGREEMENT: Long Term Incentive Plan (“LTI Plan”) AMENDED LONG-TERM INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Established: July 27, 2017Exhibit 10.36=
+
+--- (Additional Root Structure) ---
+Article ARTICLE 1
+
+--- (Additional Root Structure) ---
+Content: 1.1For the purposes of this Plan, unless such word or term is otherwise defined herein or the contex...
+
+--- (Additional Root Structure) ---
+Clause (A)
+
+--- (Additional Root Structure) ---
+Clause (B)
+
+--- (Additional Root Structure) ---
+Clause (C)
+
+--- (Additional Root Structure) ---
+Clause (D)
+
+--- (Additional Root Structure) ---
+Clause (E)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i)a consolidation, merger, amalgamation, arrangement or other reorganization or acquisition involvi...
+
+--- (Additional Root Structure) ---
+Clause (iii)
+`-- Content: 50% of the consolidated assets (measured by either book value or fair market value) of the Corporati...
+
+--- (Additional Root Structure) ---
+Clause (iv)
+
+--- (Additional Root Structure) ---
+Clause (v)
+|-- Clause (F)
+`-- Clause (G)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): H.“Eligible Contractors” means (A) persons who are not employees, officers or directors of the Corpo...
+
+--- (Additional Root Structure) ---
+Clause (J)
+
+--- (Additional Root Structure) ---
+Clause (K)
+`-- Content: L.“Participant” means any director, employee, officer or Eligible Contractor of the Corporation or a...
+
+--- (Additional Root Structure) ---
+Clause (M)
+
+--- (Additional Root Structure) ---
+Clause (N)
+
+--- (Additional Root Structure) ---
+Clause (O)
+
+--- (Additional Root Structure) ---
+Clause (P)
+`-- Content: Q.“Retirement” means the Participant ceasing to be an employee, officer or director of the Corporati...
+
+--- (Additional Root Structure) ---
+Clause (R)
+`-- Content: S.“Share Unit” means a unit (which may be referred to as a restricted share unit or a performance sh...
+
+--- (Additional Root Structure) ---
+Clause (T)
+
+--- (Additional Root Structure) ---
+Clause (U)
+
+--- (Additional Root Structure) ---
+Clause (V)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): W.“Termination” means: (i) in the case of a director, the termination of board membership of the dir...
+
+--- (Additional Root Structure) ---
+Clause (Y)
+
+--- (Additional Root Structure) ---
+Clause (Z)
+|-- Content: 1.2The headings of all articles, Sections and paragraphs in this Plan are inserted for convenience o...
+|-- Content: 1.3Whenever the singular or masculine are used in this Plan, the same shall be construed as being th...
+|-- Content: 1.4The words “herein”, “hereby”, “hereunder”, “hereof” and similar expressions mean or refer to this...
+`-- Content: 1.5Unless otherwise specifically provided, all references to dollar amounts in this Plan are referen...
+
+--- (Additional Root Structure) ---
+Article ARTICLE 2
+
+--- (Additional Root Structure) ---
+Heading (L1): PURPOSE AND ADMINISTRATION OF THE PLAN
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.1This Plan provides for the granting of Share Unit Awards and the settlement of such Share Unit Aw...
+
+--- (Additional Root Structure) ---
+Content: 2.2This Plan shall be administered by the Board and the Board shall have full authority to administe...
+
+--- (Additional Root Structure) ---
+Content: 2.3The Corporation shall maintain a register in which it shall record the name and address of each P...
+
+--- (Additional Root Structure) ---
+Content: 2.4Subject to Section 3.1, the Board shall from time to time determine the Participants who may part...
+
+--- (Additional Root Structure) ---
+Content: 2.5The Corporation shall not grant Share Units unless and until the Share Units have been allocated ...
+
+--- (Additional Root Structure) ---
+Article ARTICLE 3
+
+--- (Additional Root Structure) ---
+Heading (L1): SHARE UNITS AWARDS
+|-- Content: 3.1This Plan is hereby established for employees, officers and Eligible Contractors of the Corporati...
+|-- Content: 3.2A Share Unit Award granted to a particular Participant in a calendar year will be a bonus for ser...
+`-- Content: For the avoidance of doubt, a Participant will have no right or entitlement whatsoever to receive an...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.3Subject to the limits on grants set out in section 4.2 and 4.3 of this Plan, the Board may elect,...
+
+--- (Additional Root Structure) ---
+Content: In the event that the grant of additional Share Units would violate the limits on grants set out in ...
+
+--- (Additional Root Structure) ---
+Content: The additional Shares Units will vest on the Participant’s Entitlement Date of the particular Share ...
+
+--- (Additional Root Structure) ---
+Content: 3.4Except as otherwise set forth in this section 3.4, a Share Unit Award granted to a Participant wi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notwithstanding the foregoing, unless the Board determines otherwise, a Participant’s Entitlement Da...
+
+--- (Additional Root Structure) ---
+Clause (ii)
+|-- Content: Subject to Section 3.6, in the event of the Termination with or without cause (or Retirement) of a P...
+`-- Content: For greater certainty, all amounts payable, or Shares to be issued, to, or in respect of a Participa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.5Subject to Section 5.1, the Corporation will satisfy its payment obligation, net of any applicabl...
+
+--- (Additional Root Structure) ---
+Content: In the event the Participant’s Entitlement Date is accelerated as a result of the death or total dis...
+
+--- (Additional Root Structure) ---
+Content: 3.6If a Triggering Event occurs within the 12-month period immediately following a Change of Control...
+
+--- (Additional Root Structure) ---
+Content: 3.7The Corporation will not contribute any amounts to a third party or otherwise set aside any amoun...
+
+--- (Additional Root Structure) ---
+Content: 3.8Each grant of a Share Unit under this Plan shall be evidenced by a Share Unit grant letter agreem...
+
+--- (Additional Root Structure) ---
+Content: 3.9Concurrent with the determination to grant Share Units to a Participant, the Board shall determin...
+
+--- (Additional Root Structure) ---
+Content: 3.10The Board shall establish criteria for the grant of Share Units to Participants.
+
+--- (Additional Root Structure) ---
+Article ARTICLE 4
+
+--- (Additional Root Structure) ---
+Content: 4.1Article 4 shall become effective only on receipt by the Corporation of any Stock Exchange approva...
+
+--- (Additional Root Structure) ---
+Content: Corporation shall have the power, at the Board’s discretion, to satisfy any obligation of the Corpor...
+
+--- (Additional Root Structure) ---
+Content: 4.2An aggregate maximum of 8,915,095 Shares shall be made available for issuance hereunder and under...
+
+--- (Additional Root Structure) ---
+Content: 4.3Notwithstanding anything in this Plan, for so long as the Corporation is subject to the regulatio...
+
+--- (Additional Root Structure) ---
+Clause (a)
+
+--- (Additional Root Structure) ---
+Clause (b)
+
+--- (Additional Root Structure) ---
+Clause (c)
+
+--- (Additional Root Structure) ---
+Clause (d)
+
+--- (Additional Root Structure) ---
+Clause (e)
+|-- Content: (f)Share Units may not be granted to Participants employed or engaged to provide Investor Relations ...
+|-- Content: Where the Corporation is precluded by this Section 4.3 from issuing Shares to a Participant, the Cor...
+`-- Content: 4.4On Article 4 being effective, the Board may from time to time in its discretion (without sharehol...
+
+--- (Additional Root Structure) ---
+Clause (i)
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (ii)typographical errors.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): However, other than as set out above, any amendment, modification or change to the provisions of the...
+
+--- (Additional Root Structure) ---
+Article ARTICLE 5
+
+--- (Additional Root Structure) ---
+Heading (L1): WITHHOLDING TAXES
+`-- Content: 5.1The Corporation or its Affiliates may take such steps as are considered necessary or appropriate ...
+
+--- (Additional Root Structure) ---
+Article ARTICLE 6
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): GENERAL6.1This Plan shall remain in effect until it is terminated by the Board.
+
+--- (Additional Root Structure) ---
+Content: 6.2The Board may amend or discontinue this Plan at any time in its sole discretion, provided that su...
+
+--- (Additional Root Structure) ---
+Content: Any amendment of this Plan shall be such that this Plan will not be considered a “salary deferral ar...
+
+--- (Additional Root Structure) ---
+Content: and/or shareholder approval in respect of amendments to this Plan, to the extent such approvals are ...
+
+--- (Additional Root Structure) ---
+Content: 6.3Except pursuant to a will or by the laws of descent and distribution, no Share Unit and no other ...
+
+--- (Additional Root Structure) ---
+Content: 6.4No holder of any Share Units shall have any rights as a shareholder of the Corporation. Except as...
+
+--- (Additional Root Structure) ---
+Content: 6.5Nothing in this Plan shall confer on any Participant the right to continue as a director, employe...
+
+--- (Additional Root Structure) ---
+Content: 6.6In the event there is any change in the Shares, whether by reason of a stock dividend, consolidat...
+
+--- (Additional Root Structure) ---
+Content: 6.7This Plan replaces the previous Restricted Share Unit Plan of the Corporation (the “RSU Plan”) an...
+
+--- (Additional Root Structure) ---
+Content: 6.8Notwithstanding Section 6.7 above, all “Restricted Share Units” previously granted under the RSU ...
+
+--- (Additional Root Structure) ---
+Content: 6.9For the avoidance of doubt, all payments under this Plan to individuals subject to United States ...
+
+--- (Additional Root Structure) ---
+Content: 6.10If any provision of this Plan or any Share Unit contravenes any law or any order, policy, by-law...
+
+--- (Additional Root Structure) ---
+Content: 6.11This Plan shall be governed by and construed in accordance with the laws of the Province of Brit...

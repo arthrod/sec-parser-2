@@ -1,0 +1,18 @@
+Total parsed elements: 16
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.22
+  2. HeadingElement (level=1): FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+  3. HeadingElement (level=1): AND INCREMENTAL DELAYED DRAW TERM LOAN AGREEMENT
+  4. ContentTextElement (level=4): This FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT AND INCREMENTAL DELAYED DRAW TERM LOAN AGREEMENT (this “Amendment”), dated as of December 12, 2023, is among AGCO CORPORATION, a Delaware 
+  5. HeadingElement (level=1): W I T N E S S E T H:
+  6. TextElement (level=N/A): WHEREAS, Borrowers, the Administrative Agent and the financial institutions party thereto as “Lenders” (each individually, a “Lender” and collectively, the “Lenders”) have entered into that certain Am
+  7. HeadingElement (level=2): Section 5.Miscellaneous.
+  8. TextElement (level=N/A): 1.1.Ratifications. The terms and provisions set forth in this Amendment shall modify and supersede all inconsistent terms and provisions set forth in the Existing Credit Agreement and the other Loan D
+  9. HeadingElement (level=1): BORROWERS:    AGCO CORPORATION
+  10. TextElement (level=N/A): By: /s/ Damon AudiaName: Damon Audia  Title: Senior Vice President and Chief Financial Officer AGCO INTERNATIONAL HOLDINGS B.V.By: /s/ Roger N. Batkin Name: Roger N. Batkin  Title: Director By: /s/ Ad
+  11. HeadingElement (level=1): GUARANTORS:    AGCO CORPORATION
+  12. TextElement (level=N/A): By: /s/ Damon AudiaName: Damon Audia  Title: Senior Vice President and Chief Financial Officer MASSEY FERGUSON CORP.By: /s/ Todd A. Wear Name: Todd A. Wear  Title: President
+  13. HeadingElement (level=1): THE GSI GROUP INC.
+  14. TextElement (level=N/A): By: /s/ Andrew K. Jones Name: Andrew K. Jones  Title: Vice President[Signature Page to First Amendment to A&R Credit Agreement]
+  15. HeadingElement (level=1): ADMINISTRATIVE AGENT    COÖPERATIEVE RABOBANK U.A., NEW
+  16. TextElement (level=N/A): AND LENDER:    YORK BRANCH, as Administrative Agent and a Lender By: /s/ Anthony FidanzaName: Anthony Fidanza Title: Executive DirectorBy: /s/ Eric Hurshman Name: Eric Hurshman  Title: Managing Direct

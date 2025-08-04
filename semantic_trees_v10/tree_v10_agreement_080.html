@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exhibit 10.1</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EIGHTH AMENDMENT TO</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SECOND AMENDED AND RESTATED CREDIT AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: THIS EIGHTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: AGREEMENT (this “Amendment”) dated effective as of the 13th day of March, 2024 (the “Eighth Amendm...ssociation having an address at 225 Franklin Street, 16th Floor, Boston, Massachusetts (“Lender”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: W I T N E S S E T H</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: WHEREAS, Borrower and Lender are parties to that certain Second Amended and Restated Credit Agreem...t.NOW, THEREFORE, in consideration of the premises, Borrower hereby agrees with Lender as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 1.Defined Terms; Amendments to Credit Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Unless otherwise defined herein, terms which are defined in the Original Agreement and used her... Loan Document shall be true and correct in all material respects as of the Eighth Amendment Date.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 3.Representations and Warranties.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)The representations and warranties set forth in the Credit Agreement are true and correct as of...connection with the Credit Agreement, the Loan Documents, and any other documents relating thereto</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 13.Miscellaneous.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)All costs and expenses of Lender, including, without limitation, appraisal fees and reasonable ...ilar format) shall be effective as an in-hand delivery of an original executed counterpart hereof.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: [SIGNATURE PAGES FOLLOW]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 4 IN WITNESS WHEREOF, the undersigned has caused this Amendment to be duly executed and delivered as of the date first above written.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: BORROWER:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SSSHT OPERATING PARTNERSHIP, L.P., a Delaware limited partnership</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: by:	Strategic Student &amp; Senior Housing Trust, Inc. a Maryland corporation, its General Partner By: /s/ H. Michael Schwartz H. Michael Schwartz, Chairman/s/ H. Michael Schwartz H. Michael Schwartz</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: NOBLE PPS, LLC</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: By: /s/ H. Michael Schwartz H. Michael Schwartz, Manager</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: STRATEGIC ASSET MANAGEMENT I, LLC</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: By: /s/ H. Michael Schwartz H. Michael Schwartz, Manager</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: LENDER:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: KEYBANK NATIONAL ASSOCIATION</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: By: /s/ Christopher T. Neil Christopher T. Neil, Senior BankerWith respect to Sections 10 and 12 only:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: GUARANTOR:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: STRATEGIC STUDENT &amp; SENIOR HOUSING TRUST, INC, a Maryland corporationBy: /s/ H. Michael Schwartz H. Michael Schwartz, Chairman</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Exhibit A</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Conformed Credit Agreement</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: See attached.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: EXECUTION VERSION</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Composite Through SeventhEXHIBIT A To Eighth Amendment to Second Amended and Restated Credit Agreement</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SECOND AMENDED AND RESTATED CREDIT AGREEMENT</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: dated as of February 23, 2018 among SSSHT OPERATING PARTNERSHIP, L.P.,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: H. MICHAEL SCHWARTZ,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: and</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: NOBLE PPS, LLC,</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: and</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: STRATEGIC ASSET MANAGEMENT I, LLC,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: as Borrower and</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: KEYBANK NATIONAL ASSOCIATION,</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: as Lender</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: TABLE OF CONTENTS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE I.	DEFINITIONS 1</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 1.01	Defined Terms 1 Section 1.02	Classification of Loans and Borrowings 2528 Section 1.03...n 1.04	Accounting Terms; GAAP 2528Section 1.05	Benchmark Notification	29 Section 1.06	Divisions	29</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE II.	THE LOANS 2629</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 2.01	Commitment 2629 Section 2.02	Loans and Borrowings 2629Section 2.03	Requests for Addit...s Generally; Pro Rata Treatment; Sharing of Set-offs 3638 Section 2.16	Mitigation Obligations 3638</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE III.	REPRESENTATIONS AND WARRANTIES 3639</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 3.01	Organization; Powers 3739 Section 3.02	Authorization; Enforceability 3739Section 3.03...ion 3.20	Other Indebtedness 4345 Section 3.21	Survival of Representations and Warranties, Etc 4345</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IV.	CONDITIONS 44</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Section 4.01	Effective Date 44 Section 4.02	Additional Loans[RESERVED]	45</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE V.	AFFIRMATIVE COVENANTS 45</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: - ii -Section 5.01	Financial Statements and Other Information 45 Section 5.02	Financial Covenants ...rests; Fayetteville Distributions 50 ARTICLE VI.	ENTITIES; FUNDED PROPERTIES; PROPERTY LEVEL DEBT;</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SECURITY FOR OBLIGATIONS 50</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 6.01	MBK Entities and MBK Property[Reserved] 50 Section 6.02	Property Level Debt and Prope...6.04	Entity Consents 5352Section 6.05	Additional Assurances 5352 Section 6.06	Partial Release 5352</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE VII.	NEGATIVE COVENANTS 5452</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 7.01	Liens 5452 Section 7.02	Fundamental Changes 5453- iii -Section 7.03	Investments, Loan... Assets 5755Section 7.13	Sanctions; Anti-Corruption Laws 5755 ARTICLE VIII.	EVENTS OF DEFAULT 5756</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IX.	MISCELLANEOUS 5957</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Section 9.01	Notices 5957 Section 9.02	Waivers; Amendments 6058Section 9.03	Expenses; Indemnity; D...bit C	- Form of Credit Agreement SupplementExhibit D	-    Form of Fee Subordination Agreement- v -</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SECOND AMENDED AND RESTATED CREDIT AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: THIS AMENDED AND RESTATED CREDIT AGREEMENT (“Agreement”) is made and entered into as of February 2...dit Agreement expressly survive termination thereof) in its entirety by this Agreement as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE I. DEFINITIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: SECTION 1.01Defined Terms. As used in this Agreement, the following terms have the meanings specif...Restated Credit Agreement dated as of the Fifth Amendment Date by and between Borrower and Lender.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Fifth Amendment Date” means November 13, 2020.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Fifth Amendment Modification Fee” has the meaning set forth in Section 2.09(h)(ii).“Fifth Amendme...estated Credit Agreement dated as of the Fourth Amendment Date by and between Borrower and Lender.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Fourth Amendment Date” means February 27, 2020.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Fourth Amendment Date Net Worth” means the Net Worth (SSSHT) as of December 31, 2019, as disclose... respect to each MBK Property, as may be amended from time to time as permitted by this Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “MBK Maturity Date” means April 30, 2024.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “MBK Property” means those certain real properties located at (a) 4522 South 1300 East, Salt Lake ...s, provided, however, that in no event shall Obligations include any Excluded Hedging Obligations.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Original Closing Date” means September 28, 2017.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Original Credit Agreement” as defined in the Preamble hereto.“Other Taxes” means any and all pres...stribution Period” has the meaning set forth in the definition of “Permitted Restricted Payments”.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Permitted Encumbrances” means:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Liens imposed by law for taxes that are not yet due or are being contested in compliance with S...e Agreement (SSOP II) or Equity Interest Pledge Agreement (SST II) as a pledgor from time to time.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Portland Closing Date” means August 31, 2018.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Portland Commitment” means, collectively,has the Portland Initial Commitment and the Portland Del...pect to the Portland Property, as may be amended from time to time as permitted by this Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Portland Maturity Date” means April 30, 2024.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Portland Property” means that certain real property located in Portland, Oregon to be known as “C...estated Credit Agreement dated as of the Second Amendment Date by and between Borrower and Lender.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Second Amendment Date” means March 29, 2019.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Security Documents” means the Equity Interest Pledge Agreement, the Pledge Agreement (SSSST Distr...stated Credit Agreement dated as of the Seventh Amendment Date by and between Borrower and Lender.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Seventh Amendment Date” means October 28, 2022.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Seventh Amendment Extension Fee” has the meaning set forth in Section 2.09(l).“Sixth Amendment” m...Restated Credit Agreement dated as of the Sixth Amendment Date by and between Borrower and Lender.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Sixth Amendment Date” means November 9, 2021.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Sixth Amendment Extension Fee” has the meaning set forth in Section 2.09(j).“SOFR” or “SOFR Rate”...s, as of such date, otherwise Controlled, by the parent or one or more subsidiaries of the parent.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Tallahassee Payoff Date” means November 15, 2017.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Taxes” means any and all present or future taxes, levies, imposts, duties, deductions, charges, o...Restated Credit Agreement dated as of the Third Amendment Date by and between Borrower and Lender.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “Third Amendment Date” means December 4, 2019.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Third Party Information” has the meaning set forth in Section 3.12. “Ticking Fee” has the meaning...reau, district, authority, agency, central bank, or instrumentality, or any arbitration authority.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: “TRS” means SSSHT TRS, Inc., a Delaware corporation.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: “Trust Interests” means the beneficial interests in Fayetteville DST Property Owner which will be ...Credit Party, joint venture or any other like term shall also constitute such a Person or entity).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE II. THE LOANS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.01Commitment.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Lender agrees to makemade a term loan to Borrower in a single advance on the Effective Date in ...land Initial Loan, the “Portland Loan”).(iii) Once repaid, the Portland Loan cannot be reborrowed.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.02Loans and Borrowings.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Subject to Section 2.11, each Loan shallwas initially be comprised solely of ABRBase Rate Borro...ct thereto would end after the earlier of the applicable Maturity Date or the Termination Date. 36</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.03Requests for Additional Loans.[Reserved].</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)       To request an Additional Loan, Borrower shall notify Lender of such request in writing  ...such other account or in such manner as may be designated by Borrower in the Borrowing Request. 37</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.05Interest Elections.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Each Borrowing initially shall bewas of the Type specified in the applicable Borrowing Request ...itional Loan shall terminateterminated upon the funding of such Additionalthe final Portland Loan.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.07Repayment of Loans; Evidence of Debt.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Repayment of Loans.(i)MBK Loan; Extension Option.(i)(A) At Maturity. Subject to the terms of Se...he obligation of Borrower to repay the Obligations in accordance with the terms of this Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.08Prepayment of Loans.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower shall have the right at any time and from time to time to permanently prepay, without ...ed and is continuing, include remitting such remaining funds to Borrower or the applicable Entity.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.09Fees.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)If Borrower shall fail to make any payment hereunder (other than the payment due at maturity) w...er. Fees paid shall be deemed earned in full when paid and not refundable under any circumstances.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.10Interest.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Each ABRBase Rate Borrowing shall bear interest at the lesser of (x) the Adjusted Base Rate, or...R shall be determined by Lender, and such determination shall be conclusive absent manifest error.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.11LIBORSOFR Rate Lending Unlawful; Inability to Determine Rate.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)If Lender shall determine (which determination shall, upon notice thereof to Borrower, be concl...h tenor for such Benchmark, as applicable, will not be used in any determination of the Base Rate.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.12Increased Costs.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)If any Change in Law shall:(i)impose, modify or deem applicable any reserve, special deposit or...e amount shown as due on any such certificate within fifteenten (1510) days after receipt thereof.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.14Taxes.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Any and all payments by or on account of any obligation of Borrower hereunder shall be made fre...mitments and the repayment, satisfaction, or discharge of all obligations under any Loan Document.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 2.15Payments Generally; Pro Rata Treatment; Sharing of Set-offs.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower shall make each payment required to be made by it hereunder (whether of principal, int...ented costs and expenses incurred by Lender in connection with any such designation or assignment.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE III. REPRESENTATIONS AND WARRANTIES</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Borrower represents and warrants to Lender that:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: SECTION 3.01Organization; Powers. Each Credit Party and each Entity, as applicable, (a) is duly or...y Lien on any assets of the Credit Parties or Entities, except pursuant to the Security Documents.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 3.04Financial Condition; No Material Adverse Change.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)SSSHT has heretofore furnished to Lender financial statements for the fiscal quarter ended Sept...72022, no event has occurred which could reasonably be expected to have a Material Adverse Effect.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 3.05Collateral.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Each Credit Party has title to, or valid leasehold interests in, all real and personal property...eatened, the outcome of which could reasonably be expected to result in a Material Adverse Effect.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 3.07Litigation and Environmental Matters.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)There are no actions, suits or proceedings by or before any arbitrator or Governmental Authorit...cable); (v) taxpayer identification number and (vi) a description of the Equity Interests therein.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 3.17Additional Representations and Warranties Regarding the Entities and Funded Properties.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Ownership Structure. As of the Effective Date, Schedule 3.17(a) is a complete and correct organ...such time the corresponding Additional Loan is made and (ii) be subject to the Release Provisions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IV. CONDITIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: SECTION 4.01Effective Date. The obligations of Lender to make the MBK Loan hereunder shall not bec...yed Draw Commitment as in effect on the date of funding of such Portland Delayed Draw Loan.(h)  59</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IV. [RESERVED]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE V. AFFIRMATIVE COVENANTS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Until the principal of and interest on the Loans and all fees payable hereunder shall have been pa...icate substantially in the form of Exhibit A-4 attached hereto (“Monthly Compliance Certificate”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.02Financial Covenants.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Individual Borrower. Individual Borrower shall at all times have and maintain, on a consolidate...could result in a Lien on a Funded Property or the Collateral or for borrowed funds in any amount.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.06Maintenance of Properties; Insurance.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower (other than Individual Borrower) will (i) keep and maintain all property necessary to ...e provided with evidence of such prepayment of insurance premiums prior to notice of cancellation.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.07Books and Records; Inspection Rights.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower will, and will cause each Credit Party and Entity to, keep proper books of record and ...rs and independent accountants, all at such reasonable times and as often as reasonably requested.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.08Compliance with Laws.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower will, and will cause each Credit Party and Entity to, comply with all laws, rules, reg...y to maintain) as its fiscal year the twelve (12) month period ending on December 31 of each year.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.11Environmental Matters.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower shall comply and shall cause each Credit Party, each Entity and each Real Property own...except such noncompliance could not reasonably be expected to result in a Material Adverse Effect.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.12[Intentionally deleted].</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: SECTION 5.13Property Management. Borrower shall cause each Property Owner to provide (directly or ...ponding Loan, to maintain SSSHT Property Manager as the property manager for such Funded Property.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.14SSSHT Stock.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Marketing. Borrower will cause SSSHT to use commercially reasonable efforts to market and sell ...t Memorandum or a Registered Public Offering and this Agreement and subsequent sales by Investors.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 5.15Debt Service Account.Fayetteville DST Offering; Fayetteville Distributions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)SSSHTOP shall maintain the Interest Reserve Account at all times subject to the Reserve Account...TOP shall apply such proceeds to the Obligations as and when required pursuant to Section 2.08(d).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE VI.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ENTITIES; FUNDED PROPERTIES; PROPERTY LEVEL DEBT; SECURITY FOR OBLIGATIONS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: SECTION 6.01MBK Entities and MBK Property. Prior to the Effective Date, Lender shall be satisfied ... hereby.(m)Borrower shall deliver to Lender such other information reasonably requested by Lender.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 6.01[Reserved].</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: SECTION 6.02Property Level Debt and Property Loan Documents. To the extent not prohibited by this ...ntities in connection with their respective Funded Property (collectively, “Property Level Debt”).</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 6.03Security for the Obligations.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Security. The Obligations, inclusive of accrued and unpaid interest, and all other charges and ...of the Borrower or Credit Parties for as long as any such Entity constitutes a Subsidiary thereof.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE VII. NEGATIVE COVENANTS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">├── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: Until the principal of and interest on the Loans and all fees payable hereunder have been paid in full and the Commitments have been terminated, the Borrower covenants and agrees with Lender that:</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 7.01Liens.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Equity Interests.(i)Except for the Liens described in Section 3.17(b) which exist on the Effect...tioned or delayed. Lender hereby approves the SSSHT Property Manager and MSL as property managers.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 7.10Property Loan Documents.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower shall not permit, or permit any Credit Party or Entity to cause, any Property Loan Doc...material respect without the prior written consent of the Lender, not to be unreasonably withheld.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 7.12Ownership of Assets.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)SSSHT will not own or lease any property other than Equity Interests in SSSHTOP. SSSHTOP will n...ase any property other than Equity Interests in its related Entities and property related thereto.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 7.13Sanctions; Anti-Corruption Laws.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)No Credit Party shall (or shall permit any Subsidiary to) directly or indirectly, use any Loan ...977, the UK Bribery Act 2010 and other similar anti-corruption legislation in other jurisdictions.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE VIII. EVENTS OF DEFAULT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: If any of the following events (“Events of Default”) shall occur:(a)Borrower shall fail to pay any...sentment, demand, protest or other notice of any kind, all of which are hereby waived by Borrower.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: ARTICLE IX. MISCELLANEOUS</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: SECTION 9.01Notices. Except in the case of notices and other communications expressly permitted to...tion 9.01; provided that notices to Lender under Article II shall not be effective until received.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 9.02Waivers; Amendments.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)No failure or delay by Lender in exercising any right or power hereunder or under any other Loa...d except pursuant to an agreement or agreements in writing entered into by Borrower and Lender. 75</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 9.03Expenses; Indemnity; Damage Waiver.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Borrower shall pay (i) all reasonable out-of-pocket expenses incurred by Lender and its Affilia...ed hereby, the repayment of any Loan or the termination of this Agreement or any provision hereof.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 9.06Counterparts; Integration.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)This Agreement may be executed in counterparts (and by different parties hereto on different co...in addition to other rights and remedies (including other rights of setoff) which Lender may have.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 9.09Governing Law; Jurisdiction; Consent to Service of Process.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)This Agreement shall be governed by, and construed in accordance with, the laws of the Commonwe...t or any other Loan Document against Borrower or its properties in the courts of any jurisdiction.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: Notwithstanding the foregoing choice of law:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (i)matters relating to the creation, perfection, priority and enforcement of the liens on and secu... other information that will allow Lender to identify Borrower in accordance with the Patriot Act.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 9.15Additional Waivers and Agreements.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Notwithstanding any provision contained in this Agreement or any other Loan Document to the con...OR INSTRUMENT CONTEMPLATED HEREBY, THE TRANSACTIONS, THE LOANS OR THE USE OF THE PROCEEDS THEREOF.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: SECTION 9.16Amendment and Restatement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)Amendment and Restatement; No Novation. This Agreement amends, restates, replaces and supersede... the Original Credit Agreement shall mean this Agreement.(The next page is the signature page.) 81</span>
+</div>
+    </div>
+</body>
+</html>

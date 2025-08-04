@@ -1,0 +1,197 @@
+AGREEMENT: Investment
+Agreement
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ID
+No.:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Address: .
+
+--- (Additional Root Structure) ---
+Content: Party
+B: Beijing ABGreen Reverse Supply Chain Management Co., LTD. (tentative) (hereinafter referred...
+
+--- (Additional Root Structure) ---
+Heading (L2): Unified
+Social Credit Code:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Legal
+Representative: Tang Baitong (tentative)Party
+C: Shenzhen Carbon Zero Technology Co., Ltd (her...
+
+--- (Additional Root Structure) ---
+Heading (L2): Address:
+`-- Content: Party
+A is a natural person in China, Party B is a corporate body to be established and registered i...
+
+--- (Additional Root Structure) ---
+Heading (L2): In
+consideration of:
+|-- Content: Through
+the necessary business investigation and understanding of Party B and Party D, Party A recog...
+`-- Content: According
+to the General Principles of the Civil Law, Contract Law and Company Law of the People’s R...
+
+--- (Additional Root Structure) ---
+Article Article 1: Nature and Business Scope of Party B
+
+--- (Additional Root Structure) ---
+Content: 1.
+Party B is proposed to be Beijing ABGreen Reverse Supply Chain Management Co., Ltd. and there are...
+
+--- (Additional Root Structure) ---
+Section 2: Party B is located in Beijing.
+
+--- (Additional Root Structure) ---
+Section 3: Party B is a limited liability company.
+`-- Content: 4.
+Party B’s business scope: supply chain management services; research and development of renewable...
+
+--- (Additional Root Structure) ---
+Article Article 2: Investment Plan
+
+--- (Additional Root Structure) ---
+Content: 1.
+The registered capital of Party B proposed to establish is RMB 849,687. Party B agrees to introdu...
+
+--- (Additional Root Structure) ---
+Content: 2.
+With the unanimous consent of party A, Party B and Party D, Party A shall increase the capital of...
+
+--- (Additional Root Structure) ---
+Article Article 3: Method of Payment
+
+--- (Additional Root Structure) ---
+Content: 1.
+Due to the business time planning, industrial and commercial business scope, industrial and comme...
+
+--- (Additional Root Structure) ---
+Content: 2.
+Upon signing this Agreement, Party A shall transfer the full amount of investment funds to the ac...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Account
+name: Shenzhen Carbon Zero Technology Co., LtdAccount
+No.: 755961843610301
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Bank: China Merchants Bank
+Shenzhen Xili branch3.
+Upon the completion of Party B’s business registra...
+
+--- (Additional Root Structure) ---
+Article Article 4: Equity Registration
+
+--- (Additional Root Structure) ---
+Content: In
+order to ensure that the investment is in line with the laws, regulations and policies, after the...
+
+--- (Additional Root Structure) ---
+Article Article 5: Exercise of Shareholders’ Rights and Obligations
+
+--- (Additional Root Structure) ---
+Content: After
+the completion of the establishment of Party B’s industrial and commercial registration, in ac...
+
+--- (Additional Root Structure) ---
+Article Article 6: Corporate Governance
+
+--- (Additional Root Structure) ---
+Content: 1.
+After the completion of the establishment of Party B’s industrial and commercial registration, a ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.
+Handling of major matters
+
+--- (Additional Root Structure) ---
+Content: In
+case of the following major matters, the company shall reach a unanimous resolution by both parti...
+
+--- (Additional Root Structure) ---
+Clause (1): To provide guarantee for shareholders, other enterprises or individuals by the company;
+
+--- (Additional Root Structure) ---
+Clause (2): Decide on the company’s business policies and investment plans.
+
+--- (Additional Root Structure) ---
+Article Article 7: Other Matters
+
+--- (Additional Root Structure) ---
+Content: Other
+outstanding matters of this Agreement, Party A, B and C may, according to the progress of the ...
+
+--- (Additional Root Structure) ---
+Article Article 8: Confidentiality Obligation
+
+--- (Additional Root Structure) ---
+Content: All
+parties to the agreement undertakes to keep confidential the documents and information learned i...
+
+--- (Additional Root Structure) ---
+Article Article 9: Liability
+
+--- (Additional Root Structure) ---
+Content: If
+Party B fails to complete the establishment of industrial and commercial registration due to the ...
+
+--- (Additional Root Structure) ---
+Article Article 10: Dispute Resolution
+
+--- (Additional Root Structure) ---
+Content: All
+disputes arising out of or in connection with the fulfillment of this Agreement shall be resolve...
+
+--- (Additional Root Structure) ---
+Article Article 11: Effectiveness of the Agreement and Others
+
+--- (Additional Root Structure) ---
+Content: 1.
+This Agreement shall come into force upon being signed and sealed by the authorized representativ...
+
+--- (Additional Root Structure) ---
+Content: 2.
+This Agreement is made in quadruplicate, with Party A, B, C and D holding one copy and each copy ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (No
+text available below)(This
+is the signing page of this Agreement with no text)
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+A:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+B:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Legal/
+Authorized Representative:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+C:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Legal/
+Authorized Representative:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:
+
+--- (Additional Root Structure) ---
+Heading (L2): Party
+D:
+
+--- (Additional Root Structure) ---
+Heading (L2): Date:

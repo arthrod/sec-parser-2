@@ -1,0 +1,8 @@
+Total parsed elements: 6
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.21.16
+  2. HeadingElement (level=1): AMENDMENT NUMBER 12 TO THE
+  3. HeadingElement (level=1): METLIFE AUXILIARY RETIREMENT PLAN
+  4. TextElement (level=N/A): (As amended and restated effective January 1, 2008)The MetLife Auxiliary Retirement Plan (the “Plan”) is hereby amended, effective as of December 1, 2023, as follows:Section 4.9 shall be added with th
+  5. HeadingElement (level=1): METROPOLITAN LIFE INSURANCE COMPANY
+  6. TextElement (level=N/A): By: __/s/ Andrew J. Bernstein______________________________ Andrew J. Bernstein, Plan AdministratorATTEST: ___/s/ Danielle Hodorowski___________________________________

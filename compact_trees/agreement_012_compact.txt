@@ -1,0 +1,24 @@
+Total parsed elements: 22
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.4
+  2. HeadingElement (level=1): EMPLOYMENT AGREEMENT
+  3. TextElement (level=N/A): This Employment Agreement (the “Agreement”) is made and entered into effective the 1st day of January, 2024 (the “Effective Date”), by and between Northrim BanCorp, Inc. and its wholly owned subsidiar
+  4. HeadingElement (level=2): 5.Termination of Agreement.
+  5. TextElement (level=N/A): a.Termination Due to a Change of Control. If (A) Employer (either Northrim BanCorp, Inc. or Northrim Bank) is subjected to a Change of Control (as defined in Section 5.f.(i)), and (B) either Employer 
+  6. HeadingElement (level=2): d.Termination Due to Total Disability.
+  7. TextElement (level=N/A): If Executive shall have been unable to perform his duties due to a Total Disability (as defined in Section 5.f.(iv)), then Employer may at any time after the end of the applicable period of nonperform
+  8. HeadingElement (level=2): e.Termination Upon Death of Executive.
+  9. ContentTextElement (level=4): Executive’s employment under this Agreement shall be terminated upon the death of Executive. In such case, the Employer shall be obligated to pay to the surviving spouse of Executive, or if there is n
+  10. HeadingElement (level=2): f.Termination Definitions.
+  11. TextElement (level=N/A): (i)“Change of Control.” For purposes of this Agreement, the term “Change of Control” shall mean the occurrence of one or more of the following events: (A) one person or entity acquiring or otherwise b
+  12. HeadingElement (level=2): 12.Miscellaneous.
+  13. TextElement (level=N/A): a.    This Agreement contains the entire agreement between the parties with respect to Executive’s employment with Employer, and is subject to modification or amendment only upon agreement in writing 
+  14. HeadingElement (level=2): Employer:
+  15. TextElement (level=N/A): 3111 “C” StreetAnchorage, AK 99503
+  16. HeadingElement (level=2): Executive:
+  17. TextElement (level=N/A): Address on file with Northrim Bank Human Resources Department.f.    This Agreement shall in all respects, including all matters of construction, validity and performance, be governed by and construed 
+  18. HeadingElement (level=1): EMPLOYER:
+  19. HeadingElement (level=1): NORTHRIM BANK
+  20. TextElement (level=N/A): By: /s/Krystal M. Nelson Krystal M. NelsonIts: Chairman of the Compensation Committee of the Board of Directors
+  21. HeadingElement (level=1): EXECUTIVE:
+  22. TextElement (level=N/A): /s/Benjamin Craig    Benjamin Craig

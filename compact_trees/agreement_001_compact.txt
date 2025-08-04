@@ -1,0 +1,7 @@
+Total parsed elements: 5
+Element types and content:
+  1. HeadingElement (level=2): Exhibit 10.1
+  2. HeadingElement (level=1): AMENDMENT TO EMPLOYMENT AGREEMENT
+  3. TextElement (level=N/A): This Amendment (the “Amendment”) is made as of February 21, 2024 , and amends the Employment Agreement dated April 22, 2021 between Myomo, a Delaware corporation (the “Company”), and David Henry (the 
+  4. HeadingElement (level=2): Myomo, Inc.
+  5. TextElement (level=N/A): By:	/s/ Paul R. Gudonis__ Paul R. GudonisIts: CEO	____________ Executive/s/  David Henry___________ David Henry3

@@ -1,0 +1,9 @@
+Total parsed elements: 7
+Element types and content:
+  1. HeadingElement (level=1): EXHIBIT 10.16
+  2. HeadingElement (level=1): THE HARTFORD 2020 STOCK INCENTIVE PLAN
+  3. TextElement (level=N/A): 1.PurposeThe purpose of this 2020 Stock Incentive Plan (the "Plan") of The Hartford Financial Services Group, Inc. (the “Company”), is to attract, retain, motivate and reward sustained long-term perfo
+  4. HeadingElement (level=2): 12.General Provisions Applicable to Awards
+  5. TextElement (level=N/A): a.Transferability of Awards. Awards granted under the Plan, and during any period of restriction on transferability, Shares issued in connection with the exercise of an Option or a SAR or the vesting 
+  6. HeadingElement (level=2): 13.Miscellaneous
+  7. TextElement (level=N/A): a.No Right to Employment or Other Status.  No person shall have any claim or right to be granted an Award by virtue of the adoption of the Plan, and the grant of an Award shall not be construed as giv

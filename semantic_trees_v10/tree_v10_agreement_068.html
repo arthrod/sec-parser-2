@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Semantic Tree Visualization</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .tree-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+        .tree-node {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+            margin: 2px 0;
+            padding: 4px 0;
+            transition: background-color 0.2s;
+        }
+        .tree-node:hover {
+            background-color: #f0f8ff;
+        }
+        .tree-indent {
+            color: #999;
+        }
+        .element-type {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .element-content {
+            color: #333;
+        }
+        .level-0 .element-type {
+            color: #28a745;
+            font-size: 1.1em;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree-container">
+        <h1>Semantic Tree Visualization</h1>
+<div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Exhibit
+10.12</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: DATED
+THIS DAY OF 2022</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: BETWEEN</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: MYISCO
+SDN BHD</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (Registration
+No: 201901046119)(1355449-A)AND</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: SUPER
+APPS HOLDINGS SDN BHD</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (Registration
+No: 202201014353)(1460050-W) Field: /Rule-Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: COLLABORATION
+AGREEMENT</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Field: /Rule-Page  Field: /Page This
+Collaboration Agreement (the “Agreement”) is made and entered... may be referred to in this Agreement individually as a “Party” and collectively as the “Parties”.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: RECITALS:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: A.
+    
+MYISCO
+    is a digital Islamic financial services platform catering to the cooperative se... made clear that MYISCO is not an agent to the
+    Financing Partner and vice versa.
+ Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: NOW
+IT IS HEREBY AGREED as follows:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 1.
+DEFINITION AND INTERPRETATION
+
+ 
+ 
+
+1.1
+Definition
+
+ 
+ 
+
+ 
+In this Agreement, unless
+  the cont...t:
+
+ 
+ 
+
+ 
+Bank
+    Account Name: [●] Bank
+
+ 
+ 
+
+ 
+Account
+    No.: [●]
+
+ 
+ 
+
+ 
+Bank
+    Name: [●]</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 3.
+FINANCING PARTNER’S
+  OBLIGATIONS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 3.1
+    
+The
+    Financing Partner shall be deemed aware of and shall comply with all Applicable L...s part of identifying qualified financing application
+    to be approved by the Financing Partner.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 4.
+OBLIGATIONS OF MYISCO</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 4.1
+MYISCO
+    shall provide the Personal Financings with due diligence and efficiency and in acco... six (6) months or more within fourteen (14) days of receipt of notice from the Financing Partner.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 5.
+MUTUAL OBLIGATIONS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">HeadingElement (level=2)</span>
+  <span class="element-content">: 5.1
+Both Parties shall:</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: (a)
+    
+provide
+    the other with reasonable information and other support, advise, consultation...mical
+    or inefficient use of, the facilities or resources made available, if any.
+ Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 6.
+CONFIDENTIALITY</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 6.1
+    
+Neither
+    the Financing Partner nor MYISCO shall, without the prior written approval of...ve for MYISCO and the Financing Partner shall survive termination of this Agreement.
+ Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 7.
+DATA PROTECTION</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 7.1
+    
+In
+    relation to Personal Data obtained by MYISCO in connection with this Agreement, MY...ting to this Agreement may be retained in accordance with any requirements of Applicable
+    Laws.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 8.
+INTELLECTUAL PROPERTY RIGHTS</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 8.1
+    
+The
+    Financing Partner acknowledges that the MYISCO Wallet contains confidential propr...t disclosed hereunder shall not be disclosed or used other than for the purpose of this Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 9.
+EXCLUSIVITY</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: This
+Agreement is non-exclusive in nature and this agreement will not prohibit either parties from entering into such business arrangement
+with other parties. Field: /Page</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 10.
+TERMINATION</span>
+</div>
+<div class="tree-node level-1">
+  <span class="tree-indent">└── </span>
+  <span class="element-type">ContentTextElement (level=4)</span>
+  <span class="element-content">: 10.1
+    
+Notwithstanding
+    the provisions hereinabove, this Agreement may be terminated by the ... or at law in respect of any antecedent breach by the Parties of any provisions of this Agreement.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 11.
+INDEMNITIES AND LIABILITIES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 11.1
+    
+The
+    Financing Partner releases and indemnifies MYISCO, its’ employees, servants and ...s limitation shall
+    not apply to the Financial Partner’s liability set out in Clause 11 herein.</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: 12.
+NOTICES</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: 12.1
+    
+Service
+    of notice
+
+ 
+ 
+
+ 
+A
+    notice or other communication required or permitted ...031 - 71 - 5099
+
+Name
+    
+:
+    Nur Fakhira Hadikah
+
+ 
+ 
+
+Designation
+    
+:
+    Business Analyst</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">HeadingElement (level=1)</span>
+  <span class="element-content">: THE
+FINANCING PARTNER</span>
+</div><div class="tree-node level-0">
+  <span class="tree-indent"></span>
+  <span class="element-type">TextElement (level=N/A)</span>
+  <span class="element-content">: Signed
+    by 
+)
+ 
+ 
+
+for
+    and behalf of 
+)
+ 
+ 
+
+SUPER
+    APPS SDN BHD 
+)
+ 
+ 
+
+(Registration
+ ... with access to Sistem Potongan Gaji  ANGKASA.
+
+ 
+ 
+ 
+
+ 
+4.
+Conditions
+    Precedent
+ Field: /Page</span>
+</div>
+    </div>
+</body>
+</html>

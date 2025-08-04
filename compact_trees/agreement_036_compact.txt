@@ -1,0 +1,10 @@
+Total parsed elements: 8
+Element types and content:
+  1. HeadingElement (level=1): RESTRICTED STOCK RIGHTS ISSUED UNDER
+  2. ContentTextElement (level=4): Amended and Restated RYDER SYSTEM, INC. 2019 EQUITY AND INCENTIVE COMPENSATION PLAN
+  3. HeadingElement (level=1): 20XX TERMS AND CONDITIONS
+  4. TextElement (level=N/A): The following terms and conditions apply to the Restricted Stock Rights (the “RSRs”) granted in 20XX by Ryder System, Inc. (the “Company”) under the Amended and Restated Ryder System, Inc. 2019 Equity
+  5. HeadingElement (level=2): (c)Termination by Reason of Retirement:
+  6. TextElement (level=N/A): (i)If the Participant’s employment terminates on account of a Qualified Retirement and Section 4(c) below does not apply, then any unvested RSRs shall continue to vest pursuant to the vesting schedule
+  7. HeadingElement (level=2): 13.Definitions.
+  8. TextElement (level=N/A): (a)“Proscribed Activity” means any of the following to the extent permitted by applicable law:(i)the Participant’s breach of any written agreement between the Participant and the Company or any of its

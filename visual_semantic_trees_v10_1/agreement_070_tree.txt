@@ -1,0 +1,98 @@
+TextElement (Lvl: ?): Exhibit 10.11
+
+--- (Additional Root Structure) ---
+Heading (L1): THE GETTY IMAGES HOLDINGS, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): EARN OUT PLAN
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Restricted Stock Unit Award AgreementThis Restricted Stock Unit Award Agreement (this “Agreement”) i...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+`-- Content: WHEREAS, the Company has adopted the Getty Images Holdings, Inc. Earn Out Plan (as may be further am...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW THEREFORE, in consideration of the premises and mutual covenants set forth in this Agreement, th...
+
+--- (Additional Root Structure) ---
+Content: 2.Vesting and Forfeiture. Subject to the terms and conditions set forth in the Plan and this Agreeme...
+
+--- (Additional Root Structure) ---
+Content: (a)One-third (1/3) of the RSUs granted to a Participant shall vest upon the First Price Triggering E...
+
+--- (Additional Root Structure) ---
+Content: (b)One-third (1/3) of the RSUs granted to a Participant shall vest upon the Second Price Triggering ...
+
+--- (Additional Root Structure) ---
+Content: (c)One-third (1/3) of the RSUs granted to a Participant shall vest upon the Third Price Triggering E...
+
+--- (Additional Root Structure) ---
+Content: (d)Each Triggering Event shall occur only once, if at all.
+
+--- (Additional Root Structure) ---
+Content: (e)Termination of Service. Upon a termination of a Participant’s service for any reason or no reason...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1(f)Forfeiture. In the event any portion of the RSUs have not vested prior to the end of the Earn-Ou...
+
+--- (Additional Root Structure) ---
+Content: (g)Acceleration Event. If, during the Earn Out Period, there is a Change of Control that will result...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Payment.
+
+--- (Additional Root Structure) ---
+Content: (a)Settlement. The Company shall deliver to the Participant holding vested RSUs shares of Common Sto...
+
+--- (Additional Root Structure) ---
+Content: (b)Withholding Requirements. The Company shall have the right to require the Participant to remit to...
+
+--- (Additional Root Structure) ---
+Content: 4.Participant Representations. The Participant acknowledges, represents and warrants that:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)the Participant has been advised that the Participant may be an “affiliate” within the meaning of...
+
+--- (Additional Root Structure) ---
+Heading (L2): 5.Miscellaneous Provisions
+|-- Content: (a)Rights of a Shareholder. Prior to settlement of the RSUs in shares of Common Stock, neither the P...
+|-- Content: (b)Transfer Restrictions. The shares of Common Stock delivered hereunder shall be subject to such st...
+`-- Content: (c)Clawback Policy. The Participant acknowledges that the Participant is subject to the provisions o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3the award granted hereunder, pursuant to the terms of Sections 12 and 14.6 of the Plan or such othe...
+
+--- (Additional Root Structure) ---
+Content: (d)Adjustments. In the event of any change with respect to the outstanding shares of Common Stock co...
+
+--- (Additional Root Structure) ---
+Content: (e)No Right to Continued Service. Nothing in this Agreement or the Plan confers upon the Participant...
+
+--- (Additional Root Structure) ---
+Content: (f)Successors and Assigns. The provisions of this Agreement will inure to the benefit of, and be bin...
+
+--- (Additional Root Structure) ---
+Content: (g)Severability. The provisions of this Agreement are severable, and if any one or more provisions a...
+
+--- (Additional Root Structure) ---
+Content: (h)Amendment. Except as otherwise provided in the Plan, this Agreement will not be amended unless th...
+
+--- (Additional Root Structure) ---
+Content: (i)Choice of Law; Jurisdiction. This Agreement and all claims, causes of action or proceedings (whet...
+
+--- (Additional Root Structure) ---
+Content: (j)Signature in Counterparts. This Agreement may be signed in counterparts, manually or electronical...
+
+--- (Additional Root Structure) ---
+Content: (k)Electronic Delivery. The Company may, in its sole discretion, decide to deliver any documents rel...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4delivery and to agree to participate in the Plan through an on-line or electronic system establishe...
+
+--- (Additional Root Structure) ---
+Content: (l)Acceptance. The Participant hereby acknowledges receipt of a copy of the Plan, the International ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5

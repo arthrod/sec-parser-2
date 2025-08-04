@@ -1,0 +1,13 @@
+Total parsed elements: 11
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10(a)11
+  2. HeadingElement (level=1): AMENDMENT NO. 3
+  3. HeadingElement (level=1): TO THE
+  4. HeadingElement (level=1): DEFINED CONTRIBUTION RESTORATION PLAN
+  5. HeadingElement (level=1): OF ENTERGY CORPORATION AND SUBSIDIARIES
+  6. TextElement (level=N/A): (As Amended and Restated Effective January 1, 2009)THIS AMENDMENT, executed this 13th day of December, 2023, and effective January 1, 2024, is made by Entergy Corporation to the Defined Contribution R
+  7. HeadingElement (level=2): Definitions.
+  8. TextElement (level=N/A): 1.All references in the Plan to “Personnel Committee” shall mean and are replaced with “Talent and Compensation Committee,” and a new Section 1.28 titled, “Talent and Compensation Committee,” is added
+  9. HeadingElement (level=1): ENTERGY CORPORATION
+  10. HeadingElement (level=1): TALENT AND COMPENSATION COMMITTEE
+  11. TextElement (level=N/A): through the undersigned duly authorized representative_/s/ Kathryn Collins___________________________ KATHRYN COLLINSSenior Vice President, HR and Chief Human Resources Officer2

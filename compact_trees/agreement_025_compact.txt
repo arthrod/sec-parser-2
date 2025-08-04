@@ -1,0 +1,9 @@
+Total parsed elements: 7
+Element types and content:
+  1. TextElement (level=N/A): Exhibit 10.1THIS PROMISSORY NOTE (“NOTE”) HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”). THIS NOTE HAS BEEN ACQUIRED FOR INVESTMENT ONLY AND MAY NOT BE SO
+  2. HeadingElement (level=1): PROMISSORY NOTE
+  3. TextElement (level=N/A): Principal Amount: US$30,000 Dated: December 26, 2023New York, New YorkFOR VALUE RECEIVED, Blue World Acquisition Corporation(the “Maker” or the “Company”) promises to pay to the order of Blue World Ho
+  4. HeadingElement (level=1): MAKER:
+  5. TextElement (level=N/A): Blue World Acquisition Corporation   By: /s/ Liang Shi    Name:  Liang Shi    Title:  CEO and Director
+  6. HeadingElement (level=1): PAYEE:
+  7. TextElement (level=N/A): Blue World Holdings Limited  By: /s/ Liang Shi    Name:  Liang Shi    Title: Director   [signature page to the promissory note]5 Field: /Rule-Page

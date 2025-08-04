@@ -1,0 +1,3 @@
+Total parsed elements: 1
+Element types and content:
+  1. ContentTextElement (level=4): Exhibit 10.77Execution VersionAMENDMENT NO. 2 TO TERM LOAN CREDIT AGREEMENTThis AMENDMENT NO. 2 TO TERM LOAN CREDIT AGREEMENT, dated as ofNovember 15, 2021 (this “Amendment No. 2”), is entered into by

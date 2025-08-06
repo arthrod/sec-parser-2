@@ -259,8 +259,8 @@ def is_wdesk_document(html: str) -> bool:
         r"<!--\s*Document\s+(?:created|generated)\s+by\s+Workiva",
         r"<!--\s*Copyright\s+\d{4}\s+Workiva",
         r"<meta[^>]+name=['\"]Generator['\"][^>]+Workiva",
-        r"data-wdesk",
-        r"class=\"[^\"]*wdesk[^\"]*\"",
+        r"\bdata-wdesk\b",
+        r"class=['\"][^'\"]*wdesk[^'\"]*['\"]",
     ]
 
     return any(re.search(p, html, re.IGNORECASE) for p in patterns)

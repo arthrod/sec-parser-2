@@ -245,10 +245,25 @@ class HtmlCommentRemoverStep(AbstractProcessingStep):
 
 
 def is_wdesk_document(html: str) -> bool:
-    """Return True if the html looks like Workiva/Wdesk."""
-    if "<!-- Document created using Wdesk -->" in html:
-        return True
-    return "data-wdesk" in html or re.search(r'class="[^"]*wdesk[^"]*"', html, re.IGNORECASE) is not None
+    """Return True if the html looks like Workiva/Wdesk.
+
+    Modern Workiva documents can include a variety of generator
+    signatures.  The original implementation only looked for the
+    specific comment ``<!-- Document created using Wdesk -->`` which is
+    missing from many agreements.  To robustly detect these filings we
+    now search for a broader set of Workiva markers including copyright
+    notices, generator meta tags and ``data-wdesk`` attributes.
+    """
+
+    patterns = [
+        r"<!--\s*Document\s+(?:created|generated)\s+by\s+Workiva",
+        r"<!--\s*Copyright\s+\d{4}\s+Workiva",
+        r"<meta[^>]+name=['\"]Generator['\"][^>]+Workiva",
+        r"data-wdesk",
+        r"class=\"[^\"]*wdesk[^\"]*\"",
+    ]
+
+    return any(re.search(p, html, re.IGNORECASE) for p in patterns)
 
 
 # ========================================================================
@@ -2633,9 +2648,13 @@ def analyze_agreement_v9_enhanced(
 ) -> dict[str, Any]:
     """Analyze a single agreement and return results with enhanced metrics."""
     try:
-        # Step 12: Detect Workiva (Wdesk) profile
+        # Step 12: Detect Workiva (Wdesk) profile using the enhanced
+        # detector above.  The previous implementation only checked for a
+        # single HTML comment which missed many genuine Workiva filings.
+        # ``is_wdesk_document`` consolidates multiple signatures to make
+        # the detection much more reliable.
         global _GLOBAL_IS_WDESK
-        _GLOBAL_IS_WDESK = "<!-- Document created using Wdesk -->" in html_content
+        _GLOBAL_IS_WDESK = is_wdesk_document(html_content)
         parser.is_wdesk = _GLOBAL_IS_WDESK
 
         elements = parser.parse(html_content)

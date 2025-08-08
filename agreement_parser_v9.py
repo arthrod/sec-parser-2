@@ -49,7 +49,7 @@ from sec_parser.processing_steps.table_classifier import TableClassifier
 from sec_parser.processing_steps.table_of_contents_classifier import TableOfContentsClassifier
 from sec_parser.processing_steps.text_classifier import TextClassifier
 from sec_parser.processing_steps.text_element_merger import TextElementMerger
-from sec_parser.semantic_elements import IrrelevantElement, NotYetClassifiedElement, TextElement, TitleElement
+from sec_parser.semantic_elements import IrrelevantElement, NotYetClassifiedElement, TextElement
 from sec_parser.semantic_elements.abstract_semantic_element import AbstractSemanticElement
 from sec_parser.semantic_elements.table_element.table_element import TableElement
 
@@ -59,6 +59,7 @@ _USE_CSSUTILS = True
 # ========================================================================
 # WORKIVA DETECTION UTILITY (new)
 # ========================================================================
+
 
 class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
     """Enhanced section classification for V6 with hierarchy and V8 context-aware regex.
@@ -77,7 +78,7 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
             return element
 
         # Handle tables
-        if element.html_tag.name.lower() == 'table':
+        if element.html_tag.name.lower() == "table":
             result = self._process_table_element(element)
             if result and isinstance(result, (ArticleElement, SectionElement)):
                 key = self._get_section_key(result)
@@ -102,27 +103,27 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
     def _get_section_key(self, element) -> str:
         """Generate unique key for section/article."""
         if isinstance(element, ArticleElement):
-            return f'article:{element.article_number}'
+            return f"article:{element.article_number}"
         if isinstance(element, SectionElement):
-            return f'section:{element.section_number}'
-        return ''
+            return f"section:{element.section_number}"
+        return ""
 
     def _extract_structured_element(self, text: str, html_tag: HtmlTag):
         """Extract article or section from text with V8 context-aware regex."""
         # Check for Article
-        article_patterns = [r'^(ARTICLE|Article)\s+([IVX]+|\d+)(?:\s*[-–—.]\s*(.*))?']
+        article_patterns = [r"^(ARTICLE|Article)\s+([IVX]+|\d+)(?:\s*[-–—.]\s*(.*))?"]
 
         for pattern in article_patterns:
             match = re.match(pattern, text.strip())
             if match:
                 self.article_count += 1
-                article_num = f'{match.group(1)} {match.group(2)}'
-                article_title = match.group(3).strip() if match.group(3) else ''
+                article_num = f"{match.group(1)} {match.group(2)}"
+                article_title = match.group(3).strip() if match.group(3) else ""
                 return ArticleElement(html_tag, article_number=article_num, article_title=article_title)
 
         # Check for Section with V8 context-aware regex
         section_patterns = [
-            (r'^(Section)\s+(\d+(?:\.\d+)*)(?:\s*[-–—.]\s*(.*))?', 'Section'),
+            (r"^(Section)\s+(\d+(?:\.\d+)*)(?:\s*[-–—.]\s*(.*))?", "Section"),
             # V8: Context-aware section regex
             (
                 r"""^
@@ -131,27 +132,27 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
                 (?P<title>[A-Z][^a-z]{0,3}        # either ALLCAPS word
                   |[A-Z][a-z].{0,80})             # or normal title < 80 chars
             $""",
-                'number',
+                "number",
             ),
         ]
 
         for pattern, pattern_type in section_patterns:
-            match = re.match(pattern, text.strip(), re.VERBOSE if pattern_type == 'number' else 0)
+            match = re.match(pattern, text.strip(), re.VERBOSE if pattern_type == "number" else 0)
             if match:
                 self.section_count += 1
 
-                if pattern_type == 'Section':
+                if pattern_type == "Section":
                     section_num = match.group(2)
-                    section_title = match.group(3).strip() if match.group(3) else ''
+                    section_title = match.group(3).strip() if match.group(3) else ""
                 else:
-                    section_num = match.group('num')
-                    section_title = match.group('title').strip()
+                    section_num = match.group("num")
+                    section_title = match.group("title").strip()
 
                 # ENHANCED: Increased cutoff from 90 to 120
                 if len(text) > 120:  # Entire match shouldn't be too long
                     continue
 
-                level = len(section_num.split('.')) + 1
+                level = len(section_num.split(".")) + 1
 
                 return SectionElement(html_tag, section_number=section_num, section_title=section_title, level=level)
 
@@ -160,25 +161,23 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
     def _process_table_element(self, element: AbstractSemanticElement):
         """Process table for sections."""
         try:
-            if not hasattr(element.html_tag, '_bs4'):
+            if not hasattr(element.html_tag, "_bs4"):
                 return element
 
-            tds = element.html_tag._bs4.find_all('td')
+            tds = element.html_tag._bs4.find_all("td")
 
             if len(tds) >= 2:
                 first_cell = tds[0].get_text().strip()
                 second_cell = tds[1].get_text().strip()
 
-                if re.match(r'^\d+\.?$', first_cell):
-                    section_num = first_cell.rstrip('.')
+                if re.match(r"^\d+\.?$", first_cell):
+                    section_num = first_cell.rstrip(".")
                     section_title = second_cell
 
                     self.section_count += 1
-                    return SectionElement(
-                        element.html_tag, section_number=section_num, section_title=section_title, level=2
-                    )
+                    return SectionElement(element.html_tag, section_number=section_num, section_title=section_title, level=2)
 
-                combined = f'{first_cell} {second_cell}'
+                combined = f"{first_cell} {second_cell}"
                 result = self._extract_structured_element(combined, element.html_tag)
                 if result:
                     return result
@@ -193,18 +192,18 @@ class SmartSectionClassifierV6(AbstractElementwiseProcessingStep):
 
     def _is_signature_table(self, cell1: str, cell2: str) -> bool:
         """Enhanced signature detection."""
-        combined_lower = (cell1 + ' ' + cell2).lower()
+        combined_lower = (cell1 + " " + cell2).lower()
         signature_words = [
-            'by:',
-            '/s/',
-            'signature',
-            'name:',
-            'title:',
-            'date:',
-            'authorized',
-            'executed',
-            'witness',
-            'acknowledged',
+            "by:",
+            "/s/",
+            "signature",
+            "name:",
+            "title:",
+            "date:",
+            "authorized",
+            "executed",
+            "witness",
+            "acknowledged",
         ]
         word_count = sum(1 for word in signature_words if word in combined_lower)
         return word_count >= 2
@@ -218,21 +217,21 @@ class HtmlCommentRemoverStep(AbstractProcessingStep):
 
     def __init__(self) -> None:
         super().__init__()
-        self._stats: dict[str, int] = {'comments_removed': 0}
+        self._stats: dict[str, int] = {"comments_removed": 0}
 
     def _process(self, elements: list[AbstractSemanticElement], context=None) -> list[AbstractSemanticElement]:
         filtered: list[AbstractSemanticElement] = []
         removed_count = 0
 
         for el in elements:
-            if hasattr(el, 'html_tag') and getattr(el.html_tag, '_bs4', None):
+            if hasattr(el, "html_tag") and getattr(el.html_tag, "_bs4", None):
                 if isinstance(el.html_tag.get_bs4(), Comment):
                     # we are looking at <!-- ... -->  →  drop it
                     removed_count += 1
                     continue
             filtered.append(el)
 
-        self._stats['comments_removed'] += removed_count
+        self._stats["comments_removed"] += removed_count
 
         return filtered
 
@@ -240,11 +239,12 @@ class HtmlCommentRemoverStep(AbstractProcessingStep):
         """Return comment removal statistics."""
         return self._stats
 
+
 def is_wdesk_document(html: str) -> bool:
     """Return True if the html looks like Workiva/Wdesk."""
-    if '<!-- Document created using Wdesk -->' in html:
+    if "<!-- Document created using Wdesk -->" in html:
         return True
-    return 'data-wdesk' in html or re.search(r'class="[^"]*wdesk[^"]*"', html, re.IGNORECASE) is not None
+    return "data-wdesk" in html or re.search(r'class="[^"]*wdesk[^"]*"', html, re.IGNORECASE) is not None
 
 
 # ========================================================================
@@ -252,11 +252,12 @@ def is_wdesk_document(html: str) -> bool:
 # ========================================================================
 
 # Add clone_with_text method to HtmlTag if it doesn't exist
-if not hasattr(HtmlTag, 'clone_with_text'):
+if not hasattr(HtmlTag, "clone_with_text"):
+
     @staticmethod
     def clone_with_text(original_tag: HtmlTag, new_text: str) -> HtmlTag:
         """Clone an HtmlTag with new text content."""
-        if hasattr(original_tag, '_bs4'):
+        if hasattr(original_tag, "_bs4"):
             bs4_tag = original_tag.get_bs4()
             new_bs4 = bs4_tag.__class__(name=bs4_tag.name, attrs=bs4_tag.attrs)
             new_bs4.string = new_text
@@ -278,28 +279,28 @@ class SignatureMetadataRemover(AbstractElementwiseProcessingStep):
     # Common e-signature metadata patterns
     _SIGNATURE_METADATA_PATTERNS = [
         # DocuSign patterns
-        r'DocuSign\s+Envelope\s+ID:\s*[A-F0-9-]+',
-        r'Envelope\s+ID:\s*[A-F0-9-]+',
-        r'DocuSign\s+Certificate\s+of\s+Completion',
+        r"DocuSign\s+Envelope\s+ID:\s*[A-F0-9-]+",
+        r"Envelope\s+ID:\s*[A-F0-9-]+",
+        r"DocuSign\s+Certificate\s+of\s+Completion",
         # HelloSign patterns
-        r'HelloSign\s+Signature\s+ID:\s*[a-f0-9]+',
-        r'HelloSign\s+Document\s+ID:\s*[a-f0-9]+',
+        r"HelloSign\s+Signature\s+ID:\s*[a-f0-9]+",
+        r"HelloSign\s+Document\s+ID:\s*[a-f0-9]+",
         # PandaDoc patterns
-        r'PandaDoc\s+Document\s+ID:\s*[a-f0-9-]+',
-        r'PandaDoc\s+Audit\s+Trail',
+        r"PandaDoc\s+Document\s+ID:\s*[a-f0-9-]+",
+        r"PandaDoc\s+Audit\s+Trail",
         # Generic e-signature patterns
-        r'Electronic\s+Signature\s+Certificate',
-        r'Digital\s+Signature\s+Summary',
-        r'Signature\s+Verification\s+Report',
-        r'Certificate\s+of\s+Completion',
+        r"Electronic\s+Signature\s+Certificate",
+        r"Digital\s+Signature\s+Summary",
+        r"Signature\s+Verification\s+Report",
+        r"Certificate\s+of\s+Completion",
         # Timestamp and tracking patterns
-        r'Signed\s+on:\s*\d{1,2}/\d{1,2}/\d{4}\s+\d{1,2}:\d{2}:\d{2}',
-        r'Completed\s+on:\s*\d{1,2}/\d{1,2}/\d{4}',
-        r'IP\s+Address:\s*\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}',
+        r"Signed\s+on:\s*\d{1,2}/\d{1,2}/\d{4}\s+\d{1,2}:\d{2}:\d{2}",
+        r"Completed\s+on:\s*\d{1,2}/\d{1,2}/\d{4}",
+        r"IP\s+Address:\s*\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}",
         # Security codes and hashes
-        r'Security\s+Code:\s*[A-F0-9]+',
-        r'Verification\s+Hash:\s*[a-f0-9]+',
-        r'Authentication\s+Code:\s*[A-F0-9-]+',
+        r"Security\s+Code:\s*[A-F0-9]+",
+        r"Verification\s+Hash:\s*[a-f0-9]+",
+        r"Authentication\s+Code:\s*[A-F0-9-]+",
     ]
 
     def __init__(self, *, types_to_process=None, types_to_exclude=None) -> None:
@@ -314,13 +315,9 @@ class SignatureMetadataRemover(AbstractElementwiseProcessingStep):
         self.types_to_exclude = types_to_exclude
 
         # Compile patterns for better performance
-        self._compiled_patterns = [
-            re.compile(pattern, re.IGNORECASE | re.MULTILINE) for pattern in self._SIGNATURE_METADATA_PATTERNS
-        ]
+        self._compiled_patterns = [re.compile(pattern, re.IGNORECASE | re.MULTILINE) for pattern in self._SIGNATURE_METADATA_PATTERNS]
 
-    def _process_element(
-        self, element: AbstractSemanticElement, context: ElementProcessingContext
-    ) -> AbstractSemanticElement | None:
+    def _process_element(self, element: AbstractSemanticElement, context: ElementProcessingContext):
         """Process a single element to identify and remove signature metadata.
 
         Args:
@@ -332,9 +329,7 @@ class SignatureMetadataRemover(AbstractElementwiseProcessingStep):
             otherwise returns the original element unchanged
         """
         if self._is_signature_metadata(element):
-            element.processing_log.add_item(
-                message='Identified as e-signature metadata', log_origin=self.__class__.__name__
-            )
+            element.processing_log.add_item(message="Identified as e-signature metadata", log_origin=self.__class__.__name__)
             return IrrelevantElement.create_from_element(element, log_origin=self.__class__.__name__)
 
         return element
@@ -348,7 +343,7 @@ class SignatureMetadataRemover(AbstractElementwiseProcessingStep):
         Returns:
             True if the element appears to contain signature metadata
         """
-        if not hasattr(element, 'text') or not element.text:
+        if not hasattr(element, "text") or not element.text:
             return False
 
         text = element.text.strip()
@@ -378,15 +373,15 @@ class SignatureMetadataRemover(AbstractElementwiseProcessingStep):
 
         # Check for combination of e-signature keywords
         esig_keywords = [
-            'envelope',
-            'signature',
-            'signed',
-            'certificate',
-            'completion',
-            'verification',
-            'authentication',
-            'digital',
-            'electronic',
+            "envelope",
+            "signature",
+            "signed",
+            "certificate",
+            "completion",
+            "verification",
+            "authentication",
+            "digital",
+            "electronic",
         ]
 
         keyword_count = sum(1 for keyword in esig_keywords if keyword in text_lower)
@@ -396,12 +391,12 @@ class SignatureMetadataRemover(AbstractElementwiseProcessingStep):
             return True
 
         # Check for UUID-like patterns (common in e-signature systems)
-        uuid_pattern = re.compile(r'[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}', re.IGNORECASE)
+        uuid_pattern = re.compile(r"[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}", re.IGNORECASE)
         if uuid_pattern.search(text):
             return True
 
         # Check for base64-like encoded content (common in certificates)
-        if len(text) > 50 and re.match(r'^[A-Za-z0-9+/=\s]+$', text) and text.count('\n') < 3:
+        if len(text) > 50 and re.match(r"^[A-Za-z0-9+/=\s]+$", text) and text.count("\n") < 3:
             # Long base64-like string without many line breaks could be encoded certificate
             return True
 
@@ -411,7 +406,7 @@ class SignatureMetadataRemover(AbstractElementwiseProcessingStep):
 class MetadataElement(IrrelevantElement):
     """Base metadata class with tracking."""
 
-    metadata_type = 'generic'
+    metadata_type = "generic"
 
 
 # ========================================================================
@@ -425,24 +420,24 @@ _GLOBAL_IS_WDESK = False
 # STYLE UTILITIES (v9 addition)
 # ========================================================================
 
-_UNIT_RE = re.compile(r'([0-9.]+)\s*(pt|px|em|rem|%)', re.IGNORECASE)
+_UNIT_RE = re.compile(r"([0-9.]+)\s*(pt|px|em|rem|%)", re.IGNORECASE)
 
 
 def _to_pt(value: str, base_pt: float = 12.0) -> float:
     """Convert CSS length to points. Supports pt, px, em, rem, %.
     If unitless -> assume pt. Graceful fallback = 0.
     """
-    m = _UNIT_RE.search(value or '')
+    m = _UNIT_RE.search(value or "")
     if not m:
         return 0.0
     num, unit = float(m.group(1)), m.group(2).lower()
-    if unit == 'pt':
+    if unit == "pt":
         return num
-    if unit == 'px':
+    if unit == "px":
         return num * 0.75  # 96 dpi assumption
-    if unit in {'em', 'rem'}:
+    if unit in {"em", "rem"}:
         return num * base_pt
-    if unit == '%':
+    if unit == "%":
         return num * base_pt / 100.0
     return 0.0
 
@@ -461,9 +456,9 @@ def inline_style_dict(style_string: str) -> dict[str, str]:
         except Exception:  # pragma: no cover
             out = {}
     else:
-        for part in style_string.split(';'):
-            if ':' in part:
-                k, v = part.split(':', 1)
+        for part in style_string.split(";"):
+            if ":" in part:
+                k, v = part.split(":", 1)
                 out[k.strip().lower()] = v.strip()
     return out
 
@@ -481,13 +476,13 @@ def computed_style(bs4_node) -> dict[str, str]:
     while node and depth < MAX_SCAN_DEPTH:  # inheritance: at most MAX_SCAN_DEPTH hops
         if isinstance(node, str):
             break
-        style_attr = node.get('style', '')
+        style_attr = node.get("style", "")
         props.update({k: v for k, v in inline_style_dict(style_attr).items() if k not in props})
         # naïve class rule: check style tags of form ".cls{prop:val}"
-        classes = node.get('class', []) if node.has_attr('class') else []
+        classes = node.get("class", []) if node.has_attr("class") else []
         for cls in classes[:3]:  # speed: first 3 classes max
-            rule_re = re.compile(rf'\.{re.escape(cls)}\s*\{{([^}}]+)\}}', re.IGNORECASE | re.DOTALL)
-            for style_tag in node.find_all_previous('style', limit=2):
+            rule_re = re.compile(rf"\.{re.escape(cls)}\s*\{{([^}}]+)\}}", re.IGNORECASE | re.DOTALL)
+            for style_tag in node.find_all_previous("style", limit=2):
                 m = rule_re.search(style_tag.get_text())
                 if m:
                     props.update(inline_style_dict(m.group(1)))
@@ -515,7 +510,7 @@ class HierarchicalElement(AbstractSemanticElement):
 
     def _generate_id(self) -> str:
         """Generate unique ID for this element using itertools."""
-        return f'{self.__class__.__name__}_{next(HierarchicalElement._id_global)}'
+        return f"{self.__class__.__name__}_{next(HierarchicalElement._id_global)}"
 
     def add_child(self, child_id: str) -> None:
         """Add a child element ID."""
@@ -532,13 +527,13 @@ class AgreementTitleElement(HierarchicalElement):
     """Main agreement title."""
 
     def normalized_id(self) -> str | None:
-        return 'title'
+        return "title"
 
 
 class ArticleElement(HierarchicalElement):
     """Article-level sections with enhanced structure."""
 
-    def __init__(self, html_tag: HtmlTag, article_number: str = '', article_title: str = '', **kwargs) -> None:
+    def __init__(self, html_tag: HtmlTag, article_number: str = "", article_title: str = "", **kwargs) -> None:
         super().__init__(html_tag, level=1, **kwargs)
         self.article_number = article_number
         self.article_title = article_title
@@ -546,34 +541,32 @@ class ArticleElement(HierarchicalElement):
     def normalized_id(self) -> str | None:
         if self.article_number:
             # Extract roman numeral or number from article_number
-            match = re.search(r'([IVX]+|\d+)', self.article_number)
+            match = re.search(r"([IVX]+|\d+)", self.article_number)
             if match:
-                return f'article_{match.group(1).lower()}'
+                return f"article_{match.group(1).lower()}"
         return None
 
 
 class SectionElement(HierarchicalElement):
     """Numbered sections with enhanced hierarchy."""
 
-    def __init__(
-        self, html_tag: HtmlTag, section_number: str = '', section_title: str = '', level: int = 2, **kwargs
-    ) -> None:
+    def __init__(self, html_tag: HtmlTag, section_number: str = "", section_title: str = "", level: int = 2, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
         self.section_number = self._normalize_section_number(section_number)
         self.section_title = section_title
 
     def _normalize_section_number(self, number: str) -> str:
         """Normalize section numbers to consistent format."""
-        if re.match(r'^\d+(?:\.\d+)*$', number.strip()):
+        if re.match(r"^\d+(?:\.\d+)*$", number.strip()):
             return number.strip()
         return number
 
     def normalized_id(self) -> str | None:
         if self.section_number:
             # Extract numeric pattern
-            match = re.search(r'(\d+(?:\.\d+)*)', self.section_number)
+            match = re.search(r"(\d+(?:\.\d+)*)", self.section_number)
             if match:
                 return match.group(1)
         return None
@@ -582,11 +575,9 @@ class SectionElement(HierarchicalElement):
 class ClauseElement(HierarchicalElement):
     """Clauses with enhanced hierarchy and cross-reference support."""
 
-    def __init__(
-        self, html_tag: HtmlTag, clause_id: str = '', clause_text: str = '', level: int = 3, **kwargs
-    ) -> None:
+    def __init__(self, html_tag: HtmlTag, clause_id: str = "", clause_text: str = "", level: int = 3, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
         self.clause_id = clause_id
         self.clause_text = clause_text
@@ -594,7 +585,7 @@ class ClauseElement(HierarchicalElement):
     def normalized_id(self) -> str | None:
         if self.clause_id:
             # Extract letter/number from clause_id
-            match = re.search(r'\(?([a-zA-Z0-9]+)\)?', self.clause_id)
+            match = re.search(r"\(?([a-zA-Z0-9]+)\)?", self.clause_id)
             if match:
                 return match.group(1).lower()
         return None
@@ -603,9 +594,9 @@ class ClauseElement(HierarchicalElement):
 class HeadingElement(HierarchicalElement):
     """Section headings with hierarchy."""
 
-    def __init__(self, html_tag: HtmlTag, heading_text: str = '', level: int = 1, **kwargs) -> None:
+    def __init__(self, html_tag: HtmlTag, heading_text: str = "", level: int = 1, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
         self.heading_text = heading_text
 
@@ -615,7 +606,7 @@ class ContentTextElement(HierarchicalElement):
 
     def __init__(self, html_tag: HtmlTag, level: int = 4, **kwargs) -> None:
         # Extract level from kwargs if present to avoid duplicate
-        actual_level = kwargs.pop('level', level)
+        actual_level = kwargs.pop("level", level)
         super().__init__(html_tag, level=actual_level, **kwargs)
 
 
@@ -627,14 +618,14 @@ class TableOfContentsElement(HierarchicalElement):
         super().__init__(html_tag, level=1, **kwargs)
 
     def normalized_id(self) -> str | None:
-        return 'toc'
+        return "toc"
 
 
 # Legal content elements with hierarchy
 class DefinitionElement(HierarchicalElement):
     """Definitions with hierarchy."""
 
-    def __init__(self, html_tag: HtmlTag, term: str = '', definition: str = '', **kwargs) -> None:
+    def __init__(self, html_tag: HtmlTag, term: str = "", definition: str = "", **kwargs) -> None:
         super().__init__(html_tag, level=3, **kwargs)
         self.term = term
         self.definition = definition
@@ -642,15 +633,15 @@ class DefinitionElement(HierarchicalElement):
     def normalized_id(self) -> str | None:
         if self.term:
             # Clean term for ID
-            cleaned = re.sub(r'[^a-zA-Z0-9]', '_', self.term.lower())
-            return f'def_{cleaned}'
+            cleaned = re.sub(r"[^a-zA-Z0-9]", "_", self.term.lower())
+            return f"def_{cleaned}"
         return None
 
 
 class PartyElement(HierarchicalElement):
     """Contract parties with hierarchy."""
 
-    def __init__(self, html_tag: HtmlTag, party_name: str = '', party_type: str = '', **kwargs) -> None:
+    def __init__(self, html_tag: HtmlTag, party_name: str = "", party_type: str = "", **kwargs) -> None:
         super().__init__(html_tag, level=2, **kwargs)
         self.party_name = party_name
         self.party_type = party_type
@@ -658,8 +649,8 @@ class PartyElement(HierarchicalElement):
     def normalized_id(self) -> str | None:
         if self.party_name:
             # Clean party name for ID
-            cleaned = re.sub(r'[^a-zA-Z0-9]', '_', self.party_name.lower())
-            return f'party_{cleaned}'
+            cleaned = re.sub(r"[^a-zA-Z0-9]", "_", self.party_name.lower())
+            return f"party_{cleaned}"
         return None
 
 
@@ -680,7 +671,7 @@ class SignatureBlockElement(HierarchicalElement):
 class ExhibitElement(HierarchicalElement):
     """Exhibits and attachments with hierarchy."""
 
-    def __init__(self, html_tag: HtmlTag, exhibit_id: str = '', exhibit_title: str = '', **kwargs) -> None:
+    def __init__(self, html_tag: HtmlTag, exhibit_id: str = "", exhibit_title: str = "", **kwargs) -> None:
         super().__init__(html_tag, level=1, **kwargs)
         self.exhibit_id = exhibit_id
         self.exhibit_title = exhibit_title
@@ -688,9 +679,9 @@ class ExhibitElement(HierarchicalElement):
     def normalized_id(self) -> str | None:
         if self.exhibit_id:
             # Extract exhibit identifier
-            match = re.search(r'([A-Z0-9]+)$', self.exhibit_id)
+            match = re.search(r"([A-Z0-9]+)$", self.exhibit_id)
             if match:
-                return f'exhibit_{match.group(1).lower()}'
+                return f"exhibit_{match.group(1).lower()}"
         return None
 
 
@@ -698,7 +689,7 @@ class ExhibitElement(HierarchicalElement):
 class MetadataElement(IrrelevantElement):
     """Base metadata class with tracking."""
 
-    metadata_type = 'generic'
+    metadata_type = "generic"
 
 
 # -----------------------------------------------------------------
@@ -707,42 +698,43 @@ class MetadataElement(IrrelevantElement):
 class RepeatedHeaderElement(MetadataElement):
     """Header/footer line that recurs on ≥3 pages."""
 
-    metadata_type = 'repeated_header'
+    metadata_type = "repeated_header"
 
 
 class ExhibitStampElement(MetadataElement):
     """Exhibit stamps."""
 
-    metadata_type = 'exhibit_stamp'
+    metadata_type = "exhibit_stamp"
 
 
 class ExecutionStampElement(MetadataElement):
     """Execution stamps."""
 
-    metadata_type = 'execution_stamp'
+    metadata_type = "execution_stamp"
 
 
 class PageNumberMetadataElement(MetadataElement):
     """Page numbers."""
 
-    metadata_type = 'page_number'
+    metadata_type = "page_number"
 
 
 class SignaturePageFollowsElement(MetadataElement):
     """Signature page markers."""
 
-    metadata_type = 'signature_follows'
+    metadata_type = "signature_follows"
 
 
 class PageHeaderElement(MetadataElement):
     """Page headers."""
 
-    metadata_type = 'page_header'
+    metadata_type = "page_header"
 
 
 # ========================================================================
 # TITLE CLASSIFIER WITH FIXES
 # ========================================================================
+
 
 class TitleClassifier(AbstractElementBatchProcessingStep):
     """Classify document titles and metadata in the initial elements of a document.
@@ -753,29 +745,29 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
 
     # Patterns for common metadata markers
     _METADATA_PATTERNS = [
-        r'^\s*exhibit\s+\d+(\.\d+)?\s*$',
-        r'^\s*attachment\s+[a-z]\s*$',
-        r'^\s*schedule\s+[a-z]\s*$',
-        r'^\s*execution\s+version\s*$',
-        r'^\s*draft\s*$',
-        r'^\s*confidential\s*$',
-        r'^\s*preliminary\s*$',
-        r'^\s*proprietary\s*$',
-        r'^\s*[a-z]*\s*copy\s*$',
+        r"^\s*exhibit\s+\d+(\.\d+)?\s*$",
+        r"^\s*attachment\s+[a-z]\s*$",
+        r"^\s*schedule\s+[a-z]\s*$",
+        r"^\s*execution\s+version\s*$",
+        r"^\s*draft\s*$",
+        r"^\s*confidential\s*$",
+        r"^\s*preliminary\s*$",
+        r"^\s*proprietary\s*$",
+        r"^\s*[a-z]*\s*copy\s*$",
     ]
 
     # Patterns for likely document titles
     _TITLE_PATTERNS = [
-        r'\b(agreement|contract|lease|deed|note|license|policy)\b',
-        r'\b(amendment|addendum|supplement|modification)\b',
-        r'\b(memorandum|memo|letter|notice)\b',
-        r'\b(terms|conditions|provisions)\b',
-        r'\b(loan|credit|security|mortgage)\b',
-        r'\b(employment|service|consulting)\b',
-        r'\b(purchase|sale|acquisition|merger)\b',
-        r'\b(partnership|joint\s+venture|llc)\b',
-        r'\b(non-disclosure|nda|confidentiality)\b',
-        r'\b(subscription|investment|equity)\b',
+        r"\b(agreement|contract|lease|deed|note|license|policy)\b",
+        r"\b(amendment|addendum|supplement|modification)\b",
+        r"\b(memorandum|memo|letter|notice)\b",
+        r"\b(terms|conditions|provisions)\b",
+        r"\b(loan|credit|security|mortgage)\b",
+        r"\b(employment|service|consulting)\b",
+        r"\b(purchase|sale|acquisition|merger)\b",
+        r"\b(partnership|joint\s+venture|llc)\b",
+        r"\b(non-disclosure|nda|confidentiality)\b",
+        r"\b(subscription|investment|equity)\b",
     ]
 
     def __init__(self, *, types_to_process=None, types_to_exclude=None) -> None:
@@ -790,15 +782,11 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
         self.types_to_exclude = types_to_exclude
 
         # Compile patterns for better performance
-        self._metadata_patterns = [
-            re.compile(pattern, re.IGNORECASE | re.MULTILINE) for pattern in self._METADATA_PATTERNS
-        ]
+        self._metadata_patterns = [re.compile(pattern, re.IGNORECASE | re.MULTILINE) for pattern in self._METADATA_PATTERNS]
 
         self._title_patterns = [re.compile(pattern, re.IGNORECASE) for pattern in self._TITLE_PATTERNS]
 
-    def _process_elements(
-        self, elements: list[AbstractSemanticElement], context: ElementProcessingContext
-    ) -> list[AbstractSemanticElement]:
+    def _process_elements(self, elements: list[AbstractSemanticElement], context: ElementProcessingContext) -> list[AbstractSemanticElement]:
         """Process the initial elements to identify titles and metadata.
 
         Args:
@@ -839,7 +827,7 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
         potential_titles = []
 
         for i, element in enumerate(elements):
-            if not hasattr(element, 'text') or not element.text:
+            if not hasattr(element, "text") or not element.text:
                 continue
 
             text = element.text.strip()
@@ -879,15 +867,15 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
 
         # Common metadata keywords
         metadata_keywords = [
-            'version',
-            'draft',
-            'copy',
-            'confidential',
-            'proprietary',
-            'preliminary',
-            'exhibit',
-            'attachment',
-            'schedule',
+            "version",
+            "draft",
+            "copy",
+            "confidential",
+            "proprietary",
+            "preliminary",
+            "exhibit",
+            "attachment",
+            "schedule",
         ]
 
         return bool(any(keyword in text_lower for keyword in metadata_keywords))
@@ -921,16 +909,16 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
 
         # Check for business/legal document indicators
         business_indicators = [
-            'business',
-            'company',
-            'corporation',
-            'inc',
-            'llc',
-            'ltd',
-            'between',
-            'among',
-            'party',
-            'parties',
+            "business",
+            "company",
+            "corporation",
+            "inc",
+            "llc",
+            "ltd",
+            "between",
+            "among",
+            "party",
+            "parties",
         ]
 
         return bool(any(indicator in text_lower for indicator in business_indicators))
@@ -983,7 +971,7 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
         elif potential_metadata and not potential_titles:
             # For exhibit documents, the metadata might BE the title
             first_meta_idx, first_meta_element = potential_metadata[0]
-            if self._is_exhibit_document(first_meta_element.text if hasattr(first_meta_element, 'text') else ''):
+            if self._is_exhibit_document(first_meta_element.text if hasattr(first_meta_element, "text") else ""):
                 result[first_meta_idx] = self._create_title_element(first_meta_element)
             else:
                 result[first_meta_idx] = self._create_metadata_element(first_meta_element)
@@ -1002,7 +990,7 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
         text_lower = text.lower().strip()
 
         # Simple heuristic: if it's just "exhibit X" or similar, it might be the title
-        exhibit_patterns = [r'^\s*exhibit\s+\d+(\.\d+)?\s*$', r'^\s*exhibit\s+[a-z]\s*$']
+        exhibit_patterns = [r"^\s*exhibit\s+\d+(\.\d+)?\s*$", r"^\s*exhibit\s+[a-z]\s*$"]
 
         return any(re.match(pattern, text_lower) for pattern in exhibit_patterns)
 
@@ -1015,7 +1003,7 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
         Returns:
             A new MetadataElement
         """
-        element.processing_log.add_item(message='Classified as document metadata', log_origin=self.__class__.__name__)
+        element.processing_log.add_item(message="Classified as document metadata", log_origin=self.__class__.__name__)
         return MetadataElement.create_from_element(element, log_origin=self.__class__.__name__)
 
     def _create_title_element(self, element: AbstractSemanticElement) -> AgreementTitleElement:
@@ -1029,7 +1017,7 @@ class TitleClassifier(AbstractElementBatchProcessingStep):
         Returns:
             A new AgreementTitleElement
         """
-        element.processing_log.add_item(message='Classified as document title', log_origin=self.__class__.__name__)
+        element.processing_log.add_item(message="Classified as document title", log_origin=self.__class__.__name__)
         return AgreementTitleElement.create_from_element(element, log_origin=self.__class__.__name__)
 
 
@@ -1052,10 +1040,10 @@ class RepeatedHeaderFooterDetector(AbstractProcessingStep):
     def _process(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         counter = defaultdict(int)
         for el in elements:
-            txt = getattr(el.html_tag, 'text', '').strip() if hasattr(el, 'html_tag') else ''
+            txt = getattr(el.html_tag, "text", "").strip() if hasattr(el, "html_tag") else ""
 
             # NEW - normalize LEGAL_US_E pattern
-            txt_norm = re.sub(r'LEGAL_US_E # \d+\.\d+', 'LEGAL_US_E', txt)
+            txt_norm = re.sub(r"LEGAL_US_E # \d+\.\d+", "LEGAL_US_E", txt)
 
             if 3 <= len(txt_norm) <= self.MAX_LEN:
                 counter[txt_norm] += 1
@@ -1066,7 +1054,7 @@ class RepeatedHeaderFooterDetector(AbstractProcessingStep):
             if isinstance(el, TextElement):
                 txt_original = el.html_tag.text.strip()
                 # Check normalized version for repeats
-                txt_norm = re.sub(r'LEGAL_US_E # \d+\.\d+', 'LEGAL_US_E', txt_original)
+                txt_norm = re.sub(r"LEGAL_US_E # \d+\.\d+", "LEGAL_US_E", txt_original)
                 if txt_norm in repeated:
                     out.append(RepeatedHeaderElement(el.html_tag))
                     continue
@@ -1076,7 +1064,7 @@ class RepeatedHeaderFooterDetector(AbstractProcessingStep):
 
 # C. Step 2 – merge text broken by page turns
 
-_END_PUNCT = re.compile(r'[.!?;:)\]\"’]$')
+_END_PUNCT = re.compile(r"[.!?;:)\]\"’]$")
 
 
 class PageContinuationMerger(AbstractProcessingStep):
@@ -1087,7 +1075,7 @@ class PageContinuationMerger(AbstractProcessingStep):
     def _looks_incomplete(self, txt: str) -> bool:
         if len(txt) < 20:
             return False
-        if txt.endswith(('-', '\u00ad')):  # hard/soft hyphen
+        if txt.endswith(("-", "\u00ad")):  # hard/soft hyphen
             return True
         if _END_PUNCT.search(txt):
             return False
@@ -1112,15 +1100,15 @@ class PageContinuationMerger(AbstractProcessingStep):
                 ):
                     nxt = elements[j]
                     first, second = cur.html_tag, nxt.html_tag
-                    merged = first.text.rstrip('-\u00ad') + ' ' + second.text.lstrip()
+                    merged = first.text.rstrip("-\u00ad") + " " + second.text.lstrip()
 
                     # Create new HtmlTag with merged text using the new clone_with_text method
                     new_html_tag = HtmlTag.clone_with_text(first, merged)
 
                     if isinstance(cur, TextElement):
-                        cur = ContentTextElement(new_html_tag, level=getattr(cur, 'level', 4))
+                        cur = ContentTextElement(new_html_tag, level=getattr(cur, "level", 4))
                     else:
-                        cur = type(cur)(new_html_tag, level=getattr(cur, 'level', 4))
+                        cur = type(cur)(new_html_tag, level=getattr(cur, "level", 4))
 
                     i = j + 1
                     out.append(cur)
@@ -1139,16 +1127,16 @@ class ConsecutivePageNumberClassifier(AbstractProcessingStep):
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self._stats = {'consecutive_pages_removed': 0}
+        self._stats = {"consecutive_pages_removed": 0}
 
     _roman = re.compile(
-        r'^(?=[IVXLCDM])M{0,4}(CM|CD|D?C{0,3})'
-        r'(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$',
+        r"^(?=[IVXLCDM])M{0,4}(CM|CD|D?C{0,3})"
+        r"(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",
         re.IGNORECASE,
     )
 
     def _is_page_digit(self, txt: str) -> bool:
-        txt = txt.strip(' -()')
+        txt = txt.strip(" -()")
         if len(txt) > 3:
             return False
         return txt.isdigit() or bool(self._roman.fullmatch(txt))
@@ -1161,9 +1149,7 @@ class ConsecutivePageNumberClassifier(AbstractProcessingStep):
         while i < len(elements):
             # window of three
             window = elements[i : i + 3]
-            if len(window) == 3 and all(
-                isinstance(el, TextElement) and el.html_tag and self._is_page_digit(el.html_tag.text) for el in window
-            ):
+            if len(window) == 3 and all(isinstance(el, TextElement) and el.html_tag and self._is_page_digit(el.html_tag.text) for el in window):
                 # mark them as metadata and skip
                 out.extend(PageNumberMetadataElement(el.html_tag) for el in window)
                 consecutive_count += 3
@@ -1172,13 +1158,13 @@ class ConsecutivePageNumberClassifier(AbstractProcessingStep):
                 out.append(elements[i])
                 i += 1
 
-        self._stats['consecutive_pages_removed'] += consecutive_count
+        self._stats["consecutive_pages_removed"] += consecutive_count
 
         return out
 
     def get_stats(self) -> dict[str, int]:
         """Return consecutive page number removal statistics."""
-        return getattr(self, '_stats', {'consecutive_pages_removed': 0})
+        return getattr(self, "_stats", {"consecutive_pages_removed": 0})
 
 
 # ========================================================================
@@ -1201,9 +1187,7 @@ class EnhancedTOCDetector(AbstractElementwiseProcessingStep):
         self.in_toc_section = False
         self.toc_line_count = 0
 
-    def _process_element(
-        self, element: AbstractSemanticElement, context: ElementProcessingContext
-    ) -> AbstractSemanticElement:
+    def _process_element(self, element: AbstractSemanticElement, context: ElementProcessingContext) -> AbstractSemanticElement:
         if not element.html_tag:
             return element
 
@@ -1245,39 +1229,39 @@ class EnhancedTOCDetector(AbstractElementwiseProcessingStep):
     def _is_toc_table(self, element: TableElement) -> bool:
         """Check if a table is likely a TOC."""
         try:
-            if not hasattr(element.html_tag, '_bs4'):
+            if not hasattr(element.html_tag, "_bs4"):
                 return False
 
             table = element.html_tag.get_bs4()
             text_content = table.get_text().lower()
 
             # Look for TOC indicators
-            toc_indicators = ['table of contents', 'contents', 'index', 'page']
+            toc_indicators = ["table of contents", "contents", "index", "page"]
 
             # Check if multiple indicators present
             indicator_count = sum(1 for indicator in toc_indicators if indicator in text_content)
 
             # Check for page number patterns
-            has_page_nums = bool(re.search(r'\b\d{1,3}\b', text_content))
+            has_page_nums = bool(re.search(r"\b\d{1,3}\b", text_content))
 
-            return indicator_count >= 2 or ('contents' in text_content and has_page_nums)
+            return indicator_count >= 2 or ("contents" in text_content and has_page_nums)
 
         except Exception:
             return False
 
     def _is_toc_header(self, text: str) -> bool:
         """Check if text is a TOC header."""
-        toc_patterns = [r'^TABLE\s+OF\s+CONTENTS?$', r'^Contents?$', r'^INDEX$']
+        toc_patterns = [r"^TABLE\s+OF\s+CONTENTS?$", r"^Contents?$", r"^INDEX$"]
         return any(re.match(pattern, text.strip(), re.IGNORECASE) for pattern in toc_patterns)
 
     def _is_toc_line(self, text: str) -> bool:
         """Check if text looks like a TOC entry."""
         # TOC lines typically have dots or spacing followed by page numbers
         toc_line_patterns = [
-            r'^.+\.{3,}\s*\d+$',  # Text...123
-            r'^.+\s{5,}\d+$',  # Text     123
-            r'^\d+\.\s+.+\s+\d+$',  # 1. Text 123
-            r'^[A-Z]+\.\s+.+\s+\d+$',  # I. Text 123
+            r"^.+\.{3,}\s*\d+$",  # Text...123
+            r"^.+\s{5,}\d+$",  # Text     123
+            r"^\d+\.\s+.+\s+\d+$",  # 1. Text 123
+            r"^[A-Z]+\.\s+.+\s+\d+$",  # I. Text 123
         ]
         return any(re.match(pattern, text.strip()) for pattern in toc_line_patterns)
 
@@ -1285,9 +1269,9 @@ class EnhancedTOCDetector(AbstractElementwiseProcessingStep):
         """Extract section number and title from TOC line."""
         # Match patterns like "1. Introduction.....5" or "Section 2.1 - Terms     10"
         patterns = [
-            r'^(\d+(?:\.\d+)*)\.\s+([^.\s].+?)(?:\.{3,}|\s{5,})\d+$',
-            r'^Section\s+(\d+(?:\.\d+)*)\s*[-–—]\s*([^.\s].+?)\s+\d+$',
-            r'^([IVX]+)\.\s+([^.\s].+?)(?:\.{3,}|\s{5,})\d+$',
+            r"^(\d+(?:\.\d+)*)\.\s+([^.\s].+?)(?:\.{3,}|\s{5,})\d+$",
+            r"^Section\s+(\d+(?:\.\d+)*)\s*[-–—]\s*([^.\s].+?)\s+\d+$",
+            r"^([IVX]+)\.\s+([^.\s].+?)(?:\.{3,}|\s{5,})\d+$",
         ]
 
         for pattern in patterns:
@@ -1337,26 +1321,24 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
     ) -> None:
         super().__init__()
 
-    def _process_element(
-        self, element: AbstractSemanticElement, context: ElementProcessingContext
-    ) -> AbstractSemanticElement:
+    def _process_element(self, element: AbstractSemanticElement, context: ElementProcessingContext) -> AbstractSemanticElement:
         """Process element with correct signature and whitespace normalization."""
         if not isinstance(element, TextElement):
             return element
-        tag = element.html_tag.get_bs4() if hasattr(element.html_tag, '_bs4') else None
+        tag = element.html_tag.get_bs4() if hasattr(element.html_tag, "_bs4") else None
         if not tag:
             return element
 
         # First – honour native <h1-h6>
-        if tag.name and tag.name.lower() in {'h1', 'h2', 'h3', 'h4', 'h5', 'h6'}:
+        if tag.name and tag.name.lower() in {"h1", "h2", "h3", "h4", "h5", "h6"}:
             lvl = int(tag.name[1])
             return HeadingElement(element.html_tag, element.text, level=lvl)
 
         style = computed_style(tag)
         try:
-            bold = style.get('font-weight', '').lower() in {'bold', '700', '800', '900'}
-            size_pt = _to_pt(style.get('font-size', ''))  # 0 if absent
-            mtop_pt = _to_pt(style.get('margin-top', ''))
+            bold = style.get("font-weight", "").lower() in {"bold", "700", "800", "900"}
+            size_pt = _to_pt(style.get("font-size", ""))  # 0 if absent
+            mtop_pt = _to_pt(style.get("margin-top", ""))
         except Exception:
             bold = False
             size_pt = 0
@@ -1375,29 +1357,29 @@ class VisualHeadingDetector(AbstractElementwiseProcessingStep):
             return element  # not visually prominent enough
 
         # NEW - normalize whitespace before pattern matching
-        txt = re.sub(r'\s+', ' ', element.text.strip())
+        txt = re.sub(r"\s+", " ", element.text.strip())
 
         # Safety filter – ignore very long "paragraph headings"
         if len(txt.split()) > 18:
             return element
 
         # Reject likely list items (a), (i) etc. handled elsewhere
-        if re.match(r'^\(?[a-z]\)|^[ivxlcdm]+\)', txt, re.IGNORECASE):
+        if re.match(r"^\(?[a-z]\)|^[ivxlcdm]+\)", txt, re.IGNORECASE):
             return element
 
         # ARTICLE?
         am = self._ARTICLE_RE.match(txt)
         if am:
-            num = am.group('num')
-            title = (am.group('title') or '').strip()
+            num = am.group("num")
+            title = (am.group("title") or "").strip()
             return ArticleElement(element.html_tag, article_number=num, article_title=title)
 
         # SECTION?
         sm = self._SECTION_RE.match(txt)
         if sm:
-            sec_num = sm.group('num')
-            title = sm.group('title').strip()
-            lvl = len(sec_num.split('.')) + 1
+            sec_num = sm.group("num")
+            title = sm.group("title").strip()
+            lvl = len(sec_num.split(".")) + 1
             return SectionElement(element.html_tag, section_number=sec_num, section_title=title, level=lvl)
 
         # Fallback → heading
@@ -1435,9 +1417,7 @@ class HierarchyBuilder(AbstractProcessingStep):
                 hierarchical_elements.append(element)
 
         # Step 11: Add fallback indentation hierarchy if insufficient heading structure
-        head_count = len([
-            e for e in hierarchical_elements if isinstance(e, (HeadingElement, SectionElement, ArticleElement))
-        ])
+        head_count = len([e for e in hierarchical_elements if isinstance(e, (HeadingElement, SectionElement, ArticleElement))])
         if head_count < 3:
             hierarchical_elements = self.apply_indentation_heuristic(hierarchical_elements)
 
@@ -1471,9 +1451,7 @@ class HierarchyBuilder(AbstractProcessingStep):
     def apply_indentation_heuristic(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         """Apply indentation-based hierarchy when insufficient headings are detected."""
         # Get elements that might benefit from indentation hierarchy
-        text_elements = [
-            e for e in elements if isinstance(e, (TextElement, ContentTextElement)) and hasattr(e.html_tag, '_bs4')
-        ]
+        text_elements = [e for e in elements if isinstance(e, (TextElement, ContentTextElement)) and hasattr(e.html_tag, "_bs4")]
 
         if len(text_elements) < 2:
             return elements
@@ -1481,11 +1459,11 @@ class HierarchyBuilder(AbstractProcessingStep):
         # Extract indentation levels from margin-left styles
         indented_elements = []
         for element in text_elements:
-            tag = element.html_tag.get_bs4() if hasattr(element.html_tag, '_bs4') else None
+            tag = element.html_tag.get_bs4() if hasattr(element.html_tag, "_bs4") else None
             if tag:
                 style = computed_style(tag)
-                margin_left = _to_pt(style.get('margin-left', '0'))
-                text_indent = _to_pt(style.get('text-indent', '0'))
+                margin_left = _to_pt(style.get("margin-left", "0"))
+                text_indent = _to_pt(style.get("text-indent", "0"))
                 total_indent = margin_left + text_indent
                 indented_elements.append((element, total_indent))
 
@@ -1582,7 +1560,7 @@ class LateMetadataRemoverStep(AbstractProcessingStep):
     def _process(self, elements, context=None):
         filtered = []
         for el in elements:
-            if hasattr(el, 'html_tag') and el.html_tag and el.html_tag.text:
+            if hasattr(el, "html_tag") and el.html_tag and el.html_tag.text:
                 text = el.html_tag.text.strip()
                 if self._trash.search(text) and len(text) < 200:  # Only short metadata
                     continue  # Skip this element
@@ -1626,7 +1604,7 @@ class OrphanAttacherStep(AbstractProcessingStep):
                 for lvl, parent in reversed(stack):
                     if ContentTextElement in self._ALLOWED.get(type(parent), set()):
                         el.parent_id = parent.id
-                        parent.add_child(getattr(el, 'id', f'ct_{id(el)}'))
+                        parent.add_child(getattr(el, "id", f"ct_{id(el)}"))
                         el.level = lvl + 1
                         break
         return elements
@@ -1653,29 +1631,22 @@ class TableRootPromoter(AbstractProcessingStep):
             return elements
 
         # Check if it's a table followed by text
-        if isinstance(elements[first_content_idx], TableElement) and first_content_idx + self.LOOKAHEAD < len(
-            elements
-        ):
+        if isinstance(elements[first_content_idx], TableElement) and first_content_idx + self.LOOKAHEAD < len(elements):
             # Check next LOOKAHEAD elements
             next_elements = elements[first_content_idx + 1 : first_content_idx + 1 + self.LOOKAHEAD]
-            paragraph_like = all(
-                isinstance(el, (TextElement, ContentTextElement))
-                and el.html_tag
-                and len(el.html_tag.text.strip()) >= self.MIN_PARA_LEN
-                for el in next_elements
-            )
+            paragraph_like = all(isinstance(el, (TextElement, ContentTextElement)) and el.html_tag and len(el.html_tag.text.strip()) >= self.MIN_PARA_LEN for el in next_elements)
 
             if paragraph_like:
                 # Convert table to SectionElement
                 table = elements[first_content_idx]
-                section = SectionElement(table.html_tag, section_number='1', section_title='Table Section', level=1)
+                section = SectionElement(table.html_tag, section_number="1", section_title="Table Section", level=1)
                 elements[first_content_idx] = section
 
         return elements
 
 
 class FallbackTitleClassifier(AbstractProcessingStep):
-    KNOWN_PREFIX = re.compile(r'^(Exhibit|Schedule|Appendix)\s+\d+[A-Z]?\b', re.IGNORECASE)
+    KNOWN_PREFIX = re.compile(r"^(Exhibit|Schedule|Appendix)\s+\d+[A-Z]?\b", re.IGNORECASE)
 
     def _process(self, elements: list[AbstractSemanticElement]) -> list[AbstractSemanticElement]:
         if any(isinstance(el, AgreementTitleElement) for el in elements):
@@ -1704,19 +1675,17 @@ class ImprovedMetadataRemoverv8(AbstractElementwiseProcessingStep):
         self.metadata_stats: defaultdict[str, int] = defaultdict(int)
 
         # v8 additions: field token recognition
-        self._field_tokens = {'field:', 'page', 'sequence', 'options', 'value', 'rule-page', 'last'}
+        self._field_tokens = {"field:", "page", "sequence", "options", "value", "rule-page", "last"}
 
     def _is_short_and_mostly_field_tokens(self, text: str) -> bool:
         """Check if text is short and mostly field-related tokens."""
         if len(text) > 120:
             return False
-        tokens = re.split(r'[\s;:]+', text.lower())
+        tokens = re.split(r"[\s;:]+", text.lower())
         real_words = [t for t in tokens if t.isalpha() and t not in self._field_tokens]
         return len(real_words) <= 2  # essentially no "real" language
 
-    def _process_element(
-        self, element: AbstractSemanticElement, context: ElementProcessingContext
-    ) -> AbstractSemanticElement:
+    def _process_element(self, element: AbstractSemanticElement, context: ElementProcessingContext) -> AbstractSemanticElement:
         """Process element with correct signature matching parent class."""
         if not element.html_tag:
             return element
@@ -1737,63 +1706,64 @@ class ImprovedMetadataRemoverv8(AbstractElementwiseProcessingStep):
         text_lower = text.lower().strip()
 
         # NEW - Execution version stamp
-        if re.fullmatch(r'Execution\s+Version', text_stripped, re.IGNORECASE):
-            return ('execution_stamp', ExecutionStampElement)
+        if re.fullmatch(r"Execution\s+Version", text_stripped, re.IGNORECASE):
+            return ("execution_stamp", ExecutionStampElement)
 
         # NEW - Exhibit number lines (capture any 10-k style "Exhibit 10.59-7" strings)
-        if re.fullmatch(r'Exhibit\s+\d+(\.\d+)?([\-–]\d+)?', text_stripped, re.IGNORECASE):
-            return ('exhibit_stamp', ExhibitStampElement)
+        if re.fullmatch(r"Exhibit\s+\d+(\.\d+)?([\-–]\d+)?", text_stripped, re.IGNORECASE):
+            return ("exhibit_stamp", ExhibitStampElement)
 
         # v8 NEW - catch the residual patterns but only when they are *pure* metadata
-        if text_lower.startswith('field:') and self._is_short_and_mostly_field_tokens(text_stripped):
-            return ('page_number', PageNumberMetadataElement)
+        if text_lower.startswith("field:") and self._is_short_and_mostly_field_tokens(text_stripped):
+            return ("page_number", PageNumberMetadataElement)
 
-        if text_stripped.startswith('PROfilePageNumberReset%'):
-            return ('page_number', PageNumberMetadataElement)
+        if text_stripped.startswith("PROfilePageNumberReset%"):
+            return ("page_number", PageNumberMetadataElement)
 
         # v8 NEW - Workiva image-file comments may still survive if someone copied the name
-        if re.fullmatch(r'[a-z0-9_\-]+\.(?:jpe?g|png|gif)', text_stripped, re.IGNORECASE):
-            return ('page_number', PageNumberMetadataElement)
+        if re.fullmatch(r"[a-z0-9_\-]+\.(?:jpe?g|png|gif)", text_stripped, re.IGNORECASE):
+            return ("page_number", PageNumberMetadataElement)
 
         # v8 NEW - Redaction placeholder handling [***]
-        if re.fullmatch(r'\[?\*{3,}\]?', text_stripped):
-            return ('redaction_stamp', ExhibitStampElement)
+        if re.fullmatch(r"\[?\*{3,}\]?", text_stripped):
+            return ("redaction_stamp", ExhibitStampElement)
 
         # Existing V6 logic below...
 
         # Exhibit/Document stamps
         exhibit_patterns = [
-            r'^Exhibit\s+\d+(\.\d+)?(?:\s|$)',
-            r'^EX-?\d+(\.\d+)?(?:\s|$)',
-            r'^EXHIBIT\s+[A-Z0-9]+(?:\s|$)',
-            r'^Schedule\s+[A-Z0-9]+(?:\s|$)',
-            r'^Annex\s+[A-Z0-9]+(?:\s|$)',
-            r'^Appendix\s+[A-Z0-9]+(?:\s|$)',
-            r'^Attachment\s+[A-Z0-9]+(?:\s|$)',
+            r"^Exhibit\s+\d+(\.\d+)?(?:\s|$)",
+            r"^EX-?\d+(\.\d+)?(?:\s|$)",
+            r"^EXHIBIT\s+[A-Z0-9]+(?:\s|$)",
+            r"^Schedule\s+[A-Z0-9]+(?:\s|$)",
+            r"^Annex\s+[A-Z0-9]+(?:\s|$)",
+            r"^Appendix\s+[A-Z0-9]+(?:\s|$)",
+            r"^Attachment\s+[A-Z0-9]+(?:\s|$)",
         ]
         for pattern in exhibit_patterns:
             if re.match(pattern, text_stripped, re.IGNORECASE):
-                return ('exhibit_stamp', ExhibitStampElement)
+                return ("exhibit_stamp", ExhibitStampElement)
 
         # Page numbers
         page_patterns = [
-            (r'^Page\s+\d+\s+of\s+\d+$', 20),
-            (r'^-\s*\d+\s*-$', 10),
-            (r'^\d+$', 3),
-            (r'^PAGE\s+\d+$', 10),
-            (r'^\[\s*\d+\s*\]$', 10),
-            (r'^Page\s+\d+$', 10),
-            (r'^\d+\s+of\s+\d+$', 10),
+            (r"^Page\s+\d+\s+of\s+\d+$", 20),
+            (r"^-\s*\d+\s*-$", 10),
+            (r"^\d+$", 3),
+            (r"^PAGE\s+\d+$", 10),
+            (r"^\[\s*\d+\s*\]$", 10),
+            (r"^Page\s+\d+$", 10),
+            (r"^\d+\s+of\s+\d+$", 10),
         ]
         for pattern, max_len in page_patterns:
             if re.match(pattern, text_stripped, re.IGNORECASE) and len(text_stripped) <= max_len:
-                return ('page_number', PageNumberMetadataElement)
+                return ("page_number", PageNumberMetadataElement)
 
         return None
 
     def get_stats(self) -> dict[str, int]:
         """Return metadata removal statistics."""
         return dict(self.metadata_stats)
+
 
 class EnhancedClauseClassifierV6(AbstractElementwiseProcessingStep):
     """Enhanced clause detection for V6 with hierarchy."""
@@ -1814,8 +1784,8 @@ class EnhancedClauseClassifierV6(AbstractElementwiseProcessingStep):
             clause_id, clause_text, level = clause_info
 
             # Check for duplicates using parent_id and normalized_id
-            normalized = clause_id.strip('().')  # Basic normalization
-            parent_id = getattr(element, 'parent_id', None)
+            normalized = clause_id.strip("().")  # Basic normalization
+            parent_id = getattr(element, "parent_id", None)
             key = (parent_id, normalized)
 
             if key in self._seen:
@@ -1830,23 +1800,23 @@ class EnhancedClauseClassifierV6(AbstractElementwiseProcessingStep):
     def _extract_clause(self, text: str) -> Optional[tuple[str, str, int]]:
         """Enhanced clause extraction."""
         clause_patterns = [
-            (r'^\(([a-z])\)(?:\s+(.*))?', 3),
-            (r'^\(([A-Z])\)(?:\s+(.*))?', 4),
-            (r'^\((\d+)\)(?:\s+(.*))?', 4),
-            (r'^\(([ivxlcdm]+)\)(?:\s+(.*))?', 5),
-            (r'^([a-z])\.(?:\s+(.*))?', 3),
-            (r'^([A-Z])\.(?:\s+(.*))?', 4),
-            (r'^([ivxlcdm]+)\.(?:\s+(.*))?', 5),
-            (r'^[;,]\s*\(([a-z])\)(?:\s+(.*))?', 3),
-            (r'^[;,]\s*\((\d+)\)(?:\s+(.*))?', 4),
+            (r"^\(([a-z])\)(?:\s+(.*))?", 3),
+            (r"^\(([A-Z])\)(?:\s+(.*))?", 4),
+            (r"^\((\d+)\)(?:\s+(.*))?", 4),
+            (r"^\(([ivxlcdm]+)\)(?:\s+(.*))?", 5),
+            (r"^([a-z])\.(?:\s+(.*))?", 3),
+            (r"^([A-Z])\.(?:\s+(.*))?", 4),
+            (r"^([ivxlcdm]+)\.(?:\s+(.*))?", 5),
+            (r"^[;,]\s*\(([a-z])\)(?:\s+(.*))?", 3),
+            (r"^[;,]\s*\((\d+)\)(?:\s+(.*))?", 4),
         ]
 
         for pattern, level in clause_patterns:
-            match = re.match(pattern, text, re.IGNORECASE if 'ivx' in pattern else 0)
+            match = re.match(pattern, text, re.IGNORECASE if "ivx" in pattern else 0)
             if match:
                 clause_id = match.group(1)
-                clause_id = f'({clause_id})' if '(' in pattern else f'{clause_id}.'
-                clause_text = match.group(2).strip() if match.group(2) else ''
+                clause_id = f"({clause_id})" if "(" in pattern else f"{clause_id}."
+                clause_text = match.group(2).strip() if match.group(2) else ""
 
                 if self._is_likely_clause(text, clause_text):
                     return (clause_id, clause_text, level)
@@ -1858,9 +1828,8 @@ class EnhancedClauseClassifierV6(AbstractElementwiseProcessingStep):
         if len(full_text) > 500:
             return False
 
-        section_words = ['section', 'article', 'chapter', 'part']
+        section_words = ["section", "article", "chapter", "part"]
         return not any(word in full_text.lower()[:50] for word in section_words)
-
 
 
 # Other processing steps (from V8 base)
@@ -1902,7 +1871,7 @@ class LegalContentClassifierV6(AbstractElementwiseProcessingStep):
 
     def _is_recital(self, text: str) -> bool:
         """Check if text is a recital."""
-        recital_patterns = [r'^WHEREAS[,:]?\s', r'^Whereas[,:]?\s', r'^NOW,?\s+THEREFORE', r'^WITNESSETH[,:]?\s']
+        recital_patterns = [r"^WHEREAS[,:]?\s", r"^Whereas[,:]?\s", r"^NOW,?\s+THEREFORE", r"^WITNESSETH[,:]?\s"]
         return any(re.match(pattern, text.strip()) for pattern in recital_patterns)
 
     def _extract_definition(self, text: str) -> Optional[tuple[str, str]]:
@@ -1913,7 +1882,7 @@ class LegalContentClassifierV6(AbstractElementwiseProcessingStep):
             r'(?:the\s+)?term\s+"([^"]+)"\s+(?:means?|refers?\s+to)\s+(.+)',
             r'"([^"]+)"\s*\((?:as\s+)?defined\s+(?:herein|below|above)\)',
             r'"([^"]+)"\s*\((?:the\s+)?"[^"]+"\)',
-            r'\b([A-Z][a-zA-Z\s]+?)\s+(?:means?|shall\s+mean)\s+(.+)',
+            r"\b([A-Z][a-zA-Z\s]+?)\s+(?:means?|shall\s+mean)\s+(.+)",
         ]
 
         for pattern in patterns:
@@ -1930,10 +1899,10 @@ class LegalContentClassifierV6(AbstractElementwiseProcessingStep):
     def _extract_party(self, text: str) -> Optional[tuple[str, str]]:
         """Enhanced party extraction."""
         patterns = [
-            r'([A-Z][^,]{2,50}?),\s+a\s+([^(,]{3,40}(?:\([^)]+\))?)',
+            r"([A-Z][^,]{2,50}?),\s+a\s+([^(,]{3,40}(?:\([^)]+\))?)",
             r'"([^"]+)",\s+a\s+([^(,]{3,40})',
-            r'between\s+([A-Z][^,\s]{2,40}?)\s+(?:and|AND)\s+([A-Z][^,\s]{2,40})',
-            r'by\s+and\s+between\s+([A-Z][^,]{2,40}?)\s+and\s+([A-Z][^,]{2,40})',
+            r"between\s+([A-Z][^,\s]{2,40}?)\s+(?:and|AND)\s+([A-Z][^,\s]{2,40})",
+            r"by\s+and\s+between\s+([A-Z][^,]{2,40}?)\s+and\s+([A-Z][^,]{2,40})",
         ]
 
         for pattern in patterns:
@@ -1943,16 +1912,16 @@ class LegalContentClassifierV6(AbstractElementwiseProcessingStep):
                 party_type = match.group(2).strip()
 
                 entity_types = [
-                    'corporation',
-                    'company',
-                    'llc',
-                    'partnership',
-                    'trust',
-                    'individual',
-                    'bank',
-                    'fund',
-                    'lp',
-                    'inc',
+                    "corporation",
+                    "company",
+                    "llc",
+                    "partnership",
+                    "trust",
+                    "individual",
+                    "bank",
+                    "fund",
+                    "lp",
+                    "inc",
                 ]
 
                 if any(entity in party_type.lower() for entity in entity_types):
@@ -1963,10 +1932,10 @@ class LegalContentClassifierV6(AbstractElementwiseProcessingStep):
     def _extract_exhibit_reference(self, text: str) -> Optional[tuple[str, str]]:
         """Enhanced exhibit extraction."""
         patterns = [
-            r'attached\s+(?:hereto\s+)?as\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)',
-            r'set\s+forth\s+(?:on|in)\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)',
-            r'(?:See|see)\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)',
-            r'incorporated\s+.*\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)',
+            r"attached\s+(?:hereto\s+)?as\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)",
+            r"set\s+forth\s+(?:on|in)\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)",
+            r"(?:See|see)\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)",
+            r"incorporated\s+.*\s+(Exhibit|Schedule|Annex|Appendix)\s+([A-Z0-9]+)",
         ]
 
         for pattern in patterns:
@@ -1974,7 +1943,7 @@ class LegalContentClassifierV6(AbstractElementwiseProcessingStep):
             if match:
                 exhibit_type = match.group(1).title()
                 exhibit_num = match.group(2).upper()
-                return (f'{exhibit_type} {exhibit_num}', '')
+                return (f"{exhibit_type} {exhibit_num}", "")
 
         return None
 
@@ -2003,13 +1972,13 @@ class HeadingClassifierV6(AbstractElementwiseProcessingStep):
         if word_count > 12 or word_count < 1:
             return False
 
-        if re.match(r'^\d+\.?$', text.strip()):
+        if re.match(r"^\d+\.?$", text.strip()):
             return False
 
         # Style-based detection
         try:
-            style = html_tag._bs4.get('style', '') if hasattr(html_tag, '_bs4') else ''
-            style_indicators = ['bold', 'underline', 'uppercase']
+            style = html_tag._bs4.get("style", "") if hasattr(html_tag, "_bs4") else ""
+            style_indicators = ["bold", "underline", "uppercase"]
             has_style = any(indicator in style.lower() for indicator in style_indicators)
 
             if has_style and word_count <= 8:
@@ -2022,7 +1991,7 @@ class HeadingClassifierV6(AbstractElementwiseProcessingStep):
             return True
 
         # Heading patterns
-        heading_patterns = [r'^\d+\.\d+\s+[A-Z]', r'^[A-Z][A-Za-z\s]+:$', r'^(?:ARTICLE|SECTION)\s+\d+']
+        heading_patterns = [r"^\d+\.\d+\s+[A-Z]", r"^[A-Z][A-Za-z\s]+:$", r"^(?:ARTICLE|SECTION)\s+\d+"]
 
         if any(re.match(pattern, text) for pattern in heading_patterns):
             return True
@@ -2030,18 +1999,18 @@ class HeadingClassifierV6(AbstractElementwiseProcessingStep):
         # Common heading words
         if word_count <= 5:
             heading_keywords = [
-                'definitions',
-                'representations',
-                'warranties',
-                'covenants',
-                'conditions',
-                'termination',
-                'indemnification',
-                'miscellaneous',
-                'general provisions',
-                'notices',
-                'governing law',
-                'recitals',
+                "definitions",
+                "representations",
+                "warranties",
+                "covenants",
+                "conditions",
+                "termination",
+                "indemnification",
+                "miscellaneous",
+                "general provisions",
+                "notices",
+                "governing law",
+                "recitals",
             ]
 
             text_lower = text.lower()
@@ -2055,14 +2024,14 @@ class HeadingClassifierV6(AbstractElementwiseProcessingStep):
         if text.isupper():
             return 1
 
-        if re.match(r'^\d+\.\d+\s+', text):
+        if re.match(r"^\d+\.\d+\s+", text):
             return 2
 
         try:
-            style = html_tag._bs4.get('style', '') if hasattr(html_tag, '_bs4') else ''
-            if 'bold' in style.lower() and 'underline' in style.lower():
+            style = html_tag._bs4.get("style", "") if hasattr(html_tag, "_bs4") else ""
+            if "bold" in style.lower() and "underline" in style.lower():
                 return 1
-            if 'bold' in style.lower():
+            if "bold" in style.lower():
                 return 2
         except:
             pass
@@ -2094,7 +2063,7 @@ class MainTitleClassifierV6(AbstractElementwiseProcessingStep):
 
     def _is_likely_metadata(self, text: str) -> bool:
         """Check if text is likely metadata."""
-        metadata_patterns = [r'^Exhibit\s+\d+', r'^EX-\d+', r'^Page\s+\d+', r'^\d+$', r'^-\s*\d+\s*-$']
+        metadata_patterns = [r"^Exhibit\s+\d+", r"^EX-\d+", r"^Page\s+\d+", r"^\d+$", r"^-\s*\d+\s*-$"]
         return any(re.match(pattern, text.strip(), re.IGNORECASE) for pattern in metadata_patterns)
 
     def _is_main_title(self, text: str, html_tag: HtmlTag) -> bool:
@@ -2103,20 +2072,20 @@ class MainTitleClassifierV6(AbstractElementwiseProcessingStep):
             return False
 
         title_keywords = [
-            'agreement',
-            'contract',
-            'note',
-            'license',
-            'lease',
-            'amendment',
-            'guaranty',
-            'warranty',
-            'deed',
-            'indenture',
-            'memorandum',
-            'certificate',
-            'letter',
-            'terms',
+            "agreement",
+            "contract",
+            "note",
+            "license",
+            "lease",
+            "amendment",
+            "guaranty",
+            "warranty",
+            "deed",
+            "indenture",
+            "memorandum",
+            "certificate",
+            "letter",
+            "terms",
         ]
 
         text_lower = text.lower()
@@ -2126,18 +2095,18 @@ class MainTitleClassifierV6(AbstractElementwiseProcessingStep):
             return False
 
         try:
-            style = html_tag._bs4.get('style', '') if hasattr(html_tag, '_bs4') else ''
-            is_centered = 'center' in style.lower()
-            is_bold = 'bold' in style.lower()
+            style = html_tag._bs4.get("style", "") if hasattr(html_tag, "_bs4") else ""
+            is_centered = "center" in style.lower()
+            is_bold = "bold" in style.lower()
 
             if is_centered and is_bold:
                 return True
 
             if is_centered or is_bold:
                 strong_patterns = [
-                    r'^[A-Z][A-Z\s\-]+(?:AGREEMENT|CONTRACT|NOTE)$',
-                    r'^(?:AMENDED\s+AND\s+RESTATED\s+)?[A-Z\s]+AGREEMENT$',
-                    r'(?:AGREEMENT|CONTRACT|NOTE)$',
+                    r"^[A-Z][A-Z\s\-]+(?:AGREEMENT|CONTRACT|NOTE)$",
+                    r"^(?:AMENDED\s+AND\s+RESTATED\s+)?[A-Z\s]+AGREEMENT$",
+                    r"(?:AGREEMENT|CONTRACT|NOTE)$",
                 ]
 
                 if any(re.match(pattern, text.strip(), re.IGNORECASE) for pattern in strong_patterns):
@@ -2180,7 +2149,6 @@ class ContentClassifierV6(AbstractElementwiseProcessingStep):
         return not (text.isupper() and len(text.split()) < 20)
 
 
-
 class AgreementParserv9Enhanced(AbstractSemanticElementParser):
     """Legal Agreement Parser v9 Enhanced - All improvements implemented."""
 
@@ -2188,9 +2156,7 @@ class AgreementParserv9Enhanced(AbstractSemanticElementParser):
         super().__init__()
         self.is_wdesk = False
 
-    def get_default_steps(
-        self, get_checks: Callable[[], list[AbstractSingleElementCheck]] | None = None
-    ) -> list[AbstractProcessingStep]:
+    def get_default_steps(self, get_checks: Callable[[], list[AbstractSingleElementCheck]] | None = None) -> list[AbstractProcessingStep]:
         """Create processing steps for v9 Enhanced."""
         return [
             # Phase 0: Early metadata removal
@@ -2281,83 +2247,83 @@ def _calculate_parsing_grade(
     # Title detection (15 points)
     if has_title:
         score += 15
-        strengths.append('Title detected')
+        strengths.append("Title detected")
     else:
-        issues.append('No title detected')
+        issues.append("No title detected")
 
     # Structure hierarchy (25 points)
     structure_points = 0
     if has_articles:
         structure_points += 8
-        strengths.append('Articles found')
+        strengths.append("Articles found")
     if has_sections:
         structure_points += 8
-        strengths.append('Sections found')
+        strengths.append("Sections found")
     if has_clauses:
         structure_points += 6
-        strengths.append('Clauses found')
+        strengths.append("Clauses found")
     if hierarchy_depth >= 3:
         structure_points += 3
-        strengths.append(f'Good depth ({hierarchy_depth} levels)')
+        strengths.append(f"Good depth ({hierarchy_depth} levels)")
 
     score += min(structure_points, 25)
     if structure_points < 10:
-        issues.append('Poor structural hierarchy')
+        issues.append("Poor structural hierarchy")
 
     # Orphan management (30 points) - most important
     if orphan_rate <= 5:
         score += 30
-        strengths.append(f'Excellent orphan control ({orphan_rate:.1f}%)')
+        strengths.append(f"Excellent orphan control ({orphan_rate:.1f}%)")
     elif orphan_rate <= 15:
         score += 20
-        strengths.append(f'Good orphan control ({orphan_rate:.1f}%)')
+        strengths.append(f"Good orphan control ({orphan_rate:.1f}%)")
     elif orphan_rate <= 30:
         score += 10
-        issues.append(f'High orphan rate ({orphan_rate:.1f}%)')
+        issues.append(f"High orphan rate ({orphan_rate:.1f}%)")
     else:
-        issues.append(f'Critical orphan rate ({orphan_rate:.1f}%)')
+        issues.append(f"Critical orphan rate ({orphan_rate:.1f}%)")
 
     # Content richness (15 points)
     content_points = 0
-    if type_counts.get('HeadingElement', 0) > 0:
+    if type_counts.get("HeadingElement", 0) > 0:
         content_points += 5
-        strengths.append(f'{type_counts["HeadingElement"]} headings')
-    if type_counts.get('ContentTextElement', 0) > 5:
+        strengths.append(f"{type_counts['HeadingElement']} headings")
+    if type_counts.get("ContentTextElement", 0) > 5:
         content_points += 5
-        strengths.append('Rich content text')
-    if type_counts.get('DefinitionElement', 0) > 0:
+        strengths.append("Rich content text")
+    if type_counts.get("DefinitionElement", 0) > 0:
         content_points += 3
-        strengths.append('Definitions found')
-    if type_counts.get('PartyElement', 0) > 0:
+        strengths.append("Definitions found")
+    if type_counts.get("PartyElement", 0) > 0:
         content_points += 2
-        strengths.append('Parties identified')
+        strengths.append("Parties identified")
 
     score += min(content_points, 15)
 
     # Special features (15 points)
     if has_toc:
         score += 5
-        strengths.append('Table of contents')
-    if type_counts.get('SignatureBlockElement', 0) > 0:
+        strengths.append("Table of contents")
+    if type_counts.get("SignatureBlockElement", 0) > 0:
         score += 5
-        strengths.append('Signature blocks')
-    if type_counts.get('ExhibitElement', 0) > 0:
+        strengths.append("Signature blocks")
+    if type_counts.get("ExhibitElement", 0) > 0:
         score += 5
-        strengths.append('Exhibits found')
+        strengths.append("Exhibits found")
 
     # Grade assignment
     if score >= 85:
-        grade = 'A'
-        status = '🏆 EXCELLENT'
+        grade = "A"
+        status = "🏆 EXCELLENT"
     elif score >= 70:
-        grade = 'B'
-        status = '✅ SUCCESS'
+        grade = "B"
+        status = "✅ SUCCESS"
     elif score >= 55:
-        grade = 'C'
-        status = '⚠️ PARTIAL'
+        grade = "C"
+        status = "⚠️ PARTIAL"
     else:
-        grade = 'D'
-        status = '❌ FAILED'
+        grade = "D"
+        status = "❌ FAILED"
 
     # Enhanced auto-debug analysis with meaningful context
     debug_info = {}
@@ -2366,104 +2332,102 @@ def _calculate_parsing_grade(
 
     # For failed documents, provide comprehensive debugging info
     if score < 55:  # Grade D documents
-        debug_info['document_overview'] = _extract_document_overview(html_content) if html_content else None
+        debug_info["document_overview"] = _extract_document_overview(html_content) if html_content else None
 
     if orphan_count > 0:
         orphans = [e for e in hierarchical_elements if e.parent_id is None and e.level > 0]
         for _i, orphan in enumerate(orphans[:5]):  # Show first 5 orphans
-            text_preview = getattr(orphan, 'text', str(orphan))[:150].strip()
+            text_preview = getattr(orphan, "text", str(orphan))[:150].strip()
             if text_preview:
-                orphan_samples.append({
-                    'type': type(orphan).__name__,
-                    'level': getattr(orphan, 'level', 'unknown'),
-                    'text_preview': text_preview + ('...' if len(text_preview) == 150 else ''),
-                })
+                orphan_samples.append(
+                    {
+                        "type": type(orphan).__name__,
+                        "level": getattr(orphan, "level", "unknown"),
+                        "text_preview": text_preview + ("..." if len(text_preview) == 150 else ""),
+                    }
+                )
 
         # Extract structural context for orphan issues
         if html_content:
-            structural_context = _extract_structural_context(html_content, 'orphans')
+            structural_context = _extract_structural_context(html_content, "orphans")
             if structural_context:
-                debug_info['structural_examples'] = structural_context
+                debug_info["structural_examples"] = structural_context
 
     # Generate auto-debug suggestions based on patterns
     if orphan_rate > 50:
-        debug_suggestions.append(
-            'HIGH PRIORITY: Document structure is severely fragmented. Check for missing hierarchy markers.'
-        )
+        debug_suggestions.append("HIGH PRIORITY: Document structure is severely fragmented. Check for missing hierarchy markers.")
         if not has_articles and not has_sections:
-            debug_suggestions.append('• No structural elements detected - verify HTML contains proper headings')
+            debug_suggestions.append("• No structural elements detected - verify HTML contains proper headings")
         if html_content:
             # Look for potential heading patterns that weren't caught
             potential_headings = _find_potential_headings(html_content)
             if potential_headings:
-                debug_suggestions.append(
-                    f'• Found {len(potential_headings)} potential uncaught headings - check regex patterns'
-                )
-                debug_info['potential_headings'] = potential_headings[:3]
+                debug_suggestions.append(f"• Found {len(potential_headings)} potential uncaught headings - check regex patterns")
+                debug_info["potential_headings"] = potential_headings[:3]
 
     if not has_title and html_content:
         title_candidates = _find_title_candidates(html_content)
         if title_candidates:
-            debug_suggestions.append('• Title detection failed - check title classification rules')
-            debug_info['title_candidates'] = title_candidates[:3]
+            debug_suggestions.append("• Title detection failed - check title classification rules")
+            debug_info["title_candidates"] = title_candidates[:3]
         else:
-            debug_suggestions.append('• No title candidates found - document may lack proper title structure')
+            debug_suggestions.append("• No title candidates found - document may lack proper title structure")
             # For no-title cases, extract structural context
-            title_context = _extract_structural_context(html_content, 'no_title')
+            title_context = _extract_structural_context(html_content, "no_title")
             if title_context:
-                debug_info['title_context'] = title_context
+                debug_info["title_context"] = title_context
 
     if has_sections and not has_articles and hierarchy_depth < 3:
-        debug_suggestions.append('• Sections found but no articles - check if sections should be promoted to articles')
+        debug_suggestions.append("• Sections found but no articles - check if sections should be promoted to articles")
 
-    if type_counts.get('TextElement', 0) > type_counts.get('ContentTextElement', 0) * 3:
-        debug_suggestions.append('• Many unclassified TextElements - content classification may be too restrictive')
+    if type_counts.get("TextElement", 0) > type_counts.get("ContentTextElement", 0) * 3:
+        debug_suggestions.append("• Many unclassified TextElements - content classification may be too restrictive")
 
     # Document type analysis
     if html_content:
         doc_analysis = _analyze_document_type(html_content)
-        if doc_analysis['type'] != 'standard':
-            debug_suggestions.append(
-                f'• Document appears to be {doc_analysis["type"]} format - may need specialized handling'
-            )
-            if doc_analysis['suggestions']:
-                debug_suggestions.extend(doc_analysis['suggestions'])
+        if doc_analysis["type"] != "standard":
+            debug_suggestions.append(f"• Document appears to be {doc_analysis['type']} format - may need specialized handling")
+            if doc_analysis["suggestions"]:
+                debug_suggestions.extend(doc_analysis["suggestions"])
 
     # Create detailed element distribution for better analysis
     element_distribution = {element_type: count for element_type, count in type_counts.items() if count > 0}
 
     diagnostic_info = {
-        'score': score,
-        'issues': issues,
-        'strengths': strengths,
-        'orphan_samples': orphan_samples,
-        'debug_suggestions': debug_suggestions,
-        'debug_info': debug_info,  # Contains document_overview, structural_examples, etc.
-        'element_distribution': element_distribution,
-        'structure_summary': {
-            'total_hierarchical': len(hierarchical_elements),
-            'articles': type_counts.get('ArticleElement', 0),
-            'sections': type_counts.get('SectionElement', 0),
-            'clauses': type_counts.get('ClauseElement', 0),
-            'headings': type_counts.get('HeadingElement', 0),
-            'content_elements': type_counts.get('ContentTextElement', 0),
-            'text_elements': type_counts.get('TextElement', 0),
-            'orphan_rate': orphan_rate,
-            'root_count': root_count,
-            'max_depth': hierarchy_depth,
+        "score": score,
+        "issues": issues,
+        "strengths": strengths,
+        "orphan_samples": orphan_samples,
+        "debug_suggestions": debug_suggestions,
+        "debug_info": debug_info,  # Contains document_overview, structural_examples, etc.
+        "element_distribution": element_distribution,
+        "structure_summary": {
+            "total_hierarchical": len(hierarchical_elements),
+            "articles": type_counts.get("ArticleElement", 0),
+            "sections": type_counts.get("SectionElement", 0),
+            "clauses": type_counts.get("ClauseElement", 0),
+            "headings": type_counts.get("HeadingElement", 0),
+            "content_elements": type_counts.get("ContentTextElement", 0),
+            "text_elements": type_counts.get("TextElement", 0),
+            "orphan_rate": orphan_rate,
+            "root_count": root_count,
+            "max_depth": hierarchy_depth,
         },
-        'breakdown': {
-            'title_points': 15 if has_title else 0,
-            'structure_points': min(structure_points, 25),
-            'orphan_points': max(0, 30 - max(0, orphan_rate - 5) * 2),
-            'content_points': min(content_points, 15),
-            'special_points': min(
+        "breakdown": {
+            "title_points": 15 if has_title else 0,
+            "structure_points": min(structure_points, 25),
+            "orphan_points": max(0, 30 - max(0, orphan_rate - 5) * 2),
+            "content_points": min(content_points, 15),
+            "special_points": min(
                 5
-                * sum([
-                    has_toc,
-                    type_counts.get('SignatureBlockElement', 0) > 0,
-                    type_counts.get('ExhibitElement', 0) > 0,
-                ]),
+                * sum(
+                    [
+                        has_toc,
+                        type_counts.get("SignatureBlockElement", 0) > 0,
+                        type_counts.get("ExhibitElement", 0) > 0,
+                    ]
+                ),
                 15,
             ),
         },
@@ -2478,31 +2442,31 @@ def _extract_document_overview(html_content, max_chars=10000):
         # Get the first 10k characters to see document structure
         overview = html_content[:max_chars]
         if len(html_content) > max_chars:
-            overview += f'\n\n... [TRUNCATED - Full document is {len(html_content)} chars]'
+            overview += f"\n\n... [TRUNCATED - Full document is {len(html_content)} chars]"
 
         return overview
     except Exception:
-        return 'Error extracting document overview'
+        return "Error extracting document overview"
 
 
-def _extract_structural_context(html_content, issue_type='orphans'):
+def _extract_structural_context(html_content, issue_type="orphans"):
     """Extract meaningful HTML snippets showing structural problems."""
     try:
         import re
 
-        if issue_type == 'orphans':
+        if issue_type == "orphans":
             # Look for heading-like patterns that might be causing orphans
             patterns = [
-                (r'<h[1-6][^>]*>.*?</h[1-6]>', 'H1-H6 headings'),
+                (r"<h[1-6][^>]*>.*?</h[1-6]>", "H1-H6 headings"),
                 (
-                    r'<(?:p|div)[^>]*(?:font-weight:\s*bold|font-size:\s*[1-9][0-9]pt)[^>]*>.*?</(?:p|div)>',
-                    'Bold/large text',
+                    r"<(?:p|div)[^>]*(?:font-weight:\s*bold|font-size:\s*[1-9][0-9]pt)[^>]*>.*?</(?:p|div)>",
+                    "Bold/large text",
                 ),
                 (
-                    r'<(?:p|div)[^>]*>\s*(?:ARTICLE|SECTION|Chapter)\s+[IVXLCD0-9]+.*?</(?:p|div)>',
-                    'Article/Section markers',
+                    r"<(?:p|div)[^>]*>\s*(?:ARTICLE|SECTION|Chapter)\s+[IVXLCD0-9]+.*?</(?:p|div)>",
+                    "Article/Section markers",
                 ),
-                (r'<(?:p|div)[^>]*>\s*[0-9]+\.[0-9]+(?:\.[0-9]+)?\s+[A-Z].*?</(?:p|div)>', 'Numbered sections'),
+                (r"<(?:p|div)[^>]*>\s*[0-9]+\.[0-9]+(?:\.[0-9]+)?\s+[A-Z].*?</(?:p|div)>", "Numbered sections"),
             ]
 
             found_elements = []
@@ -2511,22 +2475,22 @@ def _extract_structural_context(html_content, issue_type='orphans'):
                 for match in matches[:3]:  # First 3 of each type
                     element = match.group(0)
                     if len(element) > 200:
-                        element = element[:200] + '...'
-                    found_elements.append(f'{description}: {element}')
+                        element = element[:200] + "..."
+                    found_elements.append(f"{description}: {element}")
 
             return found_elements[:8]  # Max 8 examples
 
-        if issue_type == 'no_title':
+        if issue_type == "no_title":
             # Look for potential title elements
             patterns = [
-                (r'<h1[^>]*>.*?</h1>', 'H1 elements'),
+                (r"<h1[^>]*>.*?</h1>", "H1 elements"),
                 (
-                    r'<(?:p|div)[^>]*(?:text-align:\s*center|font-size:\s*[2-9][0-9]pt)[^>]*>.*?</(?:p|div)>',
-                    'Centered/large text',
+                    r"<(?:p|div)[^>]*(?:text-align:\s*center|font-size:\s*[2-9][0-9]pt)[^>]*>.*?</(?:p|div)>",
+                    "Centered/large text",
                 ),
                 (
-                    r'<(?:p|div)[^>]*>\s*[A-Z][A-Z\s&,-]{15,}(?:AGREEMENT|CONTRACT|LEASE|POLICY).*?</(?:p|div)>',
-                    'Agreement titles',
+                    r"<(?:p|div)[^>]*>\s*[A-Z][A-Z\s&,-]{15,}(?:AGREEMENT|CONTRACT|LEASE|POLICY).*?</(?:p|div)>",
+                    "Agreement titles",
                 ),
             ]
 
@@ -2536,14 +2500,14 @@ def _extract_structural_context(html_content, issue_type='orphans'):
                 for match in matches[:2]:
                     element = match.group(0)
                     if len(element) > 300:
-                        element = element[:300] + '...'
-                    found_elements.append(f'{description}: {element}')
+                        element = element[:300] + "..."
+                    found_elements.append(f"{description}: {element}")
 
             return found_elements[:4]
 
         return []
     except Exception:
-        return ['Error analyzing structural context']
+        return ["Error analyzing structural context"]
 
 
 def _find_potential_headings(html_content):
@@ -2554,9 +2518,9 @@ def _find_potential_headings(html_content):
 
     # Look for patterns that look like headings
     patterns = [
-        r'<(?:p|div)[^>]*>\s*((?:ARTICLE|SECTION|Chapter)\s+[IVXLCD0-9]+[^<]*)</(?:p|div)>',
-        r'<(?:p|div)[^>]*>\s*([0-9]+\.[0-9]+(?:\.[0-9]+)?\s+[A-Z][^<]{10,80})</(?:p|div)>',
-        r'<(?:p|div)[^>]*>\s*([A-Z][A-Z\s]{10,50}:?\s*)</(?:p|div)>',
+        r"<(?:p|div)[^>]*>\s*((?:ARTICLE|SECTION|Chapter)\s+[IVXLCD0-9]+[^<]*)</(?:p|div)>",
+        r"<(?:p|div)[^>]*>\s*([0-9]+\.[0-9]+(?:\.[0-9]+)?\s+[A-Z][^<]{10,80})</(?:p|div)>",
+        r"<(?:p|div)[^>]*>\s*([A-Z][A-Z\s]{10,50}:?\s*)</(?:p|div)>",
         r'<(?:p|div)[^>]*style="[^"]*(?:font-weight:\s*bold|font-size:\s*[2-9][0-9]*px)[^"]*"[^>]*>\s*([^<]{5,100})</(?:p|div)>',
     ]
 
@@ -2578,9 +2542,9 @@ def _find_title_candidates(html_content):
 
     # Look for title-like patterns
     patterns = [
-        r'<h1[^>]*>([^<]+)</h1>',
+        r"<h1[^>]*>([^<]+)</h1>",
         r'<(?:p|div)[^>]*style="[^"]*(?:font-size:\s*[2-9][0-9]*px|font-weight:\s*bold)[^"]*"[^>]*>\s*([A-Z][^<]{10,100})</(?:p|div)>',
-        r'<(?:p|div)[^>]*>\s*([A-Z][A-Z\s&,-]{20,100}(?:AGREEMENT|CONTRACT|LEASE|POLICY))\s*</(?:p|div)>',
+        r"<(?:p|div)[^>]*>\s*([A-Z][A-Z\s&,-]{20,100}(?:AGREEMENT|CONTRACT|LEASE|POLICY))\s*</(?:p|div)>",
     ]
 
     for pattern in patterns:
@@ -2597,43 +2561,41 @@ def _analyze_document_type(html_content):
     """Analyze document type and suggest specialized handling."""
     import re
 
-    analysis = {'type': 'standard', 'suggestions': []}
+    analysis = {"type": "standard", "suggestions": []}
 
     # Check for specific document generators
-    if 'DocuSign' in html_content:
-        analysis['type'] = 'docusign'
-        analysis['suggestions'].append('• DocuSign document - may have signature metadata to remove')
-    elif 'Wdesk' in html_content or '<!-- Document created using Wdesk -->' in html_content:
-        analysis['type'] = 'workiva'
-        analysis['suggestions'].append('• Workiva/Wdesk document - enable Wdesk-specific handling')
-    elif re.search(r'<meta[^>]*generator[^>]*Microsoft', html_content, re.IGNORECASE):
-        analysis['type'] = 'microsoft'
-        analysis['suggestions'].append('• Microsoft-generated document - may need table handling adjustments')
-    elif 'PaperTrail' in html_content or 'HelloSign' in html_content:
-        analysis['type'] = 'esignature'
-        analysis['suggestions'].append('• E-signature platform document - check for metadata artifacts')
+    if "DocuSign" in html_content:
+        analysis["type"] = "docusign"
+        analysis["suggestions"].append("• DocuSign document - may have signature metadata to remove")
+    elif "Wdesk" in html_content or "<!-- Document created using Wdesk -->" in html_content:
+        analysis["type"] = "workiva"
+        analysis["suggestions"].append("• Workiva/Wdesk document - enable Wdesk-specific handling")
+    elif re.search(r"<meta[^>]*generator[^>]*Microsoft", html_content, re.IGNORECASE):
+        analysis["type"] = "microsoft"
+        analysis["suggestions"].append("• Microsoft-generated document - may need table handling adjustments")
+    elif "PaperTrail" in html_content or "HelloSign" in html_content:
+        analysis["type"] = "esignature"
+        analysis["suggestions"].append("• E-signature platform document - check for metadata artifacts")
 
     # Check for table-heavy documents
-    table_count = html_content.count('<table')
+    table_count = html_content.count("<table")
     if table_count > 10:
-        analysis['suggestions'].append(f'• Table-heavy document ({table_count} tables) - verify table classification')
+        analysis["suggestions"].append(f"• Table-heavy document ({table_count} tables) - verify table classification")
 
     # Check for embedded images/charts
-    img_count = html_content.count('<img')
+    img_count = html_content.count("<img")
     if img_count > 5:
-        analysis['suggestions'].append(f'• Image-heavy document ({img_count} images) - content may be in images')
+        analysis["suggestions"].append(f"• Image-heavy document ({img_count} images) - content may be in images")
 
     return analysis
 
 
-def analyze_agreement_v9_enhanced(
-    parser: AgreementParserv9Enhanced, html_content: str, agreement_num: int
-) -> dict[str, Any]:
+def analyze_agreement_v9_enhanced(parser: AgreementParserv9Enhanced, html_content: str, agreement_num: int) -> dict[str, Any]:
     """Analyze a single agreement and return results with enhanced metrics."""
     try:
         # Step 12: Detect Workiva (Wdesk) profile
         global _GLOBAL_IS_WDESK
-        _GLOBAL_IS_WDESK = '<!-- Document created using Wdesk -->' in html_content
+        _GLOBAL_IS_WDESK = "<!-- Document created using Wdesk -->" in html_content
         parser.is_wdesk = _GLOBAL_IS_WDESK
 
         elements = parser.parse(html_content)
@@ -2663,15 +2625,15 @@ def analyze_agreement_v9_enhanced(
         root_count = sum(1 for e in hierarchical_elements if e.parent_id is None and e.level <= 1)
 
         # Extract key metrics
-        has_title = type_counts['AgreementTitleElement'] > 0
-        has_articles = type_counts['ArticleElement'] > 0
-        has_sections = type_counts['SectionElement'] > 0
-        has_clauses = type_counts['ClauseElement'] > 0
-        has_toc = type_counts['TableOfContentsElement'] > 0
+        has_title = type_counts["AgreementTitleElement"] > 0
+        has_articles = type_counts["ArticleElement"] > 0
+        has_sections = type_counts["SectionElement"] > 0
+        has_clauses = type_counts["ClauseElement"] > 0
+        has_toc = type_counts["TableOfContentsElement"] > 0
         has_structure = has_articles or has_sections or has_clauses
 
         # Get title text
-        title_text = ''
+        title_text = ""
         titles = [e for e in relevant_elements if isinstance(e, AgreementTitleElement)]
         if titles:
             title_text = titles[0].text
@@ -2694,74 +2656,72 @@ def analyze_agreement_v9_enhanced(
 
         # idiot-proof alarm
         result = {
-            'num': agreement_num,
-            'status': status,
-            'grade': grade,
-            'diagnostic_info': diagnostic_info,
-            'title': has_title,
-            'title_text': title_text,
-            'structure': has_structure,
-            'elements': elements,
-            'relevant_elements': relevant_elements,
-            'hierarchical_elements': hierarchical_elements,
-            'hierarchy_depth': hierarchy_depth,
-            'metadata_removed': len(metadata_elements),
-            'v8_stats': v8_stats,
-            'type_counts': dict(type_counts),
-            'has_articles': has_articles,
-            'has_sections': has_sections,
-            'has_clauses': has_clauses,
-            'has_toc': has_toc,
-            'total_elements': len(elements),
-            'relevant_count': len(relevant_elements),
-            'orphan_rate': orphan_rate,
-            'orphan_count': orphan_count,
-            'root_count': root_count,
+            "num": agreement_num,
+            "status": status,
+            "grade": grade,
+            "diagnostic_info": diagnostic_info,
+            "title": has_title,
+            "title_text": title_text,
+            "structure": has_structure,
+            "elements": elements,
+            "relevant_elements": relevant_elements,
+            "hierarchical_elements": hierarchical_elements,
+            "hierarchy_depth": hierarchy_depth,
+            "metadata_removed": len(metadata_elements),
+            "v8_stats": v8_stats,
+            "type_counts": dict(type_counts),
+            "has_articles": has_articles,
+            "has_sections": has_sections,
+            "has_clauses": has_clauses,
+            "has_toc": has_toc,
+            "total_elements": len(elements),
+            "relevant_count": len(relevant_elements),
+            "orphan_rate": orphan_rate,
+            "orphan_count": orphan_count,
+            "root_count": root_count,
         }
 
         if len(hierarchical_elements) == 0:
-            if 'flags' not in result:
-                result['flags'] = []
-            flags_list = result['flags']
+            if "flags" not in result:
+                result["flags"] = []
+            flags_list = result["flags"]
             if isinstance(flags_list, list):
-                flags_list.append('NO_STRUCTURE')
+                flags_list.append("NO_STRUCTURE")
 
         return result
 
     except Exception as e:
         return {
-            'num': agreement_num,
-            'status': '💥 ERROR',
-            'error': str(e),
-            'metadata_removed': 0,
-            'v8_stats': {},
-            'orphan_rate': 0.0,
-            'orphan_count': 0,
-            'root_count': 0,
-            'title': False,
-            'structure': False,
-            'has_articles': False,
-            'has_sections': False,
-            'has_clauses': False,
-            'has_toc': False,
-            'total_elements': 0,
-            'relevant_count': 0,
-            'flags': ['NO_STRUCTURE'],
+            "num": agreement_num,
+            "status": "💥 ERROR",
+            "error": str(e),
+            "metadata_removed": 0,
+            "v8_stats": {},
+            "orphan_rate": 0.0,
+            "orphan_count": 0,
+            "root_count": 0,
+            "title": False,
+            "structure": False,
+            "has_articles": False,
+            "has_sections": False,
+            "has_clauses": False,
+            "has_toc": False,
+            "total_elements": 0,
+            "relevant_count": 0,
+            "flags": ["NO_STRUCTURE"],
         }
 
 
-def comprehensive_test_v9_enhanced_with_regression_check(
-    v8_results: list[dict] | None = None, enable_tracing: bool = True, save_traces: bool = False
-) -> None:
+def comprehensive_test_v9_enhanced_with_regression_check(v8_results: list[dict] | None = None, enable_tracing: bool = True, save_traces: bool = False) -> None:
     """Test v9 Enhanced parser on all agreements with regression checks and optional tracing."""
     enable_tracing = True
     save_traces = True
 
-    html_dir = Path('time_to_get_real/html_files')
+    html_dir = Path("time_to_get_real/html_files")
     if not html_dir.exists():
         return
 
-    html_files = sorted(html_dir.glob('*.html'))
+    html_files = sorted(html_dir.glob("*.html"))
 
     results = []
     regression_failures = []
@@ -2782,39 +2742,41 @@ def comprehensive_test_v9_enhanced_with_regression_check(
 
         # Check for regression if v8 results provided
         if v8_results and i <= len(v8_results):
-            v8_orphan_rate = v8_results[i - 1].get('orphan_rate', 100.0)
-            v9_orphan_rate = result['orphan_rate']
+            v8_orphan_rate = v8_results[i - 1].get("orphan_rate", 100.0)
+            v9_orphan_rate = result["orphan_rate"]
 
             # Regression guard: v9 must not create more orphans (with 0.5% tolerance)
             if v9_orphan_rate > v8_orphan_rate + 0.5:
-                regression_failures.append({
-                    'agreement': i,
-                    'v8_rate': v8_orphan_rate,
-                    'v9_rate': v9_orphan_rate,
-                    'delta': v9_orphan_rate - v8_orphan_rate,
-                })
+                regression_failures.append(
+                    {
+                        "agreement": i,
+                        "v8_rate": v8_orphan_rate,
+                        "v9_rate": v9_orphan_rate,
+                        "delta": v9_orphan_rate - v8_orphan_rate,
+                    }
+                )
 
         # Display results
 
-        if result.get('v8_stats'):
-            ', '.join([f'{k}: {v}' for k, v in result['v8_stats'].items()])
+        if result.get("v8_stats"):
+            ", ".join([f"{k}: {v}" for k, v in result["v8_stats"].items()])
 
-        if result.get('title_text'):
+        if result.get("title_text"):
             pass
 
         # Structure metrics
-        if 'type_counts' in result:
-            counts = result['type_counts']
+        if "type_counts" in result:
+            counts = result["type_counts"]
 
-            if result.get('has_toc'):
+            if result.get("has_toc"):
                 pass
 
             # Additional elements
-            if counts.get('DefinitionElement', 0) > 0:
+            if counts.get("DefinitionElement", 0) > 0:
                 pass
-            if counts.get('PartyElement', 0) > 0:
+            if counts.get("PartyElement", 0) > 0:
                 pass
-            if counts.get('RecitalElement', 0) > 0:
+            if counts.get("RecitalElement", 0) > 0:
                 pass
 
         # Display trace summary if available
@@ -2825,7 +2787,7 @@ def comprehensive_test_v9_enhanced_with_regression_check(
                     pass
 
         # Handle errors
-        if 'error' in result:
+        if "error" in result:
             pass
 
         # -----------------------------------------------------------------
@@ -2834,54 +2796,54 @@ def comprehensive_test_v9_enhanced_with_regression_check(
         if enable_tracing and all_traces:
             orphan_totals = aggregate_orphan_metrics(all_traces)
         else:
-            orphan_totals = {'orphans_found': 0, 'orphans_removed': 0}
+            orphan_totals = {"orphans_found": 0, "orphans_removed": 0}
 
-        titles_total = sum(r['type_counts'].get('AgreementTitleElement', 0) for r in results)
-        articles_total = sum(r['type_counts'].get('ArticleElement', 0) for r in results)
-        sections_total = sum(r['type_counts'].get('SectionElement', 0) for r in results)
-        clauses_total = sum(r['type_counts'].get('ClauseElement', 0) for r in results)
-        files_with_hier = sum(1 for r in results if r.get('hierarchy_depth', 0) > 0)
+        titles_total = sum(r["type_counts"].get("AgreementTitleElement", 0) for r in results)
+        articles_total = sum(r["type_counts"].get("ArticleElement", 0) for r in results)
+        sections_total = sum(r["type_counts"].get("SectionElement", 0) for r in results)
+        clauses_total = sum(r["type_counts"].get("ClauseElement", 0) for r in results)
+        files_with_hier = sum(1 for r in results if r.get("hierarchy_depth", 0) > 0)
 
-        print('\n================ CONSOLIDATED METRICS ================')
-        print(f' • Orphans found   : {orphan_totals["orphans_found"]}')
-        print(f' • Orphans removed : {orphan_totals["orphans_removed"]}')
-        print(f' • Titles detected : {titles_total}')
-        print(f' • Articles        : {articles_total}')
-        print(f' • Sections        : {sections_total}')
-        print(f' • Clauses         : {clauses_total}')
-        print(f' • Files w/ hierarchy : {files_with_hier} / {len(results)}')
-        print('======================================================\n')
+        print("\n================ CONSOLIDATED METRICS ================")
+        print(f" • Orphans found   : {orphan_totals['orphans_found']}")
+        print(f" • Orphans removed : {orphan_totals['orphans_removed']}")
+        print(f" • Titles detected : {titles_total}")
+        print(f" • Articles        : {articles_total}")
+        print(f" • Sections        : {sections_total}")
+        print(f" • Clauses         : {clauses_total}")
+        print(f" • Files w/ hierarchy : {files_with_hier} / {len(results)}")
+        print("======================================================\n")
 
         results.append(result)
 
     # Summary statistics
 
-    sum(1 for r in results if 'SUCCESS' in r['status'] or 'EXCELLENT' in r['status'])
-    sum(1 for r in results if 'PARTIAL' in r['status'])
-    sum(1 for r in results if 'FAILED' in r['status'])
-    sum(1 for r in results if 'ERROR' in r['status'])
+    sum(1 for r in results if "SUCCESS" in r["status"] or "EXCELLENT" in r["status"])
+    sum(1 for r in results if "PARTIAL" in r["status"])
+    sum(1 for r in results if "FAILED" in r["status"])
+    sum(1 for r in results if "ERROR" in r["status"])
 
-    sum(r.get('metadata_removed', 0) for r in results)
+    sum(r.get("metadata_removed", 0) for r in results)
 
     # v8/v9 specific improvements
-    sum(r.get('v8_stats', {}).get('comments_removed', 0) for r in results)
-    sum(r.get('v8_stats', {}).get('consecutive_pages_removed', 0) for r in results)
+    sum(r.get("v8_stats", {}).get("comments_removed", 0) for r in results)
+    sum(r.get("v8_stats", {}).get("consecutive_pages_removed", 0) for r in results)
 
     # Success breakdown
-    sum(1 for r in results if 'EXCELLENT' in r['status'])
-    sum(1 for r in results if r['status'] == '✅ SUCCESS')
+    sum(1 for r in results if "EXCELLENT" in r["status"])
+    sum(1 for r in results if r["status"] == "✅ SUCCESS")
 
     # Hierarchy statistics
-    avg_depth = sum(r.get('hierarchy_depth', 0) for r in results if r.get('hierarchy_depth', 0) > 0)
-    hierarchical_count = sum(1 for r in results if r.get('hierarchy_depth', 0) > 0)
+    avg_depth = sum(r.get("hierarchy_depth", 0) for r in results if r.get("hierarchy_depth", 0) > 0)
+    hierarchical_count = sum(1 for r in results if r.get("hierarchy_depth", 0) > 0)
     if hierarchical_count > 0:
         avg_depth /= hierarchical_count
 
     # Orphan rate statistics
-    sum(r.get('orphan_rate', 0) for r in results) / len(results) if results else 0
+    sum(r.get("orphan_rate", 0) for r in results) / len(results) if results else 0
 
     # TOC detection
-    sum(1 for r in results if r.get('has_toc', False))
+    sum(1 for r in results if r.get("has_toc", False))
 
     # Regression check results
     if regression_failures:
@@ -2891,34 +2853,34 @@ def comprehensive_test_v9_enhanced_with_regression_check(
     # Generate trace reports if enabled
     if enable_tracing and all_traces:
         # Show most impactful steps
-        step_impact = defaultdict(lambda: {'orphans_reduced': 0, 'roots_added': 0, 'count': 0})
+        step_impact = defaultdict(lambda: {"orphans_reduced": 0, "roots_added": 0, "count": 0})
 
         for traces in all_traces.values():
             for step, delta in traces.items():
-                if delta.get('Δorphans', 0) < 0:  # Negative means orphans reduced
-                    step_impact[step]['orphans_reduced'] += -delta['Δorphans']
-                    step_impact[step]['count'] += 1
-                if delta.get('Δroots', 0) > 0:
-                    step_impact[step]['roots_added'] += delta['Δroots']
+                if delta.get("Δorphans", 0) < 0:  # Negative means orphans reduced
+                    step_impact[step]["orphans_reduced"] += -delta["Δorphans"]
+                    step_impact[step]["count"] += 1
+                if delta.get("Δroots", 0) > 0:
+                    step_impact[step]["roots_added"] += delta["Δroots"]
 
         # Sort by orphan reduction impact
-        sorted_steps = sorted(step_impact.items(), key=lambda x: x[1]['orphans_reduced'], reverse=True)
+        sorted_steps = sorted(step_impact.items(), key=lambda x: x[1]["orphans_reduced"], reverse=True)
 
         for step, impact in sorted_steps[:5]:
-            if impact['orphans_reduced'] > 0:
+            if impact["orphans_reduced"] > 0:
                 pass
 
         # Save detailed reports if requested
         if save_traces:
-            generate_trace_report(all_traces, 'v9_enhanced_trace_report.txt')
-            export_traces_to_csv(all_traces, 'v9_enhanced_trace_metrics.csv')
+            generate_trace_report(all_traces, "v9_enhanced_trace_report.txt")
+            export_traces_to_csv(all_traces, "v9_enhanced_trace_metrics.csv")
 
 
 def dump_semantic_tree(elements: list[AbstractSemanticElement], filename: str) -> None:
     """Dump semantic tree to HTML file for debugging."""
     import html
 
-    with open(filename, 'w', encoding='utf-8') as f:
+    with open(filename, "w", encoding="utf-8") as f:
         f.write("""<!DOCTYPE html>
 <html>
 <head>
@@ -2941,21 +2903,21 @@ def dump_semantic_tree(elements: list[AbstractSemanticElement], filename: str) -
 """)
 
         for i, element in enumerate(elements):
-            css_class = 'element'
+            css_class = "element"
             if isinstance(element, HierarchicalElement):
-                css_class += ' hierarchical'
+                css_class += " hierarchical"
             if isinstance(element, SectionElement):
-                css_class += ' section'
+                css_class += " section"
             elif isinstance(element, ClauseElement):
-                css_class += ' clause'
+                css_class += " clause"
             elif isinstance(element, ContentTextElement):
-                css_class += ' content'
+                css_class += " content"
             elif isinstance(element, MetadataElement):
-                css_class += ' metadata'
+                css_class += " metadata"
 
-            level = getattr(element, 'level', 0)
-            parent_id = getattr(element, 'parent_id', None)
-            element_id = getattr(element, 'id', f'elem_{i}')
+            level = getattr(element, "level", 0)
+            parent_id = getattr(element, "parent_id", None)
+            element_id = getattr(element, "id", f"elem_{i}")
 
             f.write(f'    <div class="{css_class}" style="margin-left: {level * 20}px;">\n')
             f.write(f'        <span class="type">{type(element).__name__}</span>')
@@ -2969,31 +2931,31 @@ def dump_semantic_tree(elements: list[AbstractSemanticElement], filename: str) -
 
             # Add element-specific info
             if isinstance(element, SectionElement):
-                f.write(f'        <br>Section: {element.section_number} - {element.section_title}\n')
+                f.write(f"        <br>Section: {element.section_number} - {element.section_title}\n")
             elif isinstance(element, ClauseElement):
-                f.write(f'        <br>Clause: {element.clause_id} - {element.clause_text[:50]}...\n')
+                f.write(f"        <br>Clause: {element.clause_id} - {element.clause_text[:50]}...\n")
             elif isinstance(element, ArticleElement):
-                f.write(f'        <br>Article: {element.article_number} - {element.article_title}\n')
+                f.write(f"        <br>Article: {element.article_number} - {element.article_title}\n")
 
             # Show text content
-            if hasattr(element, 'html_tag') and element.html_tag:
+            if hasattr(element, "html_tag") and element.html_tag:
                 text = element.html_tag.text.strip()
                 if text:
-                    text_preview = text[:100] + '...' if len(text) > 100 else text
+                    text_preview = text[:100] + "..." if len(text) > 100 else text
                     f.write(f'        <div class="text">{html.escape(text_preview)}</div>\n')
 
-            f.write('    </div>\n')
+            f.write("    </div>\n")
 
-        f.write('</body>\n</html>')
+        f.write("</body>\n</html>")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description='Agreement Parser v9 Enhanced')
-    parser.add_argument('html_file', nargs='?', help='HTML file to parse')
-    parser.add_argument('--dump-tree', action='store_true', help='Dump intermediate trees to HTML files')
-    parser.add_argument('--test', action='store_true', help='Run comprehensive test suite')
+    parser = argparse.ArgumentParser(description="Agreement Parser v9 Enhanced")
+    parser.add_argument("html_file", nargs="?", help="HTML file to parse")
+    parser.add_argument("--dump-tree", action="store_true", help="Dump intermediate trees to HTML files")
+    parser.add_argument("--test", action="store_true", help="Run comprehensive test suite")
 
     args = parser.parse_args()
 
@@ -3015,7 +2977,7 @@ if __name__ == '__main__':
 
         # If dump-tree is enabled, create a simple dump of final result
         if args.dump_tree:
-            dump_semantic_tree(elements, 'final_tree.html')
+            dump_semantic_tree(elements, "final_tree.html")
 
         # Get analysis result
         result = analyze_agreement_v9_enhanced(parser_inst, html_content, 1)

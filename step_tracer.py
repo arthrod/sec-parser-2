@@ -16,6 +16,7 @@ import pickle
 from typing import TYPE_CHECKING, Any, NamedTuple
 
 from sec_parser.processing_steps.abstract_classes.abstract_processing_step import AbstractProcessingStep
+import fickling
 
 if TYPE_CHECKING:
     from pathlib import Path
@@ -373,7 +374,7 @@ def save_traces(traces: dict, filename: str) -> None:
 def load_traces(filename: str) -> dict:
     """Load traces from pickle file."""
     with open(filename, "rb") as f:
-        return pickle.load(f)
+        return fickling.load(f)
 
 
 def compare_traces(v1_traces: dict, v2_traces: dict, v1_name="V1", v2_name="V2") -> list[str]:

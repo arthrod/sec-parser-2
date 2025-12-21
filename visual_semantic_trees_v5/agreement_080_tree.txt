@@ -1,0 +1,157 @@
+Visual Semantic Tree for agreement_080.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 6.1%
+Total Elements: 50
+Hierarchical Elements: 49
+================================================================================
+
+AGREEMENT: EIGHTH AMENDMENT TO
+
+--- (Additional Root Structure) ---
+Heading (L1): SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: THIS EIGHTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT
+
+--- (Additional Root Structure) ---
+Content: AGREEMENT (this “Amendment”) dated effective as of the 13th day of March, 202...
+
+--- (Additional Root Structure) ---
+Heading (L1): W I T N E S S E T H
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Borrower and Lender are parties to that certain Second Amended and R...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Lender and Borrower have agreed to execute and deliver this Amendment.
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, in consideration of the premises, Borrower hereby agrees with...
+
+--- (Additional Root Structure) ---
+Content: 1.Defined Terms; Amendments to Credit Agreement.
+
+--- (Additional Root Structure) ---
+Content: (a)Unless otherwise defined herein, terms which are defined in the Original A...
+
+--- (Additional Root Structure) ---
+Content: (b)Effective as of the Eighth Amendment Date the Original Agreement is hereby...
+
+--- (Additional Root Structure) ---
+Content: (i)The parties hereto hereby agree that the Credit Agreement is hereby amended
+
+--- (Additional Root Structure) ---
+Clause (a): (a) to delete the red or green stricken text (indicated textually in the same...
+
+--- (Additional Root Structure) ---
+Content: (ii)The parties hereto hereby agree that Schedule A (as attached hereto as Ex...
+
+--- (Additional Root Structure) ---
+Content: B) is made a part of the Credit Agreement in its entirety.
+
+--- (Additional Root Structure) ---
+Content: 2.Conditions Precedent. The effectiveness of this Amendment is subject to sat...
+
+--- (Additional Root Structure) ---
+Content: (a)Lender (or its counsel) shall have received from each Credit Party and SSO...
+
+--- (Additional Root Structure) ---
+Content: (b)Lender shall have received such documents and certificates as Lender or it...
+
+--- (Additional Root Structure) ---
+Content: (c)Lender shall have received a fully executed Pledge Agreement (Fayetteville...
+
+--- (Additional Root Structure) ---
+Content: (d)Lender shall have received such other documents (including UCC Financing S...
+
+--- (Additional Root Structure) ---
+Content: (e)Lender shall have received reasonably requested Lien searches for SAM, SSS...
+
+--- (Additional Root Structure) ---
+Content: (f)Lender shall have received all fees and other amounts due and payable on o...
+
+--- (Additional Root Structure) ---
+Content: (g)The Collateral shall not be subject to any Liens other than Permitted Liens.
+
+--- (Additional Root Structure) ---
+Content: (h)At the time of and immediately after giving effect to this Amendment, no D...
+
+--- (Additional Root Structure) ---
+Content: (i)No Material Adverse Effect shall have occurred since December 31, 2022.
+
+--- (Additional Root Structure) ---
+Content: (j)The representations and warranties of the Credit Parties and Entities as s...
+
+--- (Additional Root Structure) ---
+Content: 3.Representations and Warranties.
+
+--- (Additional Root Structure) ---
+Content: (a)The representations and warranties set forth in the Credit Agreement are t...
+
+--- (Additional Root Structure) ---
+Content: (b)This Amendment (i) has been duly authorized, executed and delivered by Bor...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: hereof, except as such enforceability may be limited by applicable bankruptcy...
+
+--- (Additional Root Structure) ---
+Content: (c)Each Borrower (other than Individual Borrower) is a duly organized and val...
+
+--- (Additional Root Structure) ---
+Content: 4.Severability. Any provision of this Amendment which is prohibited or unenfo...
+
+--- (Additional Root Structure) ---
+Content: 5.Paragraph Headings. The paragraph headings used in this Amendment are for c...
+
+--- (Additional Root Structure) ---
+Content: 6.Governing Law; Venue. The construction, interpretation, validity, enforceab...
+
+--- (Additional Root Structure) ---
+Content: 7.WAIVER OF JURY TRIAL. BORROWER AND LENDER HEREBY KNOWINGLY, VOLUNTARILY AND...
+
+--- (Additional Root Structure) ---
+Content: 8.Multiple Counterparts. This Amendment may be executed in one or more counte...
+
+--- (Additional Root Structure) ---
+Content: 9.References in Loan Documents. All references in any of the Loan Documents t...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: 10.Ratification by Credit Parties. Borrower and SSSHT each hereby ratifies, a...
+
+--- (Additional Root Structure) ---
+Content: 11.No Waiver. This Amendment is only a modification of the Original Agreement...
+
+--- (Additional Root Structure) ---
+Content: 12.Release; Set-off. Borrower and SSSHT each hereby unconditionally releases ...
+
+--- (Additional Root Structure) ---
+Content: 13.Miscellaneous.
+
+--- (Additional Root Structure) ---
+Content: (a)All costs and expenses of Lender, including, without limitation, appraisal...
+
+--- (Additional Root Structure) ---
+Content: (b)Delivery of an executed signature page of this Amendment by facsimile tran...
+
+--- (Additional Root Structure) ---
+Heading (L1): [SIGNATURE PAGES FOLLOW]
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS
+
+--- (Additional Root Structure) ---
+Table of Contents: SECTION 9.11Headings. Article and Section headings and the Table of Contents ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1

@@ -1,0 +1,40 @@
+Visual Semantic Tree for agreement_055.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 90.9%
+Total Elements: 11
+Hierarchical Elements: 11
+================================================================================
+
+AGREEMENT: ​materially and adversely affected by such amendment, by Act of said Notehold...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​Section 14.Entire Agreement. The Indenture, as amended by this Joinder and A...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​IN WITNESS WHEREOF, the undersigned have caused this Joinder and Amendment t...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​PENNYMAC LOAN SERVICES, LLC, as Servicer and as AdministratorBy: /s/ Pamela ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​CITIBANK, N.A., as Indenture Trustee, and not in its individual capacity By:...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​ATLAS SECURITIZED PRODUCTS, L.P., solely in its capacity as an Administrativ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​GOLDMAN SACHS BANK USA, solely in its capacity as GS Administrative Agent on...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​NOMURA CORPORATE FUNDING AMERICAS, LLC, solely in its capacity as Nomura Adm...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​CONSENTED TO BY:​NEXERA HOLDING LLC, as a Repo Buyer​By: /s/ Steve Abreu​ ​N...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​CONSENTED TO BY:​CITIBANK, N.A., as a Repo BuyerBy: /s/ Arunthathi Theivakum...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​CONSENTED TO BY:​GOLDMAN SACHS BANK USA, as a Repo Buyer​By: /s/ Jeff Hartwi...

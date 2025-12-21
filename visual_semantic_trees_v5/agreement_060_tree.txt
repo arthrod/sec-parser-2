@@ -1,0 +1,292 @@
+Visual Semantic Tree for agreement_060.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: B
+Orphan Rate: 4.7%
+Total Elements: 100
+Hierarchical Elements: 85
+================================================================================
+
+AGREEMENT: SUPPORT AGREEMENT
+
+--- (Additional Root Structure) ---
+Clause (d): (d) result in the imposition of any Lien (other than Permitted Pledges or pur...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: not, individually or in the aggregate, reasonably be expected to prevent, mat...
+
+--- (Additional Root Structure) ---
+Content: 2.3Ownership of Covered Shares. Subject to Section 3.1, such Supporting Holde...
+
+--- (Additional Root Structure) ---
+Content: 2.4No Litigation. As of the date of this Agreement, there is no Legal Proceed...
+
+--- (Additional Root Structure) ---
+Content: 2.5Finder’s Fees. Except as provided in the Merger Agreement , no investment ...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE III COVENANTS
+
+--- (Additional Root Structure) ---
+Content: 3.1No Proxies for or Encumbrances on or Transfer of Covered Shares. Prior to ...
+
+--- (Additional Root Structure) ---
+Content: (y) to an Affiliate or any other entity that is controlled or managed, direct...
+
+--- (Additional Root Structure) ---
+Content: 3.2Additional Shares.
+
+--- (Additional Root Structure) ---
+Content: (a)[Intentionally Omitted].
+
+--- (Additional Root Structure) ---
+Content: (b)Each Supporting Holder agrees that any shares of Company Common Stock and/...
+
+--- (Additional Root Structure) ---
+Content: 3.3Waiver of Certain Actions.
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: (a)Each Supporting Holder hereby agrees not to commence, participate in or kn...
+
+--- (Additional Root Structure) ---
+Content: (b)Each Supporting Holder hereby irrevocably and unconditionally waives, and ...
+
+--- (Additional Root Structure) ---
+Content: (c)Notwithstanding the foregoing, this Section 3.3 shall not apply to limit i...
+
+--- (Additional Root Structure) ---
+Content: 3.4Efforts. Each Supporting Holder (solely in its capacity as a stockholder o...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IV MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Content: 4.1Termination. This Agreement and all obligations of the parties hereunder s...
+
+--- (Additional Root Structure) ---
+Content: 4.2Stockholder Capacity. This Agreement is being entered into by each Support...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: such Supporting Holder (including any employees, investment professionals or ...
+
+--- (Additional Root Structure) ---
+Content: 4.3Further Assurances. Each of the parties hereto shall execute and deliver, ...
+
+--- (Additional Root Structure) ---
+Content: 4.4Amendments. Any provision of this Agreement may be amended or waived if, b...
+
+--- (Additional Root Structure) ---
+Content: 4.5Expenses. All costs and expenses incurred in connection with this Agreemen...
+
+--- (Additional Root Structure) ---
+Content: 4.6Successors and Assigns; No Third-Party Rights. The provisions of this Agre...
+
+--- (Additional Root Structure) ---
+Content: 4.7Governing Law. This Agreement, and all claims or causes of action (whether...
+
+--- (Additional Root Structure) ---
+Content: 4.8Consent to Jurisdiction. Each of the parties hereto (a) irrevocably consen...
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: territorial jurisdiction of the Chosen Courts) in any Legal Proceeding that m...
+
+--- (Additional Root Structure) ---
+Content: 4.9WAIVER OF JURY TRIAL. EACH PARTY HERETO ACKNOWLEDGES AND AGREES THAT ANY L...
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: (B) IT UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER;
+
+--- (Additional Root Structure) ---
+Content: (C) IT MAKES THIS WAIVER VOLUNTARILY AND (D) IT HAS BEEN INDUCED TO ENTER INT...
+
+--- (Additional Root Structure) ---
+Content: 4.10Notices. All notices and other communications hereunder must be in writin...
+
+--- (Additional Root Structure) ---
+Content: (1) Business Day after being sent for next Business Day delivery, fees prepai...
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: (a)if to the Company to:
+
+--- (Additional Root Structure) ---
+Content: Fathom Digital Manufacturing Corporation 1050 Walnut Ridge Drive
+
+--- (Additional Root Structure) ---
+Content: Hartland, WI 53029
+
+--- (Additional Root Structure) ---
+Content: Attention: Carey Chen, CEO Email: Carey.Chen@fathommfg.com
+
+--- (Additional Root Structure) ---
+Content: with copies (which will not constitute notice) to: Winston & Strawn LLP
+
+--- (Additional Root Structure) ---
+Content: 35 W. Wacker Drive Chicago, Illinois 60601
+
+--- (Additional Root Structure) ---
+Content: Attention: Steven J. Gavin, Partner Email: SGavin@winston.com
+
+--- (Additional Root Structure) ---
+Content: -and-
+
+--- (Additional Root Structure) ---
+Content: Winston & Strawn LLP 200 Park Avenue
+
+--- (Additional Root Structure) ---
+Content: New York, New York 10166
+
+--- (Additional Root Structure) ---
+Content: Attention: Jason D. Osborn, Partner Email: JOsborn@winston.com
+
+--- (Additional Root Structure) ---
+Content: -and-
+
+--- (Additional Root Structure) ---
+Content: Vedder Price P.C.
+
+--- (Additional Root Structure) ---
+Content: 222 North LaSalle Street, Suite 2400
+
+--- (Additional Root Structure) ---
+Content: Chicago, Illinois 60601
+
+--- (Additional Root Structure) ---
+Content: Attention: Michael A. Nemeroff Email: mnemeroff@vedderprice.com
+
+--- (Additional Root Structure) ---
+Content: (b)if to Parent or to any Supporting Holder to: c/o CORE Industrial Partners,...
+
+--- (Additional Root Structure) ---
+Content: 110 N Wacker Drive Suite 2000
+
+--- (Additional Root Structure) ---
+Content: Chicago, Illinois 60606 Attention: John May Email: john@coreipfund.com
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: with copies (which will not constitute notice) to:
+
+--- (Additional Root Structure) ---
+Content: Kirkland & Ellis LLP 300 North LaSalle
+
+--- (Additional Root Structure) ---
+Content: Chicago, Illinois 65654
+
+--- (Additional Root Structure) ---
+Content: Attention: Benjamin P. Clinger, P.C. Adam M. Wexner, P.C.
+
+--- (Additional Root Structure) ---
+Content: Lee M. Blum
+
+--- (Additional Root Structure) ---
+Content: Email: bclinger@kirkland.com adam.wexner@kirkland.com lee.blum@kirkland.com
+
+--- (Additional Root Structure) ---
+Content: -and-
+
+--- (Additional Root Structure) ---
+Content: Kirkland & Ellis LLP 601 Lexington Avenue
+
+--- (Additional Root Structure) ---
+Content: New York, New York 10022 Attention: Edward J. Lee, P.C.
+
+--- (Additional Root Structure) ---
+Content: Carlo Zenkner, P.C.
+
+--- (Additional Root Structure) ---
+Content: Email: edward.lee@kirkland.com carlo.zenkner@kirkland.com
+
+--- (Additional Root Structure) ---
+Content: Any notice received at the addressee's location, or by email at the addressee...
+
+--- (Additional Root Structure) ---
+Content: (ii) that is five (5) Business Days after such notice would otherwise be deem...
+
+--- (Additional Root Structure) ---
+Content: 4.11Counterparts. This Agreement and any amendments hereto may be executed in...
+
+--- (Additional Root Structure) ---
+Content: 4.12Severability. If any term or other provision of this Agreement is invalid...
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+Content: legal substance of the transactions contemplated hereby is not affected in an...
+
+--- (Additional Root Structure) ---
+Content: 4.13Specific Performance. The parties hereto agree that irreparable damage wo...
+
+--- (Additional Root Structure) ---
+Content: 4.14Entire Agreement. This Agreement and the Merger Agreement constitute the ...
+
+--- (Additional Root Structure) ---
+Content: 4.15Non-Recourse. This Agreement may only be enforced against, and any Legal ...
+
+--- (Additional Root Structure) ---
+Content: 4.16No Agreement Until Executed. This Agreement shall not be effective unless...
+
+--- (Additional Root Structure) ---
+Content: 12
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature page follows]
+
+--- (Additional Root Structure) ---
+Content: 13
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.4
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THIS SUPPORT AGREEMENT (this “Agreement”) is made and entered into as of Febr...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, in order to induce the Company to enter into the proposed Agreement ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, the parties hereto agree as follows:
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ARTICLE I AGREEMENT TO VOTE
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.1Voting.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)During the period commencing from the date hereof until the Termination Da...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): other than the Supported Matters, each Supporting Holder shall be entitled to...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)Each Supporting Holder agrees not to, and shall cause its Affiliates not t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.2Company Board Recommendation Change. In the event of a Company Board Recom...

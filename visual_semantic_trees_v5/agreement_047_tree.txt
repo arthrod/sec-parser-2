@@ -1,0 +1,646 @@
+Visual Semantic Tree for agreement_047.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: B
+Orphan Rate: 15.0%
+Total Elements: 213
+Hierarchical Elements: 207
+================================================================================
+
+AGREEMENT: * * *
+
+--- (Additional Root Structure) ---
+Section 1: SECTION 1. The Plan. This Award is made pursuant to the Plan, all the terms o...
+
+--- (Additional Root Structure) ---
+Section 2: SECTION 2. Definitions. The following terms are defined in this Award Agreeme...
+
+--- (Additional Root Structure) ---
+Content: Capitalized terms that are not defined in this Award Agreement shall have the...
+
+--- (Additional Root Structure) ---
+Section 3: SECTION 3. Vesting and Delivery of Shares
+
+--- (Additional Root Structure) ---
+Clause (a): (a) Vesting. Except as otherwise determined by the Committee in its sole disc...
+
+--- (Additional Root Structure) ---
+Content: directly, or indirectly through one or more intermediaries, controls, or is c...
+
+--- (Additional Root Structure) ---
+Content: (b) Delivery of Shares. On or shortly following, but in no event later than 3...
+
+--- (Additional Root Structure) ---
+Section 4: SECTION 4. Forfeiture of RSUs. Unless the Committee determines otherwise, or ...
+
+--- (Additional Root Structure) ---
+Section 5: SECTION 5. Voting Rights; Dividend Equivalents. The Participant shall not be ...
+
+--- (Additional Root Structure) ---
+Section 6: SECTION 6. Non-Transferability of RSUs. Unless otherwise provided by the Comm...
+
+--- (Additional Root Structure) ---
+Section 7: SECTION 7. Responsibility for Taxes.
+
+--- (Additional Root Structure) ---
+Content: (a) Regardless of any action the Company or the Participant’s employer, if ot...
+
+--- (Additional Root Structure) ---
+Content: (b) Prior to any relevant taxable, tax and/or social security contribution wi...
+
+--- (Additional Root Structure) ---
+Content: (i) the Company and any brokerage firm determined acceptable to the Company t...
+
+--- (Additional Root Structure) ---
+Content: (ii) the Company, the Employer and any Affiliate to withhold an amount from t...
+
+--- (Additional Root Structure) ---
+Content: (iii) the Company, the Employer and any Affiliate to satisfy any applicable w...
+
+--- (Additional Root Structure) ---
+Content: (c) Depending on the withholding method, the Company may withhold or account ...
+
+--- (Additional Root Structure) ---
+Content: (d) The Participant shall pay to the Company or the Employer any amount of Ta...
+
+--- (Additional Root Structure) ---
+Section 8: SECTION 8. Consents and Legends.
+
+--- (Additional Root Structure) ---
+Content: (a) Consents. The Participant’s rights in respect of the RSUs are conditioned...
+
+--- (Additional Root Structure) ---
+Content: (b) Legends. The Company may affix to certificates for Shares issued pursuant...
+
+--- (Additional Root Structure) ---
+Section 9: SECTION 9. Nature of Award. As a condition to receipt of this Award, the Part...
+
+--- (Additional Root Structure) ---
+Content: (a) the Plan is established voluntarily by the Company, is discretionary in n...
+
+--- (Additional Root Structure) ---
+Content: (b) this Award is exceptional, voluntary and occasional and does not create a...
+
+--- (Additional Root Structure) ---
+Content: (c) all decisions with respect to future RSU or other awards, if any, will be...
+
+--- (Additional Root Structure) ---
+Content: (d) the Participant’s participation in the Plan shall not create a right to f...
+
+--- (Additional Root Structure) ---
+Content: (e) the Participant’s participation in the Plan is voluntary;
+
+--- (Additional Root Structure) ---
+Content: (f) the RSUs and the Shares subject to the RSUs, and the income from and valu...
+
+--- (Additional Root Structure) ---
+Content: (g) the RSUs and the Shares subject to the RSUs, and the income from and valu...
+
+--- (Additional Root Structure) ---
+Content: (h) this Award and the Participant’s participation in the Plan will not be in...
+
+--- (Additional Root Structure) ---
+Content: (i) the future value of the underlying Shares is unknown and cannot be predic...
+
+--- (Additional Root Structure) ---
+Content: (j) no claim or entitlement to compensation or damages shall arise from forfe...
+
+--- (Additional Root Structure) ---
+Content: (k) except as otherwise provided by the Committee or the Grant Notice, in the...
+
+--- (Additional Root Structure) ---
+Content: (l) unless otherwise agreed with the Company, the RSUs and Shares subject to ...
+
+--- (Additional Root Structure) ---
+Content: (m) the RSUs and the benefits under the Plan, if any, will not automatically ...
+
+--- (Additional Root Structure) ---
+Content: (n) neither the Company nor the Employer or any Affiliate shall be liable for...
+
+--- (Additional Root Structure) ---
+Section 10: SECTION 10. No Advice Regarding Grant. Nothing in this Award Agreement should...
+
+--- (Additional Root Structure) ---
+Section 11: SECTION 11. Adjustments. In the event of any change in the outstanding Shares...
+
+--- (Additional Root Structure) ---
+Section 12: SECTION 12. Electronic Delivery. The Company may, in its sole discretion, dec...
+
+--- (Additional Root Structure) ---
+Section 13: SECTION 13. Successors and Assigns of the Company. The terms and conditions o...
+
+--- (Additional Root Structure) ---
+Section 14: SECTION 14. Committee Discretion. The Committee shall have full and plenary d...
+
+--- (Additional Root Structure) ---
+Section 15: SECTION 15. Dispute Resolution.
+
+--- (Additional Root Structure) ---
+Content: (a) Jurisdiction and Venue. Notwithstanding any provision in any employment o...
+
+--- (Additional Root Structure) ---
+Content: waive and agree not to plead or claim in any such court that any such action,...
+
+--- (Additional Root Structure) ---
+Content: (b) Waiver of Jury Trial. Notwithstanding any provision in the Participant’s ...
+
+--- (Additional Root Structure) ---
+Content: (c) Confidentiality. The Participant hereby agrees to keep confidential the e...
+
+--- (Additional Root Structure) ---
+Section 16: SECTION 16. Notice. All notices, requests, demands and other communications r...
+
+--- (Additional Root Structure) ---
+Content: The parties may change the address to which notices under this Award Agreemen...
+
+--- (Additional Root Structure) ---
+Section 17: SECTION 17. Governing Law. This Award Agreement shall be deemed to be made in...
+
+--- (Additional Root Structure) ---
+Section 18: SECTION 18. Headings. Headings are given to the Sections and subsections of t...
+
+--- (Additional Root Structure) ---
+Section 19: SECTION 19. Country-Specific or Other Addenda.
+
+--- (Additional Root Structure) ---
+Content: (a) Notwithstanding any provisions in this Award Agreement or the Plan, this ...
+
+--- (Additional Root Structure) ---
+Content: (b) If the Participant becomes subject to the laws of a jurisdiction to which...
+
+--- (Additional Root Structure) ---
+Content: (c) Any Addendum attached hereto shall be considered a part of this Award Agr...
+
+--- (Additional Root Structure) ---
+Section 20: SECTION 20. Severability. The provisions of this Award Agreement are severabl...
+
+--- (Additional Root Structure) ---
+Section 21: SECTION 21. Amendment of this Award Agreement. The Committee may waive any co...
+
+--- (Additional Root Structure) ---
+Section 22: SECTION 22. Imposition of Other Requirements. The Company reserves the right ...
+
+--- (Additional Root Structure) ---
+Section 23: SECTION 23. Acceptance of Terms and Conditions for RSUs. As a condition to re...
+
+--- (Additional Root Structure) ---
+Section 24: SECTION 24. Counterparts. Where signature of this Award Agreement is contempl...
+
+--- (Additional Root Structure) ---
+Section 25: SECTION 25. Code Section 409A. The vesting and settlement of RSUs awarded pur...
+
+--- (Additional Root Structure) ---
+Section 26: SECTION 26. Waiver. The Participant acknowledges that a waiver by the Company...
+
+--- (Additional Root Structure) ---
+Section 27: SECTION 27. Insider Trading Restrictions/Market Abuse Laws. The Participant a...
+
+--- (Additional Root Structure) ---
+Content: Participant placed before the Participant possessed inside information. Furth...
+
+--- (Additional Root Structure) ---
+Section 28: SECTION 28. Foreign Asset/Account, Exchange Control and Tax Reporting. The Pa...
+
+--- (Additional Root Structure) ---
+Section 29: SECTION 29. Clawback. Pursuant to Section 9(s) of the Plan, each Award is sub...
+
+--- (Additional Root Structure) ---
+Section 30: SECTION 30. Entire Agreement. This Award Agreement (including any addenda), t...
+
+--- (Additional Root Structure) ---
+Heading (L1): ADDENDUM ADDITIONAL TERMS AND CONDITIONS APPLICABLE TO AWARD AGREEMENT (RSU-016)
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: This Addendum, which is part of the Award Agreement, includes additional term...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: This Addendum also includes information regarding securities, exchange contro...
+
+--- (Additional Root Structure) ---
+Content: In addition, the information set forth in this Addendum is general in nature ...
+
+--- (Additional Root Structure) ---
+Content: Finally, if the Participant is a citizen or resident of a country other than ...
+
+--- (Additional Root Structure) ---
+Content: ALL COUNTRIES OUTSIDE THE U.S.
+
+--- (Additional Root Structure) ---
+Content: Consent to Personal Data Processing and Transfer. By accepting the Award via ...
+
+--- (Additional Root Structure) ---
+Content: (a) Declaration of Consent. The Participant understands that the Participant ...
+
+--- (Additional Root Structure) ---
+Content: (b) Data Processing and Legal Basis. The Company collects, uses and otherwise...
+
+--- (Additional Root Structure) ---
+Content: or equivalent benefits awarded, canceled, exercised, vested, unvested or outs...
+
+--- (Additional Root Structure) ---
+Content: (c) Stock Plan Administration Service Providers. The Participant understands ...
+
+--- (Additional Root Structure) ---
+Content: (d) International Data Transfers. The Company and, as of the date hereof, any...
+
+--- (Additional Root Structure) ---
+Content: (e) Data Retention. The Company will process the Participant’s Personal Data ...
+
+--- (Additional Root Structure) ---
+Content: (f) Voluntariness and Consequences of Denial/Withdrawal of Consent. The Parti...
+
+--- (Additional Root Structure) ---
+Content: (g) Data Subject Rights. The data subject rights regarding the processing of ...
+
+--- (Additional Root Structure) ---
+Content: Language. The Participant acknowledges that he or she is proficient in the En...
+
+--- (Additional Root Structure) ---
+Content: AUSTRALIA
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: RSUs Payable in Shares Only. Notwithstanding any discretion in the Plan, due ...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Securities Law Disclosure. The offer of RSUs is being made under Division 1A,...
+
+--- (Additional Root Structure) ---
+Content: Tax Information. The Plan is a plan to which Subdivision 83A-C of the Income ...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. Exchange control reporting is required for cas...
+
+--- (Additional Root Structure) ---
+Content: BELGIUM
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Tax Reporting Notification. The Participant must report any taxable income at...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Participant must report sec...
+
+--- (Additional Root Structure) ---
+Content: Stock Exchange Tax. A stock exchange tax applies to transactions executed by ...
+
+--- (Additional Root Structure) ---
+Content: Annual Securities Account Tax. An annual securities accounts tax imposes a 0....
+
+--- (Additional Root Structure) ---
+Content: financial institution. The Participant should consult with the Participant’s ...
+
+--- (Additional Root Structure) ---
+Content: BRAZIL
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: Compliance with Law. By accepting the Award, the Participant agrees to comply...
+
+--- (Additional Root Structure) ---
+Content: Labor Law Acknowledgement. By accepting the Award, the Participant agrees tha...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. If the Participant holds assets...
+
+--- (Additional Root Structure) ---
+Content: Please note that foreign individuals holding Brazilian visas are considered B...
+
+--- (Additional Root Structure) ---
+Content: Tax on Financial Transaction (“IOF”). Cross-border financial transactions rel...
+
+--- (Additional Root Structure) ---
+Content: CANADA
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: RSUs Payable in Shares Only. Notwithstanding any discretion in the Plan, due ...
+
+--- (Additional Root Structure) ---
+Content: Termination of Employment. The following provision replaces Section 9(k) of t...
+
+--- (Additional Root Structure) ---
+Content: Except as otherwise provided by the Committee or the Grant Notice, for purpos...
+
+--- (Additional Root Structure) ---
+Content: effective as of such date (the “Date of Termination”). The Date of Terminatio...
+
+--- (Additional Root Structure) ---
+Content: Unless otherwise provided by the Committee or the Grant Notice, any portion o...
+
+--- (Additional Root Structure) ---
+Content: The following terms and conditions apply if the Participant is in Quebec:
+
+--- (Additional Root Structure) ---
+Content: Authorization to Release and Transfer Necessary Personal Information. The fol...
+
+--- (Additional Root Structure) ---
+Content: The Participant hereby authorizes the Company and the Company’s representativ...
+
+--- (Additional Root Structure) ---
+Content: French Language Documents. A French translation of the Award Agreement and th...
+
+--- (Additional Root Structure) ---
+Content: Une traduction française du présent Contrat d’Attribution et du Plan sera mis...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Securities Law Notification. The Participant will not be permitted to sell or...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. If the total cost of the Partic...
+
+--- (Additional Root Structure) ---
+Content: the ACB of the other Shares. The Participant should consult with his or her p...
+
+--- (Additional Root Structure) ---
+Content: CHILE
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Securities Law Notification. The offer of RSUs constitutes a private offering...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. The Participant is not required to repatriate ...
+
+--- (Additional Root Structure) ---
+Content: If the Participant’s aggregate investments held outside Chile meets or exceed...
+
+--- (Additional Root Structure) ---
+Content: Please note that exchange control regulations in Chile are subject to change....
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Chilean Internal Revenue Se...
+
+--- (Additional Root Structure) ---
+Content: FRANCE
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: RSUs Not Tax-Qualified. The Participant understands that the RSUs are not int...
+
+--- (Additional Root Structure) ---
+Content: Language Consent. By accepting the RSUs, the Participant confirms having read...
+
+--- (Additional Root Structure) ---
+Content: En acceptant ces <<RSUs>>, le Participant confirme avoir lu et compris le Pla...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. The Participant must declare to the customs an...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. If the Participant holds securi...
+
+--- (Additional Root Structure) ---
+Content: GERMANY
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. Cross-border payments in excess of EUR 12,500 ...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Information. German residents must notify the...
+
+--- (Additional Root Structure) ---
+Content: INDIA
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. Any funds realized in connection with the Plan...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Participant is required to ...
+
+--- (Additional Root Structure) ---
+Content: INDONESIA
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: Language Consent and Notification. By accepting the Award, the Participant (i...
+
+--- (Additional Root Structure) ---
+Content: Persetujuan dan Pemberitahuan Bahasa. Dengan menerima Penghargaan, Peserta (i...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. If the Participant remits funds into Indonesia...
+
+--- (Additional Root Structure) ---
+Content: In addition, the Participant must provide the Bank of Indonesia with informat...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Participant has the obligat...
+
+--- (Additional Root Structure) ---
+Content: JAPAN
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. If the Participant acquires Shares valued at mo...
+
+--- (Additional Root Structure) ---
+Content: Foreign Asset/Account Reporting Notification. The Participant is required to ...
+
+--- (Additional Root Structure) ---
+Content: for complying with this reporting obligation and should consult with his or h...
+
+--- (Additional Root Structure) ---
+Content: MALAYSIA
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: Data Privacy Consent. The following provision replaces the “Consent to Person...
+
+--- (Additional Root Structure) ---
+Content: The Participant hereby explicitly, voluntarily and unambiguously consents to ...
+
+--- (Additional Root Structure) ---
+Content: The Participant authorizes the Company, the stock plan service provider and a...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Director Notification Obligation. If the Participant is a director of an Affi...
+
+--- (Additional Root Structure) ---
+Content: MEXICO
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: Labor Law Acknowledgment. By accepting the Award, the Participant acknowledge...
+
+--- (Additional Root Structure) ---
+Content: Policy Statement. The invitation the Company is making under the Plan is unil...
+
+--- (Additional Root Structure) ---
+Content: The Company, with registered offices at 350 West Washington Street, Suite 600...
+
+--- (Additional Root Structure) ---
+Content: Plan Document Acknowledgment. By accepting the Award, the Participant acknowl...
+
+--- (Additional Root Structure) ---
+Content: The Participant further acknowledges that having read and specifically and ex...
+
+--- (Additional Root Structure) ---
+Content: Finally, the Participant does not reserve any action or right to bring any cl...
+
+--- (Additional Root Structure) ---
+Content: Spanish Translation
+
+--- (Additional Root Structure) ---
+Content: Reconocimiento de la Ley Laboral. Al aceptar el Otorgamiento, el Beneficiario...
+
+--- (Additional Root Structure) ---
+Content: Declaración de la Política. La invitación que hace la Compañía bajo el Plan e...
+
+--- (Additional Root Structure) ---
+Content: La Compañía, con oficinas ubicadas en 350 West Washington Street, Suite 600, ...
+
+--- (Additional Root Structure) ---
+Content: Reconocimiento del Plan de Documentos. Al aceptar el Otorgamiento, el Benefic...
+
+--- (Additional Root Structure) ---
+Content: Adicionalmente, al firmar el presente documento, el Beneficiario reconoce que...
+
+--- (Additional Root Structure) ---
+Content: Finalmente, el Beneficiario acepta no reservarse ninguna acción o derecho par...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. The RSUs and the Shares offered under the Plan ha...
+
+--- (Additional Root Structure) ---
+Content: NETHERLANDS
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: Labor Law Acknowledgment. By accepting the Award, the Participant acknowledge...
+
+--- (Additional Root Structure) ---
+Content: PHILIPPINES
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: Additional Conditions to Vesting and Settlement. The RSUs and the Shares unde...
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. The Participant acknowledges he or she is permitt...
+
+--- (Additional Root Structure) ---
+Content: a stock exchange on which the Shares are listed. The Shares are currently lis...
+
+--- (Additional Root Structure) ---
+Content: SINGAPORE
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Securities Law Notification. The RSUs are being granted to the Participant pu...
+
+--- (Additional Root Structure) ---
+Content: Director Notification Requirement. If the Participant is a director, associat...
+
+--- (Additional Root Structure) ---
+Content: SWEDEN
+
+--- (Additional Root Structure) ---
+Content: TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: Responsibility for Taxes. The following provision supplements Section 7 (Resp...
+
+--- (Additional Root Structure) ---
+Content: Without limiting the Company’s and the Employer’s authority to satisfy any wi...
+
+--- (Additional Root Structure) ---
+Content: 1 A shadow director is an individual who is not on the board of directors of ...
+
+--- (Additional Root Structure) ---
+Content: THAILAND
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Notification. Thai resident Participants realizing USD 1,000...
+
+--- (Additional Root Structure) ---
+Content: UNITED STATES
+
+--- (Additional Root Structure) ---
+Content: NOTIFICATIONS
+
+--- (Additional Root Structure) ---
+Content: Supplemental Notice for California Residents. The Company does not sell the P...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXHIBIT 10.31
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Form RSU-016
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): RESTRICTED STOCK UNIT AWARD AGREEMENT under the FIRST SOLAR, INC. 2020 OMNIBU...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This Restricted Stock Unit Award Agreement including any addendum hereto and ...
+
+--- (Additional Root Structure) ---
+TableElement: Defined TermCross-Ref.Defined TermCross-Ref.“Addendum”Section 19“Participant”...
+
+--- (Additional Root Structure) ---
+TableElement: If to the Company:First Solar, Inc. 350 W Washington Street, Suite 600 Tempe,...

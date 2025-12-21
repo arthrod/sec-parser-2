@@ -1,0 +1,28 @@
+Visual Semantic Tree for agreement_009.html
+Generated using AgreementParserv9Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 85.7%
+Total Elements: 7
+Hierarchical Elements: 7
+================================================================================
+
+AGREEMENT: 1.2 Company Commitment Prior to the Retirement Date. Subject to the terms and...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Continuation of Coverage Under the Company’s Medical Plan. Provided that ...
+
+--- (Additional Root Structure) ---
+Heading (L1): (iii) Solicit or transact business with any Customer, vendor, contractor or s...
+
+--- (Additional Root Structure) ---
+Heading (L1): and unconditionally releases and forever discharges the Company and all of it...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.3 Knowing and Voluntary Agreement. Executive hereby acknowledges and agrees...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.9 Notices. Any notice or other communication required or permitted by this ...
+
+--- (Additional Root Structure) ---
+Heading (L1): (h) a claim as a shareholder related to payment by the Company; (i) a claim r...

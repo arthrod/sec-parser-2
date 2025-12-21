@@ -1,0 +1,127 @@
+Visual Semantic Tree for agreement_073.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 55.6%
+Total Elements: 40
+Hierarchical Elements: 36
+================================================================================
+
+AGREEMENT: AN2 THERAPEUTICS, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): RSU AWARD GRANT NOTICE
+
+--- (Additional Root Structure) ---
+Heading (L1): (2022 EQUITY INCENTIVE PLAN)
+
+--- (Additional Root Structure) ---
+Content: AN2 Therapeutics, Inc. (the “Company”), pursuant to its 2022 Equity Incentive...
+
+--- (Additional Root Structure) ---
+Content: Participant Acknowledgements: By your signature below or by electronic accept...
+
+--- (Additional Root Structure) ---
+Content: • The RSU Award is governed by this RSU Award Grant Notice (the “Grant Notice...
+
+--- (Additional Root Structure) ---
+Content: • You have read and are familiar with the provisions of the Plan, the RSU Awa...
+
+--- (Additional Root Structure) ---
+Content: • The RSU Award Agreement sets forth the entire understanding between you and...
+
+--- (Additional Root Structure) ---
+Content: ATTACHMENTS: RSU Award Agreement, 2022 Equity Incentive Plan
+
+--- (Additional Root Structure) ---
+Heading (L1): ATTACHMENT I
+
+--- (Additional Root Structure) ---
+Heading (L1): AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): AN2 THERAPEUTICS, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): 2022 EQUITY INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): RSU AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: As reflected by your Restricted Stock Unit Grant Notice (“Grant Notice”), AN2...
+
+--- (Additional Root Structure) ---
+Content: The general terms applicable to your RSU Award are as follows:
+
+--- (Additional Root Structure) ---
+Section 1: 1. GOVERNING PLAN DOCUMENT. Your RSU Award is subject to all the provisions o...
+
+--- (Additional Root Structure) ---
+Clause (a): (a) Section 6 of the Plan regarding the impact of a Capitalization Adjustment...
+
+--- (Additional Root Structure) ---
+Content: (b) Section 9(e) of the Plan regarding the Company’s retained rights to termi...
+
+--- (Additional Root Structure) ---
+Content: (c) Section 8 of the Plan regarding the tax consequences of your RSU Award.
+
+--- (Additional Root Structure) ---
+Content: Your RSU Award is further subject to all interpretations, amendments, rules a...
+
+--- (Additional Root Structure) ---
+Section 2: 2. GRANT OF THE RSU AWARD. This RSU Award represents your right to be issued ...
+
+--- (Additional Root Structure) ---
+Section 3: 3. DIVIDENDS. You shall receive no benefit or adjustment to your RSU Award wi...
+
+--- (Additional Root Structure) ---
+Section 4: 4. WITHHOLDING OBLIGATIONS. As further provided in Section 8 of the Plan, you...
+
+--- (Additional Root Structure) ---
+Content: of shares of Common Stock issued upon the vesting or settlement of the Restri...
+
+--- (Additional Root Structure) ---
+Section 5: 5. DATE OF ISSUANCE.
+
+--- (Additional Root Structure) ---
+Content: (a) The issuance of shares in respect of the Restricted Stock Units is intend...
+
+--- (Additional Root Structure) ---
+Content: (b) Notwithstanding the foregoing, the Company may delay any payment under th...
+
+--- (Additional Root Structure) ---
+Section 6: 6. TRANSFERABILITY. Except as otherwise provided in the Plan, your RSU Award ...
+
+--- (Additional Root Structure) ---
+Section 7: 7. CORPORATE TRANSACTION. Your RSU Award is subject to the terms of any agree...
+
+--- (Additional Root Structure) ---
+Section 8: 8. NO LIABILITY FOR TAXES. As a condition to accepting the RSU Award, you her...
+
+--- (Additional Root Structure) ---
+Section 9: 9. SEVERABILITY. If any part of this Agreement or the Plan is declared by any...
+
+--- (Additional Root Structure) ---
+Section 10: 10. OTHER DOCUMENTS. You hereby acknowledge receipt of or the right to receiv...
+
+--- (Additional Root Structure) ---
+Section 11: 11. QUESTIONS. If you have questions regarding these or any other terms and c...
+
+--- (Additional Root Structure) ---
+Heading (L1): ATTACHMENT II
+
+--- (Additional Root Structure) ---
+Heading (L1): 2022 EQUITY INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.5
+
+--- (Additional Root Structure) ---
+TableElement: Participant: Date of Grant: Vesting Commencement Date: Number of Restricted S...
+
+--- (Additional Root Structure) ---
+TableElement: Vesting Schedule: [ ].Notwithstanding the foregoing, vesting shall terminate ...
+
+--- (Additional Root Structure) ---
+TableElement: AN2 THERAPEUTICS, INC. PARTICIPANT: By: By: Signature Signature Title: Date: ...

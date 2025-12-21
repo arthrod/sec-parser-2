@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_043.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 18
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.51SOVOS BRANDS LIMITED PARTNERSHIP2017 EQUITY INCENTIVE PLAN​INCEN...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​been registered under the Securities Act, and, therefore, cannot be sold unl...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​ARTICLE II.PROFITS INTEREsTS; VESTING2.1Profits Interests. The Incentive Uni...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​shall not vest if the Advent Group receives Advent Cash Amounts resulting in...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​of employment, the Participant commits a Covenant Breach, then all Vested Un...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​or before a Change in Control with respect to, or from the sale or other dis...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​(k)“General Partner” shall have the meaning ascribed to such term in the Par...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​general advertising or solicitation does not result in the hiring of any emp...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​(ii) require notification or prior approval by the Partnership of any report...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​in the Participant’s name or in the name of the Partnership (or its designee...

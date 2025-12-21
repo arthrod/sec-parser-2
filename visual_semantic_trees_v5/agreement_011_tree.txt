@@ -1,0 +1,202 @@
+Visual Semantic Tree for agreement_011.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 9.4%
+Total Elements: 65
+Hierarchical Elements: 64
+================================================================================
+
+AGREEMENT: VIA EMAIL:
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+Content: January 23, 2024
+
+--- (Additional Root Structure) ---
+Content: Dear Daron:
+
+--- (Additional Root Structure) ---
+Content: We are very excited to offer you the position of Chief Financial Officer, at ...
+
+--- (Additional Root Structure) ---
+Content: Additional terms of your employment are more fully described below in this le...
+
+--- (Additional Root Structure) ---
+Content: 1. Status and Term. You will be a full-time, “at-will” employee of the Compan...
+
+--- (Additional Root Structure) ---
+Content: 2. Location. Your principal place of work will be the Rezolute, Inc. office i...
+
+--- (Additional Root Structure) ---
+Content: 3. Compensation and Benefits. As compensation for your services, you will be ...
+
+--- (Additional Root Structure) ---
+Content: (a) Base Salary. From the Effective Date, the Company shall pay you a base sa...
+
+--- (Additional Root Structure) ---
+Content: (b) Bonus Compensation. You will be eligible to receive an annual performance...
+
+--- (Additional Root Structure) ---
+Content: (c) Long Term Incentives. Through the term of your employment, you will be el...
+
+--- (Additional Root Structure) ---
+Content: In addition, as an inducement to the commencement of your employment, today t...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: You will receive formal award agreements and additional information regarding...
+
+--- (Additional Root Structure) ---
+Content: (d) Tracking-Free Vacation. Rezolute, Inc. is striving to build a results-dri...
+
+--- (Additional Root Structure) ---
+Content: (e) Insurance Coverage. During the term hereof, the Company shall provide you...
+
+--- (Additional Root Structure) ---
+Content: (f) 401k Retirement Plan. During the term hereof, you shall be entitled to pa...
+
+--- (Additional Root Structure) ---
+Content: (g) Other Benefits. During the term hereof and subject to any contribution th...
+
+--- (Additional Root Structure) ---
+Content: (h) Business Expenses. The Company shall pay or reimburse you for all reasona...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4. Confidential Information; Assignment of Inventions.
+
+--- (Additional Root Structure) ---
+Content: (a) You acknowledge that the Company and its Affiliates will continually deve...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2; Options: NewSection; Value: 2
+
+--- (Additional Root Structure) ---
+Heading (L1): 2 | P a g e
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Clause (b): (b) You agree that all Confidential Information, including, without limitatio...
+
+--- (Additional Root Structure) ---
+Content: (c) By signing this Letter you unconditionally and irrevocably transfer and a...
+
+--- (Additional Root Structure) ---
+Content: (d) Except as required for the proper performance of your duties, you will no...
+
+--- (Additional Root Structure) ---
+Content: 5. Conflicting Agreements. You hereby represent and warrant that the executio...
+
+--- (Additional Root Structure) ---
+Content: 6. Definitions. Words or phrases which are initially capitalized or are withi...
+
+--- (Additional Root Structure) ---
+Content: (a) “Affiliates” means all persons and entities directly or indirectly contro...
+
+--- (Additional Root Structure) ---
+Content: (b) “Change in Control Event” means either of the following: (i) sale of subs...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3; Value: 2
+
+--- (Additional Root Structure) ---
+Heading (L1): 3 | P a g e
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (c) “Confidential Information” means any and all information, inventions, dis...
+
+--- (Additional Root Structure) ---
+Content: (d) “Good Reason” means a material reduction in your duties or material reduc...
+
+--- (Additional Root Structure) ---
+Content: (c) “Person” means an individual, a corporation, an association, a partnershi...
+
+--- (Additional Root Structure) ---
+Content: 7. Withholding. All payments made under this Letter shall be reduced by any t...
+
+--- (Additional Root Structure) ---
+Content: 8. Severability. If any portion or provision of this Letter shall to any exte...
+
+--- (Additional Root Structure) ---
+Content: 9. Waiver. No waiver of any provision hereof shall be effective unless made i...
+
+--- (Additional Root Structure) ---
+Content: 10. Notices. Any and all notices, requests, demands and other communications ...
+
+--- (Additional Root Structure) ---
+Content: 11. Entire Letter. This Letter constitutes the entire Letter between the part...
+
+--- (Additional Root Structure) ---
+Content: 12. Amendment. This Letter may be amended or modified only by a written instr...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4; Value: 2
+
+--- (Additional Root Structure) ---
+Heading (L1): 4 | P a g e
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 13. Headings. The headings and captions in this Letter are for convenience on...
+
+--- (Additional Root Structure) ---
+Content: 14. Counterparts. This Letter may be executed in two or more counterparts, ea...
+
+--- (Additional Root Structure) ---
+Content: 15. Governing Law. This Letter shall be construed and enforced under and be g...
+
+--- (Additional Root Structure) ---
+Content: Daron, we look forward to you joining the Rezolute team!
+
+--- (Additional Root Structure) ---
+Content: Sincerely,
+
+--- (Additional Root Structure) ---
+Content: Rezolute, Inc.
+
+--- (Additional Root Structure) ---
+Content: Nevan Elam
+
+--- (Additional Root Structure) ---
+Content: Chief Executive Officer
+
+--- (Additional Root Structure) ---
+Content: Agreed and accepted:
+
+--- (Additional Root Structure) ---
+Content: Field: Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Field: /Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Daron Evans
+
+--- (Additional Root Structure) ---
+Content: Date: January 23, 2024
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5; Options: Last
+
+--- (Additional Root Structure) ---
+Heading (L1): 5 | P a g e
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TableElement: Effective Grant Date Type of Award Number of Shares Subject to the Award Exer...

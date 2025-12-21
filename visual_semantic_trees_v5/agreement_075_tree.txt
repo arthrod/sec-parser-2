@@ -1,0 +1,202 @@
+Visual Semantic Tree for agreement_075.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 4.8%
+Total Elements: 65
+Hierarchical Elements: 62
+================================================================================
+
+AGREEMENT: FOURTH AMENDMENT TO SECURED REVOLVING LINE OF CREDIT
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Content: A.WHEREAS, Lender and ARCA are parties to that certain Secured Revolving Line...
+
+--- (Additional Root Structure) ---
+Content: B.WHEREAS, Lender and ARCA entered into a Third Amendment to the Original Rev...
+
+--- (Additional Root Structure) ---
+Content: C.WHEREAS, one or both of the Joint Obligors have been tendering payments to ...
+
+--- (Additional Root Structure) ---
+Content: D.WHEREAS, the Joint Obligors desire to confirm that, based on JanOne’s tende...
+
+--- (Additional Root Structure) ---
+Content: E.WHEREAS, each of the Parties desires to extend the Maturity Date of the rem...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 1
+
+--- (Additional Root Structure) ---
+Content: F.WHEREAS, each of the Parties desires to maintain the interest rate on the r...
+
+--- (Additional Root Structure) ---
+Content: G.WHEREAS, each of the Parties desires to provide for a convertibility option...
+
+--- (Additional Root Structure) ---
+Content: H.WHEREAS, as of the Effective Date, the Joint Obligors’ obligations under th...
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, in consideration of the premises and for such other good and ...
+
+--- (Additional Root Structure) ---
+Heading (L1): AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: 1.Funding Matrix. Subsequent to the date of the Promissory Note and the subse...
+
+--- (Additional Root Structure) ---
+Content: 2.Extension of Maturity Date. The Maturity Date of this Fourth Amendment is e...
+
+--- (Additional Root Structure) ---
+Content: 3.Modified Payment Plan. In accordance with the payment schedule set forth on...
+
+--- (Additional Root Structure) ---
+Content: 4.Conversion.
+
+--- (Additional Root Structure) ---
+Content: a)Conversion. At any time after the Effective Date until all of the obligatio...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 2
+
+--- (Additional Root Structure) ---
+Content: accrued thereon have been so converted and the shares of Conversion Stock hav...
+
+--- (Additional Root Structure) ---
+Content: b)Fixed Conversion Price. The “Fixed Conversion Price” of obligations set for...
+
+--- (Additional Root Structure) ---
+Content: c)Mechanics of Conversion.
+
+--- (Additional Root Structure) ---
+Content: i.Conversion Stock Issuable Upon Conversion. The number of shares of Conversi...
+
+--- (Additional Root Structure) ---
+Content: ii.Delivery of Certificate Upon Conversion. Not later than two (2) Business D...
+
+--- (Additional Root Structure) ---
+Content: “NEITHER THE ISSUANCE AND SALE OF THE SECURITIES REPRESENTED BY THIS CERTIFIC...
+
+--- (Additional Root Structure) ---
+Content: 1 “Business Day” means a day that is not a Saturday, Sunday, or other holiday...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 3
+
+--- (Additional Root Structure) ---
+Content: TRANSFERRED OR ASSIGNED (I) IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION S...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, commencing on such date that the shares of Con...
+
+--- (Additional Root Structure) ---
+Content: iii.Failure to Deliver Certificates. If, in the case of any Notice of Convers...
+
+--- (Additional Root Structure) ---
+Content: iv.Obligation Absolute; Partial Liquidated Damages. JanOne’s obligations to i...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 4
+
+--- (Additional Root Structure) ---
+Content: such certificates are delivered or Lender rescinds such conversion. Nothing h...
+
+--- (Additional Root Structure) ---
+Content: v.Compensation for Buy-In on Failure to Timely Deliver Certificates Upon Conv...
+
+--- (Additional Root Structure) ---
+Content: vi.Reservation of Shares Issuable Upon Conversion. JanOne covenants that it w...
+
+--- (Additional Root Structure) ---
+Content: vii.Fractional Shares. No fractional shares or scrip representing fractional ...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 5
+
+--- (Additional Root Structure) ---
+Content: conversion, JanOne shall, at its election, either pay a cash adjustment in re...
+
+--- (Additional Root Structure) ---
+Content: viii.Transfer Taxes and Expenses. The issuance of certificates for shares of ...
+
+--- (Additional Root Structure) ---
+Content: d)Lender’s Conversion Limitations. Lender shall not effect any conversion of ...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 6
+
+--- (Additional Root Structure) ---
+Content: by JanOne or JanOne’s transfer agent setting forth the number of shares of Co...
+
+--- (Additional Root Structure) ---
+Content: 5.Certain Adjustments.
+
+--- (Additional Root Structure) ---
+Content: a)Stock Dividends and Stock Splits. If JanOne, at any time while any obligati...
+
+--- (Additional Root Structure) ---
+Content: b)Dilution. JanOne specifically acknowledges that its obligation to issue the...
+
+--- (Additional Root Structure) ---
+Content: c)Subsequent Rights Offerings. In addition to any adjustments pursuant to Sec...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 7
+
+--- (Additional Root Structure) ---
+Content: regard to any limitations on exercise hereof, including without limitation, t...
+
+--- (Additional Root Structure) ---
+Content: d)Pro Rata Distributions. During such time as any obligations hereunder are o...
+
+--- (Additional Root Structure) ---
+Content: e)Calculations. All calculations under this Section 4 shall be made to the ne...
+
+--- (Additional Root Structure) ---
+Content: f)Notice to the Lender.
+
+--- (Additional Root Structure) ---
+Content: i.Adjustment to Fixed Conversion Price. Whenever the Fixed Conversion Price i...
+
+--- (Additional Root Structure) ---
+Content: ii.Notice to Allow Conversion by Lender. If (A) JanOne shall declare a divide...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 8
+
+--- (Additional Root Structure) ---
+Content: all or substantially all of the assets of JanOne, or any compulsory share exc...
+
+--- (Additional Root Structure) ---
+Content: 6.NASDAQ Limitation. Notwithstanding anything to the contrary herein, the Len...
+
+--- (Additional Root Structure) ---
+Content: 7.Confirmation of Status of JanOne as a Joint Obligor to Lender. The Joint Ob...
+
+--- (Additional Root Structure) ---
+Content: 8.Other Provisions. The provisions of the Original Revolving Line that have n...
+
+--- (Additional Root Structure) ---
+Content: 9.Signatures. This Fourth Amendment may be signed in counterparts. A facsimil...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 9
+
+--- (Additional Root Structure) ---
+Heading (L1): (Remainder of this page intentionally left blank; signatures are on the follo...
+
+--- (Additional Root Structure) ---
+Content: ICG JANONE FOURTH AMENDMENT.3+ 10
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.101
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NEITHER THIS SECURITY NOR THE SECURITIES INTO WHICH THIS SECURITY IS CONVERTI...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THIS FOURTH AMENDMENT TO SECURED REVOLVING LINE OF CREDIT (this “Fourth Amend...

@@ -1,0 +1,18 @@
+Visual Semantic Tree for agreement_028.html
+Generated using AgreementParserv9Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 100.0%
+Total Elements: 3
+Hierarchical Elements: 3
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Heading (L1): EXECUTION VERSION D. Governing Law. This Commitment Increase Agreement shall ...
+
+--- (Additional Root Structure) ---
+Heading (L1): EXECUTION VERSION Very truly yours, INCREASING LENDER DEUTSCHE BANK AG NEW YO...
+
+--- (Additional Root Structure) ---
+Heading (L1): EXECUTION VERSION Acknowledged: JPMORGAN CHASE BANK, N.A., as Administrative ...

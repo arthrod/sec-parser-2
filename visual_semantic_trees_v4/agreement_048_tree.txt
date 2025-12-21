@@ -1,0 +1,29 @@
+Visual Semantic Tree for agreement_048.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 75.0%
+Total Elements: 8
+Hierarchical Elements: 8
+================================================================================
+
+AGREEMENT: “Registration Expenses” means the out-of-pocket expenses of a Registration, i...
+`-- Article ARTICLE IV: ARTICLE IV INDEMNIFICATION AND CONTRIBUTION Section 4.1 Indemnification by th...
+
+--- (Additional Root Structure) ---
+Heading (L1): (i) and (ii), the Common Stock or other equity securities that the Company de...
+
+--- (Additional Root Structure) ---
+Heading (L1): sold without exceeding the Maximum Number of Securities; (C) third, to the ex...
+
+--- (Additional Root Structure) ---
+Heading (L1): and things that may be necessary or advisable to enable the Holders of Regist...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3.1.16 if the Registration involves the Registration of Registrable Securitie...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 6.8. WAIVER OF JURY TRIAL. EACH OF THE PARTIES HERETO HEREBY WAIVES T...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, each of the parties has executed this Agreement as of the...

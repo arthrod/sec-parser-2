@@ -1,0 +1,40 @@
+Visual Semantic Tree for agreement_001.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 0.0%
+Total Elements: 14
+Hierarchical Elements: 1
+================================================================================
+
+AGREEMENT: AMENDMENT TO EMPLOYMENT AGREEMENT
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This Amendment (the “Amendment”) is made as of February 21, 2024 , and amends...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, in consideration of the mutual covenants and agreements herei...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.All references in the Employment Agreement to “Commencement Date” shall mea...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Section 2(a) of the Employment Agreement is amended by replacing “$221,500”...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Section 2(b) of the Employment Agreement is hereby amended by replacing “75...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.In Section 5(a) of the Employment Agreement, the following two sentences ar...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): During the Term, if the closing of a Change in Control occurs, and if Executi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.Section 5(a)(ii) of the Employment Agreement is hereby deleted.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 6.Section 7(b) of the Employment Agreement is amended by deleting the words b...

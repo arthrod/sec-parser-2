@@ -1,0 +1,1969 @@
+Visual Semantic Tree for agreement_095.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: B
+Orphan Rate: 7.4%
+Total Elements: 654
+Hierarchical Elements: 652
+================================================================================
+
+AGREEMENT: Schedule II to this exhibit has been omitted pursuant to Item 601(a)(5) of Re...
+
+--- (Additional Root Structure) ---
+Heading (L1): OPORTUN CCW TRUST
+
+--- (Additional Root Structure) ---
+Heading (L1): FIFTH AMENDMENT TO INDENTURE
+
+--- (Additional Root Structure) ---
+Content: This FIFTH AMENDMENT TO INDENTURE, dated as of July 27, 2023 (this “Amendment...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, the Issuer, the Indenture Trustee, the Securities Intermediary and t...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, in accordance with Section 13.2 of the Indenture, the Indenture Trus...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, as evidenced by their signature hereto, the Required Noteholders hav...
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, in consideration of the mutual agreements herein contained, a...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IDEFINITIONS
+
+--- (Additional Root Structure) ---
+Section 1.01: SECTION 1.01. Defined Terms Not Defined Herein. All capitalized terms used he...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IIAMENDMENTS TO THE INDENTURE
+
+--- (Additional Root Structure) ---
+Section 2.01: SECTION 2.01. Amendments. The Indenture is hereby amended to incorporate the ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IIIREPRESENTATIONS AND WARRANTIES
+
+--- (Additional Root Structure) ---
+Section 3.01: SECTION 3.01. Representations and Warranties. The Issuer hereby represents an...
+
+--- (Additional Root Structure) ---
+Clause (a): (a) Representations and Warranties. Both before and immediately after giving ...
+
+--- (Additional Root Structure) ---
+Content: (b) Enforceability. This Amendment and the Indenture, as amended hereby, cons...
+
+--- (Additional Root Structure) ---
+Content: (c) No Defaults. No Rapid Amortization Event, Event of Default, Servicer Defa...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IVMISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Section 4.01: SECTION 4.01. Ratification of Indenture. As amended by this Amendment, the In...
+
+--- (Additional Root Structure) ---
+Section 4.02: SECTION 4.02. Counterparts. This Amendment may be executed in any number of c...
+
+--- (Additional Root Structure) ---
+Section 4.03: SECTION 4.03. Recitals. The recitals contained in this Amendment shall be tak...
+
+--- (Additional Root Structure) ---
+Section 4.04: SECTION 4.04. Rights of the Indenture Trustee, the Securities Intermediary an...
+
+--- (Additional Root Structure) ---
+Section 4.05: SECTION 4.05. GOVERNING LAW; JURISDICTION. THIS AMENDMENT SHALL BE CONSTRUED ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: YORK, WITHOUT REFERENCE TO ITS CONFLICT OF LAW PROVISIONS, AND THE OBLIGATION...
+
+--- (Additional Root Structure) ---
+Section 4.06: SECTION 4.06. Effectiveness. This Amendment shall deemed to have become effec...
+
+--- (Additional Root Structure) ---
+Content: (a) receipt by the Indenture Trustee of an Administrator Order directing it t...
+
+--- (Additional Root Structure) ---
+Content: (b) receipt by the Indenture Trustee of an Officer’s Certificate of the Issue...
+
+--- (Additional Root Structure) ---
+Content: (c) receipt by the Indenture Trustee of an Opinion of Counsel stating that th...
+
+--- (Additional Root Structure) ---
+Content: (d) receipt by the Indenture Trustee of evidence of the consent of the Requir...
+
+--- (Additional Root Structure) ---
+Content: (e) receipt by the Indenture Trustee of counterparts of this Amendment, duly ...
+
+--- (Additional Root Structure) ---
+Content: (f) receipt by the Indenture Trustee of such other instruments, documents, ag...
+
+--- (Additional Root Structure) ---
+Section 4.07: SECTION 4.07. Limitation of Liability. It is expressly understood and agreed ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (Signature page follows)IN WITNESS WHEREOF, the Issuer, the Indenture Trustee...
+
+--- (Additional Root Structure) ---
+Content: OPORTUN CCW TRUST,
+
+--- (Additional Root Structure) ---
+Content: as Issuer
+
+--- (Additional Root Structure) ---
+Content: By: Wilmington Savings Fund Society, FSB, not in its individual capacity, but...
+
+--- (Additional Root Structure) ---
+Content: By: /s/ Devon C. A. Reverdito
+
+--- (Additional Root Structure) ---
+Content: Name: Devon C. A. Reverdito
+
+--- (Additional Root Structure) ---
+Content: Title: Assistant Vice President WILMINGTON TRUST, NATIONAL ASSOCIATION,
+
+--- (Additional Root Structure) ---
+Content: not in its individual capacity but solely as Indenture Trustee
+
+--- (Additional Root Structure) ---
+Content: By: /s/ Drew H. Davis
+
+--- (Additional Root Structure) ---
+Content: Name: Drew H. Davis
+
+--- (Additional Root Structure) ---
+Content: Title: Vice President
+
+--- (Additional Root Structure) ---
+Content: WILMINGTON TRUST, NATIONAL ASSOCIATION,
+
+--- (Additional Root Structure) ---
+Content: not in its individual capacity but solely as Securities Intermediary
+
+--- (Additional Root Structure) ---
+Content: By: /s/ Drew H. Davis
+
+--- (Additional Root Structure) ---
+Content: Name: Drew H. Davis
+
+--- (Additional Root Structure) ---
+Content: Title: Vice President
+
+--- (Additional Root Structure) ---
+Content: WILMINGTON TRUST, NATIONAL ASSOCIATION,
+
+--- (Additional Root Structure) ---
+Content: not in its individual capacity but solely as Depositary Bank
+
+--- (Additional Root Structure) ---
+Content: By: /s/ Drew H. Davis
+
+--- (Additional Root Structure) ---
+Content: Name: Drew H. Davis
+
+--- (Additional Root Structure) ---
+Content: Title: Vice President
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Consent to by the Required Noteholders:
+
+--- (Additional Root Structure) ---
+Content: WEBBANK,
+
+--- (Additional Root Structure) ---
+Content: as Holder of 100% of the outstanding Notes
+
+--- (Additional Root Structure) ---
+Content: By: /s/ Jason Lloyd
+
+--- (Additional Root Structure) ---
+Content: Name: Jason Lloyd
+
+--- (Additional Root Structure) ---
+Content: Title: President & CEO
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE I
+
+--- (Additional Root Structure) ---
+Heading (L1): Marked Amendments to Indenture
+
+--- (Additional Root Structure) ---
+Content: (See attached)CONFORMED COPY
+
+--- (Additional Root Structure) ---
+Content: As amended by the MasterFifth Amendment to Transaction DocumentsIndenture, da...
+
+--- (Additional Root Structure) ---
+Heading (L1): OPORTUN CCW TRUST, as Issuer
+
+--- (Additional Root Structure) ---
+Heading (L1): and
+
+--- (Additional Root Structure) ---
+Heading (L1): WILMINGTON TRUST, NATIONAL ASSOCIATION, as Indenture Trustee, as Securities I...
+
+--- (Additional Root Structure) ---
+Heading (L1): INDENTURE
+
+--- (Additional Root Structure) ---
+Heading (L1): Dated as of December 20, 2021
+
+--- (Additional Root Structure) ---
+Heading (L1): Variable Funding Asset Backed Notes
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE 1.
+
+--- (Additional Root Structure) ---
+Heading (L1): DEFINITIONS AND INCORPORATION BY REFERENCE
+
+--- (Additional Root Structure) ---
+Section 1.1: Section 1.1. Definitions. Certain capitalized terms used herein (including th...
+
+--- (Additional Root Structure) ---
+Content: “ABR” means, for any day, a rate per annum equal to the highest of (a) the Pr...
+
+--- (Additional Root Structure) ---
+Content: “Account” means each open-end revolving credit card account, that is identifi...
+
+--- (Additional Root Structure) ---
+Content: “Account Agreement” means with respect to an Account, the agreement by and be...
+
+--- (Additional Root Structure) ---
+Content: “Account Owner” means, with respect to any Account, (i) the Initial Originato...
+
+--- (Additional Root Structure) ---
+Content: “Account Schedule” has the meaning set forth in the Transfer Agreement. “Addi...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Additional Accounts” means any Accounts designated pursuant to Section 2.6 o...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3
+
+--- (Additional Root Structure) ---
+Content: “Additional Interest” has the meaning specified in Section 5.12(d).
+
+--- (Additional Root Structure) ---
+Content: “Adjusted Daily Simple SOFR” means, for any day (a “SOFR Rate Day”), a rate p...
+
+--- (Additional Root Structure) ---
+Content: “Adjusted Leverage Ratio” means, on any date of determination, the ratio of (...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Adjusted Leverage Ratio Covenant” means that the Parent will have a maximum ...
+
+--- (Additional Root Structure) ---
+Content: “Adjusted Liabilities” means, on any date of determination, the excess of tot...
+
+--- (Additional Root Structure) ---
+Content: “Administrator” shall mean the Person acting in such capacity from time to ti...
+
+--- (Additional Root Structure) ---
+Content: “Administrator Order” means a written order or request signed in the name of ...
+
+--- (Additional Root Structure) ---
+Content: “ADS Score” means the credit score for an Obligor referred to as the “Alterna...
+
+--- (Additional Root Structure) ---
+Content: “Advance Rate” means, on any date of determination, 75.00%.
+
+--- (Additional Root Structure) ---
+Content: “Adverse Claim” means a Lien on any Person’s assets or properties in favor of...
+
+--- (Additional Root Structure) ---
+Content: “Adverse Effect” means, with respect to any action or event, that such action...
+
+--- (Additional Root Structure) ---
+Content: “Affiliate” means, with respect to any Person, any other Person directly or i...
+
+--- (Additional Root Structure) ---
+Content: “Agent” means any Transfer Agent, and Registrar, Certificate Registrar, Regis...
+
+--- (Additional Root Structure) ---
+Content: “Aggregate Class A Note Principal” means, on any date of determination, the o...
+
+--- (Additional Root Structure) ---
+Content: “Aggregate Committed Purchase Amount” shall have the meaning set forth in the...
+
+--- (Additional Root Structure) ---
+Content: “Aggregate Eligible Receivables Balance” means, with respect to any date of d...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: determination (other than any Eligible Receivables that would cause the Conce...
+
+--- (Additional Root Structure) ---
+Content: “Alternative Rate” means, for any day, the sum of a per annum rate equal to t...
+
+--- (Additional Root Structure) ---
+Content: “Amortization Period” means the period commencing on the date on which the Re...
+
+--- (Additional Root Structure) ---
+Content: 5“Applicable Margin” has the meaning specified in the Fee Letter, as notified...
+
+--- (Additional Root Structure) ---
+Content: “Applicants” has the meaning specified in Section 4.2(b).
+
+--- (Additional Root Structure) ---
+Content: “Available Funds” means, with respect to any Monthly Period, the sum of the f...
+
+--- (Additional Root Structure) ---
+Content: “Available Tenor” means, as of any date of determination and with respect to ...
+
+--- (Additional Root Structure) ---
+Content: “Back-Up Servicer” has the meaning specified in the Servicing Agreement.
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Back-Up Servicing Agreement” has the meaning specified in the Servicing Agre...
+
+--- (Additional Root Structure) ---
+Content: “Bankruptcy Code” means the United States Bankruptcy Code, Title 11, U.S.C, a...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark” means, initially, One-Month LIBORAdjusted Daily Simple SOFR; prov...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement” means, for any Available Tenorwith respect to any Ben...
+
+--- (Additional Root Structure) ---
+Content: (1) the sum of: (a) Term SOFR and (b) the related Benchmark Replacement Adjus...
+
+--- (Additional Root Structure) ---
+Content: (2) the sum of: (a) Daily Simple SOFR and (b) the related Benchmark Replaceme...
+
+--- (Additional Root Structure) ---
+Content: (32) the sum of: (a) the alternate benchmark rate that has been selected by t...
+
+--- (Additional Root Structure) ---
+Content: provided that, in the case of clause (1), such Unadjusted Benchmark Replaceme...
+
+--- (Additional Root Structure) ---
+Content: If theprovided that, if such Benchmark Replacement as so determined pursuant ...
+
+--- (Additional Root Structure) ---
+Content: The Required Noteholders shall use commercially reasonable efforts to satisfy...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement Adjustment” means, with respect to any replacement of ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (1) for purposes of clauses (1) and (2) of the definition of “Benchmark Repla...
+
+--- (Additional Root Structure) ---
+Content: (a) the spread adjustment, or method for calculating or determining such spre...
+
+--- (Additional Root Structure) ---
+Content: (b) the spread adjustment (which may be a positive or negative value or zero)...
+
+--- (Additional Root Structure) ---
+Content: (2) for purposes of clause (3) of the definition of “Benchmark Replacement,” ...
+
+--- (Additional Root Structure) ---
+Content: provided that, in the case of clause (1) above, such adjustment is displayed ...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement Conforming Changes” means, with respect to any Benchma...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement Date” means the earliest to occur of the following eve...
+
+--- (Additional Root Structure) ---
+Content: (1) in the case of clause (1) or (2) of the definition of “Benchmark Transiti...
+
+--- (Additional Root Structure) ---
+Content: (2) in the case of clause (3) of the definition of “Benchmark Transition Even...
+
+--- (Additional Root Structure) ---
+Content: (3) in the case of a Term SOFR Transition Event, the date that is thirty (30)...
+
+--- (Additional Root Structure) ---
+Content: (4) in the case of an Early Opt in Election, the sixth (6th) Business Day aft...
+
+--- (Additional Root Structure) ---
+Content: For the avoidance of doubt, (i) if the event giving rise to the Benchmark Rep...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Transition Event” means the occurrence of one or more of the follo...
+
+--- (Additional Root Structure) ---
+Content: (1) a public statement or publication of information by or on behalf of the
+
+--- (Additional Root Structure) ---
+Content: administrator of such Benchmark (or the published component used in the calcu...
+
+--- (Additional Root Structure) ---
+Content: (2) a public statement or publication of information by the regulatory superv...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: the calculation thereof), the Federal Reserve Board, the NYFRB, an insolvency...
+
+--- (Additional Root Structure) ---
+Content: (3) a public statement or publication of information by the regulatory superv...
+
+--- (Additional Root Structure) ---
+Content: (4) to the extent the then current Benchmark is One Month LIBOR or another be...
+
+--- (Additional Root Structure) ---
+Content: For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to ...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Unavailability Period” means the period (if any) (x) beginning at ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: or, (g) shares of money market mutual or similar funds which invest exclusive...
+
+--- (Additional Root Structure) ---
+Content: “Certificate Registrar” shall have the meaning set forth in the Trust Agreeme...
+
+--- (Additional Root Structure) ---
+Content: “Certificates” means the trust certificates issued by the Issuer pursuant to ...
+
+--- (Additional Root Structure) ---
+Content: “Certificate Registrar” shall have the meaning set forth in the TrustAgreement.
+
+--- (Additional Root Structure) ---
+Content: “Change in Control” means any of the following:
+
+--- (Additional Root Structure) ---
+Content: (a) with respect to Oportun Financial Corporation:
+
+--- (Additional Root Structure) ---
+Content: (i) any “person” or “group” (within the meaning of Sections 13(d) and 14(d)(2...
+
+--- (Additional Root Structure) ---
+Content: (ii) Oportun Financial Corporation consolidates with or merges into another c...
+
+--- (Additional Root Structure) ---
+Content: (b) the failure of Oportun Financial Corporation to, directly or indirectly t...
+
+--- (Additional Root Structure) ---
+Content: (c) the failure of the Seller to, directly or indirectly through its Subsidia...
+
+--- (Additional Root Structure) ---
+Content: own 100% of the equity interest of the Depositor and the Issuer, in each case...
+
+--- (Additional Root Structure) ---
+Content: “Class A Additional Interest” has the meaning specified in Section 5.12(a). “...
+
+--- (Additional Root Structure) ---
+Content: “Class A Initial Principal Amount” means the aggregate initial principal amou...
+
+--- (Additional Root Structure) ---
+Content: “Class A Maximum Principal Amount” means $120,000,000.
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Class A Monthly Interest” has the meaning specified in Section 5.12(a).
+
+--- (Additional Root Structure) ---
+Content: “Class A Note Principal” means, on any date of determination and with respect...
+
+--- (Additional Root Structure) ---
+Content: “Class A Note Rate” means, with respect to any day, a variable rate per annum...
+
+--- (Additional Root Structure) ---
+Content: “Class A Noteholder” means a Holder of a Class A Note.
+
+--- (Additional Root Structure) ---
+Content: “Class A Notes” has the meaning specified in paragraph (a) of the Designation.
+
+--- (Additional Root Structure) ---
+Content: “Closing Date” means December 20, 2021.
+
+--- (Additional Root Structure) ---
+Content: “Code” means the Internal Revenue Code of 1986, as amended, and the rules and...
+
+--- (Additional Root Structure) ---
+Content: “Collateral Trustee” means initially Wilmington Trust, National Association, ...
+
+--- (Additional Root Structure) ---
+Content: “Collateral Trustee Appointment” means the Collateral Trustee Appointment, da...
+
+--- (Additional Root Structure) ---
+Content: “Collection Account” has the meaning specified in Section 5.3(a).
+
+--- (Additional Root Structure) ---
+Content: “Collections” means, for any Transferred Receivable for any period (if applic...
+
+--- (Additional Root Structure) ---
+Content: (viii) 13the weighted average 60+ days delinquency status of all Eligible Rec...
+
+--- (Additional Root Structure) ---
+Content: (ix) the aggregate Outstanding Receivables Balance of all Eligible Receivable...
+
+--- (Additional Root Structure) ---
+Content: (x) commencing with the third Monthly Period, the Three-Month Weighted Averag...
+
+--- (Additional Root Structure) ---
+Content: (xi) commencing with the sixth Monthly Period the Six-Month Weighted Average ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Aggregate Eligible Receivables Balance until such Concentration Limit is no l...
+
+--- (Additional Root Structure) ---
+Content: (xii) the aggregate Outstanding Receivables Balance of all Eligible Receivabl...
+
+--- (Additional Root Structure) ---
+Content: (xiii) the aggregate Outstanding Receivables Balance of all Eligible Receivab...
+
+--- (Additional Root Structure) ---
+Content: “Conforming Changes” means, with respect to either the use or administration ...
+
+--- (Additional Root Structure) ---
+Content: “Consolidated Parent” means initially, Oportun Financial Corporation, a Delaw...
+
+--- (Additional Root Structure) ---
+Content: 15of Oportun, the financial statements of which are for financial reporting p...
+
+--- (Additional Root Structure) ---
+Content: “Contingent Liability” means any agreement, undertaking or arrangement by whi...
+
+--- (Additional Root Structure) ---
+Content: “Control Agreement” means the Amended and Restated Deposit Account Control Ag...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Corporation, Bank of America, N.A., the Collateral Trustee and WebBank, as th...
+
+--- (Additional Root Structure) ---
+Content: “Corporate Trust Office” means the principal office of the Indenture Trustee ...
+
+--- (Additional Root Structure) ---
+Content: “Corresponding Tenor” with respect to any Available Tenor means, as applicabl...
+
+--- (Additional Root Structure) ---
+Content: “Coverage Test” has the meaning specified in Section 5.4(c).
+
+--- (Additional Root Structure) ---
+Content: “Credit and Collection Policies” means the policies and procedures of an Acco...
+
+--- (Additional Root Structure) ---
+Content: “Credit Risk Retention Rules” means Regulation RR (17 C.F.R. Part 246), as su...
+
+--- (Additional Root Structure) ---
+Content: “Cut-Off Date” means (i) in the case of the Initial Accounts, the Initial Cut...
+
+--- (Additional Root Structure) ---
+Content: “Daily Simple SOFR” means, for any day, SOFR, with the conventions for this r...
+
+--- (Additional Root Structure) ---
+Content: “Date of Processing” means, as to any transaction, the day on which the trans...
+
+--- (Additional Root Structure) ---
+Content: “Decrease” means a reduction in the Aggregate Class A Note Principal in accor...
+
+--- (Additional Root Structure) ---
+Content: “Default” means any occurrence that is, or with notice or lapse of time or bo...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Default Margin” has the meaning specified in the Fee Letter, as notified by ...
+
+--- (Additional Root Structure) ---
+Content: “Defaulted Receivable” has the meaning set forth in the Purchase Agreement. “...
+
+--- (Additional Root Structure) ---
+Content: “Default Percentage” means, for any Monthly Period, the aggregate Outstanding...
+
+--- (Additional Root Structure) ---
+Content: “Defaulted Account” has the meaning set forth in the Purchase Agreement. “Def...
+
+--- (Additional Root Structure) ---
+Heading (L1): “Delinquent Receivable” has the meaning set forth in the Purchase Agreement.
+
+--- (Additional Root Structure) ---
+Content: “Depositary Bank” has the meaning specified in Section 5.3(f) and shall initi...
+
+--- (Additional Root Structure) ---
+Content: “Depositor” means Oportun CCW Depositor, LLC, a special purpose limited liabi...
+
+--- (Additional Root Structure) ---
+Content: “Depositor Receivables Trust Agreement” means the Depositor Receivables Trust...
+
+--- (Additional Root Structure) ---
+Content: “Depositor Receivables Trustee” means Wilmington Savings Fund Society, FSB, a...
+
+--- (Additional Root Structure) ---
+Heading (L1): “Determination Date” means the third Business Day prior to each Payment Date.
+
+--- (Additional Root Structure) ---
+Content: “Distributable Funds” means, with respect to any Payment Date, an amount equa...
+
+--- (Additional Root Structure) ---
+Content: “Dollars” and the symbol “$” mean the lawful currency of the United States.
+
+--- (Additional Root Structure) ---
+Content: “Early Opt in Election” means, if the then current Benchmark is One Month LIB...
+
+--- (Additional Root Structure) ---
+Content: (1) a notification by the Required Noteholders or the Issuer to each of the
+
+--- (Additional Root Structure) ---
+Content: other parties hereto and the other Noteholders that at least five currently o...
+
+--- (Additional Root Structure) ---
+Content: (2) the joint election by the Required Noteholders and the Issuer to trigger a
+
+--- (Additional Root Structure) ---
+Content: fallback from One Month LIBOR and the provision by the Issuer of written noti...
+
+--- (Additional Root Structure) ---
+Content: “Eligible Receivable” has the meaning set forth in the Purchase Agreement.
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “ERISA” means the Employee Retirement Income Security Act of 1974, as amended...
+
+--- (Additional Root Structure) ---
+Content: “ERISA Affiliate” means, with respect to any Person, (i) any corporation whic...
+
+--- (Additional Root Structure) ---
+Content: “ERISA Event” means any of the following: (i) the failure to satisfy the mini...
+
+--- (Additional Root Structure) ---
+Content: (iv) any “reportable event” as defined in Section 4043 of ERISA or the regula...
+
+--- (Additional Root Structure) ---
+Content: “ERISA Lien” has the meaning specified in Section 7.1(q).
+
+--- (Additional Root Structure) ---
+Content: “Event of Default” has the meaning specified in Section 10.1.
+
+--- (Additional Root Structure) ---
+Content: “Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+--- (Additional Root Structure) ---
+Content: “Facility Termination Date” means the earliest to occur of (a) the Payment Da...
+
+--- (Additional Root Structure) ---
+Content: “FATCA” means the Foreign Account Tax Compliance Act provisions, sections 147...
+
+--- (Additional Root Structure) ---
+Content: “FATCA Withholding Tax” means any withholding or deduction required pursuant ...
+
+--- (Additional Root Structure) ---
+Content: “Federal Funds Rate” means, for any day, the greater of (a) the rate calculat...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: next succeeding Business Day by the Federal Reserve Bank of New York as the F...
+
+--- (Additional Root Structure) ---
+Content: “Federal Reserve Board” means the Board of Governors of the Federal Reserve S...
+
+--- (Additional Root Structure) ---
+Content: “Fee Letter” means the letter agreement, dated as of the date hereof, among t...
+
+--- (Additional Root Structure) ---
+Content: “Finance Charge Receivables” means Receivables created in respect of periodic...
+
+--- (Additional Root Structure) ---
+Content: “Financial Covenants” means each of the Leverage Ratio Covenant, the Adjusted...
+
+--- (Additional Root Structure) ---
+Content: “Fiscal Year” means any period of twelve consecutive calendar months ending o...
+
+--- (Additional Root Structure) ---
+Content: “Fitch” means Fitch, Inc.
+
+--- (Additional Root Structure) ---
+Content: “Floor” means the benchmark rate floor, if any, provided in this Indenture in...
+
+--- (Additional Root Structure) ---
+Content: “GAAP” means those principles of accounting set forth in pronouncements of th...
+
+--- (Additional Root Structure) ---
+Content: “Governmental Authority” means any government or political subdivision or any...
+
+--- (Additional Root Structure) ---
+Content: “Grant” means the Issuer’s grant of a Lien on the Trust Estate as set forth i...
+
+--- (Additional Root Structure) ---
+Content: “Hardship Program” means any program of an Account Owner, established pursuan...
+
+--- (Additional Root Structure) ---
+Heading (L1): “Holder” means the Person in whose name a Note is registered in the Note Regi...
+
+--- (Additional Root Structure) ---
+Content: “In-Store Payments” means payments received from or on behalf of Obligors at ...
+
+--- (Additional Root Structure) ---
+Content: “Increase” has the meaning specified in Section 3.1(b).
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Indebtedness” means, with respect to any Person, such Person’s (i) obligatio...
+
+--- (Additional Root Structure) ---
+Content: (iv) obligations which are evidenced by notes, acceptances, or other instrume...
+
+--- (Additional Root Structure) ---
+Content: (v) above, for which such Person is obligated pursuant to a guaranty, put or ...
+
+--- (Additional Root Structure) ---
+Content: “Indenture” means this Indenture, as amended, restated, modified or supplemen...
+
+--- (Additional Root Structure) ---
+Content: “Indenture Termination Date” has the meaning specified in Section 12.1.
+
+--- (Additional Root Structure) ---
+Content: “Indenture Trustee” means initially Wilmington Trust, National Association, a...
+
+--- (Additional Root Structure) ---
+Content: “Independent” means, when used with respect to any specified Person, that suc...
+
+--- (Additional Root Structure) ---
+Content: “Independent Certificate” means a certificate or opinion to be delivered to t...
+
+--- (Additional Root Structure) ---
+Content: “Ineligible Receivable” means any Transferred Receivable designated as an “In...
+
+--- (Additional Root Structure) ---
+Content: “Initial Account” means each revolving credit card account identified in the ...
+
+--- (Additional Root Structure) ---
+Content: “Initial Cut-Off Date” has the meaning set forth in the Transfer Agreement. “...
+
+--- (Additional Root Structure) ---
+Content: “Interchange” has the meaning set forth in the Purchase Agreement.
+
+--- (Additional Root Structure) ---
+Heading (L1): “Insolvency Event” shall be deemed to have occurred with respect to a Person if:
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (a) a Proceeding shall be commenced, without the application or consent of such
+
+--- (Additional Root Structure) ---
+Content: Person, before any Governmental Authority, seeking the liquidation, reorganiz...
+
+--- (Additional Root Structure) ---
+Content: (b) such Person shall (i) consent to the institution of any Proceeding or pet...
+
+--- (Additional Root Structure) ---
+Content: “Interest Period” means, with respect to any Payment Date, the prior Monthly ...
+
+--- (Additional Root Structure) ---
+Content: “Investment Earnings” means all interest and earnings (net of losses and inve...
+
+--- (Additional Root Structure) ---
+Content: “Issuer” has the meaning specified in the preamble of this Indenture. “Issuer...
+
+--- (Additional Root Structure) ---
+Content: “Issuer Order” and “Issuer Request” means a written order or request signed i...
+
+--- (Additional Root Structure) ---
+Content: “Law” means any law (including common law), constitution, statute, treaty, re...
+
+--- (Additional Root Structure) ---
+Content: “Legal Final Payment Date” means the Payment Date immediately following the 3...
+
+--- (Additional Root Structure) ---
+Content: “Leverage Ratio” means, on any date of determination, the ratio of (i) Liabil...
+
+--- (Additional Root Structure) ---
+Content: “Leverage Ratio Covenant” means that the Parent will have a maximum Leverage ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Liabilities” means, on any date of determination, the total liabilities whic...
+
+--- (Additional Root Structure) ---
+Content: “LIBOR” has the meaning assigned to such term in Section 5.12(b).
+
+--- (Additional Root Structure) ---
+Content: “Lien” means any mortgage or deed of trust, pledge, hypothecation, assignment...
+
+--- (Additional Root Structure) ---
+Content: “Liquidity Covenant” means that the Seller will have a minimum liquidity equa...
+
+--- (Additional Root Structure) ---
+Content: “London Banking Day” means, for the purpose of determining One Month LIBOR, a...
+
+--- (Additional Root Structure) ---
+Content: “Material Adverse Effect” means any event or condition which would have a mat...
+
+--- (Additional Root Structure) ---
+Content: “Monthly Period” means the period from and including the first day of a calen...
+
+--- (Additional Root Structure) ---
+Content: “Monthly Servicer Report” means a report substantially in the form attached a...
+
+--- (Additional Root Structure) ---
+Content: “Monthly Statement” means a statement substantially in the form attached here...
+
+--- (Additional Root Structure) ---
+Content: “Moody’s” means Moody’s Investors Service, Inc.
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Multiemployer Plan” means a “multiemployer plan” as defined in Section 4001(...
+
+--- (Additional Root Structure) ---
+Content: “Note Principal” means on any date of determination the then outstanding prin...
+
+--- (Additional Root Structure) ---
+Content: “Note Purchase Agreement” means the agreement among WebBank, as an initial Cl...
+
+--- (Additional Root Structure) ---
+Content: “Note Register” has the meaning specified in Section 2.6(a).
+
+--- (Additional Root Structure) ---
+Content: “Noteholder” means with respect to any Note, the holder of record of such Not...
+
+--- (Additional Root Structure) ---
+Content: “NYFRB” means the Federal Reserve Bank of New York.
+
+--- (Additional Root Structure) ---
+Content: “NYFRB’s Website” means the website of the NYFRB at http://www.newyorkfed.org...
+
+--- (Additional Root Structure) ---
+Content: “Obligor” means, with respect to any Receivable, the Person or Persons obliga...
+
+--- (Additional Root Structure) ---
+Content: “Officer’s Certificate” means a certificate signed by any Responsible Officer...
+
+--- (Additional Root Structure) ---
+Content: “One Month LIBOR” means, with respect to any day of determination, the compos...
+
+--- (Additional Root Structure) ---
+Content: “Opinion of Counsel” means one or more written opinions of counsel to the Iss...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Oportun” means Oportun, Inc., a Delaware corporation.
+
+--- (Additional Root Structure) ---
+Content: “Oportun Comparable Facility” means each of (i) the consumer loan credit faci...
+
+--- (Additional Root Structure) ---
+Content: “Outstanding Receivables Balance” means, as of any date with respect to any R...
+
+--- (Additional Root Structure) ---
+Content: 24benefit of the holders of such depository receipts); provided that at the t...
+
+--- (Additional Root Structure) ---
+Content: (c) commercial paper having, at the time of the investment or contractual com...
+
+--- (Additional Root Structure) ---
+Content: (d) only to the extent permitted by Rule 3a-7 under the Investment Company Ac...
+
+--- (Additional Root Structure) ---
+Content: Permitted Investments may be purchased by or through the Indenture Trustee or...
+
+--- (Additional Root Structure) ---
+Content: “Person” means any corporation, limited liability company, natural person, fi...
+
+--- (Additional Root Structure) ---
+Content: “PF Score” means the credit score for an Obligor referred to as the “PF Score...
+
+--- (Additional Root Structure) ---
+Content: “Prime Rate” means the rate of interest per annum last quoted by The Wall Str...
+
+--- (Additional Root Structure) ---
+Content: “Principal Receivable” means each Receivable, other than a Finance Charge Rec...
+
+--- (Additional Root Structure) ---
+Content: “Proceeding” means any suit in equity, action at law or other judicial or adm...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Program Agreement” means (i) with respect to the Initial Originator, the Ame...
+
+--- (Additional Root Structure) ---
+Content: “Reference Time” with respect to any setting of the then current Benchmark me...
+
+--- (Additional Root Structure) ---
+Content: “Registered Notes” has the meaning specified in Section 2.1.
+
+--- (Additional Root Structure) ---
+Content: “Related Security” means with respect to any Receivable: (a) all of the Issue...
+
+--- (Additional Root Structure) ---
+Content: “Relevant Governmental Body” means the Federal Reserve Board or the NYFRB, or...
+
+--- (Additional Root Structure) ---
+Content: “Removal Cut Off Date” has the meaning set forth in the Transfer Agreement. “...
+
+--- (Additional Root Structure) ---
+Content: “Removed Accounts” has the meaning set forth in Section 2.7(a) of the Transfe...
+
+--- (Additional Root Structure) ---
+Content: “Removed Receivables” means Receivables released from the Trust Estate in acc...
+
+--- (Additional Root Structure) ---
+Content: with Section 5.8.
+
+--- (Additional Root Structure) ---
+Content: “Required Certificateholders” means the holders of Certificates representing ...
+
+--- (Additional Root Structure) ---
+Content: “Required Monthly Payments” has the meaning specified in Section 5.4(c).
+
+--- (Additional Root Structure) ---
+Content: “Required Noteholders” means each of (a) WebBank (but only if WebBank or an a...
+
+--- (Additional Root Structure) ---
+Content: “Requirements of Law” means, as to any Person, the organizational documents o...
+
+--- (Additional Root Structure) ---
+Content: “Reserve Account” has the meaning specified in Section 5.3(b).
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Reserve Account Requirement” means, for any Monthly Period, (a) initially, a...
+
+--- (Additional Root Structure) ---
+Content: “Servicing Fee” means (A) for any Monthly Period during which Oportun, Inc. o...
+
+--- (Additional Root Structure) ---
+Content: “Similar Law” means applicable Law that is substantially similar to Section 4...
+
+--- (Additional Root Structure) ---
+Content: “Six-Month Weighted Average Yield” means, for any Monthly Period, the percent...
+
+--- (Additional Root Structure) ---
+Content: “SOFR” means, with respect to any Business Day, a rate per annum equal to the...
+
+--- (Additional Root Structure) ---
+Content: “SOFR Adjustment” means 0.11448%.
+
+--- (Additional Root Structure) ---
+Content: “SOFR Administrator” means the NYFRB (or a successor administrator of the sec...
+
+--- (Additional Root Structure) ---
+Content: “SOFR Administrator’s Website” means the NYFRB’s website, currently at http:/...
+
+--- (Additional Root Structure) ---
+Content: “SOFR Determination Day” has the meaning specified in the definition of “Adju...
+
+--- (Additional Root Structure) ---
+Content: Daily Simple SOFR”.
+
+--- (Additional Root Structure) ---
+Content: “SOFR Rate Day” has the meaning specified in the definition of “Adjusted Dail...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Solvent” means with respect to any Person that as of the date of determinati...
+
+--- (Additional Root Structure) ---
+Content: “SST” means Systems & Services Technologies, Inc.
+
+--- (Additional Root Structure) ---
+Content: “SST Fee Schedule” means Schedule I to the Back-Up Servicing Agreement.
+
+--- (Additional Root Structure) ---
+Content: “Standard & Poor’s” means S&P Global Ratings.
+
+--- (Additional Root Structure) ---
+Content: “Subsidiary” of a Person means any other Person more than 50% of the outstand...
+
+--- (Additional Root Structure) ---
+Content: “Supplement” means a supplement to this Indenture complying with the terms of...
+
+--- (Additional Root Structure) ---
+Content: “Tangible Net Worth” means, on any date of determination, the total sharehold...
+
+--- (Additional Root Structure) ---
+Content: “Tangible Net Worth Covenant” means that the Parent will have a minimum Tangi...
+
+--- (Additional Root Structure) ---
+Content: “Tax Information” means information and/or properly completed and signed tax ...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR” means the Term SOFR Reference Rate for a tenor comparable to the ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Administrator and a Benchmark Replacement Date with respect to the Term SOFR ...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR Administrator” means CME Group Benchmark Administration Limited (C...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR” means, for the applicable Corresponding Tenor as of the applicabl...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR Notice” means a notification by the Required Noteholders to the No...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR Transition Event” means the determination by the Required Notehold...
+
+--- (Additional Root Structure) ---
+Content: “Test Account” means an Account established solely for the purpose of user ac...
+
+--- (Additional Root Structure) ---
+Content: “Three-Month Average Default Percentage” means, for any Monthly Period, the a...
+
+--- (Additional Root Structure) ---
+Content: “Three-Month Average Principal Payment Rate” means, for any Monthly Period, t...
+
+--- (Additional Root Structure) ---
+Content: “Three-Month Weighted Average Yield” means, for any Monthly Period, the perce...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “Transaction Documents” means, collectively, this Indenture, the Notes, the S...
+
+--- (Additional Root Structure) ---
+Content: “Transfer Agent and Registrar” has the meaning specified in Section 2.6 and s...
+
+--- (Additional Root Structure) ---
+Content: “Transfer Agreement” means the Receivables Transfer Agreement, dated as of th...
+
+--- (Additional Root Structure) ---
+Content: “Transferred Account” has the meaning specified within the definition of Acco...
+
+--- (Additional Root Structure) ---
+Content: “Transferred Receivable” means a Receivable that has been transferred by the ...
+
+--- (Additional Root Structure) ---
+Content: “Transition Costs” means all reasonable costs and expenses incurred by the Ba...
+
+--- (Additional Root Structure) ---
+Heading (L1): “Trust Account” has the meaning specified in the Granting Clause to this Inde...
+
+--- (Additional Root Structure) ---
+Content: “Trust Agreement” means the Amended and Restated Trust Agreement, dated as of...
+
+--- (Additional Root Structure) ---
+Heading (L1): “Trust Estate” has the meaning specified in the Granting Clause of this Inden...
+
+--- (Additional Root Structure) ---
+Content: “Trust Indenture Act” or “TIA” means the Trust Indenture Act of 1939 as in fo...
+
+--- (Additional Root Structure) ---
+Content: “Trust Officer” means any officer within the Corporate Trust Office (or any s...
+
+--- (Additional Root Structure) ---
+Content: “Trust Portfolio” means, collectively, the Accounts that are listed on the Ac...
+
+--- (Additional Root Structure) ---
+Content: “Trustee, Back-Up Servicer and Successor Servicer Fees and Expenses” means, f...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: successor Servicer) or the Indenture Trustee (including in its capacity as Ag...
+
+--- (Additional Root Structure) ---
+Heading (L1): “U.S.” or “United States” means the United States of America and its territor...
+
+--- (Additional Root Structure) ---
+Content: “U.S. Government Securities Business Day” means any day except for (a) a Satu...
+
+--- (Additional Root Structure) ---
+Content: “UCC” means, with respect to any jurisdiction, the Uniform Commercial Code as...
+
+--- (Additional Root Structure) ---
+Content: “Unadjusted Benchmark Replacement” means the applicable Benchmark Replacement...
+
+--- (Additional Root Structure) ---
+Content: “Unused Fee” has the meaning specified in the Fee Letter, as notified by the ...
+
+--- (Additional Root Structure) ---
+Heading (L1): “U.S.” or “United States” means the United States of America and its territor...
+
+--- (Additional Root Structure) ---
+Content: “VantageScore” means the credit score for an Obligor referred to as a “Vantag...
+
+--- (Additional Root Structure) ---
+Content: “WebBank” means WebBank, a Utah state-chartered bank.
+
+--- (Additional Root Structure) ---
+Content: “WebBank Agreements” means the WebBank Program Agreement, the WebBank Receiva...
+
+--- (Additional Root Structure) ---
+Content: “WebBank Program Agreement” means the Amended and Restated Credit Card Progra...
+
+--- (Additional Root Structure) ---
+Content: “WebBank Receivables SalePurchase Agreement” means the Receivables SalePurcha...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: “WebBank Receivables PurchaseSale Agreement” means the Receivables PurchaseSa...
+
+--- (Additional Root Structure) ---
+Content: “written” or “in writing” means any form of written communication, including,...
+
+--- (Additional Root Structure) ---
+Section 1.2: Section 1.2. Incorporation by Reference of Trust Indenture Act. Whenever this...
+
+--- (Additional Root Structure) ---
+Heading (L1): “Commission” means the Securities and Exchange Commission.
+
+--- (Additional Root Structure) ---
+Content: “indenture securities” means the Notes.
+
+--- (Additional Root Structure) ---
+Content: “indenture security holder” means a Holder.
+
+--- (Additional Root Structure) ---
+Content: “indenture to be qualified” means this Indenture.
+
+--- (Additional Root Structure) ---
+Content: “indenture trustee” or “institutional trustee” means the Indenture Trustee.
+
+--- (Additional Root Structure) ---
+Content: “obligor” on the indenture securities means the Issuer and any other obligor ...
+
+--- (Additional Root Structure) ---
+Content: All other TIA terms used in this Indenture that are defined by the TIA, defin...
+
+--- (Additional Root Structure) ---
+Section 1.3: Section 1.3. [Reserved].
+
+--- (Additional Root Structure) ---
+Content: transfer in a form satisfactory to the Issuer duly executed by the Noteholder...
+
+--- (Additional Root Structure) ---
+Content: (vi) The preceding provisions of this Section 2.6 notwithstanding, the Indent...
+
+--- (Additional Root Structure) ---
+Content: (vii) No service charge shall be made for any registration of transfer or exc...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: sufficient to cover any tax or governmental charge that may be imposed in con...
+
+--- (Additional Root Structure) ---
+Content: (viii) All Notes surrendered for registration of transfer and exchange shall ...
+
+--- (Additional Root Structure) ---
+Content: (ix) Upon written request, the Issuer shall deliver to the Indenture Trustee ...
+
+--- (Additional Root Structure) ---
+Content: (x) [Reserved].
+
+--- (Additional Root Structure) ---
+Content: (xi) Notwithstanding anything to the contrary set forth in this Indenture, no...
+
+--- (Additional Root Structure) ---
+Content: partnership shall be the sole obligation of the Noteholder to whom such items...
+
+--- (Additional Root Structure) ---
+Section 2.21: Section 2.21. Duties of the Indenture Trustee and the Transfer Agent and Regi...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE 3.
+
+--- (Additional Root Structure) ---
+Heading (L1): ISSUANCE OF NOTES; CERTAIN FEES AND EXPENSES Section 3.1. Initial Issuance; P...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (a) Subject to satisfaction of the conditions precedent set forth in subsecti...
+
+--- (Additional Root Structure) ---
+Content: (i) Such issuance and the application of the proceeds thereof shall not resul...
+
+--- (Additional Root Structure) ---
+Content: (ii) The representations and warranties of the Issuer, the Depositor, the ini...
+
+--- (Additional Root Structure) ---
+Content: (iii) All required consents have been obtained and all other conditions prece...
+
+--- (Additional Root Structure) ---
+Content: (iv) A certification (in form and substance satisfactory to the Required Note...
+
+--- (Additional Root Structure) ---
+Content: (v) The proceeds of such Issuanceissuance shall be used solely in connection ...
+
+--- (Additional Root Structure) ---
+Content: (b) Subject to the procedures set forth in Section 2.3 of the Note Purchase A...
+
+--- (Additional Root Structure) ---
+Content: (a) The Indenture Trustee shall preserve, in as current a form as is reasonab...
+
+--- (Additional Root Structure) ---
+Content: (b) Noteholders and Certificateholders may communicate (including pursuant to...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: business hours to the most recent list of Noteholders and Certificateholders ...
+
+--- (Additional Root Structure) ---
+Content: (c) The Issuer, the Indenture Trustee and the Transfer Agent and Registrar sh...
+
+--- (Additional Root Structure) ---
+Section 4.3: Section 4.3. Reports by Issuer.
+
+--- (Additional Root Structure) ---
+Content: (a) (i) The Issuer or the initial Servicer shall deliver to the Indenture Tru...
+
+--- (Additional Root Structure) ---
+Content: (ii) the Issuer or the initial Servicer shall file with the Indenture Trustee...
+
+--- (Additional Root Structure) ---
+Content: (iii) the Issuer or the initial Servicer shall supply to the Indenture Truste...
+
+--- (Additional Root Structure) ---
+Content: (iv) the Servicer shall prepare and distribute any other reports required to ...
+
+--- (Additional Root Structure) ---
+Content: (b) Unless the Issuer otherwise determines, the fiscal year of the Issuer shall
+
+--- (Additional Root Structure) ---
+Content: end on December 31 of each year.
+
+--- (Additional Root Structure) ---
+Section 4.4: Section 4.4. Reports by Indenture Trustee. If this Indenture is required to b...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Section 313(a). If this Indenture is required to be qualified under the TIA, ...
+
+--- (Additional Root Structure) ---
+Content: A copy of each report at the time of its mailing to Noteholders and Certifica...
+
+--- (Additional Root Structure) ---
+Section 4.5: Section 4.5. Reports and Records for the Indenture Trustee and
+
+--- (Additional Root Structure) ---
+Content: Instructions.
+
+--- (Additional Root Structure) ---
+Content: (a) On each Determination Date the Servicer shall forward to the Indenture Tr...
+
+--- (Additional Root Structure) ---
+Content: (b) On each Payment Date, the Indenture Trustee or the Paying Agent shall mak...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE 5.
+
+--- (Additional Root Structure) ---
+Heading (L1): ALLOCATION AND APPLICATION OF COLLECTIONS
+
+--- (Additional Root Structure) ---
+Section 5.1: Section 5.1. Rights of Noteholders. The Notes shall be secured by the entire ...
+
+--- (Additional Root Structure) ---
+Content: withdrawn on the same day shall be invested in Permitted Investments, in acco...
+
+--- (Additional Root Structure) ---
+Content: On the Closing Date, the Issuer shall deposit, or cause to be deposited, into...
+
+--- (Additional Root Structure) ---
+Content: (c) [Reserved].
+
+--- (Additional Root Structure) ---
+Content: (d) [Reserved].
+
+--- (Additional Root Structure) ---
+Content: (e) Administration of the Collection Account and the Reserve Account. Funds o...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Indenture: (i) the Securities Intermediary shall be a bank that in the ordina...
+
+--- (Additional Root Structure) ---
+Section 5.5: Section 5.5. Determination of Monthly Interest. Monthly interest with respect...
+
+--- (Additional Root Structure) ---
+Section 5.6: Section 5.6. Determination of Monthly Principal. Monthly principal and other ...
+
+--- (Additional Root Structure) ---
+Section 5.7: Section 5.7. General Provisions Regarding Accounts. Subject to
+
+--- (Additional Root Structure) ---
+Section 11: Section 11.1(c), the Indenture Trustee shall not in any way be held liable by...
+
+--- (Additional Root Structure) ---
+Section 5.8: Section 5.8. Removed Receivables. Upon satisfaction of the conditions and the...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: or an Administrator Order, the Indenture Trustee shall acknowledge an instrum...
+
+--- (Additional Root Structure) ---
+Section 5.9: Section 5.9. [Reserved].
+
+--- (Additional Root Structure) ---
+Section 5.10: Section 5.10. [Reserved].
+
+--- (Additional Root Structure) ---
+Section 5.11: Section 5.11. [Reserved].
+
+--- (Additional Root Structure) ---
+Section 5.12: Section 5.12. Determination of Monthly Interest; LIBOR Notification.
+
+--- (Additional Root Structure) ---
+Content: (a) The amount of monthly interest payable on the Class A Notes on each
+
+--- (Additional Root Structure) ---
+Content: Payment Date will be determined by the Servicer as of each Determination Date...
+
+--- (Additional Root Structure) ---
+Content: In addition to the Class A Monthly Interest, an amount equal to the sum of (i...
+
+--- (Additional Root Structure) ---
+Content: (b) The interest rate on the Class A Notes is determined by reference to One ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: availability, composition, or characteristics of LIBOR or the currencies and/...
+
+--- (Additional Root Structure) ---
+Section 5.13: Section 5.13. [Reserved]. Section 5.14. [Reserved].
+
+--- (Additional Root Structure) ---
+Section 5.15: Section 5.15. Monthly Payments. On or before the Business Day immediately pre...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (a) An amount equal to the Distributable Funds for such Payment Date shall be...
+
+--- (Additional Root Structure) ---
+Content: (i) first, to the Indenture Trustee, the Securities Intermediary, the Deposit...
+
+--- (Additional Root Structure) ---
+Content: (ii) second, if Oportun, Inc. is the Servicer, to the Servicer an amount equa...
+
+--- (Additional Root Structure) ---
+Heading (L1): 60
+
+--- (Additional Root Structure) ---
+Content: from the applicable Trust Account without instruction from the Servicer. The ...
+
+--- (Additional Root Structure) ---
+Section 5.17: Section 5.17. Determination of One Month LIBORBenchmark
+
+--- (Additional Root Structure) ---
+Content: Replacement.
+
+--- (Additional Root Structure) ---
+Content: (a) Subject to clauses (b), (c), (d), (e) and (f) of this Section 5.17:
+
+--- (Additional Root Structure) ---
+Content: (i) On each Business Day, the Calculation Agent shall determine One Month LIB...
+
+--- (Additional Root Structure) ---
+Content: (ii) If on any Business Day such rate does not appear on Reuters Page LIBOR01...
+
+--- (Additional Root Structure) ---
+Content: (iii) On each Determination Date related to a Payment Date, prior to 3:00 p.m...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: the Noteholders, by facsimile or e mail, notification of One Month LIBOR or t...
+
+--- (Additional Root Structure) ---
+Content: (a) (b) Notwithstanding anything to the contrary herein or in any other
+
+--- (Additional Root Structure) ---
+Content: Transaction Document, if a Benchmark Transition Event or an Early Opt in Elec...
+
+--- (Additional Root Structure) ---
+Content: (c) Notwithstanding anything to the contrary herein or in any other Transacti...
+
+--- (Additional Root Structure) ---
+Content: in respect of any setting of the then current Benchmark, then the applicable ...
+
+--- (Additional Root Structure) ---
+Content: (b) (d) In connection with the implementation ofuse or administration of Adju...
+
+--- (Additional Root Structure) ---
+Content: (c)(e) The Required Noteholders will promptly notify the Issuer and the Noteh...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: in connection with the use, administration, adoption or implementation of a B...
+
+--- (Additional Root Structure) ---
+Content: (b) Notwithstanding anything to the contrary herein or in any other Transacti...
+
+--- (Additional Root Structure) ---
+Content: (c) (f) Upon the Issuer’s receipt of notice of the commencement of a Benchmar...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE 6.
+
+--- (Additional Root Structure) ---
+Content: DISTRIBUTIONS AND REPORTS Section 6.1. Distributions.
+
+--- (Additional Root Structure) ---
+Content: (a) On each Payment Date, the Indenture Trustee shall distribute (in accordan...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 12: Section 12.5 respecting a final distribution), such Noteholder’s pro rata sha...
+
+--- (Additional Root Structure) ---
+Content: (b) Notwithstanding anything to the contrary contained in this Indenture, if ...
+
+--- (Additional Root Structure) ---
+Section 6.2: Section 6.2. Monthly Statement.
+
+--- (Additional Root Structure) ---
+Content: (a) On or before each Payment Date, the Indenture Trustee shall make availabl...
+
+--- (Additional Root Structure) ---
+Content: (i) the amount of Collections received during the related Monthly Period;
+
+--- (Additional Root Structure) ---
+Content: (ii) the amount of Collections received during the related Monthly Period in ...
+
+--- (Additional Root Structure) ---
+Content: (iii) the amount of Collections received during the related Monthly Period in...
+
+--- (Additional Root Structure) ---
+Content: (iv) the amount of Available Funds and Distributable Funds on deposit in the ...
+
+--- (Additional Root Structure) ---
+Content: (v) the amount of Trustee, Back-Up Servicer and Successor Servicer Fees and E...
+
+--- (Additional Root Structure) ---
+Content: (vi) the Reserve Account Requirement and the balance in the Reserve Account o...
+
+--- (Additional Root Structure) ---
+Content: (vii) the amount of the Servicing Fee for such Payment Date;
+
+--- (Additional Root Structure) ---
+Content: (viii) the total amount to be distributed to the Class A Noteholders on such ...
+
+--- (Additional Root Structure) ---
+Content: (ix) the outstanding principal balance of the Class A NotesAggregate Class A ...
+
+--- (Additional Root Structure) ---
+Content: (x) the amount of any Increases and Decreases in the Notes during the related...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (ix) One Month LIBORthe Benchmark for each day during the related Interest Pe...
+
+--- (Additional Root Structure) ---
+Content: (x) the date on which the Amortization Period commenced, if applicable; conne...
+
+--- (Additional Root Structure) ---
+Content: (c) Annual Tax Statement. To the extent required by the Code or the Treasury ...
+
+--- (Additional Root Structure) ---
+Section 6.3: Section 6.3. Issuer Payments. The Issuer agrees to pay, and the Issuer agrees...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE 7.
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS AND WARRANTIES OF THE ISSUER
+
+--- (Additional Root Structure) ---
+Section 7.1: Section 7.1. Representations and Warranties of the Issuer. The Issuer hereby ...
+
+--- (Additional Root Structure) ---
+Content: (a) Organization and Good Standing, etc. The Issuer has been duly organized a...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: failure to be so licensed or qualified would be reasonably likely to have a M...
+
+--- (Additional Root Structure) ---
+Content: (m) No Proceedings. Except as described in Schedule 2:
+
+--- (Additional Root Structure) ---
+Content: (i) there is no order, judgment, decree, injunction, stipulation or consent o...
+
+--- (Additional Root Structure) ---
+Content: (ii) there is no action, suit, proceeding, arbitration, regulatory or governm...
+
+--- (Additional Root Structure) ---
+Content: (n) Investment Company Act; Covered Fund. The Issuer is not an “investment co...
+
+--- (Additional Root Structure) ---
+Content: (o) Eligible Receivables. Each Receivable included as an Eligible
+
+--- (Additional Root Structure) ---
+Content: Receivable in any Monthly Servicer Report shall be an Eligible Receivable as ...
+
+--- (Additional Root Structure) ---
+Content: (p) Receivables Schedule. The most recently delivered schedule of
+
+--- (Additional Root Structure) ---
+Content: Receivables reflects, in all material respects, a true and correct schedule o...
+
+--- (Additional Root Structure) ---
+Content: (q) ERISA. (i) Each of the Issuer, the Depositor, the Seller, the Servicer an...
+
+--- (Additional Root Structure) ---
+Content: (A) (r) Accuracy of Information. All information heretofore furnished by, or ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Issuer during such year and of performance under this Indenture has been made...
+
+--- (Additional Root Structure) ---
+Content: (B) to the best of such Responsible Officer’s knowledge, based on such review...
+
+--- (Additional Root Structure) ---
+Content: (h) Use of Proceeds. Use the proceeds of the Notes solely in connection with ...
+
+--- (Additional Root Structure) ---
+Content: (i) Protection of Trust Estate. At its expense, perform all acts and execute ...
+
+--- (Additional Root Structure) ---
+Content: (j) Inspection of Records. Once per calendar year (or upon the occurrence of ...
+
+--- (Additional Root Structure) ---
+Content: (k) Furnishing of Information. Provide such cooperation, information and assi...
+
+--- (Additional Root Structure) ---
+Content: (l) Performance and Compliance with Receivables. At its expense, timely and f...
+
+--- (Additional Root Structure) ---
+Content: (m) Collections Received. Hold in trust, and immediately (but in any event no...
+
+--- (Additional Root Structure) ---
+Content: (j) Tax Matters. The Issuer will not take any action that could cause, and wi...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (k) Accounts. The Issuer shall not maintain any bank accounts other than the ...
+
+--- (Additional Root Structure) ---
+Content: (l) No Claims Against Note. Subject to Applicable Law, it shall not claim any...
+
+--- (Additional Root Structure) ---
+Content: (m) Receivables.
+
+--- (Additional Root Structure) ---
+Content: (i) The Issuer shall not extend, amend, waive or otherwise modify (or permit ...
+
+--- (Additional Root Structure) ---
+Content: (ii) The Issuer shall not terminate or cancel (or permit the Servicer to term...
+
+--- (Additional Root Structure) ---
+Content: (iii) The Issuer shall not account for or treat (whether in the Issuer'sIssue...
+
+--- (Additional Root Structure) ---
+Section 8.4: Section 8.4. Further Instruments and Acts. The Issuer will execute and delive...
+
+--- (Additional Root Structure) ---
+Content: In determining such sufficiency or insufficiency with respect to clauses (d)(...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Independent investment banking or accounting firm of national reputation as t...
+
+--- (Additional Root Structure) ---
+Section 10.5: Section 10.5. [Reserved].
+
+--- (Additional Root Structure) ---
+Section 10.6: Section 10.6. Waiver of Past Events. If an Event of Default shall have occurr...
+
+--- (Additional Root Structure) ---
+Content: Upon any such waiver, such Default shall cease to exist and be deemed to have...
+
+--- (Additional Root Structure) ---
+Section 10.7: Section 10.7. Limitation on Suits. No Noteholder have any right to institute ...
+
+--- (Additional Root Structure) ---
+Content: (i) such Noteholder or Certificateholder previously has given written notice ...
+
+--- (Additional Root Structure) ---
+Content: (ii) the Holders of not less than 25% of the outstanding principal amount of ...
+
+--- (Additional Root Structure) ---
+Content: (iii) such Noteholder has offered and provided to the Indenture Trustee indem...
+
+--- (Additional Root Structure) ---
+Content: (iv) the Indenture Trustee for sixty (60) days after its receipt of such noti...
+
+--- (Additional Root Structure) ---
+Content: (v) no direction inconsistent with such written request has been given to the...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: The Indenture Trustee may maintain a Proceeding even if it does not possess a...
+
+--- (Additional Root Structure) ---
+Content: In the event the Indenture Trustee shall receive conflicting or inconsistent ...
+
+--- (Additional Root Structure) ---
+Section 10.8: Section 10.8. Unconditional Rights of Holders to Receive Payment; Withholding...
+
+--- (Additional Root Structure) ---
+Content: (a) Notwithstanding any other provision of this Indenture except as provided ...
+
+--- (Additional Root Structure) ---
+Content: (b) Promptly upon request, each Noteholder shall provide to the Indenture Tru...
+
+--- (Additional Root Structure) ---
+Content: (c) The Paying Agent shall (or if the Indenture Trustee is not the Paying Age...
+
+--- (Additional Root Structure) ---
+Section 10.9: Section 10.9. Restoration of Rights and Remedies. If any Noteholder has insti...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 10.10: Section 10.10. [Reserved].
+
+--- (Additional Root Structure) ---
+Section 10.11: Section 10.11. Priorities. Following the declaration of an Event of Default o...
+
+--- (Additional Root Structure) ---
+Content: The Indenture Trustee may fix a record date and payment date for any payment ...
+
+--- (Additional Root Structure) ---
+Section 10.12: Section 10.12. Undertaking for Costs. All parties to this Indenture agree, an...
+
+--- (Additional Root Structure) ---
+Section 10.13: Section 10.13. Rights and Remedies Cumulative. No right or remedy herein conf...
+
+--- (Additional Root Structure) ---
+Section 10.14: Section 10.14. Delay or Omission Not Waiver. No delay or omission of the Inde...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Section 10.15: Section 10.15. Control by Noteholders. The Required Noteholders shall have th...
+
+--- (Additional Root Structure) ---
+Content: (i) such direction shall not be in conflict with any Law or with this Indenture;
+
+--- (Additional Root Structure) ---
+Content: (ii) subject to the express terms of Section 10.4, any direction to the Inden...
+
+--- (Additional Root Structure) ---
+Content: (iii) the Indenture Trustee shall have been provided with indemnity satisfact...
+
+--- (Additional Root Structure) ---
+Content: (iv) the Indenture Trustee may take any other action deemed proper by the Ind...
+
+--- (Additional Root Structure) ---
+Content: provided, however, that, subject to Section 11.1, the Indenture Trustee need ...
+
+--- (Additional Root Structure) ---
+Section 10.16: Section 10.16. Waiver of Stay or Extension Laws. The Issuer covenants (to the...
+
+--- (Additional Root Structure) ---
+Section 10.17: Section 10.17. Action on Notes. The Indenture Trustee’s right to seek and rec...
+
+--- (Additional Root Structure) ---
+Content: competent jurisdiction, no longer subject to appeal or review that the Indent...
+
+--- (Additional Root Structure) ---
+Content: (iii) the Indenture Trustee shall not be liable with respect to any action it...
+
+--- (Additional Root Structure) ---
+Content: (iv) the Indenture Trustee shall not be charged with knowledge of any failure...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (d) Notwithstanding anything to the contrary contained in this Indenture or a...
+
+--- (Additional Root Structure) ---
+Content: (e) Every provision of this Indenture relating to the conduct or affecting th...
+
+--- (Additional Root Structure) ---
+Content: (f) The Indenture Trustee shall, and hereby agrees that it will, perform all ...
+
+--- (Additional Root Structure) ---
+Content: (g) Without limiting the generality of this Section 11.1 and subject to the o...
+
+--- (Additional Root Structure) ---
+Content: (f) The Indenture Trustee shall not be bound to make any investigation into t...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: agent or attorney at the sole cost of the Issuer and shall incur no liability...
+
+--- (Additional Root Structure) ---
+Content: (g) The Indenture Trustee shall have no liability for the selection of Permit...
+
+--- (Additional Root Structure) ---
+Content: (h) The Indenture Trustee shall not be liable for the acts or omissions of an...
+
+--- (Additional Root Structure) ---
+Content: (i) The rights, privileges, protections, immunities and benefits given to the...
+
+--- (Additional Root Structure) ---
+Content: (u) The Indenture Trustee shall not be required to take any action under this...
+
+--- (Additional Root Structure) ---
+Content: (v) Notwithstanding anything contained in this Indenture or any other Transac...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (w) The Indenture Trustee shall neither be responsible for, nor chargeable wi...
+
+--- (Additional Root Structure) ---
+Content: (x) The Indenture Trustee shall have no obligation or duty to determine or ot...
+
+--- (Additional Root Structure) ---
+Section 11.3: Section 11.3. Indenture Trustee Not Liable for Recitals in Notes. The Indentu...
+
+--- (Additional Root Structure) ---
+Section 11.4: Section 11.4. Individual Rights of the Indenture Trustee; Multiple Capacities...
+
+--- (Additional Root Structure) ---
+Content: (v) without any investigation, the undersigned Responsible Officer of the Ind...
+
+--- (Additional Root Structure) ---
+Content: (vi) the Indenture Trustee meets the requirements of eligibility hereunder se...
+
+--- (Additional Root Structure) ---
+Section 11.17: Section 11.17. The Issuer Indemnification of the Indenture Trustee. The Issue...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: is a party or any transaction contemplated hereby or thereby, including but n...
+
+--- (Additional Root Structure) ---
+Section 11.18: Section 11.18. Indenture Trustee’s Application for Instructions from the Issu...
+
+--- (Additional Root Structure) ---
+Content: (b) Notwithstanding the termination or discharge of the trust of the Indentur...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (c) All Notes surrendered for payment of the final distribution with respect ...
+
+--- (Additional Root Structure) ---
+Section 12.6: Section 12.6. Termination Rights of Issuer. Upon the termination of the Lien ...
+
+--- (Additional Root Structure) ---
+Section 12.7: Section 12.7. Repayment to the Issuer. The Indenture Trustee and the Paying A...
+
+--- (Additional Root Structure) ---
+Content: provisions of this Indenture as shall be necessary and permitted to provide f...
+
+--- (Additional Root Structure) ---
+Content: (h) to modify, eliminate or add to the provisions of this Indenture to such e...
+
+--- (Additional Root Structure) ---
+Content: Upon the request of the Issuer, the Indenture Trustee shall join with the Iss...
+
+--- (Additional Root Structure) ---
+Section 13.2: Section 13.2. Supplemental Indentures with Consent of Noteholders. The Issuer...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: any manner the rights of the Holders of the Notes under this Indenture; provi...
+
+--- (Additional Root Structure) ---
+Content: (i) change the date of payment of any installment of principal of or interest...
+
+--- (Additional Root Structure) ---
+Content: (ii) change the Noteholder voting requirements with respect to any Transactio...
+
+--- (Additional Root Structure) ---
+Content: (iii) impair the right to institute suit for the enforcement of the provision...
+
+--- (Additional Root Structure) ---
+Heading (L1): 111
+
+--- (Additional Root Structure) ---
+Content: (iv) reduce the percentage of the aggregate outstanding principal amount of t...
+
+--- (Additional Root Structure) ---
+Content: (v) modify or alter the provisions of this Indenture regarding the voting of ...
+
+--- (Additional Root Structure) ---
+Content: (vi) reduce the percentage of the aggregate outstanding principal amount of t...
+
+--- (Additional Root Structure) ---
+Content: (vii) modify any provision of this Section 13.2, except to increase any perce...
+
+--- (Additional Root Structure) ---
+Content: (viii) modify any of the provisions of this Indenture in such manner as to af...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: (ix) permit the creation of any Lien ranking prior to or on a parity with the...
+
+--- (Additional Root Structure) ---
+Content: provided, further, that no amendment will be permitted if it would cause any ...
+
+--- (Additional Root Structure) ---
+Content: The Indenture Trustee may, but shall not be obligated to, enter into any such...
+
+--- (Additional Root Structure) ---
+Content: It shall not be necessary for any consent of Noteholders under this Section t...
+
+--- (Additional Root Structure) ---
+Section 9: 9. With respect to each of the Trust Accounts or subaccounts thereof that con...
+
+--- (Additional Root Structure) ---
+Content: (i) The Issuer has delivered to the Indenture Trustee a fully executed agreem...
+
+--- (Additional Root Structure) ---
+Content: (ii) The Issuer has taken all steps necessary to cause the securities interme...
+
+--- (Additional Root Structure) ---
+Heading (L1): Priority
+
+--- (Additional Root Structure) ---
+Section 10: 10. The Issuer has not authorized the filing of, or is aware of any financing...
+
+--- (Additional Root Structure) ---
+Section 11: 11. The Issuer is not aware of any judgment, ERISA or tax lien filings agains...
+
+--- (Additional Root Structure) ---
+Section 12: 12. None of the Trust Accounts nor any subaccount thereof are in the name of ...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Content: Account that constitutes a securities account to comply with entitlement orde...
+
+--- (Additional Root Structure) ---
+Section 15: 15. Survival of Perfection Representations. Notwithstanding any other provisi...
+
+--- (Additional Root Structure) ---
+Section 16: 16. Issuer to Maintain Perfection and Priority. The Issuer covenants that, in...
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE II
+
+--- (Additional Root Structure) ---
+Heading (L1): Conformed Copy of Indenture
+
+--- (Additional Root Structure) ---
+Heading (L1): ( See attached )
+
+--- (Additional Root Structure) ---
+Content: LEGAL_US_E # 170681720.5
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.18-7
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Execution Version

@@ -1,0 +1,45 @@
+Visual Semantic Tree for agreement_082.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 22
+Hierarchical Elements: 2
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS Page ARTICLE I USAGE AND DEFINITIONS 1 Section 1.1. Usage a...
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS (continued) Page Section 6.2. No Petition 15 Section 6.3. L...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.5 FORM OF ASSET REPRESENTATIONS REVIEW AGREEMENT among PORSCHE FIN...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ASSET REPRESENTATIONS REVIEW AGREEMENT, dated as of , 20[ ] (this “Agreement”...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): provided herein, references to any law or regulation refer to that law or reg...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Section 2.2. Confirmation of Scope. The parties confirm that the Asset Repres...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Section 3.4. Performance of Reviews. (a) Test Procedures. For an Asset Review...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): the Asset Review to be included in the Issuer’s Form 10-D report for the Coll...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ARTICLE IV ASSET REPRESENTATIONS REVIEWER Section 4.1. Representations and Wa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b) Review Systems; Personnel. It will maintain business process management a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d) Payment of Fees and Indemnities. The Asset Representations Reviewer shall...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b) Proceedings. Promptly on receipt by an Indemnified Person of notice of a ...

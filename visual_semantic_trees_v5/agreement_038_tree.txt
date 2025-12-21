@@ -1,0 +1,514 @@
+Visual Semantic Tree for agreement_038.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: A
+Orphan Rate: 4.9%
+Total Elements: 169
+Hierarchical Elements: 163
+================================================================================
+
+AGREEMENT: SUBSCRIPTION AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: Form of Non-Redemption Subscription Agreement
+
+--- (Additional Root Structure) ---
+Content: ARYA Sciences Acquisition Corp IV 51 Astor Place, 10th Floor New York, New Yo...
+
+--- (Additional Root Structure) ---
+Content: Ladies and Gentlemen:
+
+--- (Additional Root Structure) ---
+Content: This Subscription Agreement (this “Subscription Agreement”) is being entered ...
+
+--- (Additional Root Structure) ---
+Content: In connection with the Transaction, ListCo is seeking commitments from intere...
+
+--- (Additional Root Structure) ---
+Content: In connection therewith, and in consideration of the foregoing and the mutual...
+
+--- (Additional Root Structure) ---
+Content: 1. Subscription. The Investor hereby irrevocably subscribes for and agrees to...
+
+--- (Additional Root Structure) ---
+Content: 2. Closing. The closing of the sale, purchase and issuance of the PIPE Securi...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 3. Closing Conditions.
+
+--- (Additional Root Structure) ---
+Content: a. The obligation of the parties hereto to consummate the sale, purchase and ...
+
+--- (Additional Root Structure) ---
+Content: (i) no applicable governmental authority shall have enacted, issued, promulga...
+
+--- (Additional Root Structure) ---
+Content: (ii) (A) all conditions precedent to the closing of the Transaction set forth...
+
+--- (Additional Root Structure) ---
+Content: b. The obligation of ListCo to consummate the sale and issuance of the PIPE S...
+
+--- (Additional Root Structure) ---
+Content: c. The obligation of the Investor to consummate the purchase of the PIPE Secu...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 4. Further Assurances. At or prior to the Closing, the parties hereto shall e...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5. ListCo Representations and Warranties. ListCo represents and warrants to t...
+
+--- (Additional Root Structure) ---
+Content: a. ListCo is duly incorporated and validly existing as a corporation in good ...
+
+--- (Additional Root Structure) ---
+Content: b. As of the Closing Date, the Shares, the Warrants and any Warrant Shares, w...
+
+--- (Additional Root Structure) ---
+Content: c. This Subscription Agreement has been duly authorized, validly executed and...
+
+--- (Additional Root Structure) ---
+Content: d. The sale and issuance of the PIPE Securities and the compliance by ListCo ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: e. As of the date of this Subscription Agreement, the authorized share capita...
+
+--- (Additional Root Structure) ---
+Content: f. Assuming the accuracy of the representations and warranties of the Investo...
+
+--- (Additional Root Structure) ---
+Content: g. As of the date hereof, there is no suit, action, proceeding or investigati...
+
+--- (Additional Root Structure) ---
+Content: h. Assuming the accuracy of the Investor’s representations and warranties set...
+
+--- (Additional Root Structure) ---
+Content: i. Except for such matters as have not had and would not be reasonably likely...
+
+--- (Additional Root Structure) ---
+Content: j. ListCo has not engaged any broker, finder, commission agent, placement age...
+
+--- (Additional Root Structure) ---
+Content: k. ListCo acknowledges and agrees that, notwithstanding anything herein to th...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: l. Other than the Other Subscription Agreements, the Transaction Agreement an...
+
+--- (Additional Root Structure) ---
+Heading (L1): 6. ARYA Representations and Warranties. ARYA represents and warrants to the I...
+
+--- (Additional Root Structure) ---
+Content: a. ARYA has been duly incorporated and is validly existing as an exempted com...
+
+--- (Additional Root Structure) ---
+Content: b. This Subscription Agreement has been duly authorized, validly executed and...
+
+--- (Additional Root Structure) ---
+Content: c. As of the date hereof, the authorized share capital of ARYA consists of (i...
+
+--- (Additional Root Structure) ---
+Content: d. A copy of each form, report, statement, schedule, proxy and other document...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: e. The sale and issuance of the PIPE Securities and the compliance by ARYA wi...
+
+--- (Additional Root Structure) ---
+Content: f. Assuming the accuracy of the representations and warranties of the Investo...
+
+--- (Additional Root Structure) ---
+Content: g. Other than the Placement Agent, ARYA has not engaged any broker, finder, c...
+
+--- (Additional Root Structure) ---
+Content: h. Other than the Other Subscription Agreements, the Transaction Agreement an...
+
+--- (Additional Root Structure) ---
+Content: i. The issued and outstanding Class A Ordinary Shares are registered pursuant...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): 7. Investor Representations and Warranties. The Investor represents and warra...
+
+--- (Additional Root Structure) ---
+Content: a. The Investor, or each of the funds managed by or affiliated with the Inves...
+
+--- (Additional Root Structure) ---
+Content: b. The Investor acknowledges and agrees that the PIPE Securities and Warrant ...
+
+--- (Additional Root Structure) ---
+Content: c. The Investor acknowledges and agrees that the Investor is purchasing the P...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: d. The Investor’s acquisition and holding of the PIPE Securities will not con...
+
+--- (Additional Root Structure) ---
+Content: e. The Investor acknowledges and agrees that the Investor has received such i...
+
+--- (Additional Root Structure) ---
+Content: f. The Investor became aware of this offering of the PIPE Securities solely b...
+
+--- (Additional Root Structure) ---
+Content: g. The Investor acknowledges that it is aware that there are substantial risk...
+
+--- (Additional Root Structure) ---
+Content: h. Alone, or together with any professional advisor(s), the Investor has adeq...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: i. In making its decision to purchase the PIPE Securities, the Investor has r...
+
+--- (Additional Root Structure) ---
+Content: j. The Investor acknowledges and agrees that no federal or state agency has p...
+
+--- (Additional Root Structure) ---
+Content: k. The Investor, if not an individual, has been duly formed or incorporated a...
+
+--- (Additional Root Structure) ---
+Content: l. The execution, delivery and performance by the Investor of this Subscripti...
+
+--- (Additional Root Structure) ---
+Content: m. The Investor is not (i) a person or entity named on the List of Specially ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 9
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: n. The Investor acknowledges that no disclosure or offering document has been...
+
+--- (Additional Root Structure) ---
+Content: o. The Investor acknowledges that neither the Placement Agent, nor any of its...
+
+--- (Additional Root Structure) ---
+Content: p. The Investor has or has commitments to have and, when required to deliver ...
+
+--- (Additional Root Structure) ---
+Content: q. The Investor does not have, as of the date hereof, and during the thirty (...
+
+--- (Additional Root Structure) ---
+Content: r. The Investor is not currently (and at all times through Closing will refra...
+
+--- (Additional Root Structure) ---
+Content: s. The Investor acknowledges and agrees that the Placement Agent (a) is actin...
+
+--- (Additional Root Structure) ---
+Content: t. The Investor acknowledges and is aware that the Placement Agent is acting ...
+
+--- (Additional Root Structure) ---
+Content: u. The Investor acknowledges and agrees that no Placement Agent shall have an...
+
+--- (Additional Root Structure) ---
+Content: v. The Investor acknowledges and agrees that no Placement Agent shall have an...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 10
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 8: 8. Registration Rights.
+
+--- (Additional Root Structure) ---
+Content: a. In the event that the Shares and the Warrant Shares (such securities, the ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 11
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: b. ListCo shall advise the Investor within two (2) business days (at ListCo’s...
+
+--- (Additional Root Structure) ---
+Article C: c. Indemnification.
+
+--- (Additional Root Structure) ---
+Content: (i) ListCo agrees to indemnify and hold harmless, to the extent permitted by ...
+
+--- (Additional Root Structure) ---
+Content: (ii) The Investor agrees, severally and not jointly with any other person tha...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 12
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (iii) Any person entitled to indemnification herein shall (1) give prompt wri...
+
+--- (Additional Root Structure) ---
+Content: (iv) The indemnification provided for under this Subscription Agreement shall...
+
+--- (Additional Root Structure) ---
+Content: (v) If the indemnification provided under this Section 8.c) from the indemnif...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 13
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 9. Termination. This Subscription Agreement shall terminate and be void and o...
+
+--- (Additional Root Structure) ---
+Content: 10. Trust Account Waiver. The Investor acknowledges that ARYA is a blank chec...
+
+--- (Additional Root Structure) ---
+Section 11: 11. Miscellaneous.
+
+--- (Additional Root Structure) ---
+Content: a. Neither this Subscription Agreement nor any rights that may accrue to the ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 14
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: b. ListCo may request from the Investor such additional information as ListCo...
+
+--- (Additional Root Structure) ---
+Content: c. The Investor acknowledges that ListCo, ARYA, the Company, the Placement Ag...
+
+--- (Additional Root Structure) ---
+Content: d. The Investor agrees that, from the date hereof until the Closing or the ea...
+
+--- (Additional Root Structure) ---
+Content: e. ListCo, ARYA and the Placement Agent are each entitled to rely upon this S...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 15
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: f. All of the agreements, representations and warranties made by each party h...
+
+--- (Additional Root Structure) ---
+Content: g. This Subscription Agreement may not be terminated other than pursuant to t...
+
+--- (Additional Root Structure) ---
+Content: h. This Subscription Agreement (including, without limitation, the schedule h...
+
+--- (Additional Root Structure) ---
+Content: i. Except as otherwise provided herein, this Subscription Agreement shall be ...
+
+--- (Additional Root Structure) ---
+Content: j. If any provision of this Subscription Agreement shall be adjudicated by a ...
+
+--- (Additional Root Structure) ---
+Content: k. This Subscription Agreement may be executed and delivered in one or more c...
+
+--- (Additional Root Structure) ---
+Content: l. The parties hereto acknowledge and agree that irreparable damage would occ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 16
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: m. Any notice or communication required or permitted hereunder to be given to...
+
+--- (Additional Root Structure) ---
+Content: (i) if to the Investor, to such address or addresses set forth on the signatu...
+
+--- (Additional Root Structure) ---
+Content: n. THIS SUBSCRIPTION AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDAN...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 17
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER...
+
+--- (Additional Root Structure) ---
+Content: o. The Investor hereby acknowledges that the Placement Agent and/or its respe...
+
+--- (Additional Root Structure) ---
+Content: 12. Non-Reliance and Exculpation. The Investor acknowledges that it is not re...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 18
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 14. Disclosure. ARYA shall on the first (1st) business day following the date...
+
+--- (Additional Root Structure) ---
+Content: 15. Several Obligations. The obligations of the Investor and each Other Inves...
+
+--- (Additional Root Structure) ---
+Content: 16. Non-Redemption Agreement. As of the date of this Subscription Agreement, ...
+
+--- (Additional Root Structure) ---
+Content: [SIGNATURE PAGES FOLLOW]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 19
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 1 For the avoidance of doubt, the number of Shares subscribed for by the Inve...
+
+--- (Additional Root Structure) ---
+Content: 2 For the avoidance of doubt, the number of Warrants subscribed for by the In...
+
+--- (Additional Root Structure) ---
+Content: AJA HOLDCO, INC. By: Name: Adam Stone Title: Chief Executive Officer ARYA SCI...
+
+--- (Additional Root Structure) ---
+Clause (A): A. QUALIFIED INSTITUTIONAL BUYER STATUS
+
+--- (Additional Root Structure) ---
+Content: (Please check the applicable subparagraphs):
+
+--- (Additional Root Structure) ---
+Content: B. INSTITUTIONAL ACCREDITED INVESTOR STATUS
+
+--- (Additional Root Structure) ---
+Content: (Please check the applicable subparagraphs):
+
+--- (Additional Root Structure) ---
+Content: 1. ☐ We are an “accredited investor” (within the meaning of Rule 501(a) under...
+
+--- (Additional Root Structure) ---
+Article C: C. AFFILIATE STATUS
+
+--- (Additional Root Structure) ---
+Content: ☐ is:
+
+--- (Additional Root Structure) ---
+Content: ☐ is not:
+
+--- (Additional Root Structure) ---
+Content: c. Exercise of Warrants.
+
+--- (Additional Root Structure) ---
+Content: (A) = as applicable: (i) the VWAP on the Trading Day immediately preceding th...
+
+--- (Additional Root Structure) ---
+Content: (B) = the Exercise Price of this Warrant, as adjusted hereunder; and
+
+--- (Additional Root Structure) ---
+Content: (X) = the number of Warrant Shares that would be issuable upon exercise of th...
+
+--- (Additional Root Structure) ---
+Content: 3. Adjustments.
+
+--- (Additional Root Structure) ---
+Content: a. Stock Dividends.
+
+--- (Additional Root Structure) ---
+Content: 4. Other Provisions Relating to Rights of Holders of Warrants.
+
+--- (Additional Root Structure) ---
+Content: 5. Miscellaneous Provisions.
+
+--- (Additional Root Structure) ---
+Content: AJA HOLDCO, INC. By: Name: Title:
+
+--- (Additional Root Structure) ---
+Content: ☐ check in the amount of $ [___] payable to order of the Company enclosed her...
+
+--- (Additional Root Structure) ---
+Content: ☐ Wire transfer of immediately available funds to the Company’s account
+
+--- (Additional Root Structure) ---
+Content: ☐ Other [Describe]
+
+--- (Additional Root Structure) ---
+Content: Holder’s Name (Address) HOLDER: By: Name: Title: (Date):
+
+--- (Additional Root Structure) ---
+Content: (a) the offer and sale of the Warrant contemplated hereby is being made in co...
+
+--- (Additional Root Structure) ---
+Content: (b) the undersigned has not offered to sell the Warrant by any form of genera...
+
+--- (Additional Root Structure) ---
+Content: (c) the undersigned has read the Transferee’s investment letter included here...
+
+--- (Additional Root Structure) ---
+Content: (d) the undersigned understands that the Company may condition the transfer o...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: Rule-Page
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Rule-Page
+
+--- (Additional Root Structure) ---
+TableElement: Name of Investor: State/Country of Formation or Domicile: By: Name: Title:
+
+--- (Additional Root Structure) ---
+TableElement: Name in which PIPE Securities are to be registered (if different): Date: ____...
+
+--- (Additional Root Structure) ---
+TableElement: Company: Aja Holdco, Inc., a Delaware corporation Number of Shares: [●] Class...
+
+--- (Additional Root Structure) ---
+TableElement: Dated: (Signature must conform in all respects to name of holder as specified...

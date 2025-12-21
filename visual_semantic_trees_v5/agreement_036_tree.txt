@@ -1,0 +1,202 @@
+Visual Semantic Tree for agreement_036.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 4.6%
+Total Elements: 65
+Hierarchical Elements: 65
+================================================================================
+
+AGREEMENT: RESTRICTED STOCK RIGHTS ISSUED UNDER
+
+--- (Additional Root Structure) ---
+Heading (L1): Amended and Restated
+
+--- (Additional Root Structure) ---
+Heading (L1): RYDER SYSTEM, INC. 2019 EQUITY AND INCENTIVE COMPENSATION PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): 20XX TERMS AND CONDITIONS
+
+--- (Additional Root Structure) ---
+Content: The following terms and conditions apply to the Restricted Stock Rights (the ...
+
+--- (Additional Root Structure) ---
+Content: 1.General. Each RSR represents the right to receive one Share on a future dat...
+
+--- (Additional Root Structure) ---
+Content: The terms and conditions contained herein may be amended by the Committee as ...
+
+--- (Additional Root Structure) ---
+Content: 2.Delivery of Shares. Subject to Sections 3 and 4 below, the RSRs will vest p...
+
+--- (Additional Root Structure) ---
+Content: Upon vesting, the Shares subject to the vested RSRs will be transferred to an...
+
+--- (Additional Root Structure) ---
+Content: 3.Termination of RSRs; Forfeiture. The RSRs will be cancelled upon or followi...
+
+--- (Additional Root Structure) ---
+Content: (a)Resignation by the Participant or Termination by the Company or a Subsidia...
+
+--- (Additional Root Structure) ---
+Content: 1
+
+--- (Additional Root Structure) ---
+Content: (b)Termination by Reason of Death or Disability: If the Participant’s employm...
+
+--- (Additional Root Structure) ---
+Content: (c)Termination by Reason of Retirement:
+
+--- (Additional Root Structure) ---
+Content: (i)If the Participant’s employment terminates on account of a Qualified Retir...
+
+--- (Additional Root Structure) ---
+Content: (ii)If the Participant’s employment terminates on account of Retirement which...
+
+--- (Additional Root Structure) ---
+Content: (d)Proscribed Activity: If, during the Proscribed Period but prior to a Chang...
+
+--- (Additional Root Structure) ---
+Content: 4.Change of Control. In the event of a Change of Control, the RSRs shall beco...
+
+--- (Additional Root Structure) ---
+Content: (a)Form of Payment: The Committee may determine that the outstanding RSRs wil...
+
+--- (Additional Root Structure) ---
+Content: (b)Continued Employment: If the Participant continues in employment with the ...
+
+--- (Additional Root Structure) ---
+Content: (c)Termination by Reason of Death or Disability: If the Participant’s employm...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: (d)Termination without Cause, for Good Reason or on Account of Retirement fol...
+
+--- (Additional Root Structure) ---
+Content: (e)Termination without Cause Prior to a Change of Control: To the extent (i) ...
+
+--- (Additional Root Structure) ---
+Content: (f)Termination on Account of Retirement Prior to a Change of Control: To the ...
+
+--- (Additional Root Structure) ---
+Content: 5.Rights as a Shareholder; Dividend Equivalent Rights. The Participant will n...
+
+--- (Additional Root Structure) ---
+Content: 6.U.S. Federal, State and Local Income Taxes. The Participant is solely respo...
+
+--- (Additional Root Structure) ---
+Content: 7.Section 409A. The RSRs are intended to comply with Section 409A of the Code...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: the Participant must have incurred a “disability” within the meaning of Secti...
+
+--- (Additional Root Structure) ---
+Content: 8.Statute of Limitations and Conflicts of Laws. All rights of action by, or o...
+
+--- (Additional Root Structure) ---
+Content: 9.No Employment Right. Neither the grant of the RSRs nor any action taken her...
+
+--- (Additional Root Structure) ---
+Content: 10.No Assignment. A Participant’s rights and interest under the RSRs may not ...
+
+--- (Additional Root Structure) ---
+Content: 11.Unfunded Plan. Any shares or other amounts owed under the RSRs shall be un...
+
+--- (Additional Root Structure) ---
+Content: 12.Company Policies. The RSRs and any cash or Shares delivered pursuant to th...
+
+--- (Additional Root Structure) ---
+Content: 13.Definitions.
+
+--- (Additional Root Structure) ---
+Content: (a)“Proscribed Activity” means any of the following to the extent permitted b...
+
+--- (Additional Root Structure) ---
+Content: (i)the Participant’s breach of any written agreement between the Participant ...
+
+--- (Additional Root Structure) ---
+Content: (ii)the Participant’s direct or indirect unauthorized use or disclosure of co...
+
+--- (Additional Root Structure) ---
+Content: (iii)the Participant’s direct or indirect engaging or becoming a partner, dir...
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: (iv)the Participant’s direct or indirect, either on the Participant’s own acc...
+
+--- (Additional Root Structure) ---
+Content: (v)the Participant’s direct or indirect taking away, interfering with relatio...
+
+--- (Additional Root Structure) ---
+Content: (vi)following the Participant’s termination of employment, the Participant’s ...
+
+--- (Additional Root Structure) ---
+Content: (vii)the Participant’s failure to cooperate with the Company or any Subsidiar...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, nothing in these terms and conditions restrict...
+
+--- (Additional Root Structure) ---
+Content: The Participant acknowledges and agrees that the consideration provided in th...
+
+--- (Additional Root Structure) ---
+Content: The Participant is hereby advised to consult with an attorney regarding the r...
+
+--- (Additional Root Structure) ---
+Content: If the Participant resides in California, subsection (iii) above shall not ap...
+
+--- (Additional Root Structure) ---
+Content: If the Participant provides services in Colorado, Illinois, Maine, or Oregon,...
+
+--- (Additional Root Structure) ---
+Content: If the Participant provides services in the District of Columbia, the Partici...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Amendment Act of 2020 limits the use of non-compete agreements. It allows emp...
+
+--- (Additional Root Structure) ---
+Content: If the Participant provides services in Massachusetts, the Participant shall ...
+
+--- (Additional Root Structure) ---
+Content: If the Participant provides services in Minnesota, subsection (iii) above sha...
+
+--- (Additional Root Structure) ---
+Content: If the Participant provides services in Nevada, subsection (v) above will not...
+
+--- (Additional Root Structure) ---
+Content: If the Participant provides services in North Dakota, subsection (iii) and su...
+
+--- (Additional Root Structure) ---
+Content: If the Participant provides services in Oklahoma, subsection (iii) above shal...
+
+--- (Additional Root Structure) ---
+Content: (b)“Proscribed Period” means the period beginning on the date of termination ...
+
+--- (Additional Root Structure) ---
+Content: (c)“Qualified Retirement” means termination of employment on account of the P...
+
+--- (Additional Root Structure) ---
+Content: (d)“Retirement” means termination of employment for any reason (other than fo...
+
+--- (Additional Root Structure) ---
+Content: 14.Other Benefits. No amount accrued or paid under the RSRs shall be deemed c...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: 15.Defend Trade Secrets Act Notice. Participants are hereby notified that the...
+
+--- (Additional Root Structure) ---
+Content: 7

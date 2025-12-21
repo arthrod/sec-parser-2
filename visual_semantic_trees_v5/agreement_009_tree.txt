@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_009.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 15
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1 RETIREMENT, TRANSITION AND RELEASE AGREEMENT This Retirement, Tr...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.2 Company Commitment Prior to the Retirement Date. Subject to the terms and...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d) Continuation of Coverage Under the Company’s Medical Plan. Provided that ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (including without limitation customer lists, requirements, creditworthiness,...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (iii) Solicit or transact business with any Customer, vendor, contractor or s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.4 Cooperation. Until the Retirement Date, Executive agrees to comply with a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): and unconditionally releases and forever discharges the Company and all of it...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d) Executive affirms, covenants, and warrants that he is not a Medicare bene...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.3 Knowing and Voluntary Agreement. Executive hereby acknowledges and agrees...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.3 Injunctive Relief; Survival. In the event of a breach by Executive of any...

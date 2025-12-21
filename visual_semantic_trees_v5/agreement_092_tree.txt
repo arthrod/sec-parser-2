@@ -1,0 +1,48 @@
+Visual Semantic Tree for agreement_092.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 51
+Hierarchical Elements: 3
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS Page ARTICLE I DEFINITIONS AND USAGE 1 SECTION 1.1 Definiti...
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS (continued) Page ARTICLE VI THE SERVICER 27 SECTION 6.1 Rep...
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS (continued) Page SECTION 9.21 Information to Be Provided by...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.2 SALE AND SERVICING AGREEMENT by and between BRIDGECREST LENDING ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THIS SALE AND SERVICING AGREEMENT, dated as of January 24, 2024 (as amended, ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): within any Section or definition refer to such paragraph, subsection, clause ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): security interest created with respect to the Financed Vehicle; provided, how...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (e) Instructions; Authority to Act. All instructions from the Indenture Trust...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): the Transaction Documents to make any disbursements via wire transfer or othe...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c) The Servicer hereby agrees that upon its resignation and the appointment ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (c) Notwithstanding anything in this Agreement to the contrary, the Servicer ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): or appropriate on behalf of the Issuer and the Grantor Trust to evidence the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ability of the Grantor Trust to receive and retain timely payment in full on ...

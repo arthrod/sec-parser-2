@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_055.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 17
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.81EXECUTION VERSIONAmericasActive:18505088.12[Information indicate...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​materially and adversely affected by such amendment, by Act of said Notehold...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​Agreement, dated as of July 30, 2021, by and among the Atlas Administrative ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​NOW, THEREFORE, in consideration of the amendments, agreements and other pro...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​Advance Verification Report, whether conditions precedent to funding have be...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​provisions of Section 12.3 of the Base Indenture which requires delivery of ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​Society, FSB (“WSFS”), not individually or personally but solely in its capa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​Section 14.Entire Agreement. The Indenture, as amended by this Joinder and A...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​IN WITNESS WHEREOF, the undersigned have caused this Joinder and Amendment t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​PENNYMAC LOAN SERVICES, LLC, as Servicer and as AdministratorBy: /s/ Pamela ...

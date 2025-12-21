@@ -1,0 +1,34 @@
+Visual Semantic Tree for agreement_001.html
+Generated using AgreementParserv9Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 88.9%
+Total Elements: 9
+Hierarchical Elements: 9
+================================================================================
+
+AGREEMENT: AMENDMENT TO EMPLOYMENT AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): 6.Section 7(b) of the Employment Agreement is amended by deleting the words b...
+
+--- (Additional Root Structure) ---
+Heading (L1): Nothing contained in this Agreement, any other agreement with the Company, or...
+
+--- (Additional Root Structure) ---
+Heading (L1): commission (a “Government Agency”), including without limitation, the Equal E...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties have executed this Amendment effective on the...
+
+--- (Additional Root Structure) ---
+Heading (L1): Myomo, Inc.
+
+--- (Additional Root Structure) ---
+Heading (L1): By: /s/ Paul R. Gudonis__ Paul R. Gudonis
+
+--- (Additional Root Structure) ---
+Heading (L1): Its: CEO ____________ Executive
+
+--- (Additional Root Structure) ---
+Heading (L1): /s/ David Henry___________ David Henry

@@ -1,0 +1,85 @@
+Visual Semantic Tree for agreement_091.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 40.0%
+Total Elements: 26
+Hierarchical Elements: 25
+================================================================================
+
+AGREEMENT: Forte Biosciences, Inc.
+
+--- (Additional Root Structure) ---
+Heading (L1): Amended and Restated Non-Employee Director Compensation Policy
+
+--- (Additional Root Structure) ---
+Heading (L1): (March 14, 2024)
+
+--- (Additional Root Structure) ---
+Content: Each member of the Board of Directors (the “Board”) who is not also serving a...
+
+--- (Additional Root Structure) ---
+Content: Annual Cash Compensation
+
+--- (Additional Root Structure) ---
+Content: The annual cash compensation amount set forth below is payable in equal quart...
+
+--- (Additional Root Structure) ---
+Section 1: 1. Annual Board Service Retainer:
+
+--- (Additional Root Structure) ---
+Content: a. All Eligible Directors: $42,500
+
+--- (Additional Root Structure) ---
+Content: b. Chairman of the Board Service Retainer (in addition to Eligible Director S...
+
+--- (Additional Root Structure) ---
+Article C: c. Lead Independent Director Service Retainer (in addition to Eligible Direct...
+
+--- (Additional Root Structure) ---
+Section 2: 2. Annual Committee Member Service Retainer:
+
+--- (Additional Root Structure) ---
+Content: a. Member of the Audit Committee: $8,000
+
+--- (Additional Root Structure) ---
+Content: b. Member of the Compensation Committee: $6,000
+
+--- (Additional Root Structure) ---
+Article C: c. Member of the Nominating & Governance Committee: $5,000
+
+--- (Additional Root Structure) ---
+Section 3: 3. Annual Committee Chair Service Retainer (in addition to Committee Member S...
+
+--- (Additional Root Structure) ---
+Content: a. Chairman of the Audit Committee: $16,000
+
+--- (Additional Root Structure) ---
+Content: b. Chairman of the Compensation Committee: $12,000
+
+--- (Additional Root Structure) ---
+Article C: c. Chairman of the Nominating & Governance Committee: $10,000
+
+--- (Additional Root Structure) ---
+Content: Equity Compensation
+
+--- (Additional Root Structure) ---
+Content: The equity compensation set forth below will be granted under the Forte Biosc...
+
+--- (Additional Root Structure) ---
+Content: 1.
+
+--- (Additional Root Structure) ---
+Content: of ten years from the date of grant (subject to earlier termination in connec...
+
+--- (Additional Root Structure) ---
+Section 1: 1. Initial Grant: On the date of the Eligible Director’s initial election to ...
+
+--- (Additional Root Structure) ---
+Section 2: 2. Annual Grant: On the date of each Forte Biosciences annual stockholder mee...
+
+--- (Additional Root Structure) ---
+Content: 2.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.17

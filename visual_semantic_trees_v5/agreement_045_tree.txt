@@ -1,0 +1,424 @@
+Visual Semantic Tree for agreement_045.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 3.7%
+Total Elements: 139
+Hierarchical Elements: 136
+================================================================================
+
+AGREEMENT: SUBSCRIPTION AGREEMENT (This “Agreement”)
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.2
+
+--- (Additional Root Structure) ---
+Content: THE SECURITIES TO BE ISSUED PURSUANT TO THIS AGREEMENT HAVE NOT BEEN REGISTER...
+
+--- (Additional Root Structure) ---
+Content: Veg House Holdings Inc. 6800 Indian Creek Dr. Suite 101 Miami Beach, Fl 33141...
+
+--- (Additional Root Structure) ---
+Content: Ladies and Gentlemen:
+
+--- (Additional Root Structure) ---
+Content: Subscription. The undersigned (sometimes referred to herein as the “Investor”...
+
+--- (Additional Root Structure) ---
+Content: 1.Description of Common Shares; Risk Factors.
+
+--- (Additional Root Structure) ---
+Content: a.Description of Common Shares. The Company is offering (the “Offering”) to t...
+
+--- (Additional Root Structure) ---
+Content: This Offering is being conducted in advance of the Company’s intended initial...
+
+--- (Additional Root Structure) ---
+Content: Under the Company’s engagement letter with Boustead, dated February 2, 2023 (...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: b.Risks Related to the Investment in the Common Shares. Investing in the Comm...
+
+--- (Additional Root Structure) ---
+Content: 2.Purchase.
+
+--- (Additional Root Structure) ---
+Content: a.I hereby agree to tender to Sutter Securities Inc. (the “Escrow Agent”), (i...
+
+--- (Additional Root Structure) ---
+Content: b.The Offering is for a minimum offering amount of US$500,000.00 (the “Minimu...
+
+--- (Additional Root Structure) ---
+Content: c.This Offering will continue until the earlier of (a) the sale of 3,000,000 ...
+
+--- (Additional Root Structure) ---
+Content: 3.Acceptance or Rejection of Subscription.
+
+--- (Additional Root Structure) ---
+Content: a.I understand and agree that the Company reserves the right to reject this s...
+
+--- (Additional Root Structure) ---
+Content: b.In the event the Company rejects this subscription, my subscription payment...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 4. Closing. The closing (“Closing”) of this Offering may occur at any time an...
+
+--- (Additional Root Structure) ---
+Content: 5. Disclosure. Because this Offering is limited to accredited investors as de...
+
+--- (Additional Root Structure) ---
+Content: 6. Investor Representations and Warranties. I acknowledge, represent and warr...
+
+--- (Additional Root Structure) ---
+Content: a.I am aware that my investment involves a high degree of risk as disclosed i...
+
+--- (Additional Root Structure) ---
+Content: b.I acknowledge and am aware that there is no assurance as to the future perf...
+
+--- (Additional Root Structure) ---
+Content: c.I acknowledge that there may be certain adverse tax consequences to me in c...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: d.I am purchasing the Common Shares for my own account for investment purpose...
+
+--- (Additional Root Structure) ---
+Content: e.I recognize that the Common Shares, as an investment, involve a high degree...
+
+--- (Additional Root Structure) ---
+Content: f.I have been given access to full and complete information regarding the Com...
+
+--- (Additional Root Structure) ---
+Content: g.I have such knowledge and experience in financial and business matters as t...
+
+--- (Additional Root Structure) ---
+Content: h.I have relied solely upon my own investigation in deciding to invest in the...
+
+--- (Additional Root Structure) ---
+Content: i.I have received no representation or warranty from the Company or any of it...
+
+--- (Additional Root Structure) ---
+Content: j.I have had full opportunity to ask questions and to receive satisfactory an...
+
+--- (Additional Root Structure) ---
+Content: k.I have been provided an opportunity to obtain any additional information co...
+
+--- (Additional Root Structure) ---
+Content: l.I am an “accredited investor” as defined in Section 2(15) of the Securities...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: m.I understand that (1) the Common Shares have not been registered under the ...
+
+--- (Additional Root Structure) ---
+Content: n.I understand that since neither the offer nor sale of the Common Shares has...
+
+--- (Additional Root Structure) ---
+Content: o.I have had the opportunity to seek independent advice from my professional ...
+
+--- (Additional Root Structure) ---
+Content: p.If the Investor is a corporation, company, trust, employee benefit plan, in...
+
+--- (Additional Root Structure) ---
+Content: q.The information contained in my Investor Representation and Suitability Que...
+
+--- (Additional Root Structure) ---
+Content: 7. Placement Agent. The Company has engaged Boustead, a broker-dealer license...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 8. Representations and Warranties of the Company. When used in this Section 8...
+
+--- (Additional Root Structure) ---
+Content: a.Organization and Qualification. The Company and each of its subsidiaries, i...
+
+--- (Additional Root Structure) ---
+Content: b.Authorization, Enforcement, Compliance with Other Instruments. (i) The Comp...
+
+--- (Additional Root Structure) ---
+Content: c.Capitalization. Immediately prior to the Initial Closing, the authorized sh...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: d.Subsidiaries. Unless otherwise stated, at the initial Closing and simultane...
+
+--- (Additional Root Structure) ---
+Content: ●Vegaste Technologies US Corp., a Florida corporation, which we refer to as V...
+
+--- (Additional Root Structure) ---
+Content: ●Little West LLC, a Delaware limited liability company, which we refer to as ...
+
+--- (Additional Root Structure) ---
+Content: ●Plant-Based Deli, LLC, a California limited liability company, which we refe...
+
+--- (Additional Root Structure) ---
+Content: ●PlantX Midwest Inc., a Delaware corporation, which we refer to as PlantX Mid...
+
+--- (Additional Root Structure) ---
+Content: ●PlantX Living Inc., British Columbia corporation, which we refer to as Plant...
+
+--- (Additional Root Structure) ---
+Content: ●Portfolio Coffee Inc., an Ontario Corporation in which we own 53% of the iss...
+
+--- (Additional Root Structure) ---
+Content: ●Eh Coffee Corp., an Ontario Corporation in which we own 51% of the issued an...
+
+--- (Additional Root Structure) ---
+Content: Except as aforesaid, the Company does not currently own or control, directly ...
+
+--- (Additional Root Structure) ---
+Content: e.Issuance of Common Shares. The Common Shares are duly authorized and, upon ...
+
+--- (Additional Root Structure) ---
+Content: f.No Conflicts. The execution, delivery and performance of each of the Offeri...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: g.Absence of Litigation. There is no action, suit, claim, inquiry, notice of ...
+
+--- (Additional Root Structure) ---
+Content: h.Acknowledgment Regarding Subscriber’s Purchase of the Common Shares. The Co...
+
+--- (Additional Root Structure) ---
+Content: i.No General Solicitation. Neither the Company, nor any of its “affiliates” (...
+
+--- (Additional Root Structure) ---
+Content: j.No Integrated Offering. Neither the Company, nor any of its affiliates, nor...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: k.Employee Relations. Neither the Company nor any subsidiary is involved in a...
+
+--- (Additional Root Structure) ---
+Content: l.Permits. The Company and its subsidiaries have all authorizations, approval...
+
+--- (Additional Root Structure) ---
+Content: m.Title. Each of the Company and its subsidiaries has good and marketable tit...
+
+--- (Additional Root Structure) ---
+Content: n.Rights of First Refusal. The Company is not obligated to offer the Common S...
+
+--- (Additional Root Structure) ---
+Content: o.Brokers’ Fees. The Company does not have any liability or obligation to pay...
+
+--- (Additional Root Structure) ---
+Content: p.Investment Company. The Company is not required to be registered as, and is...
+
+--- (Additional Root Structure) ---
+Content: q.Patents and Trademarks. The Company and its subsidiaries, if any, have, or ...
+
+--- (Additional Root Structure) ---
+Content: r.Transactions With Affiliates and Employees. Except as set forth in the Inve...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 9
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: s.Investor Package; Disclosure. The Company has made available to each Invest...
+
+--- (Additional Root Structure) ---
+Content: t.Material Changes. Since the Balance Sheet Date, except as specifically disc...
+
+--- (Additional Root Structure) ---
+Content: u.Reliance. The Company acknowledges that the Investor is relying on the repr...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9. Other Covenants and Agreements of the Parties.
+
+--- (Additional Root Structure) ---
+Content: a.Indemnification.
+
+--- (Additional Root Structure) ---
+Content: I hereby agree to indemnify and hold harmless the Company and its officers, d...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 10
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: b.Lock-Up.
+
+--- (Additional Root Structure) ---
+Content: In connection with this Offering, the Investor agrees to the following lock-u...
+
+--- (Additional Root Structure) ---
+Content: 1. From and after the date hereof and until the 180th day after the date the ...
+
+--- (Additional Root Structure) ---
+Content: 2. Between the 181st and 270th day after the Lock-Up Trigger Date, the Invest...
+
+--- (Additional Root Structure) ---
+Content: 3. Between the 271st and 365th day after the Lock-Up Trigger Date, the Invest...
+
+--- (Additional Root Structure) ---
+Content: 4. After the 365th day after the Lock-Up Trigger Date, the Investor will be e...
+
+--- (Additional Root Structure) ---
+Content: 5. Notwithstanding the above, commencing 90 days after the Lock-Up Trigger Da...
+
+--- (Additional Root Structure) ---
+Content: 10. Severability. In the event any parts of this Subscription Agreement are f...
+
+--- (Additional Root Structure) ---
+Content: 11. Choice of Law and Jurisdiction. This Subscription Agreement shall be gove...
+
+--- (Additional Root Structure) ---
+Content: 12. Counterparts. This Subscription Agreement may be executed in one or more ...
+
+--- (Additional Root Structure) ---
+Content: 13. Third Party Beneficiaries. This Agreement shall be binding upon and inure...
+
+--- (Additional Root Structure) ---
+Content: 14. Notices and Addresses. All notices, offers, acceptance and any other acts...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 11
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: or to such other address as any of them, by notice to the others may designat...
+
+--- (Additional Root Structure) ---
+Content: 15. Entire Agreement. This Agreement constitutes the entire agreement between...
+
+--- (Additional Root Structure) ---
+Content: 16. Section Headings. Section headings herein have been inserted for referenc...
+
+--- (Additional Root Structure) ---
+Content: 17. Survival of Representations, Warranties and Agreements. The representatio...
+
+--- (Additional Root Structure) ---
+Content: 18. Acceptance of Subscription. The Company may accept this Subscription Agre...
+
+--- (Additional Root Structure) ---
+Content: RESIDENTS OF ALL STATES: THE COMMON SHARES OFFERED HEREBY HAVE NOT BEEN REGIS...
+
+--- (Additional Root Structure) ---
+Content: SALES IN FLORIDA: THE COMMON SHARES OFFERED HEREBY WILL BE SOLD, AND ACQUIRED...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 12
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): THE AGGREGATE AMOUNT SUBSCRIBED FOR HEREBY IS:
+
+--- (Additional Root Structure) ---
+Heading (L1): __________ Common Shares at a per Share Purchase Price of US$1.00 per share
+
+--- (Additional Root Structure) ---
+Content: Manner in Which Title is to be Held. (check one)
+
+--- (Additional Root Structure) ---
+Content: * If Common Shares are being subscribed for by any entity, the Certificate of...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 13
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: The foregoing subscription is accepted and the Company hereby agrees to be bo...
+
+--- (Additional Root Structure) ---
+Content: Veg House Holdings Inc. By: Name: Sean Dollinger Title: Chief Executive Officer
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 14
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): CERTIFICATE OF SIGNATORY
+
+--- (Additional Root Structure) ---
+Content: (To be completed if Common Shares are being subscribed for by an entity)
+
+--- (Additional Root Structure) ---
+Content: I, _____________________________, the _____________________________________
+
+--- (Additional Root Structure) ---
+Content: (name of signatory) (title)
+
+--- (Additional Root Structure) ---
+Content: of ___________________________________________________(“Entity”), a _________...
+
+--- (Additional Root Structure) ---
+Content: (name of signatory) (type of entity)
+
+--- (Additional Root Structure) ---
+Content: Organized under the laws of _______________, hereby certify that I am empower...
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, I have set my hand this ______ day of ___________, 2023.
+
+--- (Additional Root Structure) ---
+Content: (Signature)
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 15
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TableElement: Investor: At the address designated on the signature page of this Subscriptio...
+
+--- (Additional Root Structure) ---
+TableElement: — Individual Ownership — Community Property — Joint Tenant with Right of Surv...
+
+--- (Additional Root Structure) ---
+TableElement: INDIVIDUAL INVESTORS ENTITY INVESTORS By: Signature (Individual) *Signature I...

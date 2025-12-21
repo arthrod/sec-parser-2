@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_004.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 20
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.12 EMPLOYMENT AGREEMENT This Employment Agreement (the “Agreement”...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4. In the performance of his duties, Employee shall use his best efforts to a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d) a conviction of, a plea of nolo contendere, a guilty plea, or confession ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): For purposes of this Agreement, “Change in Control” shall mean (1) the sale (...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): D. Date of Termination. According to this Agreement, “Date of Termination” sh...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1. Vehicle Allowance and Other Perquisites. During 2019, Employer shall provi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4. Without Cause. If Employee’s employment is terminated by Employer without ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b) an amount equal to any incentive compensation that would be payable to th...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5. If Employee’s employment is terminated by Employer prior to the occurrence...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): For all purposes of this Agreement, Employee shall be considered to have term...

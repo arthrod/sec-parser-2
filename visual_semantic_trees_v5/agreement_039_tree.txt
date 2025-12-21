@@ -1,0 +1,21 @@
+Visual Semantic Tree for agreement_039.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 4
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.57THE USE OF THE FOLLOWING NOTATION IN THIS EXHIBIT INDICATES THAT...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): "Short-Term Investments" means:i.obligations of, or obligations the principal...
+
+--- (Additional Root Structure) ---
+TableElement: "Unrestricted Cash": means as of any calendar month end, cash, cash equivalen...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): date of this Certificate the following are true and correct and were compiled...

@@ -1,0 +1,172 @@
+Visual Semantic Tree for agreement_025.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 9.1%
+Total Elements: 55
+Hierarchical Elements: 55
+================================================================================
+
+AGREEMENT: PROMISSORY NOTE
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+Content: THIS PROMISSORY NOTE (“NOTE”) HAS NOT BEEN REGISTERED UNDER THE SECURITIES AC...
+
+--- (Additional Root Structure) ---
+Content: Principal Amount: US$30,000
+
+--- (Additional Root Structure) ---
+Content: Dated: December 26, 2023
+
+--- (Additional Root Structure) ---
+Content: New York, New York
+
+--- (Additional Root Structure) ---
+Content: FOR VALUE RECEIVED, Blue World Acquisition Corporation(the “Maker” or the “Co...
+
+--- (Additional Root Structure) ---
+Content: 1.Principal. The principal balance of this Note shall be payable by the Maker...
+
+--- (Additional Root Structure) ---
+Content: 2.Conversion Rights. The Payee has the right, but not the obligation, to conv...
+
+--- (Additional Root Structure) ---
+Content: (a)Fractional Units. No fractional Units will be issued upon conversion of th...
+
+--- (Additional Root Structure) ---
+Content: (b)Effect of Conversion. If the Maker timely receives notice of the Payee’s i...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 3.Interest. This Note does not carry any interest on the unpaid principal bal...
+
+--- (Additional Root Structure) ---
+Content: 4.Application of Payments. All payments shall be applied first to payment in ...
+
+--- (Additional Root Structure) ---
+Content: 5.Events of Default. The following shall constitute an event of default (each...
+
+--- (Additional Root Structure) ---
+Content: (a)Failure to Make Required Payments. Failure by the Maker to pay the princip...
+
+--- (Additional Root Structure) ---
+Content: (b)Voluntary Bankruptcy, etc. The commencement by the Maker of a voluntary ca...
+
+--- (Additional Root Structure) ---
+Content: (c)Involuntary Bankruptcy, etc. The entry of a decree or order for relief by ...
+
+--- (Additional Root Structure) ---
+Content: (d)Breach of Other Obligations. The Maker fails to perform or comply with any...
+
+--- (Additional Root Structure) ---
+Content: (e)Cross Default. Any present or future indebtedness of the Maker in respect ...
+
+--- (Additional Root Structure) ---
+Content: (f)Enforcement Proceedings. A distress, attachment, execution or other legal ...
+
+--- (Additional Root Structure) ---
+Content: (g)Unlawfulness and Invalidity. It is or becomes unlawful for the Maker to pe...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2; Options: NewSection; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 6.Remedies.
+
+--- (Additional Root Structure) ---
+Content: (a)Upon the occurrence of an Event of Default specified in Section 5(a) and 5...
+
+--- (Additional Root Structure) ---
+Content: (b)Upon the occurrence of an Event of Default specified in Sections 5(b), 5(c...
+
+--- (Additional Root Structure) ---
+Content: 7.Taxes. The Maker will pay all amounts due hereunder free and clear of and w...
+
+--- (Additional Root Structure) ---
+Content: 8.Waivers. The Maker and all endorsers and guarantors of, and sureties for, t...
+
+--- (Additional Root Structure) ---
+Content: 9.Unconditional Liability. The Maker hereby waives all notices in connection ...
+
+--- (Additional Root Structure) ---
+Content: 10.Notices. All notices, statements or other documents which are required or ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 11.Construction. This Note shall be construed and enforced in accordance with...
+
+--- (Additional Root Structure) ---
+Content: 12.Severability. Any provision contained in this Note which is prohibited or ...
+
+--- (Additional Root Structure) ---
+Content: 13.Amendment; Waiver. Any amendment hereto or waiver of any provision hereof ...
+
+--- (Additional Root Structure) ---
+Content: 14.Assignment. This Note shall be binding upon the Maker and its successors a...
+
+--- (Additional Root Structure) ---
+Content: [signature page follows]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: The Parties, intending to be legally bound hereby, have caused this Note to b...
+
+--- (Additional Root Structure) ---
+Heading (L1): MAKER:
+
+--- (Additional Root Structure) ---
+Heading (L1): Blue World Acquisition Corporation
+
+--- (Additional Root Structure) ---
+Signature Block: By: /s/ Liang Shi Name: Liang Shi Title: CEO and Director
+
+--- (Additional Root Structure) ---
+Heading (L1): PAYEE:
+
+--- (Additional Root Structure) ---
+Heading (L1): Blue World Holdings Limited
+
+--- (Additional Root Structure) ---
+Signature Block: By: /s/ Liang Shi Name: Liang Shi Title: Director
+
+--- (Additional Root Structure) ---
+Content: [signature page to the promissory note]
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Field: Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Field: /Rule-Page

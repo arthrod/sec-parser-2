@@ -1,0 +1,47 @@
+Visual Semantic Tree for agreement_043.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 85.7%
+Total Elements: 14
+Hierarchical Elements: 14
+================================================================================
+
+AGREEMENT: ​ARTICLE II.PROFITS INTEREsTS; VESTING2.1Profits Interests. The Incentive Uni...
+`-- Exhibit Exhibit C: ​of employment, the Participant commits a Covenant Breach, then all Vested Un...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​or before a Change in Control with respect to, or from the sale or other dis...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​(k)“General Partner” shall have the meaning ascribed to such term in the Par...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​general advertising or solicitation does not result in the hiring of any emp...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​(ii) require notification or prior approval by the Partnership of any report...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​in the Participant’s name or in the name of the Partnership (or its designee...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​prohibition against pursuing other legal or equitable remedies in the event ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​transmitted, (ii) if sent by pdf e-mail, when transmitted, (iii) if by natio...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​this Agreement or from any other amount owing to the Participant, the amount...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​7.15No Third Party Rights. Nothing in this Agreement shall be construed to g...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​IN WITNESS WHEREOF, the parties have executed this Agreement as of the date ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​Exhibit AAccredited Investor Questionnaire​The undersigned individual (the “...
+
+--- (Additional Root Structure) ---
+Heading (L1): ​Exhibit BForm of Section 83(b) ElectionThe undersigned taxpayer hereby elect...

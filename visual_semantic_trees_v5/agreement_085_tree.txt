@@ -1,0 +1,96 @@
+Visual Semantic Tree for agreement_085.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 3.7%
+Total Elements: 29
+Hierarchical Elements: 27
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Heading (L1): EXHIBIT 10.35
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1; Options: NewSection
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 9
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 10
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 11
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 12
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Field: Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Field: /Rule-Page
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: Rule-Page
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Field: /Rule-Page

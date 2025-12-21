@@ -1,0 +1,3100 @@
+Visual Semantic Tree for agreement_076.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: A
+Orphan Rate: 2.7%
+Total Elements: 1031
+Hierarchical Elements: 1027
+================================================================================
+
+AGREEMENT: $1,250,000,000
+
+--- (Additional Root Structure) ---
+Heading (L1): CREDIT AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): dated as of
+
+--- (Additional Root Structure) ---
+Heading (L1): November 18, 2022
+
+--- (Additional Root Structure) ---
+Heading (L1): among
+
+--- (Additional Root Structure) ---
+Heading (L1): MASTERBRAND, INC.,as Borrower
+
+--- (Additional Root Structure) ---
+Heading (L1): The Lenders Party Hereto
+
+--- (Additional Root Structure) ---
+Heading (L1): and
+
+--- (Additional Root Structure) ---
+Heading (L1): JPMORGAN CHASE BANK, N.A.,as Administrative Agent
+
+--- (Additional Root Structure) ---
+Heading (L1): BANK OF AMERICA, N.A., BARCLAYS BANK PLC,
+
+--- (Additional Root Structure) ---
+Heading (L1): MIZUHO BANK, LTD., PNC BANK, NATIONAL ASSOCIATION,
+
+--- (Additional Root Structure) ---
+Heading (L1): THE TORONTO-DOMINION BANK, NEW YORK BRANCH, and
+
+--- (Additional Root Structure) ---
+Heading (L1): WELLS FARGO BANK, NATIONAL ASSOCIATIONas Co-Syndication Agents
+
+--- (Additional Root Structure) ---
+Heading (L1): CITIZENS BANK, N.A., FIFTH THIRD BANK, NATIONAL ASSOCIATION and KEYBANK, NATI...
+
+--- (Additional Root Structure) ---
+Heading (L1): JPMORGAN CHASE BANK, N.A.BOFA SECURITIES, INC., BARCLAYS BANK PLC,
+
+--- (Additional Root Structure) ---
+Heading (L1): MIZUHO BANK, LTD., PNC CAPITAL MARKETS LLC,
+
+--- (Additional Root Structure) ---
+Heading (L1): TD SECURITIES (USA) LLC and WELLS FARGO SECURITIES, LLC,
+
+--- (Additional Root Structure) ---
+Heading (L1): as Joint Lead Arrangers and Joint Bookrunners
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS
+
+--- (Additional Root Structure) ---
+Content: i
+
+--- (Additional Root Structure) ---
+Section 3.06: SECTION 3.06. Litigation, Environmental and Labor Matters67SECTION 3.07. Comp...
+
+--- (Additional Root Structure) ---
+Content: ii
+
+--- (Additional Root Structure) ---
+Section 6.09: SECTION 6.09. Restrictive Agreements85SECTION 6.10. Subordinated Indebtedness...
+
+--- (Additional Root Structure) ---
+Content: iii
+
+--- (Additional Root Structure) ---
+Section 9.18: SECTION 9.18. Acknowledgement Regarding Any Supported QFCs116SECTION 9.19. Re...
+
+--- (Additional Root Structure) ---
+Content: SCHEDULES:
+
+--- (Additional Root Structure) ---
+Content: Schedule 2.01 -- Commitments
+
+--- (Additional Root Structure) ---
+Content: Schedule 3.01 – Subsidiaries
+
+--- (Additional Root Structure) ---
+Content: Schedule 3.06 -- Disclosed Matters
+
+--- (Additional Root Structure) ---
+Content: Schedule 6.01 – Existing Indebtedness
+
+--- (Additional Root Structure) ---
+Content: Schedule 6.02 – Existing Liens
+
+--- (Additional Root Structure) ---
+Content: Schedule 6.05 – Existing Subsidiary Investments
+
+--- (Additional Root Structure) ---
+Content: Schedule 6.08 – Transactions with Affiliates
+
+--- (Additional Root Structure) ---
+Content: Schedule 6.09 – Existing Restrictions
+
+--- (Additional Root Structure) ---
+Content: EXHIBITS:
+
+--- (Additional Root Structure) ---
+Content: Exhibit A – Form of Assignment and Assumption
+
+--- (Additional Root Structure) ---
+Content: Exhibit B – Form of Note
+
+--- (Additional Root Structure) ---
+Content: Exhibit C – Form of Borrowing Request
+
+--- (Additional Root Structure) ---
+Content: Exhibit D – Form of Financial Officer’s Certificate
+
+--- (Additional Root Structure) ---
+Content: Exhibit E – List of Closing Documents
+
+--- (Additional Root Structure) ---
+Content: Exhibit F – [Reserved]
+
+--- (Additional Root Structure) ---
+Content: Exhibit G – Form of U.S. Tax CertificateExhibit H – Form of Interest Election...
+
+--- (Additional Root Structure) ---
+Content: iv
+
+--- (Additional Root Structure) ---
+Content: CREDIT AGREEMENT dated as of November 18, 2022 among MASTERBRAND, INC., a Del...
+
+--- (Additional Root Structure) ---
+Content: The parties hereto agree as follows:
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IDefinitions
+
+--- (Additional Root Structure) ---
+Section 1.01: SECTION 1.01. Defined Terms. As used in this Agreement, the following terms h...
+
+--- (Additional Root Structure) ---
+Content: “ABR” when used in reference to any Loan or Borrowing, refers to whether such...
+
+--- (Additional Root Structure) ---
+Content: “Adjusted Covenant Period” has the meaning assigned to such term in Section 6...
+
+--- (Additional Root Structure) ---
+Content: “Adjusted Daily Simple SOFR” means an interest rate per annum equal to (a) th...
+
+--- (Additional Root Structure) ---
+Content: “Adjusted Term SOFR Rate” means, for any Interest Period, an interest rate pe...
+
+--- (Additional Root Structure) ---
+Content: “Administrative Agent” means JPMorgan Chase Bank, N.A. (or any of its designa...
+
+--- (Additional Root Structure) ---
+Content: “Administrative Questionnaire” means an Administrative Questionnaire in a for...
+
+--- (Additional Root Structure) ---
+Content: “Affected Financial Institution” means (a) any EEA Financial Institution or (...
+
+--- (Additional Root Structure) ---
+Content: “Affiliate” means, with respect to a specified Person, another Person that di...
+
+--- (Additional Root Structure) ---
+Content: “Agent Related Person” has the meaning assigned to it in Section 9.03(c).
+
+--- (Additional Root Structure) ---
+Content: “Agreement” means this Credit Agreement, as amended, restated, modified or su...
+
+--- (Additional Root Structure) ---
+Content: 1
+
+--- (Additional Root Structure) ---
+Content: “Alternate Base Rate” means, for any day, a rate per annum equal to the great...
+
+--- (Additional Root Structure) ---
+Content: “Ancillary Document” has the meaning assigned to it in Section 9.06(b).
+
+--- (Additional Root Structure) ---
+Content: “Ancillary Fees” has the meaning assigned to it in Section 9.02(b).
+
+--- (Additional Root Structure) ---
+Content: “Anti-Corruption Laws” means all laws, rules, and regulations of any jurisdic...
+
+--- (Additional Root Structure) ---
+Content: “Anti-Money Laundering Laws” means any and all laws, statutes, regulations or...
+
+--- (Additional Root Structure) ---
+Content: “Applicable EBITDA” means, at any time, Consolidated EBITDA for the most rece...
+
+--- (Additional Root Structure) ---
+Content: “Applicable Intercreditor Agreement” means a First Lien Intercreditor Agreeme...
+
+--- (Additional Root Structure) ---
+Content: “Applicable Percentage” means, with respect to any Lender, (a) with respect t...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: “Applicable Pledge Percentage” means 100% but 65% in the case of a pledge by ...
+
+--- (Additional Root Structure) ---
+Content: “Applicable Rate” means, for any day, with respect to any Term Benchmark Loan...
+
+--- (Additional Root Structure) ---
+Content: For purposes of the foregoing,
+
+--- (Additional Root Structure) ---
+Clause (i): (i) if at any time the Borrower fails to deliver the Financials on or before ...
+
+--- (Additional Root Structure) ---
+Content: (ii) adjustments, if any, to the Category then in effect shall be effective o...
+
+--- (Additional Root Structure) ---
+Content: (iii) notwithstanding the foregoing, Category 3 shall be deemed to be applica...
+
+--- (Additional Root Structure) ---
+Content: “Approved Electronic Platform” has the meaning assigned to it in Section 8.03...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: “Approved Fund” has the meaning assigned to such term in Section 9.04.
+
+--- (Additional Root Structure) ---
+Content: “Arrangers” means JPMorgan Chase Bank, N.A., BofA Securities, Inc., Barclays ...
+
+--- (Additional Root Structure) ---
+Content: “Assignment and Assumption” means an assignment and assumption entered into b...
+
+--- (Additional Root Structure) ---
+Content: “Availability Period” means the period from and including the Funding Date to...
+
+--- (Additional Root Structure) ---
+Content: “Available Revolving Commitment” means, at any time with respect to any Lende...
+
+--- (Additional Root Structure) ---
+Content: “Available Tenor” means, as of any date of determination and with respect to ...
+
+--- (Additional Root Structure) ---
+Content: “Bail-In Action” means the exercise of any Write-Down and Conversion Powers b...
+
+--- (Additional Root Structure) ---
+Content: “Bail-In Legislation” means (a) with respect to any EEA Member Country implem...
+
+--- (Additional Root Structure) ---
+Content: “Banking Services” means each and any of the following bank services provided...
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: “Banking Services Agreement” means any agreement entered into by the Borrower...
+
+--- (Additional Root Structure) ---
+Content: “Banking Services Obligations” means any and all obligations of the Borrower ...
+
+--- (Additional Root Structure) ---
+Content: “Bankruptcy Code” means Title 11 of the United States Code entitled “Bankrupt...
+
+--- (Additional Root Structure) ---
+Content: “Bankruptcy Event” means, with respect to any Person, such Person becomes the...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark” means, initially, with respect to any (i) RFR Loan, Daily Simple ...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement” means, for any Available Tenor, the sum of: (a) the a...
+
+--- (Additional Root Structure) ---
+Content: If the Benchmark Replacement as determined above would be less than the Floor...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement Adjustment” means, with respect to any replacement of ...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Benchmark Replacement by the Relevant Governmental Body on the applicable Ben...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement Conforming Changes” means, with respect to any Benchma...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Replacement Date” means, with respect to any Benchmark, the earlie...
+
+--- (Additional Root Structure) ---
+Content: (1) in the case of clause (1) or (2) of the definition of “Benchmark Transiti...
+
+--- (Additional Root Structure) ---
+Content: (2) in the case of clause (3) of the definition of “Benchmark Transition Even...
+
+--- (Additional Root Structure) ---
+Content: For the avoidance of doubt, (i) if the event giving rise to the Benchmark Rep...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Transition Event” means, with respect to any Benchmark, the occurr...
+
+--- (Additional Root Structure) ---
+Content: (1) a public statement or publication of information by or on behalf of the a...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: Available Tenors of such Benchmark (or such component thereof), permanently o...
+
+--- (Additional Root Structure) ---
+Content: (2) a public statement or publication of information by the regulatory superv...
+
+--- (Additional Root Structure) ---
+Content: (3) a public statement or publication of information by the regulatory superv...
+
+--- (Additional Root Structure) ---
+Content: For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to ...
+
+--- (Additional Root Structure) ---
+Content: “Benchmark Unavailability Period” means, with respect to any Benchmark, the p...
+
+--- (Additional Root Structure) ---
+Content: “Beneficial Ownership Certification” means a certification regarding benefici...
+
+--- (Additional Root Structure) ---
+Content: “Beneficial Ownership Regulation” means 31 C.F.R. § 1010.230.
+
+--- (Additional Root Structure) ---
+Content: “Benefit Plan” means any of (a) an “employee benefit plan” (as defined in ERI...
+
+--- (Additional Root Structure) ---
+Content: “BHC Act Affiliate” of a party means an “affiliate’ (as such term is defined ...
+
+--- (Additional Root Structure) ---
+Content: “Board” means the Board of Governors of the Federal Reserve System of the Uni...
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: “Borrower” means MasterBrand, Inc., a Delaware corporation.
+
+--- (Additional Root Structure) ---
+Content: “Borrowing” means (a) a Revolving Borrowing, (b) a Term Loan Borrowing or (c)...
+
+--- (Additional Root Structure) ---
+Content: “Borrowing Request” means a request by the Borrower for a Borrowing in accord...
+
+--- (Additional Root Structure) ---
+Content: “Business Day” means, any day (other than a Saturday or a Sunday) on which ba...
+
+--- (Additional Root Structure) ---
+Content: “Cabinets Business” means certain assets and operations associated with the c...
+
+--- (Additional Root Structure) ---
+Content: “Cabinets Business Transfers” means a series of transactions in which (a) all...
+
+--- (Additional Root Structure) ---
+Content: “Capital Lease Obligations” of any Person means the obligations of such Perso...
+
+--- (Additional Root Structure) ---
+Content: “Cash Equivalents” means:
+
+--- (Additional Root Structure) ---
+Content: (a) direct obligations of, or obligations the principal of and interest on wh...
+
+--- (Additional Root Structure) ---
+Content: (b) investments in commercial paper maturing within 270 days from the date of...
+
+--- (Additional Root Structure) ---
+Content: (c) investments in certificates of deposit, banker’s acceptances and time dep...
+
+--- (Additional Root Structure) ---
+Content: (d) fully collateralized repurchase agreements with a term of not more than t...
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: (e) money market funds that (i) comply with the criteria set forth in SEC Rul...
+
+--- (Additional Root Structure) ---
+Content: (f) instruments equivalent to those referred to in clauses (a) through (e) ab...
+
+--- (Additional Root Structure) ---
+Content: “Change in Control” means (a) the acquisition of ownership, directly or indir...
+
+--- (Additional Root Structure) ---
+Content: “Change in Law” means the occurrence, after the date of this Agreement (or, w...
+
+--- (Additional Root Structure) ---
+Content: “Charges” has the meaning assigned to such term in Section 9.13.
+
+--- (Additional Root Structure) ---
+Content: “Class”, when used in reference to any Loan or Borrowing, refers to whether s...
+
+--- (Additional Root Structure) ---
+Content: “CME Term SOFR Administrator” means CME Group Benchmark Administration Limite...
+
+--- (Additional Root Structure) ---
+Content: “Co-Documentation Agent” means each of Citizens Bank, N.A., Fifth Third Bank,...
+
+--- (Additional Root Structure) ---
+Content: “Co-Syndication Agent” means each of Bank of America, N.A., Barclays Bank PLC...
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: Branch, and Wells Fargo Bank, National Association, each in its capacity as s...
+
+--- (Additional Root Structure) ---
+Content: “Code” means the Internal Revenue Code of 1986, as amended from time to time.
+
+--- (Additional Root Structure) ---
+Content: “Collateral” means any and all property owned, leased or operated by a Person...
+
+--- (Additional Root Structure) ---
+Content: “Collateral Account” has the meaning assigned to it in Section 2.06(j).
+
+--- (Additional Root Structure) ---
+Content: “Collateral and Guarantee Requirement” means, at any time, the requirement that:
+
+--- (Additional Root Structure) ---
+Content: (a) the Administrative Agent shall have received from the Borrower and each S...
+
+--- (Additional Root Structure) ---
+Content: (b) all Collateral (other than Excluded Assets) owned by or on behalf of any ...
+
+--- (Additional Root Structure) ---
+Content: (c) all documents and instruments, including Uniform Commercial Code financin...
+
+--- (Additional Root Structure) ---
+Content: (d) each Loan Party shall have obtained all consents and approvals required t...
+
+--- (Additional Root Structure) ---
+Content: The foregoing definition shall not require the creation or perfection of pled...
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: in connection with assets acquired, or Subsidiaries formed or acquired, after...
+
+--- (Additional Root Structure) ---
+Content: “Collateral Documents” means, collectively, the Security Agreement and all ot...
+
+--- (Additional Root Structure) ---
+Content: “Commitment” means, with respect to each Lender, the sum of such Lender’s Rev...
+
+--- (Additional Root Structure) ---
+Content: “Commodity Exchange Act” means the Commodity Exchange Act (7 U.S.C. § 1 et se...
+
+--- (Additional Root Structure) ---
+Content: “Communications” has the meaning assigned to it in Section 8.03(c).
+
+--- (Additional Root Structure) ---
+Content: “Connection Income Taxes” means Other Connection Taxes that are imposed on or...
+
+--- (Additional Root Structure) ---
+Content: “Consolidated EBITDA” means, for any period of four consecutive fiscal quarte...
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+Content: Cabinets Business Transfers and the Spin-Off, in each case, to the extent pai...
+
+--- (Additional Root Structure) ---
+Content: “Consolidated Interest Expense” means, for any period, the interest expense o...
+
+--- (Additional Root Structure) ---
+Content: “Consolidated Net Income” means, for any period, net income for the Borrower ...
+
+--- (Additional Root Structure) ---
+Content: “Consolidated Net Worth” means at any time the consolidated stockholders’ equ...
+
+--- (Additional Root Structure) ---
+Content: “Consolidated Total Indebtedness” means (a) the aggregate amount of all Indeb...
+
+--- (Additional Root Structure) ---
+Content: “Control” means the possession, directly or indirectly, of the power to direc...
+
+--- (Additional Root Structure) ---
+Content: 12
+
+--- (Additional Root Structure) ---
+Content: “Corresponding Tenor” with respect to any Available Tenor means, as applicabl...
+
+--- (Additional Root Structure) ---
+Content: “Covered Entity” means any of the following:
+
+--- (Additional Root Structure) ---
+Content: (i) a “covered entity” as that term is defined in, and interpreted in accorda...
+
+--- (Additional Root Structure) ---
+Content: (ii) a “covered bank” as that term is defined in, and interpreted in accordan...
+
+--- (Additional Root Structure) ---
+Content: (iii) a “covered FSI” as that term is defined in, and interpreted in accordan...
+
+--- (Additional Root Structure) ---
+Content: “Covered Party” has the meaning assigned to it in Section 9.18.
+
+--- (Additional Root Structure) ---
+Content: “Credit Exposure” means, as to any Lender at any time, the sum of (a) such Le...
+
+--- (Additional Root Structure) ---
+Content: “Daily Simple SOFR” means, for any day (a “SOFR Rate Day”), a rate per annum ...
+
+--- (Additional Root Structure) ---
+Content: “Default” means any event or condition which constitutes an Event of Default ...
+
+--- (Additional Root Structure) ---
+Content: “Default Right” has the meaning assigned to that term in, and shall be interp...
+
+--- (Additional Root Structure) ---
+Content: “Defaulting Lender” means any Lender that (a) has failed, within two Business...
+
+--- (Additional Root Structure) ---
+Content: 13
+
+--- (Additional Root Structure) ---
+Content: provided that such Lender shall cease to be a Defaulting Lender pursuant to t...
+
+--- (Additional Root Structure) ---
+Content: “Disclosed Matters” means the actions, suits and proceedings and the environm...
+
+--- (Additional Root Structure) ---
+Content: “Disposition” or “Dispose” means the sale, transfer, license, lease or other ...
+
+--- (Additional Root Structure) ---
+Content: “dollars” or “$” refers to lawful money of the United States of America.
+
+--- (Additional Root Structure) ---
+Content: “Domestic Subsidiary” means any Subsidiary that is incorporated or organized ...
+
+--- (Additional Root Structure) ---
+Content: “EEA Financial Institution” means (a) any credit institution or investment fi...
+
+--- (Additional Root Structure) ---
+Content: “EEA Member Country” means any of the member states of the European Union, Ic...
+
+--- (Additional Root Structure) ---
+Content: “EEA Resolution Authority” means any public administrative authority or any P...
+
+--- (Additional Root Structure) ---
+Content: “ECP” means an “eligible contract participant” as defined in Section 1(a)(18)...
+
+--- (Additional Root Structure) ---
+Content: “Electronic Signature” means an electronic sound, symbol, or process attached...
+
+--- (Additional Root Structure) ---
+Content: “Environmental Laws” means all laws, rules, regulations, codes, ordinances, o...
+
+--- (Additional Root Structure) ---
+Content: “Environmental Liability” means any liability, contingent or otherwise (inclu...
+
+--- (Additional Root Structure) ---
+Content: 14
+
+--- (Additional Root Structure) ---
+Content: disposal of any Hazardous Materials, (c) exposure to any Hazardous Materials,...
+
+--- (Additional Root Structure) ---
+Content: “Equity Interests” means shares of capital stock, partnership interests, memb...
+
+--- (Additional Root Structure) ---
+Content: “ERISA” means the Employee Retirement Income Security Act of 1974, as amended...
+
+--- (Additional Root Structure) ---
+Content: “ERISA Affiliate” means any trade or business (whether or not incorporated) t...
+
+--- (Additional Root Structure) ---
+Content: “ERISA Event” means (a) any “reportable event”, as defined in Section 4043 of...
+
+--- (Additional Root Structure) ---
+Content: “EU Bail-In Legislation Schedule” means the EU Bail-In Legislation Schedule p...
+
+--- (Additional Root Structure) ---
+Content: “Event of Default” has the meaning assigned to such term in Section 7.01.
+
+--- (Additional Root Structure) ---
+Content: “Excluded Assets” has the meaning set forth in the Security Agreement.
+
+--- (Additional Root Structure) ---
+Content: “Excluded Swap Obligation” means, with respect to any Loan Party, any Specifi...
+
+--- (Additional Root Structure) ---
+Content: 15
+
+--- (Additional Root Structure) ---
+Content: apply only to the portion of such Specified Swap Obligation that is attributa...
+
+--- (Additional Root Structure) ---
+Content: “Excluded Taxes” means any of the following Taxes imposed on or with respect ...
+
+--- (Additional Root Structure) ---
+Content: “Existing Liens” has the meaning assigned to it in Section 9.02(b).
+
+--- (Additional Root Structure) ---
+Content: “FATCA” means Sections 1471 through 1474 of the Code, as of the date of this ...
+
+--- (Additional Root Structure) ---
+Content: “FBHS” means Fortune Brands Home & Security, Inc., a Delaware corporation.
+
+--- (Additional Root Structure) ---
+Content: “FBHS Cash Payment” means the cash dividend to be paid by the Borrower to FBH...
+
+--- (Additional Root Structure) ---
+Content: “Federal Funds Effective Rate” means, for any day, the rate calculated by the...
+
+--- (Additional Root Structure) ---
+Content: “Financial Officer” means the chief financial officer, principal accounting o...
+
+--- (Additional Root Structure) ---
+Content: “Financials” means the annual or quarterly financial statements of the Borrow...
+
+--- (Additional Root Structure) ---
+Content: “Financing Transactions” means (i) the execution, delivery and performance by...
+
+--- (Additional Root Structure) ---
+Content: 16
+
+--- (Additional Root Structure) ---
+Content: and the use of the proceeds thereof and the issuance of Letters of Credit her...
+
+--- (Additional Root Structure) ---
+Content: “First Lien Intercreditor Agreement” means an intercreditor agreement on cust...
+
+--- (Additional Root Structure) ---
+Content: “First Tier Foreign Subsidiary” means each Foreign Subsidiary with respect to...
+
+--- (Additional Root Structure) ---
+Content: “Floor” means the benchmark rate floor, if any, provided in this Agreement in...
+
+--- (Additional Root Structure) ---
+Content: “Foreign Subsidiary” means any Subsidiary which is not a Domestic Subsidiary.
+
+--- (Additional Root Structure) ---
+Content: “Form 10” means the Form 10 Information Statement (including the exhibits the...
+
+--- (Additional Root Structure) ---
+Content: “Funding Date” means the date on which the conditions specified in Section 4....
+
+--- (Additional Root Structure) ---
+Content: “Funding Date Representations” means those representations and warranties of ...
+
+--- (Additional Root Structure) ---
+Content: “GAAP” means generally accepted accounting principles in the United States of...
+
+--- (Additional Root Structure) ---
+Content: “Governmental Authority” means the government of the United States of America...
+
+--- (Additional Root Structure) ---
+Content: “Guarantee” of or by any Person (the “guarantor”) means any obligation, conti...
+
+--- (Additional Root Structure) ---
+Content: 17
+
+--- (Additional Root Structure) ---
+Content: (or advance or supply funds for the purchase or payment of) such Indebtedness...
+
+--- (Additional Root Structure) ---
+Content: “Hazardous Materials” means all explosive or radioactive substances or wastes...
+
+--- (Additional Root Structure) ---
+Content: “Hostile Acquisition” means (a) the acquisition of the Equity Interests of a ...
+
+--- (Additional Root Structure) ---
+Content: “Incremental Term Loan” has the meaning assigned to it in Section 2.09(d).
+
+--- (Additional Root Structure) ---
+Content: “Incremental Term Loan Amendment” has the meaning assigned to such term in Se...
+
+--- (Additional Root Structure) ---
+Content: “Indebtedness” of any Person means, without duplication, (a) all obligations ...
+
+--- (Additional Root Structure) ---
+Content: 18
+
+--- (Additional Root Structure) ---
+Content: “Indemnified Taxes” means (a) Taxes, other than Excluded Taxes, imposed on or...
+
+--- (Additional Root Structure) ---
+Content: “Indemnitee” has the meaning assigned to it in Section 9.03(b).
+
+--- (Additional Root Structure) ---
+Content: “Ineligible Institution” has the meaning assigned to it in Section 9.04(b).
+
+--- (Additional Root Structure) ---
+Content: “Information Memorandum” means the Confidential Information Memorandum dated ...
+
+--- (Additional Root Structure) ---
+Content: “Interest Coverage Ratio” means the ratio of (a) Consolidated EBITDA to (b) C...
+
+--- (Additional Root Structure) ---
+Content: “Interest Election Request” means a request by the Borrower to convert or con...
+
+--- (Additional Root Structure) ---
+Content: “Interest Payment Date” means (a) with respect to any ABR Loan (other than a ...
+
+--- (Additional Root Structure) ---
+Content: “Interest Period” means, with respect to any Term Benchmark Borrowing, the pe...
+
+--- (Additional Root Structure) ---
+Content: “IRS” means the United States Internal Revenue Service.
+
+--- (Additional Root Structure) ---
+Content: 19
+
+--- (Additional Root Structure) ---
+Content: “Issuing Bank” means any of JPMorgan Chase Bank, N.A., Bank of America, N.A.,...
+
+--- (Additional Root Structure) ---
+Content: “Junior Lien Intercreditor Agreement” means an intercreditor agreement on cus...
+
+--- (Additional Root Structure) ---
+Content: “LC Disbursement” means a payment made by an Issuing Bank pursuant to a drawi...
+
+--- (Additional Root Structure) ---
+Content: “LC Exposure” means, at any time, the sum of (a) the aggregate undrawn amount...
+
+--- (Additional Root Structure) ---
+Content: “Lender Party” means the Administrative Agent, the Issuing Bank, the Swinglin...
+
+--- (Additional Root Structure) ---
+Content: “Lender-Related Person” has the meaning assigned to it in Section 9.03(d).
+
+--- (Additional Root Structure) ---
+Content: “Lenders” means the Persons listed on Schedule 2.01 and any other Person that...
+
+--- (Additional Root Structure) ---
+Content: “Letter of Credit” means any letter of credit issued pursuant to this Agreement.
+
+--- (Additional Root Structure) ---
+Content: “Liabilities” means any losses, claims, damages or liabilities.
+
+--- (Additional Root Structure) ---
+Content: 20
+
+--- (Additional Root Structure) ---
+Content: “Lien” means, with respect to any asset, (a) any mortgage, deed of trust, lie...
+
+--- (Additional Root Structure) ---
+Content: “Loan Documents” means this Agreement (including the schedules and exhibits h...
+
+--- (Additional Root Structure) ---
+Content: “Loan Party” means the Borrower and each Subsidiary Guarantor.
+
+--- (Additional Root Structure) ---
+Content: “Loans” means the loans made by the Lenders to the Borrower pursuant to this ...
+
+--- (Additional Root Structure) ---
+Content: “Margin Stock” means margin stock within the meaning of Regulations T, U and ...
+
+--- (Additional Root Structure) ---
+Content: “Material Acquisition” means any Permitted Acquisition that involves the paym...
+
+--- (Additional Root Structure) ---
+Content: “Material Adverse Effect” means a material adverse effect on (a) the business...
+
+--- (Additional Root Structure) ---
+Content: “Material Indebtedness” means (a) Indebtedness (other than the Loans) or (b) ...
+
+--- (Additional Root Structure) ---
+Content: “Material Domestic Subsidiary” means each Domestic Subsidiary (i) which, as o...
+
+--- (Additional Root Structure) ---
+Content: 21
+
+--- (Additional Root Structure) ---
+Content: the Borrower has failed to do so within ten (10) days, the Administrative Age...
+
+--- (Additional Root Structure) ---
+Content: “Maturity Date” means the fifth anniversary of the Signing Date.
+
+--- (Additional Root Structure) ---
+Content: “Maximum Rate” has the meaning assigned to such term in Section 9.13.
+
+--- (Additional Root Structure) ---
+Content: “Moody’s” means Moody’s Investors Service, Inc., or any successor thereto.
+
+--- (Additional Root Structure) ---
+Content: “Multiemployer Plan” means a multiemployer plan as defined in Section 4001(a)...
+
+--- (Additional Root Structure) ---
+Content: “Net Leverage Ratio” means, at any time, the ratio of (a)(i) Consolidated Tot...
+
+--- (Additional Root Structure) ---
+Content: “Net Proceeds” means, with respect to any event, (a) the cash proceeds receiv...
+
+--- (Additional Root Structure) ---
+Content: “Non-U.S. Lender” means a Lender that is not a U.S. Person.
+
+--- (Additional Root Structure) ---
+Content: “NYFRB” means the Federal Reserve Bank of New York.
+
+--- (Additional Root Structure) ---
+Content: “NYFRB Rate” means, for any day, the greater of (a) the Federal Funds Effecti...
+
+--- (Additional Root Structure) ---
+Content: 22
+
+--- (Additional Root Structure) ---
+Content: “NYFRB’s Website” means the website of the NYFRB at http://www.newyorkfed.org...
+
+--- (Additional Root Structure) ---
+Content: “Obligations” means all advances to, and debts, liabilities, obligations, cov...
+
+--- (Additional Root Structure) ---
+Content: “OFAC” means the Office of Foreign Assets Control of the U.S. Department of t...
+
+--- (Additional Root Structure) ---
+Content: “Other Connection Taxes” means, with respect to any Recipient, Taxes imposed ...
+
+--- (Additional Root Structure) ---
+Content: “Other Debt Representative” means with respect to any series of Indebtedness ...
+
+--- (Additional Root Structure) ---
+Content: “Other Taxes” means any present or future stamp, court, documentary, intangib...
+
+--- (Additional Root Structure) ---
+Content: “Overnight Bank Funding Rate” means, for any day, the rate comprised of both ...
+
+--- (Additional Root Structure) ---
+Content: “Parent” means, with respect to any Lender, any Person as to which such Lende...
+
+--- (Additional Root Structure) ---
+Content: “Participant” has the meaning assigned to such term in Section 9.04(c).
+
+--- (Additional Root Structure) ---
+Content: “Participant Register” has the meaning assigned to such term in Section 9.04(c).
+
+--- (Additional Root Structure) ---
+Content: 23
+
+--- (Additional Root Structure) ---
+Content: “Patriot Act” has the meaning assigned to such term in Section 9.15.
+
+--- (Additional Root Structure) ---
+Content: “Payment” has the meaning assigned to it in Section 8.10.
+
+--- (Additional Root Structure) ---
+Content: “Payment Notice” has the meaning assigned to it in Section 8.10.
+
+--- (Additional Root Structure) ---
+Content: “PBGC” means the Pension Benefit Guaranty Corporation referred to and defined...
+
+--- (Additional Root Structure) ---
+Content: “Permitted Acquisition” means any acquisition (whether by purchase, merger, c...
+
+--- (Additional Root Structure) ---
+Content: “Permitted Encumbrances” means:
+
+--- (Additional Root Structure) ---
+Content: (a) Liens imposed by law for Taxes that are not yet due or are being conteste...
+
+--- (Additional Root Structure) ---
+Content: (b) carriers’, warehousemen’s, mechanics’, materialmen’s, repairmen’s and oth...
+
+--- (Additional Root Structure) ---
+Content: (c) pledges and deposits made in the ordinary course of business in complianc...
+
+--- (Additional Root Structure) ---
+Content: (d) deposits to secure the performance of bids, trade contracts, leases, stat...
+
+--- (Additional Root Structure) ---
+Content: (e) easements, zoning restrictions, rights-of-way and similar encumbrances on...
+
+--- (Additional Root Structure) ---
+Content: (f) Liens arising out of conditional sale, retention, consignment or similar ...
+
+--- (Additional Root Structure) ---
+Content: (g) judgment Liens not giving rise to an Event of Default;
+
+--- (Additional Root Structure) ---
+Content: (h) Liens arising solely by virtue of any statutory or common law provisions ...
+
+--- (Additional Root Structure) ---
+Content: 24
+
+--- (Additional Root Structure) ---
+Content: or any Subsidiary (other than as provided in any Collateral Documents) in exc...
+
+--- (Additional Root Structure) ---
+Content: (i) Liens, not in respect of Indebtedness, arising from Uniform Commercial Co...
+
+--- (Additional Root Structure) ---
+Content: (j) Deposits made in the ordinary course of business to secure liability to i...
+
+--- (Additional Root Structure) ---
+Content: (k) Any interest or title of a lessor or lessee or sublessor or sublessee und...
+
+--- (Additional Root Structure) ---
+Content: (l) Liens in favor of customs and revenue authorities arising as a matter of ...
+
+--- (Additional Root Structure) ---
+Content: (m) Leases, licenses, subleases and sublicenses of assets (including, without...
+
+--- (Additional Root Structure) ---
+Content: provided that the term “Permitted Encumbrances” shall not include any Lien se...
+
+--- (Additional Root Structure) ---
+Content: “Person” means any natural person, corporation, limited liability company, tr...
+
+--- (Additional Root Structure) ---
+Content: “Plan” means any employee pension benefit plan (other than a Multiemployer Pl...
+
+--- (Additional Root Structure) ---
+Content: “Plan Asset Regulations” means 29 CFR § 2510.3-101 et seq., as modified by Se...
+
+--- (Additional Root Structure) ---
+Content: “Pledge Subsidiary” means (i) each Domestic Subsidiary and (ii) each First Ti...
+
+--- (Additional Root Structure) ---
+Content: “Prepayment Event” means:
+
+--- (Additional Root Structure) ---
+Content: (a) any sale, transfer or other disposition of any property or asset of the B...
+
+--- (Additional Root Structure) ---
+Content: (b) any casualty or other insured damage to, or any taking under power of emi...
+
+--- (Additional Root Structure) ---
+Content: 25
+
+--- (Additional Root Structure) ---
+Content: (c) the incurrence by the Borrower or any Subsidiary of any Indebtedness (oth...
+
+--- (Additional Root Structure) ---
+Content: “Prime Rate” means the rate of interest last quoted by The Wall Street Journa...
+
+--- (Additional Root Structure) ---
+Content: “Proceeding” means any claim, litigation, investigation, action, suit, arbitr...
+
+--- (Additional Root Structure) ---
+Content: “PTE” means a prohibited transaction class exemption issued by the U.S. Depar...
+
+--- (Additional Root Structure) ---
+Content: “QFC” has the meaning assigned to the term “qualified financial contract” in,...
+
+--- (Additional Root Structure) ---
+Content: “QFC Credit Support” has the meaning assigned to it in Section 9.18.
+
+--- (Additional Root Structure) ---
+Content: “Qualified Cash Amount” means, as of any date of determination, an amount equ...
+
+--- (Additional Root Structure) ---
+Content: “Recipient” means, as applicable, (a) the Administrative Agent, (b) any Lende...
+
+--- (Additional Root Structure) ---
+Content: “Reference Period” means, at any time, the most recent period of four consecu...
+
+--- (Additional Root Structure) ---
+Content: “Reference Time” with respect to any setting of the then-current Benchmark me...
+
+--- (Additional Root Structure) ---
+Content: “Register” has the meaning assigned to such term in Section 9.04(b)(iv).
+
+--- (Additional Root Structure) ---
+Content: “Regulation D” means Regulation D of the Board, as in effect from time to tim...
+
+--- (Additional Root Structure) ---
+Content: “Regulation T” means Regulation T of the Board, as in effect from time to tim...
+
+--- (Additional Root Structure) ---
+Content: “Regulation U” means Regulation U of the Board, as in effect from time to tim...
+
+--- (Additional Root Structure) ---
+Content: 26
+
+--- (Additional Root Structure) ---
+Content: “Regulation X” means Regulation X of the Board, as in effect from time to tim...
+
+--- (Additional Root Structure) ---
+Content: “Related Parties” means, with respect to any specified Person, such Person’s ...
+
+--- (Additional Root Structure) ---
+Content: “Relevant Governmental Body” means the Board and/or the NYFRB, or a committee...
+
+--- (Additional Root Structure) ---
+Content: “Relevant Rate” means (i) with respect to any Term Benchmark Borrowing, the A...
+
+--- (Additional Root Structure) ---
+Content: “Required Lenders” means, subject to Section 2.20, Lenders having Credit Expo...
+
+--- (Additional Root Structure) ---
+Content: “Resolution Authority” means an EEA Resolution Authority or, with respect to ...
+
+--- (Additional Root Structure) ---
+Content: “Restricted Payment” means any dividend or other distribution (whether in cas...
+
+--- (Additional Root Structure) ---
+Content: “Revolving Borrowing” means Revolving Loans of the same Type, made, converted...
+
+--- (Additional Root Structure) ---
+Content: “Revolving Commitment” means, with respect to each Lender, the amount under t...
+
+--- (Additional Root Structure) ---
+Content: 27
+
+--- (Additional Root Structure) ---
+Content: “Revolving Credit Exposure” means, with respect to any Lender at any time, th...
+
+--- (Additional Root Structure) ---
+Content: “Revolving Lender” means a Lender with a Revolving Commitment or Revolving Cr...
+
+--- (Additional Root Structure) ---
+Content: “Revolving Loan” means a Loan made by a Revolving Lender pursuant to Section ...
+
+--- (Additional Root Structure) ---
+Content: “RFR” when used in reference to any Loan or Borrowing, refers to whether such...
+
+--- (Additional Root Structure) ---
+Content: “S&P” means Standard & Poor’s Rating Services, a Standard & Poor’s Financial ...
+
+--- (Additional Root Structure) ---
+Content: “Sale and Leaseback Transaction” means any sale or other transfer of property...
+
+--- (Additional Root Structure) ---
+Content: “Sanctioned Country” means, at any time, a country, region or territory which...
+
+--- (Additional Root Structure) ---
+Content: “Sanctioned Person” means, at any time, (a) any Person listed in any Sanction...
+
+--- (Additional Root Structure) ---
+Content: “Sanctions” means all economic or financial sanctions or trade embargoes impo...
+
+--- (Additional Root Structure) ---
+Content: “SEC” means the Securities and Exchange Commission.
+
+--- (Additional Root Structure) ---
+Content: “Secured Obligations” means all Obligations, together with all Swap Obligatio...
+
+--- (Additional Root Structure) ---
+Content: “Secured Parties” means the holders of the Secured Obligations from time to t...
+
+--- (Additional Root Structure) ---
+Content: 28
+
+--- (Additional Root Structure) ---
+Content: Document, (iii) each Lender and Affiliate of such Lender in respect of Swap A...
+
+--- (Additional Root Structure) ---
+Content: “Security Agreement” means that certain Pledge and Security Agreement (includ...
+
+--- (Additional Root Structure) ---
+Content: “Senior Indebtedness” has the meaning assigned to it in Section 9.02(b).
+
+--- (Additional Root Structure) ---
+Content: “Senior Note Indebtedness” means any other senior unsecured Indebtedness of t...
+
+--- (Additional Root Structure) ---
+Content: “Separation Agreement” means that certain Separation and Distribution Agreeme...
+
+--- (Additional Root Structure) ---
+Content: “Signing Date” means the date on which the conditions specified in Section 4....
+
+--- (Additional Root Structure) ---
+Content: “SOFR” means a rate equal to the secured overnight financing rate as administ...
+
+--- (Additional Root Structure) ---
+Content: “SOFR Administrator” means the NYFRB (or a successor administrator of the sec...
+
+--- (Additional Root Structure) ---
+Content: “SOFR Administrator’s Website” means the NYFRB’s Website, currently at http:/...
+
+--- (Additional Root Structure) ---
+Content: “SOFR Determination Date” has the meaning specified in the definition of “Dai...
+
+--- (Additional Root Structure) ---
+Content: “SOFR Rate Day” has the meaning specified in the definition of “Daily Simple ...
+
+--- (Additional Root Structure) ---
+Content: “Solvent” means, as to any Person as of any date of determination, that on su...
+
+--- (Additional Root Structure) ---
+Content: 29
+
+--- (Additional Root Structure) ---
+Content: (d) such Person is not engaged in a business or a transaction, and is not abo...
+
+--- (Additional Root Structure) ---
+Content: “Specified Ancillary Obligations” means all obligations and liabilities (incl...
+
+--- (Additional Root Structure) ---
+Content: “Specified Party” means the Administrative Agent, each Issuing Bank, the Swin...
+
+--- (Additional Root Structure) ---
+Content: “Specified Swap Obligation” means, with respect to any Loan Party, any obliga...
+
+--- (Additional Root Structure) ---
+Content: “Spin-Off” means the distribution, following the consummation of the Cabinets...
+
+--- (Additional Root Structure) ---
+Content: “Spin-Off Agreements” means the Separation Agreement, the transition services...
+
+--- (Additional Root Structure) ---
+Content: “Subordinated Indebtedness” means any Indebtedness of the Borrower or any Sub...
+
+--- (Additional Root Structure) ---
+Content: “Subordinated Indebtedness Documents” means any document, agreement or instru...
+
+--- (Additional Root Structure) ---
+Content: “subsidiary” means, with respect to any Person (the “parent”) at any date, an...
+
+--- (Additional Root Structure) ---
+Content: 30
+
+--- (Additional Root Structure) ---
+Content: that is, as of such date, otherwise Controlled by the parent and/or one or mo...
+
+--- (Additional Root Structure) ---
+Content: “Subsidiary” means any subsidiary of the Borrower.
+
+--- (Additional Root Structure) ---
+Content: “Subsidiary Guarantor” means each Material Domestic Subsidiary that is a part...
+
+--- (Additional Root Structure) ---
+Content: “Subsidiary Guaranty” means that certain Subsidiary Guaranty dated as of the ...
+
+--- (Additional Root Structure) ---
+Content: “Supported QFC” has the meaning assigned to it in Section 9.18.
+
+--- (Additional Root Structure) ---
+Content: “Swap Agreement” means any agreement with respect to any swap, forward, futur...
+
+--- (Additional Root Structure) ---
+Content: “Swap Obligations” means any and all obligations of the Borrower or any Subsi...
+
+--- (Additional Root Structure) ---
+Content: “Swingline Exposure” means, at any time, the aggregate principal amount of al...
+
+--- (Additional Root Structure) ---
+Content: “Swingline Lender” means any of JPMorgan Chase Bank, N.A., Bank of America, N...
+
+--- (Additional Root Structure) ---
+Content: “Swingline Loan” means a Loan made pursuant to Section 2.05.
+
+--- (Additional Root Structure) ---
+Content: “Taxes” means all present or future taxes, levies, imposts, duties, deduction...
+
+--- (Additional Root Structure) ---
+Content: “Term Benchmark” when used in reference to any Loan or Borrowing, refers to w...
+
+--- (Additional Root Structure) ---
+Content: 31
+
+--- (Additional Root Structure) ---
+Content: reference to the Adjusted Term SOFR Rate (other than pursuant to clause (c) o...
+
+--- (Additional Root Structure) ---
+Content: “Term Lender” means, as of any date of determination, each Lender having a Te...
+
+--- (Additional Root Structure) ---
+Content: “Term Loan Borrowing” means Term Loans of the same Type, made, converted or c...
+
+--- (Additional Root Structure) ---
+Content: “Term Loan Commitment” means (a) as to any Term Lender, the amount under the ...
+
+--- (Additional Root Structure) ---
+Content: “Term Loans” means the term loans made by the Term Lenders to the Borrower pu...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR Determination Day” has the meaning assigned to it under the defini...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR Rate” means, with respect to any Term Benchmark Borrowing and for ...
+
+--- (Additional Root Structure) ---
+Content: “Term SOFR Reference Rate” means, for any day and time (such day, the “Term S...
+
+--- (Additional Root Structure) ---
+Content: “Total Credit Exposure” means the sum of the Total Revolving Credit Exposure ...
+
+--- (Additional Root Structure) ---
+Content: “Total Revolving Credit Exposure” means, the sum of the outstanding principal...
+
+--- (Additional Root Structure) ---
+Content: 32
+
+--- (Additional Root Structure) ---
+Content: extent Lenders shall have funded their respective participations in the outst...
+
+--- (Additional Root Structure) ---
+Content: “Transactions” means (a) Financing Transactions, (b) the Cabinets Business Tr...
+
+--- (Additional Root Structure) ---
+Content: “Trigger Quarter” has the meaning set forth in Section 6.12.
+
+--- (Additional Root Structure) ---
+Content: “Type”, when used in reference to any Loan or Borrowing, refers to whether th...
+
+--- (Additional Root Structure) ---
+Content: “UCC” means the Uniform Commercial Code as in effect from time to time in the...
+
+--- (Additional Root Structure) ---
+Content: “UK Financial Institution” means any BRRD Undertaking (as such term is define...
+
+--- (Additional Root Structure) ---
+Content: “UK Resolution Authority” means the Bank of England or any other public admin...
+
+--- (Additional Root Structure) ---
+Content: “Unadjusted Benchmark Replacement” means the applicable Benchmark Replacement...
+
+--- (Additional Root Structure) ---
+Content: “Unliquidated Obligations” means, at any time, any Secured Obligations (or po...
+
+--- (Additional Root Structure) ---
+Content: “Unrestricted Cash” means, as of any date, the sum of (x) 100% of Unrestricte...
+
+--- (Additional Root Structure) ---
+Content: “Unrestricted Domestic Cash” means, as of any date of determination, that por...
+
+--- (Additional Root Structure) ---
+Content: “Unrestricted Foreign Cash” means, as of any date of determination, that port...
+
+--- (Additional Root Structure) ---
+Content: 33
+
+--- (Additional Root Structure) ---
+Content: limitation, any Lien permitted hereunder other than Liens in favor of the Adm...
+
+--- (Additional Root Structure) ---
+Content: “U.S. Government Securities Business Day” means any day except for (i) a Satu...
+
+--- (Additional Root Structure) ---
+Content: “U.S. Person” means a “United States person” within the meaning of Section 77...
+
+--- (Additional Root Structure) ---
+Content: “U.S. Special Resolution Regime” has the meaning assigned to it in Section 9.18.
+
+--- (Additional Root Structure) ---
+Content: “U.S. Tax Certificate” has the meaning assigned to such term in Section 2.17(...
+
+--- (Additional Root Structure) ---
+Content: “Withdrawal Liability” means liability to a Multiemployer Plan as a result of...
+
+--- (Additional Root Structure) ---
+Content: “Withholding Agent” means any Loan Party and the Administrative Agent.
+
+--- (Additional Root Structure) ---
+Content: “Write-Down and Conversion Powers” means, (a) with respect to any EEA Resolut...
+
+--- (Additional Root Structure) ---
+Section 1.02: SECTION 1.02. Classification of Loans and Borrowings. For purposes of this Ag...
+
+--- (Additional Root Structure) ---
+Section 1.03: SECTION 1.03. Terms Generally. The definitions of terms herein shall apply eq...
+
+--- (Additional Root Structure) ---
+Content: 34
+
+--- (Additional Root Structure) ---
+Content: shall be construed to refer to this Agreement in its entirety and not to any ...
+
+--- (Additional Root Structure) ---
+Section 1.04: SECTION 1.04. Accounting Terms; GAAP. (a) Except as otherwise expressly provi...
+
+--- (Additional Root Structure) ---
+Content: (b) To the extent the Borrower or any Subsidiary (a) makes any acquisition pe...
+
+--- (Additional Root Structure) ---
+Content: 35
+
+--- (Additional Root Structure) ---
+Content: are applied to repay or retire any Indebtedness, any pro forma determination ...
+
+--- (Additional Root Structure) ---
+Content: (c) Notwithstanding anything to the contrary set forth in the immediately pre...
+
+--- (Additional Root Structure) ---
+Content: (d) Notwithstanding anything to the contrary contained in Section 1.04(a) or ...
+
+--- (Additional Root Structure) ---
+Section 1.05: SECTION 1.05. Interest Rates; Benchmark Notification. The interest rate on a ...
+
+--- (Additional Root Structure) ---
+Section 1.06: SECTION 1.06. Letter of Credit Amounts. Unless otherwise specified herein, th...
+
+--- (Additional Root Structure) ---
+Content: 36
+
+--- (Additional Root Structure) ---
+Section 1.07: SECTION 1.07. Divisions. For all purposes under the Loan Documents, in connec...
+
+--- (Additional Root Structure) ---
+Section 1.08: SECTION 1.08. Status of Obligations. In the event that the Borrower or any ot...
+
+--- (Additional Root Structure) ---
+Section 1.09: SECTION 1.09. Effectuation of Transactions. All references herein to the Borr...
+
+--- (Additional Root Structure) ---
+Section 1.10: SECTION 1.10. References to Fiscal Quarters. All references herein to fiscal ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IIThe Credits
+
+--- (Additional Root Structure) ---
+Section 2.01: SECTION 2.01. Commitments. Subject to the terms and conditions set forth here...
+
+--- (Additional Root Structure) ---
+Content: 37
+
+--- (Additional Root Structure) ---
+Section 2.02: SECTION 2.02. Loans and Borrowings. (a) Each Loan (other than a Swingline Loa...
+
+--- (Additional Root Structure) ---
+Content: (b) Subject to Section 2.14, each Revolving Borrowing (other than a Swingline...
+
+--- (Additional Root Structure) ---
+Content: (c) At the commencement of each Interest Period for any Term Benchmark Borrow...
+
+--- (Additional Root Structure) ---
+Content: (d) Notwithstanding any other provision of this Agreement, the Borrower shall...
+
+--- (Additional Root Structure) ---
+Section 2.03: SECTION 2.03. Requests for Borrowings. Except to the extent the Administrativ...
+
+--- (Additional Root Structure) ---
+Content: (i) the aggregate amount of the requested Borrowing;
+
+--- (Additional Root Structure) ---
+Content: (ii) the date of such Borrowing, which shall be a Business Day;
+
+--- (Additional Root Structure) ---
+Content: 38
+
+--- (Additional Root Structure) ---
+Content: (iii) whether such Borrowing is to be an ABR Borrowing or a Term Benchmark Bo...
+
+--- (Additional Root Structure) ---
+Content: (iv) in the case of a Term Benchmark Borrowing, the initial Interest Period t...
+
+--- (Additional Root Structure) ---
+Content: (v) the location and number of the account of the Borrower (or such other pay...
+
+--- (Additional Root Structure) ---
+Content: If no election as to the Type of such Borrowing is specified, then the reques...
+
+--- (Additional Root Structure) ---
+Section 2.04: SECTION 2.04. [Intentionally Omitted].
+
+--- (Additional Root Structure) ---
+Section 2.05: SECTION 2.05. Swingline Loans. (a) Subject to the terms and conditions set fo...
+
+--- (Additional Root Structure) ---
+Content: (b) To request a Swingline Loan, the Borrower shall notify the applicable Swi...
+
+--- (Additional Root Structure) ---
+Content: (c) A Swingline Lender may by written notice given to the Administrative Agen...
+
+--- (Additional Root Structure) ---
+Content: 39
+
+--- (Additional Root Structure) ---
+Content: Agent will give notice thereof to each Revolving Lender, specifying in such n...
+
+--- (Additional Root Structure) ---
+Content: (d) A Swingline Lender may be replaced at any time by written agreement among...
+
+--- (Additional Root Structure) ---
+Content: (e) Subject to the appointment and acceptance of a successor Swingline Lender...
+
+--- (Additional Root Structure) ---
+Content: 40
+
+--- (Additional Root Structure) ---
+Section 2.06: SECTION 2.06. Letters of Credit. (a) General. Subject to the terms and condit...
+
+--- (Additional Root Structure) ---
+Content: (b) Notice of Issuance, Amendment, Renewal, Extension; Certain Conditions. To...
+
+--- (Additional Root Structure) ---
+Content: An Issuing Bank shall not be under any obligation to issue any Letter of Cred...
+
+--- (Additional Root Structure) ---
+Content: (i) any order, judgment or decree of any Governmental Authority or arbitrator...
+
+--- (Additional Root Structure) ---
+Content: 41
+
+--- (Additional Root Structure) ---
+Content: upon such Issuing Bank any unreimbursed loss, cost or expense that was not ap...
+
+--- (Additional Root Structure) ---
+Content: (ii) the issuance of such Letter of Credit would violate one or more policies...
+
+--- (Additional Root Structure) ---
+Content: (c) Expiration Date. Each Letter of Credit shall expire at or prior to the cl...
+
+--- (Additional Root Structure) ---
+Content: (d) Participations. By the issuance of a Letter of Credit (or an amendment to...
+
+--- (Additional Root Structure) ---
+Content: (e) Reimbursement. If an Issuing Bank shall make any LC Disbursement in respe...
+
+--- (Additional Root Structure) ---
+Content: 42
+
+--- (Additional Root Structure) ---
+Content: payment made by a Lender pursuant to this paragraph to reimburse an Issuing B...
+
+--- (Additional Root Structure) ---
+Content: (f) Obligations Absolute. The Borrower’s obligation to reimburse LC Disbursem...
+
+--- (Additional Root Structure) ---
+Content: (g) Disbursement Procedures. The applicable Issuing Bank shall, promptly foll...
+
+--- (Additional Root Structure) ---
+Content: (h) Interim Interest. If an Issuing Bank shall make any LC Disbursement, then...
+
+--- (Additional Root Structure) ---
+Content: 43
+
+--- (Additional Root Structure) ---
+Content: including the date such LC Disbursement is made to but excluding the date tha...
+
+--- (Additional Root Structure) ---
+Content: (i) Replacement and Resignation of an Issuing Bank.
+
+--- (Additional Root Structure) ---
+Content: (i) Any Issuing Bank may be replaced at any time by written agreement among t...
+
+--- (Additional Root Structure) ---
+Content: (ii) Subject to the appointment and acceptance of a successor Issuing Bank, a...
+
+--- (Additional Root Structure) ---
+Content: (j) Cash Collateralization. If any Event of Default shall occur and be contin...
+
+--- (Additional Root Structure) ---
+Content: 44
+
+--- (Additional Root Structure) ---
+Content: Collateral Account. Other than any interest earned on the investment of such ...
+
+--- (Additional Root Structure) ---
+Content: (k) Issuing Bank Agreements. Unless otherwise requested by the Administrative...
+
+--- (Additional Root Structure) ---
+Content: (l) Letters of Credit Issued for Account of Subsidiaries. Notwithstanding tha...
+
+--- (Additional Root Structure) ---
+Section 2.07: SECTION 2.07. Funding of Borrowings. (a) Each Lender shall make each Loan to ...
+
+--- (Additional Root Structure) ---
+Content: 45
+
+--- (Additional Root Structure) ---
+Content: time specified by the Administrative Agent to the Lenders and (ii) Swingline ...
+
+--- (Additional Root Structure) ---
+Content: (b) Unless the Administrative Agent shall have received notice from a Lender ...
+
+--- (Additional Root Structure) ---
+Section 2.08: SECTION 2.08. Interest Elections. (a) Each Borrowing initially shall be of th...
+
+--- (Additional Root Structure) ---
+Content: (b) To make an election pursuant to this Section, the Borrower shall notify t...
+
+--- (Additional Root Structure) ---
+Content: (c) Each telephonic and written Interest Election Request shall specify the f...
+
+--- (Additional Root Structure) ---
+Content: (i) the Borrowing to which such Interest Election Request applies and, if dif...
+
+--- (Additional Root Structure) ---
+Content: 46
+
+--- (Additional Root Structure) ---
+Content: information to be specified pursuant to clauses (iii) and (iv) below shall be...
+
+--- (Additional Root Structure) ---
+Content: (ii) the effective date of the election made pursuant to such Interest Electi...
+
+--- (Additional Root Structure) ---
+Content: (iii) whether the resulting Borrowing is to be an ABR Borrowing or a Term Ben...
+
+--- (Additional Root Structure) ---
+Content: (iv) if the resulting Borrowing is a Term Benchmark Borrowing, the Interest P...
+
+--- (Additional Root Structure) ---
+Content: If any such Interest Election Request requests a Term Benchmark Borrowing but...
+
+--- (Additional Root Structure) ---
+Content: (d) Promptly following receipt of an Interest Election Request, the Administr...
+
+--- (Additional Root Structure) ---
+Content: (e) If the Borrower fails to deliver a timely Interest Election Request with ...
+
+--- (Additional Root Structure) ---
+Section 2.09: SECTION 2.09. Termination, Reduction and Increase of Commitments. (a) Unless ...
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower may at any time terminate, or from time to time reduce, the ...
+
+--- (Additional Root Structure) ---
+Content: (c) The Borrower shall notify the Administrative Agent of any election to ter...
+
+--- (Additional Root Structure) ---
+Content: 47
+
+--- (Additional Root Structure) ---
+Content: therein, in which case such notice may be revoked by the Borrower (by notice ...
+
+--- (Additional Root Structure) ---
+Content: (d) The Borrower, at its option, may from time to time after the Funding Date...
+
+--- (Additional Root Structure) ---
+Content: 48
+
+--- (Additional Root Structure) ---
+Content: Incremental Term Loans shall be no shorter than the remaining weighted averag...
+
+--- (Additional Root Structure) ---
+Section 2.10: SECTION 2.10. Repayment of Loans; Evidence of Debt. (a) The Borrower hereby u...
+
+--- (Additional Root Structure) ---
+Content: 49
+
+--- (Additional Root Structure) ---
+Content: To the extent not previously repaid, all unpaid Term Loans shall be paid in f...
+
+--- (Additional Root Structure) ---
+Content: (b) Each Lender shall maintain in accordance with its usual practice an accou...
+
+--- (Additional Root Structure) ---
+Content: (c) The Administrative Agent shall maintain accounts in which it shall record...
+
+--- (Additional Root Structure) ---
+Content: (d) The entries made in the accounts maintained pursuant to paragraph (b) or ...
+
+--- (Additional Root Structure) ---
+Content: (e) Any Lender may request that Loans made by it be evidenced by a promissory...
+
+--- (Additional Root Structure) ---
+Content: (f) If at any time the aggregate Revolving Credit Exposure of the Lenders exc...
+
+--- (Additional Root Structure) ---
+Content: 50
+
+--- (Additional Root Structure) ---
+Section 2.11: SECTION 2.11. Prepayment of Loans. (a) The Borrower shall have the right at a...
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower shall notify the Administrative Agent (and, in the case of p...
+
+--- (Additional Root Structure) ---
+Content: (c) In the event and on each occasion that any Net Proceeds are received by o...
+
+--- (Additional Root Structure) ---
+Content: (d) All such amounts pursuant to Sections 2.11(c) shall be applied first to t...
+
+--- (Additional Root Structure) ---
+Content: 51
+
+--- (Additional Root Structure) ---
+Content: Maturity Date (or any other applicable maturity date for Incremental Term Loa...
+
+--- (Additional Root Structure) ---
+Section 2.12: SECTION 2.12. Fees. (a) The Borrower agrees to pay to the Administrative Agen...
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower agrees to pay to the Administrative Agent for the account of...
+
+--- (Additional Root Structure) ---
+Content: (c) The Borrower agrees to pay (i) to the Administrative Agent for the accoun...
+
+--- (Additional Root Structure) ---
+Content: 52
+
+--- (Additional Root Structure) ---
+Content: demand. All participation fees and fronting fees shall be computed on the bas...
+
+--- (Additional Root Structure) ---
+Content: (d) The Borrower agrees to pay to the Administrative Agent and the Arrangers,...
+
+--- (Additional Root Structure) ---
+Content: (e) All fees payable hereunder shall be paid on the dates due, in Dollars in ...
+
+--- (Additional Root Structure) ---
+Section 2.13: SECTION 2.13. Interest. (a) The Loans comprising each ABR Borrowing (includin...
+
+--- (Additional Root Structure) ---
+Content: (b) The Loans comprising each Term Benchmark Borrowing shall bear interest at...
+
+--- (Additional Root Structure) ---
+Content: (c) Each RFR Loan shall bear interest at a rate per annum equal to the Adjust...
+
+--- (Additional Root Structure) ---
+Content: (d) Notwithstanding the foregoing, upon the occurrence and during the continu...
+
+--- (Additional Root Structure) ---
+Content: (e) Accrued interest on each Loan shall be payable in arrears on each Interes...
+
+--- (Additional Root Structure) ---
+Content: (f) All interest hereunder shall be computed on the basis of a year of 360 da...
+
+--- (Additional Root Structure) ---
+Content: 53
+
+--- (Additional Root Structure) ---
+Content: Simple SOFR shall be determined by the Administrative Agent, and such determi...
+
+--- (Additional Root Structure) ---
+Section 2.14: SECTION 2.14. Alternate Rate of Interest.
+
+--- (Additional Root Structure) ---
+Content: (a) Subject to clauses (b), (c), (d), (e) and (f) of this Section 2.14, if:
+
+--- (Additional Root Structure) ---
+Content: (i) the Administrative Agent determines (which determination shall be conclus...
+
+--- (Additional Root Structure) ---
+Content: (ii) the Administrative Agent is advised by the Required Lenders that (A) pri...
+
+--- (Additional Root Structure) ---
+Content: then the Administrative Agent shall give notice thereof to the Borrower and t...
+
+--- (Additional Root Structure) ---
+Content: 54
+
+--- (Additional Root Structure) ---
+Content: (b) Notwithstanding anything to the contrary herein or in any other Loan Docu...
+
+--- (Additional Root Structure) ---
+Content: (c) Notwithstanding anything to the contrary herein or in any other Loan Docu...
+
+--- (Additional Root Structure) ---
+Content: (d) The Administrative Agent will promptly notify the Borrower and the Lender...
+
+--- (Additional Root Structure) ---
+Content: (e) Notwithstanding anything to the contrary herein or in any other Loan Docu...
+
+--- (Additional Root Structure) ---
+Content: (f) Upon the Borrower’s receipt of notice of the commencement of a Benchmark ...
+
+--- (Additional Root Structure) ---
+Content: 55
+
+--- (Additional Root Structure) ---
+Content: or (ii) an ABR Borrowing if the Adjusted Daily Simple SOFR is the subject of ...
+
+--- (Additional Root Structure) ---
+Section 2.15: SECTION 2.15. Increased Costs. (a) If any Change in Law shall:
+
+--- (Additional Root Structure) ---
+Content: (i) impose, modify or deem applicable any reserve, special deposit, liquidity...
+
+--- (Additional Root Structure) ---
+Content: (ii) impose on any Lender or Issuing Bank any other condition, cost or expens...
+
+--- (Additional Root Structure) ---
+Content: (iii) subject any Recipient to any Taxes (other than (A) Indemnified Taxes, (...
+
+--- (Additional Root Structure) ---
+Content: and (A) the result of any of the foregoing shall be to increase the cost to s...
+
+--- (Additional Root Structure) ---
+Content: (b) If any Lender or Issuing Bank determines that any Change in Law regarding...
+
+--- (Additional Root Structure) ---
+Content: 56
+
+--- (Additional Root Structure) ---
+Content: additional amount or amounts as will compensate such Lender or Issuing Bank o...
+
+--- (Additional Root Structure) ---
+Content: (c) A certificate of a Lender or an Issuing Bank setting forth the amount or ...
+
+--- (Additional Root Structure) ---
+Content: (d) Failure or delay on the part of any Lender or Issuing Bank to demand comp...
+
+--- (Additional Root Structure) ---
+Section 2.16: SECTION 2.16. Break Funding Payments. With respect to any Term Benchmark Loan...
+
+--- (Additional Root Structure) ---
+Section 2.17: SECTION 2.17. Taxes. (a) Withholding of Taxes; Gross-Up. Each payment by or o...
+
+--- (Additional Root Structure) ---
+Content: (b) Payment of Other Taxes by the Borrower. The Borrower shall timely pay to ...
+
+--- (Additional Root Structure) ---
+Content: (c) Evidence of Payments. As soon as practicable after any payment of Indemni...
+
+--- (Additional Root Structure) ---
+Content: 57
+
+--- (Additional Root Structure) ---
+Content: deliver to the Administrative Agent the original or a certified copy of a rec...
+
+--- (Additional Root Structure) ---
+Content: (d) Indemnification by the Borrower. The Borrower shall indemnify each Recipi...
+
+--- (Additional Root Structure) ---
+Content: (e) Indemnification by the Lenders. Each Lender shall severally indemnify the...
+
+--- (Additional Root Structure) ---
+Content: (f) Status of Lenders. (i) Any Lender that is entitled to an exemption from, ...
+
+--- (Additional Root Structure) ---
+Content: 58
+
+--- (Additional Root Structure) ---
+Content: writing of such expiration, obsolescence or inaccuracy and update the form or...
+
+--- (Additional Root Structure) ---
+Content: (ii) Without limiting the generality of the foregoing, if the Borrower is a U...
+
+--- (Additional Root Structure) ---
+Content: (A) in the case of a Lender that is a U.S. Person, IRS Form W-9 certifying th...
+
+--- (Additional Root Structure) ---
+Content: (B) in the case of a Non-U.S. Lender claiming the benefits of an income tax t...
+
+--- (Additional Root Structure) ---
+Content: (C) in the case of a Non-U.S. Lender for whom payments under this Agreement c...
+
+--- (Additional Root Structure) ---
+Content: (D) in the case of a Non-U.S. Lender claiming the benefits of the exemption f...
+
+--- (Additional Root Structure) ---
+Content: (E) in the case of a Non-U.S. Lender that is not the beneficial owner of paym...
+
+--- (Additional Root Structure) ---
+Content: (F) any other form prescribed by law as a basis for claiming exemption from, ...
+
+--- (Additional Root Structure) ---
+Content: 59
+
+--- (Additional Root Structure) ---
+Content: (iii) If a payment made to a Lender under any Loan Document would be subject ...
+
+--- (Additional Root Structure) ---
+Content: (g) Treatment of Certain Refunds. If any party determines, in its sole discre...
+
+--- (Additional Root Structure) ---
+Content: (h) Survival. Each party’s obligations under this Section 2.17 shall survive ...
+
+--- (Additional Root Structure) ---
+Content: (i) Issuing Bank. For purposes of Section 2.17, the term “Lender” includes an...
+
+--- (Additional Root Structure) ---
+Section 2.18: SECTION 2.18. Payments Generally; Pro Rata Treatment; Sharing of Set-offs. (a...
+
+--- (Additional Root Structure) ---
+Content: 60
+
+--- (Additional Root Structure) ---
+Content: York, except payments to be made directly to the Issuing Banks or the Swingli...
+
+--- (Additional Root Structure) ---
+Content: (b) At any time that payments are not required to be applied in the manner re...
+
+--- (Additional Root Structure) ---
+Content: (c) At the election of the Administrative Agent, all payments of principal, i...
+
+--- (Additional Root Structure) ---
+Content: (d) If any Lender shall, by exercising any right of set off or counterclaim o...
+
+--- (Additional Root Structure) ---
+Content: 61
+
+--- (Additional Root Structure) ---
+Content: ratably in accordance with the aggregate amount of principal of and accrued i...
+
+--- (Additional Root Structure) ---
+Content: (e) Unless the Administrative Agent shall have received notice from the Borro...
+
+--- (Additional Root Structure) ---
+Content: (f) If any Lender shall fail to make any payment required to be made by it pu...
+
+--- (Additional Root Structure) ---
+Section 2.19: SECTION 2.19. Mitigation Obligations; Replacement of Lenders. (a) If any Lend...
+
+--- (Additional Root Structure) ---
+Content: (b) If any Lender or Issuing Bank requests compensation under Section 2.15, o...
+
+--- (Additional Root Structure) ---
+Content: 62
+
+--- (Additional Root Structure) ---
+Content: any Issuing Bank or any Governmental Authority for the account of any Lender ...
+
+--- (Additional Root Structure) ---
+Section 2.20: SECTION 2.20. Defaulting Lenders. Notwithstanding any provision of this Agree...
+
+--- (Additional Root Structure) ---
+Content: (a) commitment fees and ticking fees shall cease to accrue on the unfunded po...
+
+--- (Additional Root Structure) ---
+Content: (b) any payment of principal, interest, fees or other amounts received by the...
+
+--- (Additional Root Structure) ---
+Content: 63
+
+--- (Additional Root Structure) ---
+Content: Agent from a Defaulting Lender pursuant to Section 9.08 shall be applied at s...
+
+--- (Additional Root Structure) ---
+Content: (c) the Commitments and Credit Exposure of such Defaulting Lender shall not b...
+
+--- (Additional Root Structure) ---
+Content: (d) if any Swingline Exposure or LC Exposure exists at the time a Lender beco...
+
+--- (Additional Root Structure) ---
+Content: (i) all or any part of such Swingline Exposure and LC Exposure shall be reall...
+
+--- (Additional Root Structure) ---
+Content: 64
+
+--- (Additional Root Structure) ---
+Content: Swingline Exposure does not exceed such non-Defaulting Lender’s Revolving Com...
+
+--- (Additional Root Structure) ---
+Content: (ii) if the reallocation described in clause (i) above cannot, or can only pa...
+
+--- (Additional Root Structure) ---
+Content: (iii) if the Borrower cash collateralizes any portion of such Defaulting Lend...
+
+--- (Additional Root Structure) ---
+Content: (iv) if the LC Exposure of the non-Defaulting Lenders is reallocated pursuant...
+
+--- (Additional Root Structure) ---
+Content: (v) if all or any portion of such Defaulting Lender’s LC Exposure is neither ...
+
+--- (Additional Root Structure) ---
+Content: (vi) so long as such Lender is a Defaulting Lender, the Swingline Lenders sha...
+
+--- (Additional Root Structure) ---
+Content: (e) If (i) a Bankruptcy Event or a Bail-In Action with respect to a Parent of...
+
+--- (Additional Root Structure) ---
+Content: 65
+
+--- (Additional Root Structure) ---
+Content: (f) in the event and on the date that each of the Administrative Agent, the B...
+
+--- (Additional Root Structure) ---
+Content: (g) Nothing in this Section shall affect any rights or remedies the Borrower ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IIIRepresentations and Warranties
+
+--- (Additional Root Structure) ---
+Content: The Borrower represents and warrants to the Administrative Agent and the Lend...
+
+--- (Additional Root Structure) ---
+Section 3.01: SECTION 3.01. Organization; Powers; Subsidiaries. Each of the Borrower and it...
+
+--- (Additional Root Structure) ---
+Section 3.02: SECTION 3.02. Authorization; Enforceability. The Transactions are within each...
+
+--- (Additional Root Structure) ---
+Content: 66
+
+--- (Additional Root Structure) ---
+Content: moratorium or other laws affecting creditors’ rights generally and subject to...
+
+--- (Additional Root Structure) ---
+Section 3.03: SECTION 3.03. Governmental Approvals; No Conflicts. The Transactions (a) do n...
+
+--- (Additional Root Structure) ---
+Section 3.04: SECTION 3.04. Financial Condition; No Material Adverse Change. (a) The Borrow...
+
+--- (Additional Root Structure) ---
+Content: (b) Since December 26, 2021, there has occurred no event, condition or circum...
+
+--- (Additional Root Structure) ---
+Section 3.05: SECTION 3.05. Properties. (a) Each of the Borrower and its Subsidiaries has g...
+
+--- (Additional Root Structure) ---
+Content: (b) Each of the Borrower and its Subsidiaries owns, or is licensed to use, al...
+
+--- (Additional Root Structure) ---
+Content: SECTION 3.06. Litigation, Environmental and Labor Matters. (a) There are no a...
+
+--- (Additional Root Structure) ---
+Content: (b) Except for the Disclosed Matters and except with respect to any other mat...
+
+--- (Additional Root Structure) ---
+Content: 67
+
+--- (Additional Root Structure) ---
+Content: Material Adverse Effect, none of the Borrower or any of its Subsidiaries (i) ...
+
+--- (Additional Root Structure) ---
+Content: (c) (i) There are no strikes, lockouts or slowdowns against the Borrower or a...
+
+--- (Additional Root Structure) ---
+Content: (d) Since the date of this Agreement, there has been no change in the status ...
+
+--- (Additional Root Structure) ---
+Section 3.07: SECTION 3.07. Compliance with Laws and Agreements; No Default. Each of the Bo...
+
+--- (Additional Root Structure) ---
+Section 3.08: SECTION 3.08. Investment Company Status. None of the Borrower or any of its S...
+
+--- (Additional Root Structure) ---
+Section 3.09: SECTION 3.09. Taxes. Each of the Borrower and its Subsidiaries has timely fil...
+
+--- (Additional Root Structure) ---
+Section 3.10: SECTION 3.10. ERISA. No ERISA Event has occurred or is reasonably expected to...
+
+--- (Additional Root Structure) ---
+Section 3.11: SECTION 3.11. Disclosure. (a) Neither the Information Memorandum nor any of t...
+
+--- (Additional Root Structure) ---
+Content: 68
+
+--- (Additional Root Structure) ---
+Content: Date, it being understood that forecasts and projected financial information ...
+
+--- (Additional Root Structure) ---
+Content: (b) As of the Signing Date, to the best knowledge of the Borrower, the inform...
+
+--- (Additional Root Structure) ---
+Section 3.12: SECTION 3.12. Anti-Corruption Laws, Anti-Money Laundering Laws and Sanctions....
+
+--- (Additional Root Structure) ---
+Section 3.13: SECTION 3.13. Affected Financial Institutions. No Loan Party is an Affected F...
+
+--- (Additional Root Structure) ---
+Section 3.14: SECTION 3.14. Margin Regulations. The Borrower is not engaged, principally or...
+
+--- (Additional Root Structure) ---
+Section 3.15: SECTION 3.15. [Reserved].
+
+--- (Additional Root Structure) ---
+Section 3.16: SECTION 3.16. Solvency. The Borrower and its Subsidiaries taken as a whole ar...
+
+--- (Additional Root Structure) ---
+Section 3.17: SECTION 3.17. Liens. There are no Liens on any of the real or personal proper...
+
+--- (Additional Root Structure) ---
+Section 3.18: SECTION 3.18. No Burdensome Restrictions. No Loan Party is subject to any Bur...
+
+--- (Additional Root Structure) ---
+Section 3.19: SECTION 3.19. Insurance. The Borrower maintains, and has caused each Subsidia...
+
+--- (Additional Root Structure) ---
+Section 3.20: SECTION 3.20. Security Interest in Collateral. The provisions of this Agreeme...
+
+--- (Additional Root Structure) ---
+Content: 69
+
+--- (Additional Root Structure) ---
+Content: to any applicable law (including because such Liens have priority over Liens ...
+
+--- (Additional Root Structure) ---
+Section 3.21: SECTION 3.21. Use of Proceeds. The proceeds of the Loans have been used and w...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IVConditions
+
+--- (Additional Root Structure) ---
+Section 4.01: SECTION 4.01. Signing Date. This Agreement and the Commitments hereunder shal...
+
+--- (Additional Root Structure) ---
+Content: (a) The Administrative Agent shall have received from each party to this Agre...
+
+--- (Additional Root Structure) ---
+Content: (b) The Administrative Agent shall have received such customary documents and...
+
+--- (Additional Root Structure) ---
+Content: (c) (i) The Administrative Agent shall have received, at least five days prio...
+
+--- (Additional Root Structure) ---
+Section 4.02: SECTION 4.02. Funding Date. The obligations of the Lenders to make Loans and ...
+
+--- (Additional Root Structure) ---
+Content: (a) The Signing Date shall have occurred.
+
+--- (Additional Root Structure) ---
+Content: 70
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower shall have delivered a Borrowing Request in accordance with ...
+
+--- (Additional Root Structure) ---
+Content: (c) The Lenders shall have received true and complete copies of the Spin-Off ...
+
+--- (Additional Root Structure) ---
+Content: (d) The Form 10 shall have been declared effective by the SEC and all conditi...
+
+--- (Additional Root Structure) ---
+Content: (e) The Lenders shall have received (a) a favorable solvency certificate from...
+
+--- (Additional Root Structure) ---
+Content: (f) The Lenders shall have received (i) audited consolidated financial statem...
+
+--- (Additional Root Structure) ---
+Content: 71
+
+--- (Additional Root Structure) ---
+Content: information as the Administrative Agent and the Lenders shall reasonably requ...
+
+--- (Additional Root Structure) ---
+Content: (g) There shall be no litigation or administrative proceeding that would reas...
+
+--- (Additional Root Structure) ---
+Content: (h) All governmental and third party approvals necessary or, in the discretio...
+
+--- (Additional Root Structure) ---
+Content: (i) The Collateral and Guarantee Requirement shall have been satisfied. The A...
+
+--- (Additional Root Structure) ---
+Content: (j) The Administrative Agent, each Lender and each Arranger shall have receiv...
+
+--- (Additional Root Structure) ---
+Content: (k) There shall not have occurred since December 26, 2021, any event, conditi...
+
+--- (Additional Root Structure) ---
+Content: (l) The Administrative Agent shall have received a favorable written opinion ...
+
+--- (Additional Root Structure) ---
+Content: (m) (i) Each Lender, as applicable, shall have received from the Borrower any...
+
+--- (Additional Root Structure) ---
+Content: (n) The Administrative Agent shall have received a certificate, dated the Fun...
+
+--- (Additional Root Structure) ---
+Content: 72
+
+--- (Additional Root Structure) ---
+Content: have been true and correct in all material respects (and in all respects if q...
+
+--- (Additional Root Structure) ---
+Content: (o) The Administrative Agent shall have received updated disclosure schedules...
+
+--- (Additional Root Structure) ---
+Content: The Administrative Agent shall notify the Borrower and the Lenders of the Fun...
+
+--- (Additional Root Structure) ---
+Section 4.03: SECTION 4.03. Each Credit Event. The obligation of each Lender to make a Loan...
+
+--- (Additional Root Structure) ---
+Content: (a) The representations and warranties of the Loan Parties set forth in the L...
+
+--- (Additional Root Structure) ---
+Content: (b) At the time of and immediately after giving effect to such Borrowing or t...
+
+--- (Additional Root Structure) ---
+Content: Each Borrowing and each issuance, amendment, renewal or extension of a Letter...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE VAffirmative Covenants
+
+--- (Additional Root Structure) ---
+Content: From and after (x) the Signing Date with respect to the requirements of Secti...
+
+--- (Additional Root Structure) ---
+Section 5.01: SECTION 5.01. Financial Statements and Other Information. The Borrower will f...
+
+--- (Additional Root Structure) ---
+Content: 73
+
+--- (Additional Root Structure) ---
+Content: (a) within 90 days after the end of each fiscal year of the Borrower (or, if ...
+
+--- (Additional Root Structure) ---
+Content: (b) within 45 days after the end of each of the first three fiscal quarters o...
+
+--- (Additional Root Structure) ---
+Content: (c) concurrently with any delivery of financial statements under clause (a) o...
+
+--- (Additional Root Structure) ---
+Content: (d) concurrently with any delivery of financial statements under clause (a) a...
+
+--- (Additional Root Structure) ---
+Content: (e) as soon as available, but in any event not more than thirty (30) days pri...
+
+--- (Additional Root Structure) ---
+Content: (f) promptly after the same become publicly available, copies of all periodic...
+
+--- (Additional Root Structure) ---
+Content: 74
+
+--- (Additional Root Structure) ---
+Content: Commission, or with any national securities exchange, or distributed by the B...
+
+--- (Additional Root Structure) ---
+Content: (g) promptly following any request therefor, (x) such other information regar...
+
+--- (Additional Root Structure) ---
+Content: Documents required to be delivered pursuant to Section 5.01(a), (b) or (f) (t...
+
+--- (Additional Root Structure) ---
+Section 5.02: SECTION 5.02. Notices of Material Events. The Borrower will furnish to the Ad...
+
+--- (Additional Root Structure) ---
+Content: (a) the occurrence of any Default;
+
+--- (Additional Root Structure) ---
+Content: (b) the filing or commencement of any Proceeding by or before any arbitrator ...
+
+--- (Additional Root Structure) ---
+Content: (c) the occurrence of any ERISA Event that, alone or together with any other ...
+
+--- (Additional Root Structure) ---
+Content: (d) [reserved];
+
+--- (Additional Root Structure) ---
+Content: (e) any material change in accounting or financial reporting practices by the...
+
+--- (Additional Root Structure) ---
+Content: (f) any other development that results in, or could reasonably be expected to...
+
+--- (Additional Root Structure) ---
+Content: (g) any change in the information provided in the Beneficial Ownership Certif...
+
+--- (Additional Root Structure) ---
+Content: Each notice delivered under this Section (i) shall be in writing, (ii) shall ...
+
+--- (Additional Root Structure) ---
+Content: 75
+
+--- (Additional Root Structure) ---
+Content: or other executive officer of the Borrower setting forth the details of the e...
+
+--- (Additional Root Structure) ---
+Section 5.03: SECTION 5.03. Existence; Conduct of Business. The Borrower will, and will cau...
+
+--- (Additional Root Structure) ---
+Section 5.04: SECTION 5.04. Payment of Obligations. The Borrower will pay, and will cause e...
+
+--- (Additional Root Structure) ---
+Section 5.05: SECTION 5.05. Maintenance of Properties; Insurance. The Borrower will, and wi...
+
+--- (Additional Root Structure) ---
+Section 5.06: SECTION 5.06. Books and Records; Inspection Rights. The Borrower will, and wi...
+
+--- (Additional Root Structure) ---
+Content: 76
+
+--- (Additional Root Structure) ---
+Content: detail, accurately reflect all transactions in relation to its business and a...
+
+--- (Additional Root Structure) ---
+Section 5.07: SECTION 5.07. Compliance with Laws and Agreements. The Borrower will, and wil...
+
+--- (Additional Root Structure) ---
+Section 5.08: SECTION 5.08. Use of Proceeds and Letters of Credit. The proceeds of the Term...
+
+--- (Additional Root Structure) ---
+Section 5.09: SECTION 5.09. Accuracy of Information. The Borrower will ensure that any writ...
+
+--- (Additional Root Structure) ---
+Content: 77
+
+--- (Additional Root Structure) ---
+Content: material fact necessary to make the statements therein, in the light of the c...
+
+--- (Additional Root Structure) ---
+Section 5.10: SECTION 5.10. Subsidiary Guarantors; Pledges; Additional Collateral; Further ...
+
+--- (Additional Root Structure) ---
+Content: (a) As promptly as possible but in any event within thirty (30) days (or such...
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower will cause, and will cause each other Loan Party to cause, a...
+
+--- (Additional Root Structure) ---
+Content: (c) Without limiting the foregoing, the Borrower will, and will cause each Su...
+
+--- (Additional Root Structure) ---
+Content: (d) If any assets are acquired by a Loan Party after the Funding Date (other ...
+
+--- (Additional Root Structure) ---
+Content: 78
+
+--- (Additional Root Structure) ---
+Content: requirements apply under the Security Agreement), the Borrower will notify th...
+
+--- (Additional Root Structure) ---
+Content: (e) Borrower shall provide Administrative Agent certificates of insurance and...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE VINegative Covenants
+
+--- (Additional Root Structure) ---
+Content: From and after the Funding Date and until the Commitments have expired or bee...
+
+--- (Additional Root Structure) ---
+Section 6.01: SECTION 6.01. Indebtedness. The Borrower will not, and will not permit any Su...
+
+--- (Additional Root Structure) ---
+Content: (a) The Secured Obligations;
+
+--- (Additional Root Structure) ---
+Content: (b) Indebtedness existing on the date hereof and set forth in Schedule 6.01, ...
+
+--- (Additional Root Structure) ---
+Content: (c) Indebtedness of the Borrower to any Subsidiary and of any Subsidiary to t...
+
+--- (Additional Root Structure) ---
+Content: (d) Guarantees by the Borrower of Indebtedness of any Subsidiary and by any S...
+
+--- (Additional Root Structure) ---
+Content: (e) Indebtedness of the Borrower or any Subsidiary incurred to finance the ac...
+
+--- (Additional Root Structure) ---
+Content: 79
+
+--- (Additional Root Structure) ---
+Content: (f) Indebtedness of any Person that becomes a Subsidiary after the date hereo...
+
+--- (Additional Root Structure) ---
+Content: (g) Indebtedness of the Borrower or any Subsidiary as an account party in res...
+
+--- (Additional Root Structure) ---
+Content: (h) unsecured Indebtedness of the Borrower or any Subsidiary so long as both ...
+
+--- (Additional Root Structure) ---
+Content: (i) other Indebtedness of the Borrower or any Subsidiary (“Ratio Debt”) in an...
+
+--- (Additional Root Structure) ---
+Content: (j) other Indebtedness of the Borrower or any Subsidiary; provided that the a...
+
+--- (Additional Root Structure) ---
+Content: For purposes of determining compliance with clauses (e), (i) and (j) of this ...
+
+--- (Additional Root Structure) ---
+Section 6.02: SECTION 6.02. Liens. The Borrower will not, and will not permit any Subsidiar...
+
+--- (Additional Root Structure) ---
+Content: 80
+
+--- (Additional Root Structure) ---
+Content: acquired by it, or assign or sell any income or revenues (including accounts ...
+
+--- (Additional Root Structure) ---
+Content: (a) Liens created pursuant to any Loan Document;
+
+--- (Additional Root Structure) ---
+Content: (b) Permitted Encumbrances;
+
+--- (Additional Root Structure) ---
+Content: (c) any Lien on any property or asset of the Borrower or any Subsidiary exist...
+
+--- (Additional Root Structure) ---
+Content: (d) any Lien existing on any property or asset prior to the acquisition there...
+
+--- (Additional Root Structure) ---
+Content: (e) Liens on fixed or capital assets acquired, constructed or improved by the...
+
+--- (Additional Root Structure) ---
+Content: (f) Liens on the Collateral created pursuant to the collateral documentation ...
+
+--- (Additional Root Structure) ---
+Content: (g) Liens on assets of the Borrower and its Subsidiaries not otherwise permit...
+
+--- (Additional Root Structure) ---
+Content: (h) Liens securing industrial revenue bond financings (inclusive of obligatio...
+
+--- (Additional Root Structure) ---
+Content: 81
+
+--- (Additional Root Structure) ---
+Content: (i) in the case of Equity Interests, restrictions on transfer under any appli...
+
+--- (Additional Root Structure) ---
+Content: (j) any restriction on assignment in any contract, lease, indenture or other ...
+
+--- (Additional Root Structure) ---
+Section 6.03: SECTION 6.03. Fundamental Changes. (a) The Borrower will not, and will not pe...
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower will not, and will not permit any of its Subsidiaries to, en...
+
+--- (Additional Root Structure) ---
+Content: (c) The Borrower will not permit its fiscal year to end on a day other than t...
+
+--- (Additional Root Structure) ---
+Section 6.04: SECTION 6.04. Dispositions. The Borrower will not, and will not permit any Su...
+
+--- (Additional Root Structure) ---
+Content: (a) Dispositions of obsolete or worn out property (whether now owned or herea...
+
+--- (Additional Root Structure) ---
+Content: (b) Dispositions of inventory and Cash Equivalents in the ordinary course of ...
+
+--- (Additional Root Structure) ---
+Content: (c) Dispositions of equipment or real property to the extent that (i) such pr...
+
+--- (Additional Root Structure) ---
+Content: (d) Dispositions of property by any Subsidiary to any Loan Party;
+
+--- (Additional Root Structure) ---
+Content: (e) Dispositions permitted by Section 6.03;
+
+--- (Additional Root Structure) ---
+Content: (f) leases, licenses, subleases or sublicenses (including the provision of op...
+
+--- (Additional Root Structure) ---
+Content: 82
+
+--- (Additional Root Structure) ---
+Content: (g) Dispositions of intellectual property rights that are no longer used or u...
+
+--- (Additional Root Structure) ---
+Content: (h) the discount, write-off or Disposition of past-due accounts receivable, i...
+
+--- (Additional Root Structure) ---
+Content: (i) Restricted Payments permitted by Section 6.07 and investments permitted b...
+
+--- (Additional Root Structure) ---
+Content: (j) other Dispositions (including any Sale and Leaseback Transaction, but exc...
+
+--- (Additional Root Structure) ---
+Section 6.05: SECTION 6.05. Investments, Loans, Advances, Guarantees and Acquisitions. The ...
+
+--- (Additional Root Structure) ---
+Content: (a) Cash Equivalents;
+
+--- (Additional Root Structure) ---
+Content: (b) Permitted Acquisitions;
+
+--- (Additional Root Structure) ---
+Content: (c) (i) investments by the Borrower and its Subsidiaries existing on the date...
+
+--- (Additional Root Structure) ---
+Content: (d) investments, loans or advances made by the Borrower to any Subsidiary and...
+
+--- (Additional Root Structure) ---
+Content: (e) Guarantees constituting Indebtedness permitted by Section 6.01(d); and
+
+--- (Additional Root Structure) ---
+Content: (f) any other investment, loan or advance (other than acquisitions) so long a...
+
+--- (Additional Root Structure) ---
+Content: 83
+
+--- (Additional Root Structure) ---
+Content: For purposes of determining the amount of any investment then outstanding, su...
+
+--- (Additional Root Structure) ---
+Section 6.06: SECTION 6.06. Swap Agreements. The Borrower will not, and will not permit any...
+
+--- (Additional Root Structure) ---
+Section 6.07: SECTION 6.07. Restricted Payments . The Borrower will not, and will not permi...
+
+--- (Additional Root Structure) ---
+Content: (a) the Borrower may declare and pay dividends with respect to its Equity Int...
+
+--- (Additional Root Structure) ---
+Content: (b) Subsidiaries may declare and pay dividends ratably with respect to their ...
+
+--- (Additional Root Structure) ---
+Content: (c) the Borrower and its Subsidiaries may make Restricted Payments pursuant t...
+
+--- (Additional Root Structure) ---
+Content: (d) the Borrower may make the FBHS Cash Payment on the Funding Date;
+
+--- (Additional Root Structure) ---
+Content: (e) the Borrower and its Subsidiaries may make other Restricted Payments so l...
+
+--- (Additional Root Structure) ---
+Content: (f) the Borrower and its Subsidiaries may make any other Restricted Payment s...
+
+--- (Additional Root Structure) ---
+Section 6.08: SECTION 6.08. Transactions with Affiliates. The Borrower will not, and will n...
+
+--- (Additional Root Structure) ---
+Content: 84
+
+--- (Additional Root Structure) ---
+Section 6.09: SECTION 6.09. Restrictive Agreements. The Borrower will not, and will not per...
+
+--- (Additional Root Structure) ---
+Section 6.10: SECTION 6.10. Subordinated Indebtedness and Amendments to Subordinated Indebt...
+
+--- (Additional Root Structure) ---
+Content: Furthermore, the Borrower will not, and will not permit any Subsidiary to, am...
+
+--- (Additional Root Structure) ---
+Content: (a) increases the overall principal amount of any such Indebtedness or increa...
+
+--- (Additional Root Structure) ---
+Content: (b) shortens or accelerates the date upon which any installment of principal ...
+
+--- (Additional Root Structure) ---
+Content: (c) shortens the final maturity date of such Indebtedness or otherwise accele...
+
+--- (Additional Root Structure) ---
+Content: (d) increases the rate of interest accruing on such Indebtedness;
+
+--- (Additional Root Structure) ---
+Content: (e) provides for the payment of additional fees or increases existing fees;
+
+--- (Additional Root Structure) ---
+Content: 85
+
+--- (Additional Root Structure) ---
+Content: (f) amends or modifies any financial or negative covenant (or covenant which ...
+
+--- (Additional Root Structure) ---
+Content: (g) amends, modifies or adds any affirmative covenant in a manner which (i) w...
+
+--- (Additional Root Structure) ---
+Section 6.11: SECTION 6.11. Sale and Leaseback Transactions. Subject to Section 6.04(j), th...
+
+--- (Additional Root Structure) ---
+Section 6.12: SECTION 6.12. Financial Covenants.
+
+--- (Additional Root Structure) ---
+Content: (a) Net Leverage Ratio. The Borrower will not permit the Net Leverage Ratio a...
+
+--- (Additional Root Structure) ---
+Content: (b) Interest Coverage Ratio. The Borrower will not permit the Interest Covera...
+
+--- (Additional Root Structure) ---
+Content: 86
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE VIIEvents of Default
+
+--- (Additional Root Structure) ---
+Section 7.01: SECTION 7.01. Events of Default. The following events shall each constitute a...
+
+--- (Additional Root Structure) ---
+Content: (a) the Borrower shall fail to pay any principal of any Loan or any reimburse...
+
+--- (Additional Root Structure) ---
+Content: (b) (i) the Borrower shall fail to pay any interest on any Loan or on any LC ...
+
+--- (Additional Root Structure) ---
+Content: (c) any representation or warranty made or deemed made by or on behalf of the...
+
+--- (Additional Root Structure) ---
+Content: (d) the Borrower shall fail to observe or perform any covenant, condition or ...
+
+--- (Additional Root Structure) ---
+Content: (e) the Borrower or any Subsidiary Guarantor, as applicable, shall fail to ob...
+
+--- (Additional Root Structure) ---
+Content: (f) the Borrower or any of its Subsidiaries shall fail to make any payment (o...
+
+--- (Additional Root Structure) ---
+Content: (g) any Material Indebtedness becomes due prior to its scheduled maturity or ...
+
+--- (Additional Root Structure) ---
+Content: (h) an involuntary proceeding shall be commenced or an involuntary petition s...
+
+--- (Additional Root Structure) ---
+Content: 87
+
+--- (Additional Root Structure) ---
+Content: any of its Subsidiaries or its debts, or of a substantial part of its assets,...
+
+--- (Additional Root Structure) ---
+Content: (i) the Borrower or any of its Subsidiaries shall (i) voluntarily commence an...
+
+--- (Additional Root Structure) ---
+Content: (j) the Borrower or any Subsidiary shall become unable, admit in writing its ...
+
+--- (Additional Root Structure) ---
+Content: (k) one or more final judgments for the payment of money in an aggregate amou...
+
+--- (Additional Root Structure) ---
+Content: (l) an ERISA Event shall have occurred that, in the opinion of the Required L...
+
+--- (Additional Root Structure) ---
+Content: (m) a Change in Control shall occur;
+
+--- (Additional Root Structure) ---
+Content: (n) the occurrence of any “default”, as defined in any Loan Document (other t...
+
+--- (Additional Root Structure) ---
+Content: (o) any material provision of any Loan Document, at any time after its execut...
+
+--- (Additional Root Structure) ---
+Content: (p) any Collateral Document shall for any reason fail to create a valid and p...
+
+--- (Additional Root Structure) ---
+Content: 88
+
+--- (Additional Root Structure) ---
+Content: (q) the Spin-Off shall not be consummated at 11:59 p.m. New York City time on...
+
+--- (Additional Root Structure) ---
+Section 7.02: SECTION 7.02. Remedies Upon an Event of Default. If an Event of Default occur...
+
+--- (Additional Root Structure) ---
+Content: (a) terminate the Commitments, and thereupon the Commitments shall terminate ...
+
+--- (Additional Root Structure) ---
+Content: (b) declare the Loans then outstanding to be due and payable in whole (or in ...
+
+--- (Additional Root Structure) ---
+Content: (c) require that the Borrower provide cash collateral for the LC Exposure as ...
+
+--- (Additional Root Structure) ---
+Content: (d) exercise on behalf of itself, the Lenders and the Issuing Banks all right...
+
+--- (Additional Root Structure) ---
+Content: If an Event of Default described in clause (h) or (i) of Section 7.01 occurs ...
+
+--- (Additional Root Structure) ---
+Content: In addition to any other rights and remedies granted to the Administrative Ag...
+
+--- (Additional Root Structure) ---
+Content: 89
+
+--- (Additional Root Structure) ---
+Content: shall have the right upon any such public sale or sales, and, to the extent p...
+
+--- (Additional Root Structure) ---
+Section 7.03: SECTION 7.03. Application of Payments. Notwithstanding anything herein to the...
+
+--- (Additional Root Structure) ---
+Content: (a) all payments received on account of the Secured Obligations shall, subjec...
+
+--- (Additional Root Structure) ---
+Content: (i) first, to payment of that portion of the Secured Obligations constituting...
+
+--- (Additional Root Structure) ---
+Content: (ii) second, to payment of that portion of the Secured Obligations constituti...
+
+--- (Additional Root Structure) ---
+Content: (iii) third, to payment of that portion of the Secured Obligations constituti...
+
+--- (Additional Root Structure) ---
+Content: (iv) fourth, (A) to payment of that portion of the Secured Obligations consti...
+
+--- (Additional Root Structure) ---
+Content: 90
+
+--- (Additional Root Structure) ---
+Content: of Letters of Credit to the extent not otherwise cash collateralized by the B...
+
+--- (Additional Root Structure) ---
+Content: (v) fifth, to the payment in full of all other Secured Obligations, in each c...
+
+--- (Additional Root Structure) ---
+Content: (vi) finally, the balance, if any, after all Secured Obligations have been in...
+
+--- (Additional Root Structure) ---
+Content: (b) if any amount remains on deposit as cash collateral after all Letters of ...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE VIIIThe Administrative Agent
+
+--- (Additional Root Structure) ---
+Section 8.01: SECTION 8.01. Authorization and Action. (a) Each Lender and each Issuing Bank...
+
+--- (Additional Root Structure) ---
+Content: (b) As to any matters not expressly provided for herein and in the other Loan...
+
+--- (Additional Root Structure) ---
+Content: 91
+
+--- (Additional Root Structure) ---
+Content: Defaulting Lender in violation of any requirement of law relating to bankrupt...
+
+--- (Additional Root Structure) ---
+Content: (c) In performing its functions and duties hereunder and under the other Loan...
+
+--- (Additional Root Structure) ---
+Content: (i) the Administrative Agent does not assume and shall not be deemed to have ...
+
+--- (Additional Root Structure) ---
+Content: (ii) nothing in this Agreement or any Loan Document shall require the Adminis...
+
+--- (Additional Root Structure) ---
+Content: (d) The Administrative Agent may perform any of its duties and exercise its r...
+
+--- (Additional Root Structure) ---
+Content: (e) None of any Co-Syndication Agent, any Co-Documentation Agent or any Arran...
+
+--- (Additional Root Structure) ---
+Content: 92
+
+--- (Additional Root Structure) ---
+Content: any other Loan Document and shall incur no liability hereunder or thereunder ...
+
+--- (Additional Root Structure) ---
+Content: (f) In case of the pendency of any proceeding with respect to any Loan Party ...
+
+--- (Additional Root Structure) ---
+Content: (g) The provisions of this Article are solely for the benefit of the Administ...
+
+--- (Additional Root Structure) ---
+Section 8.02: SECTION 8.02. Administrative Agent’s Reliance, Limitation of Liability, Etc. ...
+
+--- (Additional Root Structure) ---
+Content: 93
+
+--- (Additional Root Structure) ---
+Content: (b) The Administrative Agent shall be deemed not to have knowledge of any (i)...
+
+--- (Additional Root Structure) ---
+Content: (c) Without limiting the foregoing, the Administrative Agent (i) may treat th...
+
+--- (Additional Root Structure) ---
+Section 8.03: SECTION 8.03. Posting of Communications. (a) The Borrower agrees that the Adm...
+
+--- (Additional Root Structure) ---
+Content: (b) Although the Approved Electronic Platform and its primary web portal are ...
+
+--- (Additional Root Structure) ---
+Content: 94
+
+--- (Additional Root Structure) ---
+Content: the Administrative Agent from time to time (including, as of the Signing Date...
+
+--- (Additional Root Structure) ---
+Content: (c) THE APPROVED ELECTRONIC PLATFORM AND THE COMMUNICATIONS ARE PROVIDED “AS ...
+
+--- (Additional Root Structure) ---
+Content: “Communications” means, collectively, any notice, demand, communication, info...
+
+--- (Additional Root Structure) ---
+Content: (d) Each Lender and each Issuing Bank agrees that notice to it (as provided i...
+
+--- (Additional Root Structure) ---
+Content: (e) Each of the Lenders, each of the Issuing Banks and the Borrower agrees th...
+
+--- (Additional Root Structure) ---
+Content: 95
+
+--- (Additional Root Structure) ---
+Content: (f) Nothing herein shall prejudice the right of the Administrative Agent, any...
+
+--- (Additional Root Structure) ---
+Section 8.04: SECTION 8.04. The Administrative Agent Individually. With respect to its Comm...
+
+--- (Additional Root Structure) ---
+Section 8.05: SECTION 8.05. Successor Administrative Agent. (a) The Administrative Agent ma...
+
+--- (Additional Root Structure) ---
+Content: (b) Notwithstanding paragraph (a) of this Section, in the event no successor ...
+
+--- (Additional Root Structure) ---
+Content: 96
+
+--- (Additional Root Structure) ---
+Content: obligation to take any further action under any Collateral Document, includin...
+
+--- (Additional Root Structure) ---
+Section 8.06: SECTION 8.06. Acknowledgments of Lenders and Issuing Banks. (a) Each Lender a...
+
+--- (Additional Root Structure) ---
+Content: (b) Each Lender, by delivering its signature page to this Agreement on the Si...
+
+--- (Additional Root Structure) ---
+Section 8.07: SECTION 8.07. Collateral Matters. (a) Except with respect to the exercise of ...
+
+--- (Additional Root Structure) ---
+Content: 97
+
+--- (Additional Root Structure) ---
+Content: exercised solely by the Administrative Agent on behalf of the Secured Parties...
+
+--- (Additional Root Structure) ---
+Content: (b) In furtherance of the foregoing and not in limitation thereof, no arrange...
+
+--- (Additional Root Structure) ---
+Content: (c) The Secured Parties irrevocably authorize the Administrative Agent, at it...
+
+--- (Additional Root Structure) ---
+Section 8.08: SECTION 8.08. Credit Bidding. The Secured Parties hereby irrevocably authoriz...
+
+--- (Additional Root Structure) ---
+Content: 98
+
+--- (Additional Root Structure) ---
+Content: this Agreement and without giving effect to the limitations on actions by the...
+
+--- (Additional Root Structure) ---
+Section 8.09: SECTION 8.09. Certain ERISA Matters. (a) Each Lender (x) represents and warra...
+
+--- (Additional Root Structure) ---
+Content: (i) such Lender is not using “plan assets” (within the meaning of the Plan As...
+
+--- (Additional Root Structure) ---
+Content: (ii) the transaction exemption set forth in one or more PTEs, such as PTE 84-...
+
+--- (Additional Root Structure) ---
+Content: (iii) (A) such Lender is an investment fund managed by a “Qualified Professio...
+
+--- (Additional Root Structure) ---
+Content: 99
+
+--- (Additional Root Structure) ---
+Content: (a) of Part I of PTE 84-14 are satisfied with respect to such Lender’s entran...
+
+--- (Additional Root Structure) ---
+Content: (iv) such other representation, warranty and covenant as may be agreed in wri...
+
+--- (Additional Root Structure) ---
+Content: (b) In addition, unless sub-clause (i) in the immediately preceding clause (a...
+
+--- (Additional Root Structure) ---
+Section 8.10: SECTION 8.10. Certain Payments.
+
+--- (Additional Root Structure) ---
+Content: (a) Each Lender hereby agrees that (x) if the Administrative Agent notifies s...
+
+--- (Additional Root Structure) ---
+Content: (b) Each Lender hereby further agrees that if it receives a Payment from the ...
+
+--- (Additional Root Structure) ---
+Content: 100
+
+--- (Additional Root Structure) ---
+Content: received by such Lender to the date such amount is repaid to the Administrati...
+
+--- (Additional Root Structure) ---
+Content: (c) The Borrower and each other Loan Party hereby agrees that (x) in the even...
+
+--- (Additional Root Structure) ---
+Content: (d) Each party’s obligations under this Section 8.10 shall survive the resign...
+
+--- (Additional Root Structure) ---
+Section 8.11: SECTION 8.11. Applicable Intercreditor Agreements. Without limiting the autho...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE IXMiscellaneous
+
+--- (Additional Root Structure) ---
+Section 9.01: SECTION 9.01. Notices. (a) Except in the case of notices and other communicat...
+
+--- (Additional Root Structure) ---
+Content: (i) if to the Borrower, to it at One MasterBrand Cabinets Drive, Jasper, Indi...
+
+--- (Additional Root Structure) ---
+Content: (ii) if to the Administrative Agent or to JPMorgan as Swingline Lender, to JP...
+
+--- (Additional Root Structure) ---
+Content: (iii) if to JPMorgan as Issuing Bank, to it at JPMorgan Chase Bank, N. A., 10...
+
+--- (Additional Root Structure) ---
+Content: 101
+
+--- (Additional Root Structure) ---
+Content: Loan & Agency Services Group (Phone: (312) 732-3649; Fax No: (844) 490-5665; ...
+
+--- (Additional Root Structure) ---
+Content: (iv) if to any other Lender, Issuing Bank or Swingline Lender, to it at its a...
+
+--- (Additional Root Structure) ---
+Content: Notices sent by hand or overnight courier service, or mailed by certified or ...
+
+--- (Additional Root Structure) ---
+Content: (b) Notices and other communications to the Borrower, any Loan Party, the Len...
+
+--- (Additional Root Structure) ---
+Content: (c) Unless the Administrative Agent otherwise prescribes, (i) notices and oth...
+
+--- (Additional Root Structure) ---
+Content: (d) Any party hereto may change its address or telecopy number for notices an...
+
+--- (Additional Root Structure) ---
+Section 9.02: SECTION 9.02. Waivers; Amendments. (a) No failure or delay by the Administrat...
+
+--- (Additional Root Structure) ---
+Content: 102
+
+--- (Additional Root Structure) ---
+Content: (b) Except as provided in Section 2.09(d) with respect to an Incremental Term...
+
+--- (Additional Root Structure) ---
+Content: 103
+
+--- (Additional Root Structure) ---
+Content: Administrative Agent, the Issuing Banks or the Swingline Lenders, as the case...
+
+--- (Additional Root Structure) ---
+Content: (c) Notwithstanding anything in clause (b) above to the contrary, this Agreem...
+
+--- (Additional Root Structure) ---
+Content: (d) The Lenders hereby irrevocably authorize the Administrative Agent, at its...
+
+--- (Additional Root Structure) ---
+Content: 104
+
+--- (Additional Root Structure) ---
+Content: the requirement to pay any sums to obtain such consent) to permit the Adminis...
+
+--- (Additional Root Structure) ---
+Content: (e) If the Administrative Agent and the Borrower acting together identify any...
+
+--- (Additional Root Structure) ---
+Section 9.03: SECTION 9.03. Expenses; Indemnity; Damage Waiver; Limitation of Liability. (a...
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower shall indemnify the Administrative Agent, each Arranger, eac...
+
+--- (Additional Root Structure) ---
+Content: 105
+
+--- (Additional Root Structure) ---
+Content: whether based on contract, tort or any other theory and regardless of whether...
+
+--- (Additional Root Structure) ---
+Content: (c) Each Lender severally agrees to pay any amount required to be paid by the...
+
+--- (Additional Root Structure) ---
+Content: (d) To the extent permitted by applicable law (i) the Borrower and any Loan P...
+
+--- (Additional Root Structure) ---
+Content: 106
+
+--- (Additional Root Structure) ---
+Content: proceeds thereof; provided that, nothing in this Section 9.03(d) shall reliev...
+
+--- (Additional Root Structure) ---
+Content: (e) All amounts due under this Section shall be payable not later than five B...
+
+--- (Additional Root Structure) ---
+Section 9.04: SECTION 9.04. Successors and Assigns. (a) The provisions of this Agreement sh...
+
+--- (Additional Root Structure) ---
+Content: (b) (i) Subject to the conditions set forth in paragraph (b)(ii) below, any L...
+
+--- (Additional Root Structure) ---
+Content: (A) the Borrower, provided that no consent of the Borrower shall be required ...
+
+--- (Additional Root Structure) ---
+Content: (B) the Administrative Agent, provided that no consent of the Administrative ...
+
+--- (Additional Root Structure) ---
+Content: (C) the Issuing Banks; provided that no consent of the Issuing Banks shall be...
+
+--- (Additional Root Structure) ---
+Content: (D) the Swingline Lenders provided that no consent of the Swingline Lenders s...
+
+--- (Additional Root Structure) ---
+Content: (ii) Assignments shall be subject to the following additional conditions:
+
+--- (Additional Root Structure) ---
+Content: (A) except in the case of an assignment to a Lender or an Affiliate of a Lend...
+
+--- (Additional Root Structure) ---
+Content: 107
+
+--- (Additional Root Structure) ---
+Content: the assigning Lender’s Commitment or Loans of any Class, the amount of the Co...
+
+--- (Additional Root Structure) ---
+Content: (B) each partial assignment shall be made as an assignment of a proportionate...
+
+--- (Additional Root Structure) ---
+Content: (C) the parties to each assignment shall execute and deliver to the Administr...
+
+--- (Additional Root Structure) ---
+Content: (D) the assignee, if it shall not be a Lender, shall deliver to the Administr...
+
+--- (Additional Root Structure) ---
+Content: For the purposes of this Section 9.04(b), the terms “Approved Fund” and “Inel...
+
+--- (Additional Root Structure) ---
+Content: “Approved Fund” means any Person (other than a natural person) that is engage...
+
+--- (Additional Root Structure) ---
+Content: “Ineligible Institution” means (a) a natural person, (b) a Defaulting Lender ...
+
+--- (Additional Root Structure) ---
+Content: 108
+
+--- (Additional Root Structure) ---
+Content: (iii) Subject to acceptance and recording thereof pursuant to paragraph (b)(i...
+
+--- (Additional Root Structure) ---
+Content: (iv) The Administrative Agent, acting for this purpose as a non-fiduciary age...
+
+--- (Additional Root Structure) ---
+Content: (v) Upon its receipt of (x) a duly completed Assignment and Assumption execut...
+
+--- (Additional Root Structure) ---
+Content: (c) Any Lender may, without the consent of the Borrower, the Administrative A...
+
+--- (Additional Root Structure) ---
+Content: 109
+
+--- (Additional Root Structure) ---
+Content: Agent, the Issuing Banks and the other Lenders shall continue to deal solely ...
+
+--- (Additional Root Structure) ---
+Content: (d) Any Lender may at any time pledge or assign a security interest in all or...
+
+--- (Additional Root Structure) ---
+Section 9.05: SECTION 9.05. Survival. All covenants, agreements, representations and warran...
+
+--- (Additional Root Structure) ---
+Content: 110
+
+--- (Additional Root Structure) ---
+Content: or any other Loan Document is outstanding and unpaid or any Letter of Credit ...
+
+--- (Additional Root Structure) ---
+Section 9.06: SECTION 9.06. Counterparts; Integration; Effectiveness; Electronic Execution.
+
+--- (Additional Root Structure) ---
+Content: (a) This Agreement may be executed in counterparts (and by different parties ...
+
+--- (Additional Root Structure) ---
+Content: (b) Delivery of an executed counterpart of a signature page of (x) this Agree...
+
+--- (Additional Root Structure) ---
+Content: 111
+
+--- (Additional Root Structure) ---
+Content: at its option, create one or more copies of this Agreement, any other Loan Do...
+
+--- (Additional Root Structure) ---
+Section 9.07: SECTION 9.07. Severability. Any provision of any Loan Document held to be inv...
+
+--- (Additional Root Structure) ---
+Section 9.08: SECTION 9.08. Right of Setoff. If an Event of Default shall have occurred and...
+
+--- (Additional Root Structure) ---
+Section 9.09: SECTION 9.09. Governing Law; Jurisdiction; Consent to Service of Process. (a)...
+
+--- (Additional Root Structure) ---
+Content: (b) Each of the Lenders and the Administrative Agent hereby irrevocably and u...
+
+--- (Additional Root Structure) ---
+Content: 112
+
+--- (Additional Root Structure) ---
+Content: Loan Document, any claims brought against the Administrative Agent by any Len...
+
+--- (Additional Root Structure) ---
+Content: (c) Each of the parties hereto hereby irrevocably and unconditionally submits...
+
+--- (Additional Root Structure) ---
+Content: (d) Each of the parties hereto hereby irrevocably and unconditionally waives,...
+
+--- (Additional Root Structure) ---
+Content: (e) Each party to this Agreement irrevocably consents to service of process i...
+
+--- (Additional Root Structure) ---
+Section 9.10: SECTION 9.10. WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE F...
+
+--- (Additional Root Structure) ---
+Content: 113
+
+--- (Additional Root Structure) ---
+Content: LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT...
+
+--- (Additional Root Structure) ---
+Table of Contents: SECTION 9.11. Headings. Article and Section headings and the Table of Content...
+
+--- (Additional Root Structure) ---
+Section 9.12: SECTION 9.12. Confidentiality. Each of the Administrative Agent, the Issuing ...
+
+--- (Additional Root Structure) ---
+Section 9.13: SECTION 9.13. Interest Rate Limitation. Notwithstanding anything herein to th...
+
+--- (Additional Root Structure) ---
+Content: 114
+
+--- (Additional Root Structure) ---
+Content: Loan but were not payable as a result of the operation of this Section shall ...
+
+--- (Additional Root Structure) ---
+Section 9.14: SECTION 9.14. No Fiduciary Duty, etc.
+
+--- (Additional Root Structure) ---
+Content: (a) The Borrower acknowledges and agrees, and acknowledges its Subsidiaries’ ...
+
+--- (Additional Root Structure) ---
+Content: (b) The Borrower further acknowledges and agrees, and acknowledges its Subsid...
+
+--- (Additional Root Structure) ---
+Content: (c) In addition, the Borrower acknowledges and agrees, and acknowledges its S...
+
+--- (Additional Root Structure) ---
+Section 9.15: SECTION 9.15. USA PATRIOT Act. Each Lender that is subject to the requirement...
+
+--- (Additional Root Structure) ---
+Content: 115
+
+--- (Additional Root Structure) ---
+Content: other information that will allow such Lender to identify the Borrower in acc...
+
+--- (Additional Root Structure) ---
+Section 9.16: SECTION 9.16. Non-Public Information.
+
+--- (Additional Root Structure) ---
+Content: (a) Each Lender acknowledges that all information furnished to it pursuant to...
+
+--- (Additional Root Structure) ---
+Content: (b) All such information, including requests for waivers and amendments, furn...
+
+--- (Additional Root Structure) ---
+Section 9.17: SECTION 9.17. Acknowledgement and Consent to Bail-In of Affected Financial In...
+
+--- (Additional Root Structure) ---
+Content: (a) the application of any Write-Down and Conversion Powers by the applicable...
+
+--- (Additional Root Structure) ---
+Content: (b) the effects of any Bail-In Action on any such liability, including, if ap...
+
+--- (Additional Root Structure) ---
+Content: (i) a reduction in full or in part or cancellation of any such liability;
+
+--- (Additional Root Structure) ---
+Content: (ii) a conversion of all, or a portion of, such liability into shares or othe...
+
+--- (Additional Root Structure) ---
+Content: (iii) the variation of the terms of such liability in connection with the exe...
+
+--- (Additional Root Structure) ---
+Content: SECTION 9.18. Acknowledgement Regarding Any Supported QFCs. To the extent tha...
+
+--- (Additional Root Structure) ---
+Content: 116
+
+--- (Additional Root Structure) ---
+Content: (together with the regulations promulgated thereunder, the “U.S. Special Reso...
+
+--- (Additional Root Structure) ---
+Content: In the event a Covered Entity that is party to a Supported QFC (each, a “Cove...
+
+--- (Additional Root Structure) ---
+Section 9.19: SECTION 9.19. Releases of Subsidiary Guarantors. (a) A Subsidiary Guarantor s...
+
+--- (Additional Root Structure) ---
+Content: (b) Further, the Administrative Agent may (and is hereby irrevocably authoriz...
+
+--- (Additional Root Structure) ---
+Content: (c) At such time as the principal and interest on the Loans, all LC Disbursem...
+
+--- (Additional Root Structure) ---
+Section 9.20: SECTION 9.20. Appointment for Perfection . Each Lender hereby appoints each o...
+
+--- (Additional Root Structure) ---
+Content: 117
+
+--- (Additional Root Structure) ---
+Content: than the Administrative Agent) obtain possession or control of any such Colla...
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTICLE XBorrower Guarantee
+
+--- (Additional Root Structure) ---
+Content: In order to induce the Lenders to extend credit to the Borrower hereunder and...
+
+--- (Additional Root Structure) ---
+Content: The Borrower waives presentment to, demand of payment from and protest to any...
+
+--- (Additional Root Structure) ---
+Content: The Borrower further agrees that its agreement hereunder constitutes a guaran...
+
+--- (Additional Root Structure) ---
+Content: 118
+
+--- (Additional Root Structure) ---
+Content: the books of the Administrative Agent, the Issuing Bank or any Lender in favo...
+
+--- (Additional Root Structure) ---
+Content: The obligations of the Borrower hereunder shall not be subject to any reducti...
+
+--- (Additional Root Structure) ---
+Content: The Borrower further agrees that its obligations hereunder shall constitute a...
+
+--- (Additional Root Structure) ---
+Content: In furtherance of the foregoing and not in limitation of any other right whic...
+
+--- (Additional Root Structure) ---
+Content: Upon payment by the Borrower of any sums as provided above, all rights of the...
+
+--- (Additional Root Structure) ---
+Content: Nothing shall discharge or satisfy the liability of the Borrower hereunder ex...
+
+--- (Additional Root Structure) ---
+Content: 119
+
+--- (Additional Root Structure) ---
+Heading (L1): [signature pages follow]
+
+--- (Additional Root Structure) ---
+Content: 120
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXECUTION VERSION
+
+--- (Additional Root Structure) ---
+TableOfContentsElement: PageARTICLE I Definitions1SECTION 1.01. Defined Terms1SECTION 1.02. Classific...
+
+--- (Additional Root Structure) ---
+TableElement: Net Leverage RatioTerm Benchmark/RFR Spread and L/C Fee RateABR SpreadCommitm...
+
+--- (Additional Root Structure) ---
+TableElement: DateAmountMarch 31, 2023, June 30, 2023, September 30, 2023 and December 31, ...

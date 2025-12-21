@@ -1,0 +1,21 @@
+Visual Semantic Tree for agreement_088.html
+Generated using AgreementParserv9Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 63.6%
+Total Elements: 12
+Hierarchical Elements: 12
+================================================================================
+
+AGREEMENT: Second Amendment to Product Agreement
+|-- Recital: NOW THEREFORE in consideration of the premises hereof and other good and valu...
+|-- Exhibit Exhibit 1: 1.Amendment to Schedule C. The stability pricing table on Schedule C of the P...
+`-- Exhibit Schedule C: 2.Side Letter Agreements. The parties hereby agree that any future changes to...
+    |-- Content: 3.No Other Modifications. Except as specifically modified by this Amendment, ...
+    |-- Content: IN WITNESS WHEREOF, the parties have caused this Amendment to be duly execute...
+    |-- Heading (L2): Patheon Pharmaceuticals Inc. ACADIA Pharmaceuticals Inc.
+    |-- Heading (L2): By: /s/ Nicholas M. Buschur By: /s/ James Nash
+    |-- Heading (L2): Name: Nicholas M. Buschur Name: James Nash
+    |-- Heading (L2): Title: Executive Director & GM Title: SVP, Technology Development &
+    |-- Heading (L2): Operations
+    `-- Heading (L2): Updated Stability Pricing

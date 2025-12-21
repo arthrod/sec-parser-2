@@ -1,0 +1,424 @@
+Visual Semantic Tree for agreement_083.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 13.8%
+Total Elements: 139
+Hierarchical Elements: 138
+================================================================================
+
+AGREEMENT: RECITALS
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+Content: CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THE EXHIBIT BECAUSE IT ...
+
+--- (Additional Root Structure) ---
+Content: LICENSE AND SERVICES AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: This License and Services Agreement (this “Agreement”) is entered into as of ...
+
+--- (Additional Root Structure) ---
+Content: A.Serve has developed, and continues to develop, the Serve AMR Technology and...
+
+--- (Additional Root Structure) ---
+Content: B.the Parties are entering into a strategic partnership comprising three rela...
+
+--- (Additional Root Structure) ---
+Content: C.Magna wishes to obtain from Serve, and Serve wishes to grant to Magna, a li...
+
+--- (Additional Root Structure) ---
+Content: D.Magna wishes to obtain from Serve, and Serve wishes to provide to Magna, ce...
+
+--- (Additional Root Structure) ---
+Content: Now, Therefore, in consideration of the foregoing premises and the mutual cov...
+
+--- (Additional Root Structure) ---
+Heading (L1): 1. License Grant.
+
+--- (Additional Root Structure) ---
+Content: 1.1 License to Serve AMR Technology. Subject to the terms and conditions unde...
+
+--- (Additional Root Structure) ---
+Content: 1.2 Limited Post-Termination License. Except for termination of the Agreement...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): 2. Serve Commercialization Support.
+
+--- (Additional Root Structure) ---
+Content: 2.1 AMR Products Commercialization Support. During the Term, Serve shall prov...
+
+--- (Additional Root Structure) ---
+Content: (a)Performing development services for the Serve AMR Technology, including mo...
+
+--- (Additional Root Structure) ---
+Content: (b)Assisting Magna with any development work performed by Magna on the Serve ...
+
+--- (Additional Root Structure) ---
+Content: (c)Providing technical and development resources, including an application pr...
+
+--- (Additional Root Structure) ---
+Content: (d)Optimizing the performance of all software incorporated into or used with ...
+
+--- (Additional Root Structure) ---
+Content: (e)Testing and improving the safety of the Serve AMR Technology and the AMR P...
+
+--- (Additional Root Structure) ---
+Content: 2.2 Notwithstanding anything contained in this Agreement or the Master Servic...
+
+--- (Additional Root Structure) ---
+Content: (a)All Specific Developed Technology that is a derivative work or modificatio...
+
+--- (Additional Root Structure) ---
+Content: (b)All Specific Developed Technology that is not Modified Serve AMR Technolog...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2; Options: NewSection; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.3 Terms Relating to Commercialization Support.
+
+--- (Additional Root Structure) ---
+Content: Following any request made pursuant to Section 2.1 for Development Services a...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3. Additional AMR Products Terms.
+
+--- (Additional Root Structure) ---
+Content: 3.1 Modifications to AMR Products. Serve covenants and agrees that it will no...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything to the contrary, no rights are granted hereunder to ...
+
+--- (Additional Root Structure) ---
+Content: 3.2 Software Services. Serve and Magna shall negotiate in good faith the prov...
+
+--- (Additional Root Structure) ---
+Content: 3.3 Magna Provided Services. Magna may, with Serve’s consent, provide certain...
+
+--- (Additional Root Structure) ---
+Content: 3.4 MDP Delivery; Manufacture. Within [***], Serve will deliver to Magna the ...
+
+--- (Additional Root Structure) ---
+Content: 3.5 Hosting of Serve Software. Magna shall have the right, to host, or cause ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 3.6 New Versions and Updates. No New Versions and Updates that relate to, or ...
+
+--- (Additional Root Structure) ---
+Section 4: 4. Service Levels.
+
+--- (Additional Root Structure) ---
+Content: 4.1 Availability Requirement. Serve shall ensure that the Serve Software is A...
+
+--- (Additional Root Structure) ---
+Heading (L1): 4.2 Remedies for Service Availability Failures.
+
+--- (Additional Root Structure) ---
+Content: (a)If the actual Availability of the Serve Software is less than the Availabi...
+
+--- (Additional Root Structure) ---
+Content: (b)If the actual Availability of the Serve Software is less than the Availabi...
+
+--- (Additional Root Structure) ---
+Content: 4.3 Exceptions. No period of Serve Software degradation or inoperability will...
+
+--- (Additional Root Structure) ---
+Content: 4.4 Scheduled Downtime. Serve shall notify Magna at least fourteen (14) days ...
+
+--- (Additional Root Structure) ---
+Content: 4.5 Support Service Level Requirements. Magna is responsible for answering an...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 5: 5. [***].
+
+--- (Additional Root Structure) ---
+Content: 6. Confidential Information. This Agreement shall be governed by the confiden...
+
+--- (Additional Root Structure) ---
+Heading (L1): 7. Technology Escrow
+
+--- (Additional Root Structure) ---
+Heading (L1): 8. Intellectual Property Matters.
+
+--- (Additional Root Structure) ---
+Heading (L1): 8.1 Background Rights. Except as expressly set forth herein, each Party shall:
+
+--- (Additional Root Structure) ---
+Content: (a)retain all right, title, and interest in and to all Intellectual Property ...
+
+--- (Additional Root Structure) ---
+Content: (b)own and retain all right, title, and interest in and to all Intellectual P...
+
+--- (Additional Root Structure) ---
+Content: 8.2 Ownership of User Data. As between Magna and Serve, Magna is and will rem...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9. Serve Representations and Warranties.
+
+--- (Additional Root Structure) ---
+Content: 9.1 Design Warranty Regarding AMR Vehicles. Serve represents and warrants tha...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 9.2 Intellectual Property Representations and Warranties Regarding the Serve ...
+
+--- (Additional Root Structure) ---
+Content: (a)when used in accordance with this Agreement and the Documentation, the Ser...
+
+--- (Additional Root Structure) ---
+Content: (b)Serve is the exclusive owner of the Intellectual Property Rights in and to...
+
+--- (Additional Root Structure) ---
+Content: (c)the Escrow Materials actually deposited by Serve into escrow pursuant to S...
+
+--- (Additional Root Structure) ---
+Heading (L1): 9.3 Representations and Warranties Regarding the Serve Software. Serve repres...
+
+--- (Additional Root Structure) ---
+Content: (a)Serve has and will retain the ability to enter into this Agreement and gra...
+
+--- (Additional Root Structure) ---
+Content: (b)the Serve Software will perform in the manner intended and in accordance w...
+
+--- (Additional Root Structure) ---
+Content: (c)the Serve Software does not contain any virus or other malicious code that...
+
+--- (Additional Root Structure) ---
+Content: (d)the Serve Software does not contain any “copyleft” (i.e. GPL, AGPL) open s...
+
+--- (Additional Root Structure) ---
+Content: (e)when used by Magna or any Magna Affiliate in accordance with this Agreemen...
+
+--- (Additional Root Structure) ---
+Heading (L1): 10. Serve Indemnification; Limit of Liability.
+
+--- (Additional Root Structure) ---
+Content: 10.1 Indemnification by Serve. Serve shall indemnify, defend and hold harmles...
+
+--- (Additional Root Structure) ---
+Content: (a)Serve’s breach of any provision of this Agreement or the inaccuracy, untru...
+
+--- (Additional Root Structure) ---
+Content: (b)the intentional, wrongful, reckless, criminal, fraudulent, or grossly negl...
+
+--- (Additional Root Structure) ---
+Content: (c)any Infringement Claim resulting from, arising out of or relating to Intel...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (d)any action or allegations of a violation of applicable law by Serve or oth...
+
+--- (Additional Root Structure) ---
+Content: (e)personal injury (including death) or real or tangible property damage resu...
+
+--- (Additional Root Structure) ---
+Content: (f)unauthorized disclosure or misappropriation of Magna, Magna Affiliate, or ...
+
+--- (Additional Root Structure) ---
+Content: 10.2 Indemnification Procedure. The affected Magna Indemnitee shall promptly ...
+
+--- (Additional Root Structure) ---
+Content: 10.3 Infringement Indemnification Procedures. Serve shall give Magna prompt w...
+
+--- (Additional Root Structure) ---
+Heading (L1): 10.4 Limitations of Liability.
+
+--- (Additional Root Structure) ---
+Content: (a)NO LIABILITY FOR CONSEQUENTIAL OR INDIRECT DAMAGES. EXCEPT FOR (1) LIABILI...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (b)MAXIMUM LIABILITY FOR DAMAGES. EXCEPT FOR (1) LIABILITIES ARISING OUT OF A...
+
+--- (Additional Root Structure) ---
+Heading (L1): 11. Term and Termination.
+
+--- (Additional Root Structure) ---
+Content: 11.1 Term. The term of this Agreement begins on the Effective Date and will c...
+
+--- (Additional Root Structure) ---
+Heading (L1): 11.2 Termination. In addition to any other express termination right set fort...
+
+--- (Additional Root Structure) ---
+Content: (a)Magna may terminate this Agreement for convenience, for any reason or no r...
+
+--- (Additional Root Structure) ---
+Content: (b)either Party may terminate this Agreement, effective on written notice to ...
+
+--- (Additional Root Structure) ---
+Content: (1)is incapable of cure; or
+
+--- (Additional Root Structure) ---
+Content: (2)being capable of cure, remains uncured sixty (60) days after the non-breac...
+
+--- (Additional Root Structure) ---
+Content: (c)either Party may terminate this Agreement, effective immediately upon writ...
+
+--- (Additional Root Structure) ---
+Content: 11.3 Effect of Expiration or Termination. Upon expiration or earlier terminat...
+
+--- (Additional Root Structure) ---
+Content: 11.4 Serve Change in Control. In the event of a merger, acquisition, change o...
+
+--- (Additional Root Structure) ---
+Content: 11.5 Survival. This Section 11.5 and Section 1.2, Sections 4 through 10, and ...
+
+--- (Additional Root Structure) ---
+Section 12: 12. Miscellaneous.
+
+--- (Additional Root Structure) ---
+Content: 12.1 Further Assurances. Each Party agrees to execute any and all documents a...
+
+--- (Additional Root Structure) ---
+Content: 12.2 Entire Agreement. This Agreement, together with the Production and Purch...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 12.3 Successors and Assigns. This Agreement shall be binding upon and shall i...
+
+--- (Additional Root Structure) ---
+Content: (a)Magna may assign this Agreement, delegate its obligations or assign its ri...
+
+--- (Additional Root Structure) ---
+Content: (b)Either Party may assign this Agreement to a third Party to whom all or sub...
+
+--- (Additional Root Structure) ---
+Content: (c)Subject to Section 11.4, any assignment by Serve of this Agreement must be...
+
+--- (Additional Root Structure) ---
+Content: 12.4 Independent Contractor. Each Party hereto is and will remain at all time...
+
+--- (Additional Root Structure) ---
+Content: 12.5 Force Majeure. The Parties’ obligations under this Agreement (other than...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 9; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 12.6 Amendment and Modification; Waiver. This Agreement may only be amended, ...
+
+--- (Additional Root Structure) ---
+Content: 12.7 Governing Law. This Agreement shall be governed by and construed in acco...
+
+--- (Additional Root Structure) ---
+Content: 12.8 All notices required or permitted hereunder shall be in writing addresse...
+
+--- (Additional Root Structure) ---
+Content: Address of Serve: 730 Broadway Redwood City, California, USA 94063 Attn: Ali ...
+
+--- (Additional Root Structure) ---
+Content: 12.9 Counterparts. This Agreement may be executed in counterparts, each of wh...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature Page Follows]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 10; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Signature Block: By: /s/ Jake Dadd Name: Jake Dadd Title: Senior Director, Engineering
+
+--- (Additional Root Structure) ---
+Content: (a)becomes insolvent or is generally unable to pay, or fails to pay, its debt...
+
+--- (Additional Root Structure) ---
+Content: (b)files or has filed against it, a petition for voluntary or involuntary ban...
+
+--- (Additional Root Structure) ---
+Content: (c)makes or seeks to make a general assignment for the benefit of its credito...
+
+--- (Additional Root Structure) ---
+Content: (d)applies for or has appointed a receiver, trustee, custodian, or similar ag...
+
+--- (Additional Root Structure) ---
+Content: (a)Serve is the subject of an Insolvency Event;
+
+--- (Additional Root Structure) ---
+Content: (b)Serve has terminated its on-going business operations;
+
+--- (Additional Root Structure) ---
+Content: (c)Serve, or its successors or assigns, materially breaches its obligations u...
+
+--- (Additional Root Structure) ---
+Content: (d)the Source Code Escrow Agreement terminates due to breach by Serve, or its...
+
+--- (Additional Root Structure) ---
+TableElement: MAGNA NEW MOBILITY USA, INC. SERVE OPERATING CO. By: /s/ Matteo Del Sorbo By:...

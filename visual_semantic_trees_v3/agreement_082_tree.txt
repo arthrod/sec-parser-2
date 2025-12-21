@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_082.html
+Generated using AgreementParserv9Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 100.0%
+Total Elements: 10
+Hierarchical Elements: 10
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Heading (L1): TABLE OF CONTENTS Page ARTICLE I USAGE AND DEFINITIONS 1 Section 1.1. Usage a...
+
+--- (Additional Root Structure) ---
+Party: PORSCHE FINANCIAL AUTO SECURITIZATION TRUST 20[]-[]: ASSET REPRESENTATIONS REVIEW AGREEMENT, dated as of, 20[] (this “Agreement”),...
+
+--- (Additional Root Structure) ---
+Heading (L1): provided herein, references to any law or regulation refer to that law or reg...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 3.4. Performance of Reviews. (a) Test Procedures. For an Asset Review...
+
+--- (Additional Root Structure) ---
+Article ARTICLE IV: ARTICLE IV ASSET REPRESENTATIONS REVIEWER Section 4.1. Representations and Wa...
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) Review Systems; Personnel. It will maintain business process management a...
+
+--- (Additional Root Structure) ---
+Heading (L1): (b) Proceedings. Promptly on receipt by an Indemnified Person of notice of a ...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Disclosure. If the Asset Representations Reviewer is required by applicab...
+
+--- (Additional Root Structure) ---
+Heading (L1): (h) Audit of Asset Representations Reviewer. The Asset Representations Review...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties have caused this Agreement to be duly execute...

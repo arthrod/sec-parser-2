@@ -1,0 +1,304 @@
+Visual Semantic Tree for agreement_072.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: B
+Orphan Rate: 2.2%
+Total Elements: 99
+Hierarchical Elements: 90
+================================================================================
+
+AGREEMENT: EMPLOYMENT AGREEMENT
+
+--- (Additional Root Structure) ---
+Clause (c): (c) on the later of the Effective Date or on the second business day followin...
+
+--- (Additional Root Structure) ---
+Content: (d) on or prior to March 31, 2025 and March 31, 2026, participation in the Co...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: Employee with the right to receive dividend equivalents, which will be credit...
+
+--- (Additional Root Structure) ---
+Content: (e) eligibility to receive annual cash bonus payments beginning in 2025 based...
+
+--- (Additional Root Structure) ---
+Content: (f) personal, family, and home(s) security in the manner as at least provided...
+
+--- (Additional Root Structure) ---
+Content: (c)for security reasons, travel on private jet aircraft as determined by Empl...
+
+--- (Additional Root Structure) ---
+Content: 6.Vacation. For and during each calendar year within the Employment Term, the...
+
+--- (Additional Root Structure) ---
+Content: 7.Expense Reimbursement. In addition to the compensation and benefits provide...
+
+--- (Additional Root Structure) ---
+Content: 8.Termination of Employment. The Company or the Employee may terminate the Em...
+
+--- (Additional Root Structure) ---
+Content: (a)Notice of Termination. Any purported termination of the Employee's employm...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: of Termination from the Company shall specify whether the termination is with...
+
+--- (Additional Root Structure) ---
+Content: (b) Date of Termination. For purposes of this Agreement, "Date of Termination...
+
+--- (Additional Root Structure) ---
+Content: (c) No Waiver. The failure to set forth any fact or circumstance in a Notice ...
+
+--- (Additional Root Structure) ---
+Content: (d) Cause. For purposes of this Agreement, a termination for "Cause" means a ...
+
+--- (Additional Root Structure) ---
+Content: (e) Disability. For purposes of this Agreement, a termination based upon "Dis...
+
+--- (Additional Root Structure) ---
+Content: (f) Good Reason. For purposes of this Agreement, a termination for "Good Reas...
+
+--- (Additional Root Structure) ---
+Content: (i)a material diminution in the Employee's position or title, or the assignme...
+
+--- (Additional Root Structure) ---
+Content: (ii)a material diminution in the Employee's Annual Base Salary;
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: (iii)relocates Employee’s principal place of employment to a location outside...
+
+--- (Additional Root Structure) ---
+Content: (iv)within six (6) months immediately preceding or within two (2) years immed...
+
+--- (Additional Root Structure) ---
+Content: (v)a material breach by the Company of any of its obligations under this Agre...
+
+--- (Additional Root Structure) ---
+Content: (vi)election of a new director to the Company’s Board who Employee (as a dire...
+
+--- (Additional Root Structure) ---
+Content: (vii)the Company’s failure to nominate or recommend Employee’s election to th...
+
+--- (Additional Root Structure) ---
+Content: (viii)the Company or Cannae Holdings, LLC terminates or does not perform its ...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, the Employee being placed on a paid leave for ...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: 9.Obligations of the Company Upon Termination.
+
+--- (Additional Root Structure) ---
+Content: (a)Termination by the Company for a Reason Other than Cause, Death or, Disabi...
+
+--- (Additional Root Structure) ---
+Content: (i)the Company shall pay the Employee the following (collectively, the "Accru...
+
+--- (Additional Root Structure) ---
+Content: (ii)the Company shall pay the Employee no later than March 15th of the calend...
+
+--- (Additional Root Structure) ---
+Content: (iii)the Company shall pay the Employee, no later than the sixty-fifth (65th)...
+
+--- (Additional Root Structure) ---
+Content: (iv)all stock option, restricted stock, profits interest, other equity-based ...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: violation of or penalties under Section 409A (the “Existing Equity Accelerati...
+
+--- (Additional Root Structure) ---
+Content: (b)Termination by the Company for Cause and by the Employee without Good Reas...
+
+--- (Additional Root Structure) ---
+Content: (c)Termination due to Death, Disability or Incapacity. If the Employee's empl...
+
+--- (Additional Root Structure) ---
+Content: (d)Definition of Change in Control. For purposes of this Agreement, the term ...
+
+--- (Additional Root Structure) ---
+Content: (i)the acquisition, directly or indirectly, by any "person" (within the meani...
+
+--- (Additional Root Structure) ---
+Content: (ii)a merger or consolidation in which the Company is not the surviving entit...
+
+--- (Additional Root Structure) ---
+Content: (iii)a reverse merger in which the Company is the surviving entity but in whi...
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: (iv)during any period of two (2) consecutive years during the Employment Term...
+
+--- (Additional Root Structure) ---
+Content: (v)the sale, transfer or other disposition (in one transaction or a series of...
+
+--- (Additional Root Structure) ---
+Content: (vi)the approval by the stockholders of a plan or proposal for the liquidatio...
+
+--- (Additional Root Structure) ---
+Content: (e)Six-Month Delay. To the extent the Employee is a "specified employee," as ...
+
+--- (Additional Root Structure) ---
+Content: 10.Excise Tax. If any payments or benefits paid or provided or to be paid or ...
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: elect for such Payments to be reduced to one dollar less than the amount that...
+
+--- (Additional Root Structure) ---
+Content: 11.Non-Delegation of the Employee's Rights. The obligations, rights and benef...
+
+--- (Additional Root Structure) ---
+Content: 12.Confidential Information. The Employee acknowledges that he will occupy a ...
+
+--- (Additional Root Structure) ---
+Content: 13.Non-Competition.
+
+--- (Additional Root Structure) ---
+Content: (a)During Employment Term. The Employee agrees that, during the Employment Te...
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: business, nor solicit customers, suppliers or employees of the Company or aff...
+
+--- (Additional Root Structure) ---
+Content: (b)After Employment Term. The parties acknowledge that Employee will acquire ...
+
+--- (Additional Root Structure) ---
+Content: (c) Exclusion. Working, directly or indirectly, for any of the following enti...
+
+--- (Additional Root Structure) ---
+Content: 14.Return of Company Documents. Upon termination of the Employment Term, the ...
+
+--- (Additional Root Structure) ---
+Content: 15.Improvements and Inventions. Any and all improvements or inventions that t...
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: the sole and exclusive right, title and interest in and to such improvements,...
+
+--- (Additional Root Structure) ---
+Content: 16.Actions. The parties agree and acknowledge that the rights conveyed by thi...
+
+--- (Additional Root Structure) ---
+Content: 17.Release. Notwithstanding any provision herein to the contrary, the Company...
+
+--- (Additional Root Structure) ---
+Content: 18.No Mitigation. The Company agrees that, if the Employee's employment hereu...
+
+--- (Additional Root Structure) ---
+Content: 19.Entire Agreement and Amendment. This Agreement embodies the entire agreeme...
+
+--- (Additional Root Structure) ---
+Content: 20.Governing Law. This Agreement shall be governed by, and construed in accor...
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+Content: 21.Successors. This Agreement may not be assigned by the Employee. In additio...
+
+--- (Additional Root Structure) ---
+Content: 22.Counterparts. This Agreement may be executed in counterparts, each of whic...
+
+--- (Additional Root Structure) ---
+Content: 23.Attorneys' Fees. If any party finds it necessary to employ legal counsel o...
+
+--- (Additional Root Structure) ---
+Content: 24.Severability. If any section, subsection or provision hereof is found for ...
+
+--- (Additional Root Structure) ---
+Content: 12
+
+--- (Additional Root Structure) ---
+Content: a reasonable judicially enforceable limitation in place of the offensive part...
+
+--- (Additional Root Structure) ---
+Content: 25.Notices. Any notice, request, or instruction to be given hereunder shall b...
+
+--- (Additional Root Structure) ---
+Content: To the Company:
+
+--- (Additional Root Structure) ---
+Content: Cannae Holdings, Inc.
+
+--- (Additional Root Structure) ---
+Content: 1701 Village Center Circle
+
+--- (Additional Root Structure) ---
+Content: Las Vegas, NV 89134
+
+--- (Additional Root Structure) ---
+Content: Attention: General Counsel
+
+--- (Additional Root Structure) ---
+Content: To the Employee:
+
+--- (Additional Root Structure) ---
+Content: William P. Foley, II
+
+--- (Additional Root Structure) ---
+Content: At the address shown on the Company’s records
+
+--- (Additional Root Structure) ---
+Content: 26.Waiver of Breach. The waiver by any party of any provisions of this Agreem...
+
+--- (Additional Root Structure) ---
+Content: 27.Tax Withholding. The Company or an affiliate may deduct from all compensat...
+
+--- (Additional Root Structure) ---
+Content: 13
+
+--- (Additional Root Structure) ---
+Section 28: 28. Code Section 409A. To the extent applicable, it is intended that this Agr...
+
+--- (Additional Root Structure) ---
+Content: 14
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.15
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THIS EMPLOYMENT AGREEMENT (the "Agreement") is effective as of February 26, 2...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.Purpose. The purpose of this Agreement is to recognize the Employee's signi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Employment and Duties. Subject to the terms and conditions of this Agreemen...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Term. The term of this Agreement shall commence on the Effective Date and s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.Salary. During the Employment Term, the Company shall pay the Employee an a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.Other Compensation and Fringe Benefits. In addition to any executive bonus,...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (a)the standard Company benefits enjoyed by the Company's other top executive...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b)medical and other insurance coverage (for the Employee and any covered dep...

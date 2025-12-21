@@ -1,0 +1,42 @@
+Visual Semantic Tree for agreement_091.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 57.1%
+Total Elements: 15
+Hierarchical Elements: 14
+================================================================================
+
+AGREEMENT: Forte Biosciences, Inc.
+|-- Section 1: 1. Annual Board Service Retainer:
+|   |-- Clause ((a)): a. All Eligible Directors: $42,500
+|   |-- Clause ((b)): b. Chairman of the Board Service Retainer (in addition to Eligible Director S...
+|   `-- Clause ((c)): c. Lead Independent Director Service Retainer (in addition to Eligible Direct...
+`-- Section 2: 2. Annual Committee Member Service Retainer:
+
+--- (Additional Root Structure) ---
+Heading (L1): (March 14, 2024)
+
+--- (Additional Root Structure) ---
+Heading (L1): The annual cash compensation amount set forth below is payable in equal quart...
+
+--- (Additional Root Structure) ---
+Heading (L1): 3. Annual Committee Chair Service Retainer (in addition to Committee Member S...
+
+--- (Additional Root Structure) ---
+Heading (L1): Equity Compensation
+
+--- (Additional Root Structure) ---
+Heading (L1): The equity compensation set forth below will be granted under the Forte Biosc...
+
+--- (Additional Root Structure) ---
+Heading (L1): of ten years from the date of grant (subject to earlier termination in connec...
+
+--- (Additional Root Structure) ---
+Heading (L1): 1. Initial Grant: On the date of the Eligible Director’s initial election to ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2. Annual Grant: On the date of each Forte Biosciences annual stockholder mee...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.

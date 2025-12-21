@@ -1,0 +1,19 @@
+Visual Semantic Tree for agreement_030.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 50.0%
+Total Elements: 4
+Hierarchical Elements: 4
+================================================================================
+
+AGREEMENT: Kemper Corporation 2020 Omnibus Equity Plan
+
+--- (Additional Root Structure) ---
+Heading (L1): NON-QUALIFIED STOCK OPTION AND SAR AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): (Installment Vesting Form)
+
+--- (Additional Root Structure) ---
+Content: This NON-QUALIFIED STOCK OPTION AND SAR AWARD AGREEMENT (“Agreement”) is made...

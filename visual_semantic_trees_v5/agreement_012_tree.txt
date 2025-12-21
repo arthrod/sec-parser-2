@@ -1,0 +1,127 @@
+Visual Semantic Tree for agreement_012.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 13.3%
+Total Elements: 112
+Hierarchical Elements: 30
+================================================================================
+
+AGREEMENT: EMPLOYMENT AGREEMENT
+
+--- (Additional Root Structure) ---
+Article C: c. Except as provided by section 11.b., the arbitration procedure will afford...
+
+--- (Additional Root Structure) ---
+Content: Page 10 of 14
+
+--- (Additional Root Structure) ---
+Content: 12.Miscellaneous.
+
+--- (Additional Root Structure) ---
+Content: a. This Agreement contains the entire agreement between the parties with resp...
+
+--- (Additional Root Structure) ---
+Content: b. This Agreement shall bind and inure to the benefit of the heirs, legal rep...
+
+--- (Additional Root Structure) ---
+Article C: c. If any provision of this Agreement is invalid or otherwise unenforceable, ...
+
+--- (Additional Root Structure) ---
+Article D: d. In the event of any claim or dispute arising out of this Agreement, the pa...
+
+--- (Additional Root Structure) ---
+Content: e. Any notice required to be given under this Agreement to either party shall...
+
+--- (Additional Root Structure) ---
+Content: Employer:
+
+--- (Additional Root Structure) ---
+Content: 3111 “C” Street
+
+--- (Additional Root Structure) ---
+Content: Anchorage, AK 99503
+
+--- (Additional Root Structure) ---
+Content: Executive:
+
+--- (Additional Root Structure) ---
+Content: Address on file with Northrim Bank Human Resources Department.
+
+--- (Additional Root Structure) ---
+Content: f. This Agreement shall in all respects, including all matters of constructio...
+
+--- (Additional Root Structure) ---
+Content: Page 11 of 14
+
+--- (Additional Root Structure) ---
+Content: g. This Agreement (and all payments and other benefits provided under this Ag...
+
+--- (Additional Root Structure) ---
+Content: h. Notwithstanding any provision to the contrary in this Agreement, no paymen...
+
+--- (Additional Root Structure) ---
+Content: Page 12 of 14
+
+--- (Additional Root Structure) ---
+Article I: i. Executive acknowledges and agrees as a condition to receipt of payments or...
+
+--- (Additional Root Structure) ---
+Content: Page 13 of 14
+
+--- (Additional Root Structure) ---
+Content: EMPLOYER:
+
+--- (Additional Root Structure) ---
+Content: NORTHRIM BANK
+
+--- (Additional Root Structure) ---
+Content: By: /s/Krystal M. Nelson
+
+--- (Additional Root Structure) ---
+Content: Krystal M. Nelson
+
+--- (Additional Root Structure) ---
+Content: Its: Chairman of the Compensation Committee of the Board of Directors
+
+--- (Additional Root Structure) ---
+Content: EXECUTIVE:
+
+--- (Additional Root Structure) ---
+Content: /s/Benjamin Craig
+
+--- (Additional Root Structure) ---
+Content: Benjamin Craig
+
+--- (Additional Root Structure) ---
+Content: Page 14 of 14
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.4
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This Employment Agreement (the “Agreement”) is made and entered into effectiv...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): In consideration of the mutual promises made in this Agreement, the parties a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.Employment.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Employer employs Executive and Executive accepts employment with Employer as ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Term.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): The term of this Agreement (the “Term”) shall commence on the Effective Date ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Duties.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): The Executive will serve as Executive Vice President and Chief Information Of...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.Compensation, Benefits, Reimbursement and Profit Sharing.

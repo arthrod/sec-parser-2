@@ -1,0 +1,40 @@
+Visual Semantic Tree for agreement_029.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 0.0%
+Total Elements: 147
+Hierarchical Elements: 1
+================================================================================
+
+AGREEMENT: THE HARTFORD 2020 STOCK INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXHIBIT 10.16
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.Purpose
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): The purpose of this 2020 Stock Incentive Plan (the "Plan") of The Hartford Fi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Eligibility
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): The Committee shall designate the employees, officers and directors of the Co...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Awards under the Plan
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): a.Types. The Plan provides for the following types of awards, each of which i...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): b.Other Stock-Based Awards. The Committee may grant Awards of Shares (as defi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): c.Cash Based Awards. The Committee or the Company may also grant Awards under...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): d.Substitute Awards. In connection with a merger or consolidation of an entit...

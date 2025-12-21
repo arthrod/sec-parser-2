@@ -1,0 +1,10 @@
+Visual Semantic Tree for agreement_085.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 1
+Hierarchical Elements: 1
+================================================================================
+
+AGREEMENT: EXHIBIT 10.35

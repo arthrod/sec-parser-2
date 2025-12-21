@@ -1,0 +1,28 @@
+Visual Semantic Tree for agreement_017.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 55.6%
+Total Elements: 9
+Hierarchical Elements: 9
+================================================================================
+
+AGREEMENT: METLIFE AUXILIARY RETIREMENT PLAN
+|-- Section 4.9: Section 4.9 shall be added with the following language:
+`-- Heading (L1): METROPOLITAN LIFE INSURANCE COMPANY
+
+--- (Additional Root Structure) ---
+Heading (L1): (As amended and restated effective January 1, 2008)
+
+--- (Additional Root Structure) ---
+Heading (L1): The MetLife Auxiliary Retirement Plan (the “Plan”) is hereby amended, effecti...
+`-- Heading (L2): 4.9 Dodd-Frank Recoupment/Clawback: Notwithstanding anything contained herein...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the Company has caused this Amendment to be adopted in it...
+
+--- (Additional Root Structure) ---
+Heading (L1): By: __/s/ Andrew J. Bernstein______________________________ Andrew J. Bernste...
+
+--- (Additional Root Structure) ---
+Heading (L1): ATTEST: ___/s/ Danielle Hodorowski___________________________________

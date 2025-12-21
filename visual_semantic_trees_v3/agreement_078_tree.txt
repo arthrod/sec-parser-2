@@ -1,0 +1,17 @@
+Visual Semantic Tree for agreement_078.html
+Generated using AgreementParserv9Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 50.0%
+Total Elements: 4
+Hierarchical Elements: 4
+================================================================================
+
+AGREEMENT: 1.2 Cashless Exercise. On any exercise of this Warrant, in lieu of payment of...
+`-- Exhibit Schedule 1: SECTION 3.REPRESENTATIONS AND COVENANTS OF THE COMPANY. 3.1 Representations a...
+
+--- (Additional Root Structure) ---
+Heading (L1): (2) in the case of the matters referred to in (c) and (d) above at least seve...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties have caused this Warrant to Purchase Common S...

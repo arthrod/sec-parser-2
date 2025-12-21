@@ -1,0 +1,18 @@
+Visual Semantic Tree for agreement_021.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 3
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1 THIS PROMISSORY NOTE (“NOTE”) HAS NOT BEEN REGISTERED UNDER THE ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 9. Events of Default. The following shall constitute an event of default (“Ev...
+
+--- (Additional Root Structure) ---
+TableElement: 13. Notices. All notices, statements or other documents which are required or...

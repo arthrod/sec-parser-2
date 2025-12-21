@@ -1,0 +1,439 @@
+Visual Semantic Tree for agreement_033.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 6.4%
+Total Elements: 144
+Hierarchical Elements: 140
+================================================================================
+
+AGREEMENT: DOORDASH, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): EXECUTIVE CHANGE IN CONTROL AND SEVERANCE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): AND SUMMARY PLAN DESCRIPTION
+
+--- (Additional Root Structure) ---
+Content: 1.Introduction. The purpose of this DoorDash, Inc. Executive Change in Contro...
+
+--- (Additional Root Structure) ---
+Content: 2.Important Terms. The following words and phrases, when the initial letter o...
+
+--- (Additional Root Structure) ---
+Content: (a)“Administrator” means the Company, acting through the Leadership Developme...
+
+--- (Additional Root Structure) ---
+Content: (b)“Board” means the Board of Directors of the Company.
+
+--- (Additional Root Structure) ---
+Content: (c)“Cause” has the meaning set forth in the Participant’s Participation Agree...
+
+--- (Additional Root Structure) ---
+Content: (d)“Change in Control” means the occurrence of any of the following events:
+
+--- (Additional Root Structure) ---
+Content: (i)Change in Ownership of the Company. A change in the ownership of the Compa...
+
+--- (Additional Root Structure) ---
+Content: by any one Person, who is considered to own more than fifty percent (50%) of ...
+
+--- (Additional Root Structure) ---
+Content: (ii)Change in Effective Control of the Company. A change in the effective con...
+
+--- (Additional Root Structure) ---
+Content: (iii)Change in Ownership of a Substantial Portion of the Company’s Assets. A ...
+
+--- (Additional Root Structure) ---
+Content: For purposes of this definition, persons will be considered to be acting as a...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, a transaction will not be deemed a Change in C...
+
+--- (Additional Root Structure) ---
+Content: Further and for the avoidance of doubt, a transaction will not constitute a C...
+
+--- (Additional Root Structure) ---
+Clause (e): (e) “Change in Control Period” means the time period beginning on the date th...
+
+--- (Additional Root Structure) ---
+Content: -2-
+
+--- (Additional Root Structure) ---
+Content: (f)“CIC Qualifying Termination” means a termination of a Participant’s employ...
+
+--- (Additional Root Structure) ---
+Content: (g)“Code” means the Internal Revenue Code of 1986, as amended.
+
+--- (Additional Root Structure) ---
+Content: (h)“Company” means DoorDash, Inc., a Delaware corporation, and any successor ...
+
+--- (Additional Root Structure) ---
+Content: (i)“Director” means a member of the Board who is not an employee of the Compa...
+
+--- (Additional Root Structure) ---
+Content: (j)“Disability” means “Disability” as defined in the Company’s long-term disa...
+
+--- (Additional Root Structure) ---
+Content: (k)“Exchange Act” means the U.S. Securities Exchange Act of 1934, as amended.
+
+--- (Additional Root Structure) ---
+Content: (l)“Equity Awards” means a Participant’s outstanding stock options, stock app...
+
+--- (Additional Root Structure) ---
+Content: (m)“ERISA” means the Employee Retirement Income Security Act of 1974, as amen...
+
+--- (Additional Root Structure) ---
+Content: (n)“Good Reason” has the meaning set forth in the Participant’s Participation...
+
+--- (Additional Root Structure) ---
+Content: (o)“Non-CIC Qualifying Termination” means a termination of a Participant’s em...
+
+--- (Additional Root Structure) ---
+Content: (p) “Participant” means an employee of the Company or of any subsidiary of th...
+
+--- (Additional Root Structure) ---
+Content: -3-
+
+--- (Additional Root Structure) ---
+Content: (q)“Participation Agreement” means the individual agreement (as will be provi...
+
+--- (Additional Root Structure) ---
+Content: (r)“Plan” means the DoorDash, Inc. Executive Change in Control and Severance ...
+
+--- (Additional Root Structure) ---
+Content: (s)“Section 409A Limit” means 2 times the lesser of: (i) the Participant’s an...
+
+--- (Additional Root Structure) ---
+Content: (t)“Severance Benefits” means the compensation and other benefits that the Pa...
+
+--- (Additional Root Structure) ---
+Content: (u)“Qualifying Termination” means a CIC Qualifying Termination or a Non-CIC Q...
+
+--- (Additional Root Structure) ---
+Content: 3.Eligibility for Severance Benefits. A Participant is eligible for Severance...
+
+--- (Additional Root Structure) ---
+Content: 4.Qualifying Termination. Upon a Qualifying Termination, then, subject to the...
+
+--- (Additional Root Structure) ---
+Content: (a)Cash Severance Benefits. Cash severance equal to the amount set forth in t...
+
+--- (Additional Root Structure) ---
+Content: (b)Continued Medical Benefits. If the Participant, and any spouse and/or depe...
+
+--- (Additional Root Structure) ---
+Content: -4-
+
+--- (Additional Root Structure) ---
+Content: (c)Equity Award Vesting Acceleration Benefit. If and to the extent specifical...
+
+--- (Additional Root Structure) ---
+Content: 5.Limitation on Payments. In the event that the severance and other benefits ...
+
+--- (Additional Root Structure) ---
+Content: (x) delivered in full, or
+
+--- (Additional Root Structure) ---
+Content: (y) delivered as to such lesser extent which would result in no portion of su...
+
+--- (Additional Root Structure) ---
+Content: Unless Participant and the Company otherwise agree in writing, any determinat...
+
+--- (Additional Root Structure) ---
+Content: 6.Conditions to Receipt of Severance.
+
+--- (Additional Root Structure) ---
+Content: (a)Release Agreement. As a condition to receiving the Severance Benefits, eac...
+
+--- (Additional Root Structure) ---
+Content: (b)Confidential Information. A Participant’s receipt of Severance Benefits wi...
+
+--- (Additional Root Structure) ---
+Content: -5-
+
+--- (Additional Root Structure) ---
+Content: (c)Non-Disparagement. As a condition to receiving Severance Benefits under th...
+
+--- (Additional Root Structure) ---
+Content: (d)Other Requirements. Severance Benefits under this Plan shall terminate imm...
+
+--- (Additional Root Structure) ---
+Content: 7.Timing of Severance Benefits. Unless otherwise provided in a Participant’s ...
+
+--- (Additional Root Structure) ---
+Content: 8.Exclusive Benefit. Except as otherwise specifically provided in Appendix A,...
+
+--- (Additional Root Structure) ---
+Content: 9.Section 409A.
+
+--- (Additional Root Structure) ---
+Content: (a)Notwithstanding anything to the contrary in this Plan, no Severance Benefi...
+
+--- (Additional Root Structure) ---
+Content: (b)It is intended that none of the Severance Benefits will constitute Deferre...
+
+--- (Additional Root Structure) ---
+Content: (c)Notwithstanding anything to the contrary in this Plan, if a Participant is...
+
+--- (Additional Root Structure) ---
+Content: -6-
+
+--- (Additional Root Structure) ---
+Content: in a lump sum as soon as administratively practicable after the date of the P...
+
+--- (Additional Root Structure) ---
+Content: (d)Any amount paid under this Plan that satisfies the requirements of the “sh...
+
+--- (Additional Root Structure) ---
+Content: (e)Any amount paid under this Plan that qualifies as a payment made as a resu...
+
+--- (Additional Root Structure) ---
+Content: (f)The foregoing provisions are intended to comply with or be exempt from the...
+
+--- (Additional Root Structure) ---
+Content: 10.Withholdings. The Company will withhold from any Severance Benefits all ap...
+
+--- (Additional Root Structure) ---
+Content: 11.Administration. The Company is the administrator of the Plan (within the m...
+
+--- (Additional Root Structure) ---
+Content: 12.Eligibility to Participate. To the extent that the Administrator has deleg...
+
+--- (Additional Root Structure) ---
+Content: 13.Amendment or Termination. The Company, by action of the Administrator, res...
+
+--- (Additional Root Structure) ---
+Content: -7-
+
+--- (Additional Root Structure) ---
+Content: not be effective with respect to such Participant without such Participant’s ...
+
+--- (Additional Root Structure) ---
+Content: 14.Claims and Appeals.
+
+--- (Additional Root Structure) ---
+Content: (a)Claims Procedure. Any employee or other person who believes he or she is e...
+
+--- (Additional Root Structure) ---
+Content: (b)Appeal Procedure. If the claimant’s claim is denied, the claimant (or his ...
+
+--- (Additional Root Structure) ---
+Content: 15.Attorneys’ Fees. The parties shall each bear their own expenses, legal fee...
+
+--- (Additional Root Structure) ---
+Content: 16.Source of Payments. All payments under the Plan will be paid from the gene...
+
+--- (Additional Root Structure) ---
+Content: 17.Inalienability. In no event may any current or former employee of the Comp...
+
+--- (Additional Root Structure) ---
+Content: 18.No Enlargement of Employment Rights. Neither the establishment or maintena...
+
+--- (Additional Root Structure) ---
+Content: -8-
+
+--- (Additional Root Structure) ---
+Content: upon any individual any right to continue to be an employee of the Company. T...
+
+--- (Additional Root Structure) ---
+Content: 19.Successors. Any successor to the Company of all or substantially all of th...
+
+--- (Additional Root Structure) ---
+Content: 20.Applicable Law. The provisions of the Plan will be construed, administered...
+
+--- (Additional Root Structure) ---
+Content: 21.Severability. If any provision of the Plan is held invalid or unenforceabl...
+
+--- (Additional Root Structure) ---
+Content: 22.Headings. Headings in this Plan document are for purposes of reference onl...
+
+--- (Additional Root Structure) ---
+Content: 23.Indemnification. The Company hereby agrees to indemnify and hold harmless ...
+
+--- (Additional Root Structure) ---
+Content: 24.Additional Information.
+
+--- (Additional Root Structure) ---
+Content: -9-
+
+--- (Additional Root Structure) ---
+Content: Executive Change in Control and Severance Plan303 2ND STREET, 8th Floor South...
+
+--- (Additional Root Structure) ---
+Content: Service of process also may be made upon the Administrator.
+
+--- (Additional Root Structure) ---
+Content: 25.Statement of ERISA Rights.
+
+--- (Additional Root Structure) ---
+Content: As a Participant under the Plan, you have certain rights and protections unde...
+
+--- (Additional Root Structure) ---
+Content: You may examine (without charge) all Plan documents, including any amendments...
+
+--- (Additional Root Structure) ---
+Content: You may obtain copies of all Plan documents and other Plan information upon w...
+
+--- (Additional Root Structure) ---
+Content: In addition to creating rights for Participants, ERISA imposes duties upon th...
+
+--- (Additional Root Structure) ---
+Content: Under ERISA, there are steps you can take to enforce the above rights. For ex...
+
+--- (Additional Root Structure) ---
+Content: -10-
+
+--- (Additional Root Structure) ---
+Content: In any case, the court will decide who will pay court costs and legal fees. I...
+
+--- (Additional Root Structure) ---
+Content: If you have any questions regarding the Plan, please contact the Administrato...
+
+--- (Additional Root Structure) ---
+Content: -11-
+
+--- (Additional Root Structure) ---
+Content: Form of Participation Agreement (Existing Participants)
+
+--- (Additional Root Structure) ---
+Heading (L1): Appendix A
+
+--- (Additional Root Structure) ---
+Heading (L1): DoorDash, Inc. Executive Change in Control and Severance PlanParticipation Ag...
+
+--- (Additional Root Structure) ---
+Content: DoorDash, Inc. (the “Company”) is pleased to inform you, ____________________...
+
+--- (Additional Root Structure) ---
+Content: A copy of the Plan was delivered to you with this Participation Agreement. Yo...
+
+--- (Additional Root Structure) ---
+Content: In order to actually become eligible for the revised benefits available to yo...
+
+--- (Additional Root Structure) ---
+Content: The Plan describes in detail certain circumstances under which you may become...
+
+--- (Additional Root Structure) ---
+Content: 1.Non-CIC Qualifying Termination. Upon your Non-CIC Qualifying Termination, s...
+
+--- (Additional Root Structure) ---
+Content: (a)Cash Severance Benefits. Continuing payments for a period of 12 months of ...
+
+--- (Additional Root Structure) ---
+Content: (b)Continued Medical Benefits. A lump sum payment equal to, on an after-tax b...
+
+--- (Additional Root Structure) ---
+Content: (c)Equity Award Vesting Acceleration Benefits. The number of your then-outsta...
+
+--- (Additional Root Structure) ---
+Content: 2.CIC Qualifying Termination. Upon your CIC Qualifying Termination, subject t...
+
+--- (Additional Root Structure) ---
+Content: (a)Cash Severance Benefits. A lump sum payment equal to 12 months of your bas...
+
+--- (Additional Root Structure) ---
+Content: (b)Continued Medical Benefits. A lump sum payment equal to, on an after-tax b...
+
+--- (Additional Root Structure) ---
+Content: (c)Equity Award Vesting Acceleration Benefits. 100% of your then-outstanding ...
+
+--- (Additional Root Structure) ---
+Content: 3.Non-Duplication of Payment or Benefits. If (a) your Qualifying Termination ...
+
+--- (Additional Root Structure) ---
+Content: 4.Exclusive Benefit. In accordance with Section 8 of the Plan, the benefits, ...
+
+--- (Additional Root Structure) ---
+Content: In order to receive any Severance Benefits for which you otherwise become eli...
+
+--- (Additional Root Structure) ---
+Content: By your signature below, you and the Company agree that your participation in...
+
+--- (Additional Root Structure) ---
+Content: Participation Agreement; and (3) decisions and determinations by the Administ...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature page follows]
+
+--- (Additional Root Structure) ---
+Content: Form of Participation Agreement (New Participants)
+
+--- (Additional Root Structure) ---
+Heading (L1): Appendix A
+
+--- (Additional Root Structure) ---
+Heading (L1): DoorDash, Inc. Executive Change in Control and Severance PlanParticipation Ag...
+
+--- (Additional Root Structure) ---
+Content: DoorDash, Inc. (the “Company”) is pleased to inform you, ____________________...
+
+--- (Additional Root Structure) ---
+Content: A copy of the Plan was delivered to you with this Participation Agreement. Yo...
+
+--- (Additional Root Structure) ---
+Content: In order to actually become a participant in the Plan, you must complete and ...
+
+--- (Additional Root Structure) ---
+Content: The Plan describes in detail certain circumstances under which you may become...
+
+--- (Additional Root Structure) ---
+Content: 1.Non-CIC Qualifying Termination. Upon your Non-CIC Qualifying Termination, s...
+
+--- (Additional Root Structure) ---
+Content: (a)Cash Severance Benefits. Continuing payments for a period of 12 months of ...
+
+--- (Additional Root Structure) ---
+Content: (b)Continued Medical Benefits. A lump sum payment equal to, on an after-tax b...
+
+--- (Additional Root Structure) ---
+Content: (c)Equity Award Vesting Acceleration Benefits. The number of your then-outsta...
+
+--- (Additional Root Structure) ---
+Content: 2.CIC Qualifying Termination. Upon your CIC Qualifying Termination, subject t...
+
+--- (Additional Root Structure) ---
+Content: (a)Cash Severance Benefits. A lump sum payment equal to 12 months of your bas...
+
+--- (Additional Root Structure) ---
+Content: (b)Continued Medical Benefits. A lump sum payment equal to, on an after-tax b...
+
+--- (Additional Root Structure) ---
+Content: (c)Equity Award Vesting Acceleration Benefits. 100% of your then-outstanding ...
+
+--- (Additional Root Structure) ---
+Content: termination of employment will be tolled to the extent necessary to implement...
+
+--- (Additional Root Structure) ---
+Content: 3.Non-Duplication of Payment or Benefits. If (a) your Qualifying Termination ...
+
+--- (Additional Root Structure) ---
+Content: 4.Exclusive Benefit. In accordance with Section 8 of the Plan, the benefits, ...
+
+--- (Additional Root Structure) ---
+Content: In order to receive any Severance Benefits for which you otherwise become eli...
+
+--- (Additional Root Structure) ---
+Content: By your signature below, you and the Company agree that your participation in...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature page follows]
+
+--- (Additional Root Structure) ---
+Content: Attachment: DoorDash, Inc. Executive Change in Control and Severance Plan and...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature page to the Participation Agreement]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+TableElement: Plan Name:DoorDash, Inc. Executive Change in Controland Severance PlanPlan Sp...
+
+--- (Additional Root Structure) ---
+TableElement: Type of PlanSeverance Plan/Employee Welfare Benefit PlanPlan CostsThe cost of...
+
+--- (Additional Root Structure) ---
+TableElement: DOORDASH, INC.PARTICIPANTSignatureSignatureNameDateTitle

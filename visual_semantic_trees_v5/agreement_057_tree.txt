@@ -1,0 +1,259 @@
+Visual Semantic Tree for agreement_057.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: B
+Orphan Rate: 10.8%
+Total Elements: 84
+Hierarchical Elements: 83
+================================================================================
+
+AGREEMENT: DEVELOPMENT AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: THIS AGREEMENT is by and between BOT LOGIC LABS, INC., a Colorado S-Corporati...
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+
+--- (Additional Root Structure) ---
+Content: WHEREAS BOT is the developer of the Active World Holdings portfolio of web ba...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS HMLA requires the creation of an Ethereum smart contract, token websi...
+
+--- (Additional Root Structure) ---
+Heading (L1): WHEREAS the parties wish to compensate BOT to perform these services in the f...
+
+--- (Additional Root Structure) ---
+Content: 1.$50,000 total cash compensation
+
+--- (Additional Root Structure) ---
+Content: a.$10,000 due within 1 business day of both parties signing of this agreement
+
+--- (Additional Root Structure) ---
+Content: b.$10,000 due on delivery of the token to HMLA wallet
+
+--- (Additional Root Structure) ---
+Content: c.$10,000 due when the www.theeveresttoken.com website is approved and delive...
+
+--- (Additional Root Structure) ---
+Content: d.$10,000 due when the EVEREST token is added to the Web3 on DiVinciPay
+
+--- (Additional Root Structure) ---
+Content: e.$10,000 due one business day before the EVEREST Uniswap Pool Launch
+
+--- (Additional Root Structure) ---
+Content: 2.10% of the total token supply
+
+--- (Additional Root Structure) ---
+Content: a.Due immediately at the minting of the EVEREST token.
+
+--- (Additional Root Structure) ---
+Content: 3.10% revenue share of online sales generated from token transactions
+
+--- (Additional Root Structure) ---
+Content: a.Begins when the Web3 is added via DiVinciPay
+
+--- (Additional Root Structure) ---
+Content: THEREFORE it is agreed as follows:
+
+--- (Additional Root Structure) ---
+Article I: Article I. SERVICES TO BE PERFORMED BY BOT
+
+--- (Additional Root Structure) ---
+Content: BOT will create and mint the EVEREST solidity smart contract with the followi...
+
+--- (Additional Root Structure) ---
+Content: Name: The Everest Token
+
+--- (Additional Root Structure) ---
+Content: Symbol: EVEREST
+
+--- (Additional Root Structure) ---
+Content: Total Supply: 250,000,000
+
+--- (Additional Root Structure) ---
+Content: Decimals: 9
+
+--- (Additional Root Structure) ---
+Content: Reflections: None
+
+--- (Additional Root Structure) ---
+Content: Tax: None
+
+--- (Additional Root Structure) ---
+Content: Buy Side Tax: None
+
+--- (Additional Root Structure) ---
+Content: Sell Side Tax: None
+
+--- (Additional Root Structure) ---
+Content: Uniswap Pool Fee: .03
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: BOT will develop the EVEREST token website under the URL www.theeveresttoken....
+
+--- (Additional Root Structure) ---
+Content: BOT will prepare the initial EVEREST pool on Uniswap. The pool will be paired...
+
+--- (Additional Root Structure) ---
+Content: BOT will integrate the EVEREST token within the DiVinciPay merchant platform ...
+
+--- (Additional Root Structure) ---
+Content: BOT will install DiVinciPay on the www.theeveresttoken.com website for Web3 f...
+
+--- (Additional Root Structure) ---
+Content: Within 4 hours after the launch of the EVEREST pool on Uniswap, BOT will upda...
+
+--- (Additional Root Structure) ---
+Article II: Article II. SERVICES PROVIDED BY HMLA
+
+--- (Additional Root Structure) ---
+Content: HMLA shall provide to BOT the $50,000 total cash compensation as defined above.
+
+--- (Additional Root Structure) ---
+Content: HMLA agrees that from the initial mint, 10% of the total token supply shall b...
+
+--- (Additional Root Structure) ---
+Content: HMLA agrees to provide 10% revenue share of online sales generated from token...
+
+--- (Additional Root Structure) ---
+Content: In addition to the total cash compensation, HMLA shall provide a minimum of $...
+
+--- (Additional Root Structure) ---
+Content: HMLA shall take no more than one business day to sign off on digital art and ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Article III: Article III. Revenue Sharer’s Entitlement to other Revenue or Consideration
+
+--- (Additional Root Structure) ---
+Content: HMLA agrees to pay BOT a percentage of the gross revenue generated from the s...
+
+--- (Additional Root Structure) ---
+Article IV: Article IV. Independent Contributor
+
+--- (Additional Root Structure) ---
+Content: The parties agree that Revenue Sharer is an independent contributor of BOT an...
+
+--- (Additional Root Structure) ---
+Content: Revenue Sharer further agrees to indemnify and hold BOT harmless for any dama...
+
+--- (Additional Root Structure) ---
+Content: Distribution of Revenue shall be made directly from the merchant account asso...
+
+--- (Additional Root Structure) ---
+Content: If for any reason the merchant account associated with the Website changes, t...
+
+--- (Additional Root Structure) ---
+Article V: Article V. Miscellaneous
+
+--- (Additional Root Structure) ---
+Content: Attorney Fees
+
+--- (Additional Root Structure) ---
+Content: In the event any party deems it necessary to commence an action or proceeding...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Entire Agreement
+
+--- (Additional Root Structure) ---
+Content: This Agreement constitutes the entire agreement between the parties hereto, a...
+
+--- (Additional Root Structure) ---
+Section 5: Section 5.03 Amendments in Writing
+
+--- (Additional Root Structure) ---
+Content: This Agreement may not be changed orally, but only by an agreement in writing...
+
+--- (Additional Root Structure) ---
+Content: Notice
+
+--- (Additional Root Structure) ---
+Content: Notices given pursuant to this Agreement shall be in writing, delivered in pe...
+
+--- (Additional Root Structure) ---
+Clause (a): (a) Notices. All notices required to be given in this Settlement shall be mad...
+
+--- (Additional Root Structure) ---
+Content: (b) Delivery. For purposes of this Settlement “delivery” shall mean: (i) pers...
+
+--- (Additional Root Structure) ---
+Content: Duplicate Originals.
+
+--- (Additional Root Structure) ---
+Content: This Settlement may be executed in several counterparts; each counterpart sha...
+
+--- (Additional Root Structure) ---
+Content: Successors and Assigns
+
+--- (Additional Root Structure) ---
+Content: The provisions of this Agreement shall inure to the benefit of and shall be b...
+
+--- (Additional Root Structure) ---
+Content: Time is of Essence
+
+--- (Additional Root Structure) ---
+Content: Time is of the essence of this Agreement.
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Governing Law
+
+--- (Additional Root Structure) ---
+Content: This Agreement shall be governed by and construed and enforced in accordance ...
+
+--- (Additional Root Structure) ---
+Content: Counterparts and Copies
+
+--- (Additional Root Structure) ---
+Content: This Agreement may be executed in several counterparts, each of which shall b...
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, the parties hereto set their respective hands and affix t...
+
+--- (Additional Root Structure) ---
+Content: Bot Logic Labs __________________________________
+
+--- (Additional Root Structure) ---
+Content: Date: 1/1/2024
+
+--- (Additional Root Structure) ---
+Content: Himalaya Technologies, Inc._____________________________
+
+--- (Additional Root Structure) ---
+Content: Date: 1/1/2024
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5; Options: Last
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TableElement: BOT: 10% Himalaya Technologies, Inc.: 90%

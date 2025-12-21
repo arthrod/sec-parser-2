@@ -1,0 +1,28 @@
+Visual Semantic Tree for agreement_017.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 50.0%
+Total Elements: 7
+Hierarchical Elements: 6
+================================================================================
+
+AGREEMENT: AMENDMENT NUMBER 12 TO THE
+
+--- (Additional Root Structure) ---
+Heading (L1): METLIFE AUXILIARY RETIREMENT PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): (As amended and restated effective January 1, 2008)
+
+--- (Additional Root Structure) ---
+Content: The MetLife Auxiliary Retirement Plan (the “Plan”) is hereby amended, effecti...
+
+--- (Additional Root Structure) ---
+Section 4: Section 4.9 shall be added with the following language:
+
+--- (Additional Root Structure) ---
+Content: 4.9 Dodd-Frank Recoupment/Clawback: Notwithstanding anything contained herein...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.21.16

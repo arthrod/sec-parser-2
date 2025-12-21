@@ -1,0 +1,307 @@
+Visual Semantic Tree for agreement_023.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 27.7%
+Total Elements: 100
+Hierarchical Elements: 94
+================================================================================
+
+AGREEMENT: INDEMNIFICATION AGREEMENT
+
+--- (Additional Root Structure) ---
+Section 1: Section 1. Definitions . For purposes of this Agreement:
+
+--- (Additional Root Structure) ---
+Clause (a): (a) “Change in Control” means a change in control of the Company occurring af...
+
+--- (Additional Root Structure) ---
+Content: (b) “Corporate Status” means the status of a person as a present or former di...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: any of its affiliated entities, Indemnitee is subject to duties by, or requir...
+
+--- (Additional Root Structure) ---
+Content: (c) “Disinterested Director” means a director of the Company who is not and w...
+
+--- (Additional Root Structure) ---
+Content: (d) “Effective Date” means the date set forth in the first paragraph of this ...
+
+--- (Additional Root Structure) ---
+Content: (e) “Expenses” means any and all reasonable and out-of-pocket attorneys’ fees...
+
+--- (Additional Root Structure) ---
+Content: (f) “Independent Counsel” means a law firm, or a member of a law firm, that i...
+
+--- (Additional Root Structure) ---
+Content: (g) “Proceeding” means any threatened, pending or completed action, suit, arb...
+
+--- (Additional Root Structure) ---
+Section 2: Section 2. Services by Indemnitee . Indemnitee [will serve] [serves] in the c...
+
+--- (Additional Root Structure) ---
+Section 3: Section 3. General . The Company shall indemnify, and advance Expenses to, In...
+
+--- (Additional Root Structure) ---
+Section 4: Section 4. Standard for Indemnification . If, by reason of Indemnitee’s Corpo...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: on Indemnitee’s behalf in connection with any such Proceeding unless it is es...
+
+--- (Additional Root Structure) ---
+Section 5: Section 5. Certain Limits on Indemnification . Notwithstanding any other prov...
+
+--- (Additional Root Structure) ---
+Content: (a) indemnification hereunder if the Proceeding was one by or in the right of...
+
+--- (Additional Root Structure) ---
+Content: (b) indemnification hereunder if Indemnitee is adjudged, in a final adjudicat...
+
+--- (Additional Root Structure) ---
+Content: (c) indemnification or advance of Expenses hereunder if the Proceeding was br...
+
+--- (Additional Root Structure) ---
+Section 6: Section 6. Court-Ordered Indemnification . Notwithstanding any other provisio...
+
+--- (Additional Root Structure) ---
+Content: (a) if such court determines that Indemnitee is entitled to reimbursement und...
+
+--- (Additional Root Structure) ---
+Content: (b) if such court determines that Indemnitee is fairly and reasonably entitle...
+
+--- (Additional Root Structure) ---
+Section 7: Section 7. Indemnification for Expenses of an Indemnitee Who is Wholly or Par...
+
+--- (Additional Root Structure) ---
+Section 8: Section 8. Advance of Expenses for Indemnitee . If, by reason of Indemnitee’s...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: or on behalf of Indemnitee in connection with such Proceeding. The Company sh...
+
+--- (Additional Root Structure) ---
+Section 9: Section 9. Indemnification and Advance of Expenses as a Witness or Other Part...
+
+--- (Additional Root Structure) ---
+Section 10: Section 10. Procedure for Determination of Entitlement to Indemnification .
+
+--- (Additional Root Structure) ---
+Content: (a) To obtain indemnification under this Agreement, Indemnitee shall submit t...
+
+--- (Additional Root Structure) ---
+Content: (b) Upon written request by Indemnitee for indemnification pursuant to Sectio...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: determination in the discretion of the Board of Directors or Independent Coun...
+
+--- (Additional Root Structure) ---
+Content: (c) The Company shall pay the reasonable fees and expenses of Independent Cou...
+
+--- (Additional Root Structure) ---
+Section 11: Section 11. Presumptions and Effect of Certain Proceedings .
+
+--- (Additional Root Structure) ---
+Content: (a) In making any determination with respect to entitlement to indemnificatio...
+
+--- (Additional Root Structure) ---
+Content: (b) The termination of any Proceeding or of any claim, issue or matter therei...
+
+--- (Additional Root Structure) ---
+Content: (c) The knowledge and/or actions, or failure to act, of any other director, o...
+
+--- (Additional Root Structure) ---
+Section 12: Section 12. Remedies of Indemnitee .
+
+--- (Additional Root Structure) ---
+Content: (a) If (i) a determination is made pursuant to Section 10(b) of this Agreemen...
+
+--- (Additional Root Structure) ---
+Content: (b) In any judicial proceeding or arbitration commenced pursuant to this Sect...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: Agreement until a final determination is made with respect to Indemnitee’s en...
+
+--- (Additional Root Structure) ---
+Content: (c) If a determination shall have been made pursuant to Section 10(b) of this...
+
+--- (Additional Root Structure) ---
+Content: (d) In the event that Indemnitee is successful in seeking, pursuant to this S...
+
+--- (Additional Root Structure) ---
+Content: (e) Interest shall be paid by the Company to Indemnitee at the maximum rate a...
+
+--- (Additional Root Structure) ---
+Section 13: Section 13. Defense of the Underlying Proceeding .
+
+--- (Additional Root Structure) ---
+Content: (a) Indemnitee shall notify the Company promptly in writing upon being served...
+
+--- (Additional Root Structure) ---
+Content: (b) Subject to the provisions of the last sentence of this Section 13(b) and ...
+
+--- (Additional Root Structure) ---
+Content: (c) Notwithstanding the provisions of Section 13(b) above, if in a Proceeding...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: approved by the Company, which approval shall not be unreasonably withheld or...
+
+--- (Additional Root Structure) ---
+Section 14: Section 14. Non-Exclusivity; Survival of Rights; Subrogation .
+
+--- (Additional Root Structure) ---
+Content: (a) The rights of indemnification and advance of Expenses as provided by this...
+
+--- (Additional Root Structure) ---
+Content: (b) In the event of any payment under this Agreement, the Company shall be su...
+
+--- (Additional Root Structure) ---
+Section 15: Section 15. Insurance .
+
+--- (Additional Root Structure) ---
+Content: (a) The Company will use its reasonable best efforts to acquire directors and...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: such coverage, the Company shall spend up to that amount to purchase such les...
+
+--- (Additional Root Structure) ---
+Content: (b) Without in any way limiting any other obligation under this Agreement, th...
+
+--- (Additional Root Structure) ---
+Content: (c) The Indemnitee shall cooperate with the Company or any insurance carrier ...
+
+--- (Additional Root Structure) ---
+Section 16: Section 16. Coordination of Payments . The Company shall not be liable under ...
+
+--- (Additional Root Structure) ---
+Section 17: Section 17. Contribution . If the indemnification provided in this Agreement ...
+
+--- (Additional Root Structure) ---
+Section 18: Section 18. Reports to Stockholders . To the extent required by the MGCL, the...
+
+--- (Additional Root Structure) ---
+Section 19: Section 19. Duration of Agreement; Binding Effect .
+
+--- (Additional Root Structure) ---
+Content: (a) This Agreement shall continue until and terminate on the later of (i) the...
+
+--- (Additional Root Structure) ---
+Content: (b) The indemnification and advance of Expenses provided by, or granted pursu...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Content: direct or indirect successor by purchase, merger, consolidation or otherwise ...
+
+--- (Additional Root Structure) ---
+Content: (c) The Company shall require and cause any successor (whether direct or indi...
+
+--- (Additional Root Structure) ---
+Content: (d) The Company and Indemnitee agree that a monetary remedy for breach of thi...
+
+--- (Additional Root Structure) ---
+Section 20: Section 20. Severability . If any provision or provisions of this Agreement s...
+
+--- (Additional Root Structure) ---
+Section 21: Section 21. Identical Counterparts . This Agreement may be executed in one or...
+
+--- (Additional Root Structure) ---
+Section 22: Section 22. Headings . The headings of the paragraphs of this Agreement are i...
+
+--- (Additional Root Structure) ---
+Section 23: Section 23. Modification and Waiver . No supplement, modification or amendmen...
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+Section 24: Section 24. Notices . All notices, requests, demands and other communications...
+
+--- (Additional Root Structure) ---
+Content: (a) If to Indemnitee, to the address set forth on the signature page hereto.
+
+--- (Additional Root Structure) ---
+Content: (b) If to the Company, to:
+
+--- (Additional Root Structure) ---
+Content: Armada Hoffler Properties, Inc.
+
+--- (Additional Root Structure) ---
+Content: Attn: Corporate Secretary
+
+--- (Additional Root Structure) ---
+Content: 222 Central Park Avenue
+
+--- (Additional Root Structure) ---
+Content: Suite 2100
+
+--- (Additional Root Structure) ---
+Content: Virginia Beach, Virginia 23462
+
+--- (Additional Root Structure) ---
+Content: with a copy to (which shall not constitute notice):
+
+--- (Additional Root Structure) ---
+Content: Morrison & Foerster LLP
+
+--- (Additional Root Structure) ---
+Content: 2100 L Street, NW
+
+--- (Additional Root Structure) ---
+Content: Suite 900
+
+--- (Additional Root Structure) ---
+Content: Washington, DC 20037
+
+--- (Additional Root Structure) ---
+Content: Attention: Justin R. Salon
+
+--- (Additional Root Structure) ---
+Content: or to such other address as may have been furnished in writing to Indemnitee ...
+
+--- (Additional Root Structure) ---
+Section 25: Section 25. Governing Law . This Agreement shall be governed by, and construe...
+
+--- (Additional Root Structure) ---
+Heading (L1): [SIGNATURE PAGE FOLLOWS]
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.4
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.4
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THIS INDEMNIFICATION AGREEMENT (“Agreement”) is made and entered into as of t...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, at the request of the Company, Indemnitee currently serves as [a dir...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, as an inducement to Indemnitee to serve or continue to serve in such...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, the parties by this Agreement desire to set forth their agreement re...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, in consideration of the premises and the covenants contained ...

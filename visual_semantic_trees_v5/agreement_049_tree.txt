@@ -1,0 +1,40 @@
+Visual Semantic Tree for agreement_049.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 0.0%
+Total Elements: 37
+Hierarchical Elements: 1
+================================================================================
+
+AGREEMENT: EIGHTH AMENDMENT TO OFFICE LEASE
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.29
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): CERTAIN INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This Eighth Amendment to Office Lease (this “Eighth Amendment”), dated May 26...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS,
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): A.Landlord, pursuant to the provisions of that certain Office Lease, dated No...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): B.Pursuant to Article 25 of the Original Lease, as amended by Section 9.3 of ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): C.Landlord and Tenant have agreed that Tenant shall rescind the Termination N...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): D.In consideration of Tenant’s agreement to rescind the early termination of ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): E.Landlord and Tenant, for their mutual benefit, wish to revise certain other...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, in consideration of the covenants and provisions contained he...

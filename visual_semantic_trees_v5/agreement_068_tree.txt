@@ -1,0 +1,367 @@
+Visual Semantic Tree for agreement_068.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 20.5%
+Total Elements: 120
+Hierarchical Elements: 117
+================================================================================
+
+AGREEMENT: BETWEEN
+
+--- (Additional Root Structure) ---
+Heading (L1): DATED THIS DAY OF 2022
+
+--- (Additional Root Structure) ---
+Heading (L1): MYISCO SDN BHD
+
+--- (Additional Root Structure) ---
+Content: (Registration No: 201901046119)(1355449-A)
+
+--- (Additional Root Structure) ---
+Heading (L1): AND
+
+--- (Additional Root Structure) ---
+Content: SUPER APPS HOLDINGS SDN BHD
+
+--- (Additional Root Structure) ---
+Content: (Registration No: 202201014353)(1460050-W)
+
+--- (Additional Root Structure) ---
+Content: Field: Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Field: /Rule-Page
+
+--- (Additional Root Structure) ---
+Heading (L1): COLLABORATION AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: Field: Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Field: /Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: This Collaboration Agreement (the “Agreement”) is made and entered into on 19...
+
+--- (Additional Root Structure) ---
+Content: BETWEEN
+
+--- (Additional Root Structure) ---
+Content: MYISCO SDN BHD (Registration No: 201901046119 (1355449-A)), a company incorpo...
+
+--- (Additional Root Structure) ---
+Content: AND
+
+--- (Additional Root Structure) ---
+Content: SUPER APPS HOLDINGS SDN BHD (Registration No: 202201014353 (1460050-W)), a co...
+
+--- (Additional Root Structure) ---
+Content: MYISCO and the Financing Partner may be referred to in this Agreement individ...
+
+--- (Additional Root Structure) ---
+Content: RECITALS:
+
+--- (Additional Root Structure) ---
+Clause (A): A. MYISCO is a digital Islamic financial services platform catering to the co...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2; Options: NewSection; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): NOW IT IS HEREBY AGREED as follows:
+
+--- (Additional Root Structure) ---
+Section 1: 1. DEFINITION AND INTERPRETATION 1.1 Definition In this Agreement, unless the...
+
+--- (Additional Root Structure) ---
+Content: “Agreement” means this collaboration agreement, including all of its schedule...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: “Financing Partner Content” means the content as referred to in Clause 8.1 he...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 2: 2. PERSONAL FINANCING PROGRAMME The Financing Partner and MYISCO shall establ...
+
+--- (Additional Root Structure) ---
+Section 2.1: 2.1 The Financing Partner shall make available an initial sum of Ringgit Mala...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 2.8: 2.8 Upon written confirmation of the Returns Statement by the Financing Partn...
+
+--- (Additional Root Structure) ---
+Section 3: 3. FINANCING PARTNER’S OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Section 3.1: 3.1 The Financing Partner shall be deemed aware of and shall comply with all ...
+
+--- (Additional Root Structure) ---
+Section 4: 4. OBLIGATIONS OF MYISCO
+
+--- (Additional Root Structure) ---
+Section 4.1: 4.1 MYISCO shall provide the Personal Financings with due diligence and effic...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 4.6: 4.6 MYISCO shall ensure the approved Personal Financing is being provided wit...
+
+--- (Additional Root Structure) ---
+Section 5: 5. MUTUAL OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Section 5.1: 5.1 Both Parties shall:
+
+--- (Additional Root Structure) ---
+Content: (a) provide the other with reasonable information and other support, advise, ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 6: 6. CONFIDENTIALITY
+
+--- (Additional Root Structure) ---
+Section 6.1: 6.1 Neither the Financing Partner nor MYISCO shall, without the prior written...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 7: 7. DATA PROTECTION
+
+--- (Additional Root Structure) ---
+Section 7.1: 7.1 In relation to Personal Data obtained by MYISCO in connection with this A...
+
+--- (Additional Root Structure) ---
+Section 8: 8. INTELLECTUAL PROPERTY RIGHTS
+
+--- (Additional Root Structure) ---
+Section 8.1: 8.1 The Financing Partner acknowledges that the MYISCO Wallet contains confid...
+
+--- (Additional Root Structure) ---
+Section 9: 9. EXCLUSIVITY
+
+--- (Additional Root Structure) ---
+Content: This Agreement is non-exclusive in nature and this agreement will not prohibi...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 9; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-9
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 10: 10. TERMINATION
+
+--- (Additional Root Structure) ---
+Section 10.1: 10.1 Notwithstanding the provisions hereinabove, this Agreement may be termin...
+
+--- (Additional Root Structure) ---
+Section 11: 11. INDEMNITIES AND LIABILITIES
+
+--- (Additional Root Structure) ---
+Section 11.1: 11.1 The Financing Partner releases and indemnifies MYISCO, its’ employees, s...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 10; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-10
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 11.5: 11.5 This provision shall extend inter-alia to claims and liabilities in the ...
+
+--- (Additional Root Structure) ---
+Section 12: 12. NOTICES
+
+--- (Additional Root Structure) ---
+Section 12.1: 12.1 Service of notice A notice or other communication required or permitted ...
+
+--- (Additional Root Structure) ---
+Section 12.2: 12.2 Particulars for Service 12.2.1 The particulars for service of MYISCO are...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 11; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-11
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 12.2.2 The particulars for service of the Financing Partner are: Address : L5...
+
+--- (Additional Root Structure) ---
+Section 12.3: 12.3 Either Party may change its particulars for service by way of written no...
+
+--- (Additional Root Structure) ---
+Section 13: 13. FORCE MAJEURE 13.1 If either Party to this Agreement is temporarily unabl...
+
+--- (Additional Root Structure) ---
+Section 14: 14. DURATION OF AGREEMENT 14.1 This Agreement shall commence immediately upon...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 12; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-12
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 15: 15. MISCELLANEOUS 15.1 Severability. If any provision of this Agreement shall...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 13; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-13
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 15.7: 15.7 Governing Law. This Agreement will be governed by and construed in accor...
+
+--- (Additional Root Structure) ---
+Content: [The remainder of this page is intentionally left blank]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 14; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-14
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF the Parties have hereunto set their respective hands and s...
+
+--- (Additional Root Structure) ---
+Heading (L1): MYISCO
+
+--- (Additional Root Structure) ---
+Heading (L1): THE FINANCING PARTNER
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 15; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-15
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Schedule 1
+
+--- (Additional Root Structure) ---
+Heading (L1): Trust Deed Between MYISCO and MyAngkasa Amanah Berhad
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 16; Value: 2
+
+--- (Additional Root Structure) ---
+Content: L-16
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Schedule 2
+
+--- (Additional Root Structure) ---
+Heading (L1): Details of Personal Financing
+
+--- (Additional Root Structure) ---
+Content: MYISCO shall provide the Customers with personal financings as per the follow...
+
+--- (Additional Root Structure) ---
+Content: 1. Name of Financing Product Revolving Credit Line 2. Annual Percentage Rate ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 17; Options: Last
+
+--- (Additional Root Structure) ---
+Content: L-17
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.12
+
+--- (Additional Root Structure) ---
+TableElement: Signed by ) for and behalf of ) MYISCO SDN BHD ) (Registration No.: 201901046...
+
+--- (Additional Root Structure) ---
+TableElement: Signed by ) for and behalf of ) SUPER APPS SDN BHD ) (Registration No. 202201...

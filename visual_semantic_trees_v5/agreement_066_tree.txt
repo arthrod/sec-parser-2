@@ -1,0 +1,82 @@
+Visual Semantic Tree for agreement_066.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 20.8%
+Total Elements: 25
+Hierarchical Elements: 24
+================================================================================
+
+AGREEMENT: GOSSAMER BIO, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): NON-EMPLOYEE DIRECTOR COMPENSATION PROGRAM
+
+--- (Additional Root Structure) ---
+Content: Non-employee members of the board of directors (the “Board”) of Gossamer Bio,...
+
+--- (Additional Root Structure) ---
+Content: 1.Cash Compensation.
+
+--- (Additional Root Structure) ---
+Clause (a): (a) Annual Retainers. Each Non-Employee Director shall receive an annual reta...
+
+--- (Additional Root Structure) ---
+Content: (b) Additional Annual Retainers. In addition, each Non-Employee Director shal...
+
+--- (Additional Root Structure) ---
+Content: (i) Chairperson of the Board. A Non-Employee Director serving as Chairperson ...
+
+--- (Additional Root Structure) ---
+Content: (ii) Independent Lead Director. A Non-Employee Director serving as Independen...
+
+--- (Additional Root Structure) ---
+Content: (iii) Audit Committee. A Non-Employee Director serving as Chairperson of the ...
+
+--- (Additional Root Structure) ---
+Content: (iv) Compensation Committee. A Non-Employee Director serving as Chairperson o...
+
+--- (Additional Root Structure) ---
+Content: (v) Nominating and Corporate Governance Committee. A Non-Employee Director se...
+
+--- (Additional Root Structure) ---
+Content: additional annual retainer of $8,000 for such service. A Non-Employee Directo...
+
+--- (Additional Root Structure) ---
+Content: (c) Payment of Retainers. The annual retainers described in Sections 1(a) and...
+
+--- (Additional Root Structure) ---
+Section 2: 2. Equity Compensation. Non-Employee Directors shall be granted the equity aw...
+
+--- (Additional Root Structure) ---
+Content: (a) Initial Awards. Each Non-Employee Director who is initially elected or ap...
+
+--- (Additional Root Structure) ---
+Content: (b) Subsequent Awards. A Non-Employee Director who (i) is serving on the Boar...
+
+--- (Additional Root Structure) ---
+Content: (c) Termination of Employment of Employee Directors. Members of the Board who...
+
+--- (Additional Root Structure) ---
+Content: (d) Terms of Awards Granted to Non-Employee Directors
+
+--- (Additional Root Structure) ---
+Content: (i) Purchase Price. The per share exercise price of each option granted to a ...
+
+--- (Additional Root Structure) ---
+Content: (ii) Vesting. Each Initial Award shall vest and become exercisable in thirty-...
+
+--- (Additional Root Structure) ---
+Content: (iii) Term. The term of each stock option granted to a Non-Employee Director ...
+
+--- (Additional Root Structure) ---
+Section 3: 3. Compensation Limits. Notwithstanding anything to the contrary in this Prog...
+
+--- (Additional Root Structure) ---
+Section 4: 4. Reimbursements. The Company shall reimburse each Non-Employee Director for...
+
+--- (Additional Root Structure) ---
+Heading (L1): * * * * *
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.7

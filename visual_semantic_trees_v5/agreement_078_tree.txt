@@ -1,0 +1,36 @@
+Visual Semantic Tree for agreement_078.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 9
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TableElement: Exhibit 10.11 THIS WARRANT AND THE SHARES ISSUABLE HEREUNDER HAVE NOT BEEN RE...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.2 Cashless Exercise. On any exercise of this Warrant, in lieu of payment of...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.6 Treatment of Warrant Upon Acquisition of Company. (a) Acquisition. For th...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): SECTION 2.ADJUSTMENTS TO THE SHARES AND WARRANT PRICE. 2.1 Stock Dividends, S...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): SECTION 3.REPRESENTATIONS AND COVENANTS OF THE COMPANY. 3.1 Representations a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (2) in the case of the matters referred to in (c) and (d) above at least seve...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.5 The Act. Holder understands that this Warrant and the Shares issuable upo...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.3 Compliance with Securities Laws on Transfer. This Warrant and the Shares ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Notice to the Company shall be addressed as follows until Holder receives not...

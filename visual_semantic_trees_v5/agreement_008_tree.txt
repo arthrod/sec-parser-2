@@ -1,0 +1,12 @@
+Visual Semantic Tree for agreement_008.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 1
+Hierarchical Elements: 1
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Table of Contents: EXHIBIT 10.2 INVESTOR RIGHTS AGREEMENT Dated as of January 2, 2024 TABLE OF C...

@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_024.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 15
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.19 August 18, 2023 Heidy King-Jones Re: Offer of Employment Dear H...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): discretionary and may be subject to achievement of performance targets establ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 8. At-Will Employment; Date of Termination. At all times, your employment wit...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (b) Notwithstanding anything to the contrary in any applicable equity-based a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): The amounts payable under Section 10(a) and (c), to the extent taxable, shall...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): occurs (in each case, calculating by reference to your Base Salary rate as in...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 12. Continuing Obligations. (a) EIACN Agreement. As a condition of your emplo...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d) Relief. You agree that it would be difficult to measure any damages cause...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Company shall bear all costs that Independent Tax Counsel may reasonably incu...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): payable on an installment basis, the first payment shall include a catch-up p...

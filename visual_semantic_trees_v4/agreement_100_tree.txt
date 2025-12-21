@@ -1,0 +1,11 @@
+Visual Semantic Tree for agreement_100.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 2
+Hierarchical Elements: 2
+================================================================================
+
+AGREEMENT: ​(b)Participant’s Acknowledgements. The Participant acknowledges that he or s...
+`-- Content: ​withholding obligations with respect to the income recognized by me in conne...

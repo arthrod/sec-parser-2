@@ -1,0 +1,48 @@
+Visual Semantic Tree for agreement_094.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 24
+Hierarchical Elements: 3
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS Page ARTICLE I. DEFINITIONS 1 Section 1.01 Definitions 1 AR...
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS (continued) Page ARTICLE V. OTHER MATTERS PERTAINING TO THE...
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS (continued) Page Section 9.13 Submission to Jurisdiction; W...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.5 ASSET REPRESENTATIONS REVIEW AGREEMENT DRIVE AUTO RECEIVABLES TR...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ASSET REPRESENTATIONS REVIEW AGREEMENT This ASSET REPRESENTATIONS REVIEW AGRE...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “Eligibility Representations” shall mean those representations identified in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ARTICLE II. ENGAGEMENT; ACCEPTANCE Section 2.01 Engagement; Acceptance. The I...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Section 3.02 Review Notices. Upon receipt of (i) a Review Notice from the Ind...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): not provided the missing Review Material for a Subject Receivable to the Asse...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Section 3.08 Completion of Review for Certain Subject Receivables. Following ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Section 3.12 Representatives. (a) Servicer Representative. The Servicer will ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ARTICLE IV. PAYMENTS TO ASSET REPRESENTATIONS REVIEW Section 4.01 Annual Fee....
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Section 4.04 Payment. All payments made to the Asset Representations Reviewer...

@@ -1,0 +1,40 @@
+Visual Semantic Tree for agreement_024.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 90.9%
+Total Elements: 11
+Hierarchical Elements: 11
+================================================================================
+
+AGREEMENT: discretionary and may be subject to achievement of performance targets establ...
+
+--- (Additional Root Structure) ---
+Heading (L1): The amounts payable under Section 10(a) and (c), to the extent taxable, shall...
+
+--- (Additional Root Structure) ---
+Heading (L1): occurs (in each case, calculating by reference to your Base Salary rate as in...
+
+--- (Additional Root Structure) ---
+Heading (L1): 12. Continuing Obligations. (a) EIACN Agreement. As a condition of your emplo...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Relief. You agree that it would be difficult to measure any damages cause...
+
+--- (Additional Root Structure) ---
+Heading (L1): Company shall bear all costs that Independent Tax Counsel may reasonably incu...
+
+--- (Additional Root Structure) ---
+Heading (L1): payable on an installment basis, the first payment shall include a catch-up p...
+
+--- (Additional Root Structure) ---
+Heading (L1): 15. Withholding; Tax Effect. All forms of compensation referred to in this Ag...
+
+--- (Additional Root Structure) ---
+Heading (L1): such transaction. This Agreement shall inure to the benefit of and be binding...
+
+--- (Additional Root Structure) ---
+Heading (L1): 23. Other Terms. The provisions of this Agreement shall survive the terminati...
+
+--- (Additional Root Structure) ---
+Heading (L1): Sincerely, /s/ Cameron Turtle Name: Cameron Turtle Title: Chief Operating Off...

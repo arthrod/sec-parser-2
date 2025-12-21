@@ -1,0 +1,130 @@
+Visual Semantic Tree for agreement_081.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 55.0%
+Total Elements: 41
+Hierarchical Elements: 40
+================================================================================
+
+AGREEMENT: HORMEL FOODS CORPORATION
+
+--- (Additional Root Structure) ---
+Heading (L1): Restricted Stock Unit Agreement
+
+--- (Additional Root Structure) ---
+Heading (L1): Under the 2018 Incentive Compensation Plan
+
+--- (Additional Root Structure) ---
+Content: Hormel Foods Corporation (the “Company”), pursuant to its 2018 Incentive Comp...
+
+--- (Additional Root Structure) ---
+Content: By signing below or otherwise evidencing your acceptance of this Agreement in...
+
+--- (Additional Root Structure) ---
+Content: PARTICIPANT HORMEL FOODS CORPORATION
+
+--- (Additional Root Structure) ---
+Content: By:___ /s/ James P. Snee________________
+
+--- (Additional Root Structure) ---
+Content: Name: James P. Snee
+
+--- (Additional Root Structure) ---
+Content: Title: Chairman of the Board, President and CEO
+
+--- (Additional Root Structure) ---
+Content: _____________________________________________________________________________...
+
+--- (Additional Root Structure) ---
+Heading (L1): HORMEL FOODS CORPORATION
+
+--- (Additional Root Structure) ---
+Heading (L1): 2018 Incentive Compensation Plan
+
+--- (Additional Root Structure) ---
+Heading (L1): Restricted Stock Unit Agreement
+
+--- (Additional Root Structure) ---
+Heading (L1): Restricted Stock Unit Terms and Conditions
+
+--- (Additional Root Structure) ---
+Section 1: 1. Grant of Restricted Stock Units. The Company hereby confirms the grant to ...
+
+--- (Additional Root Structure) ---
+Section 2: 2. Vesting.
+
+--- (Additional Root Structure) ---
+Clause (a): (a) Scheduled Vesting. The Units will vest on the date specified in the Vesti...
+
+--- (Additional Root Structure) ---
+Content: (b) Accelerated Vesting. Notwithstanding Section 2(a), if, prior to the Sched...
+
+--- (Additional Root Structure) ---
+Section 3: 3. Service Requirement. Except as otherwise provided in Section 2 of this Agr...
+
+--- (Additional Root Structure) ---
+Section 4: 4. Settlement of Units; Delivery of Shares. Subject to Section 15 below, afte...
+
+--- (Additional Root Structure) ---
+Content: _____________________________________________________________________________...
+
+--- (Additional Root Structure) ---
+Content: provisions of applicable law, as determined by the Committee in its sole disc...
+
+--- (Additional Root Structure) ---
+Section 5: 5. Dividend Equivalents. If the Company pays cash dividends on its Shares whi...
+
+--- (Additional Root Structure) ---
+Section 6: 6. Withholding Taxes. No Shares will be delivered to you in settlement of ves...
+
+--- (Additional Root Structure) ---
+Section 7: 7. Transfer of Award or Units. You may not assign or transfer this Award or t...
+
+--- (Additional Root Structure) ---
+Section 8: 8. No Stockholder Rights. The Units subject to this Award do not entitle you ...
+
+--- (Additional Root Structure) ---
+Section 9: 9. Section 409A of the Code. The award of Units as provided in this Agreement...
+
+--- (Additional Root Structure) ---
+Section 10: 10. Governing Plan Document. This Agreement and Award are subject to all the ...
+
+--- (Additional Root Structure) ---
+Section 11: 11. Choice of Law. This Agreement will be interpreted and enforced under the ...
+
+--- (Additional Root Structure) ---
+Content: _____________________________________________________________________________...
+
+--- (Additional Root Structure) ---
+Section 12: 12. Binding Effect. This Agreement will be binding in all respects on your he...
+
+--- (Additional Root Structure) ---
+Section 13: 13. Other Agreements. You agree that in connection with the settlement of the...
+
+--- (Additional Root Structure) ---
+Section 14: 14. Restrictive Legends. The Company may place a legend or legends on any cer...
+
+--- (Additional Root Structure) ---
+Section 15: 15. Compensation Recovery Policy; Cancellation and Recission.
+
+--- (Additional Root Structure) ---
+Content: (a) You agree that (i) during the period of your Service with the Company or ...
+
+--- (Additional Root Structure) ---
+Content: (b) Failure to comply with the provisions of Section 15(a) shall cause this A...
+
+--- (Additional Root Structure) ---
+Content: (c) Additionally, this Award and any compensation associated herewith is subj...
+
+--- (Additional Root Structure) ---
+Section 16: 16. Electronic Delivery and Acceptance. The Company may deliver any documents...
+
+--- (Additional Root Structure) ---
+Content: By signing the cover page of this Agreement or otherwise accepting this Agree...
+
+--- (Additional Root Structure) ---
+Content: _____________________________________________________________________________...
+
+--- (Additional Root Structure) ---
+TableElement: Name of Participant: _______________________No. of Restricted Stock Units Gra...

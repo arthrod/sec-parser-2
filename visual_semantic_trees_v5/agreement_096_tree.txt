@@ -1,0 +1,78 @@
+Visual Semantic Tree for agreement_096.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 9.1%
+Total Elements: 23
+Hierarchical Elements: 22
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+Content: AMENDMENT
+
+--- (Additional Root Structure) ---
+Content: THIS AMENDMENT to the Note (as defined below) (the “Amendment”) is entered in...
+
+--- (Additional Root Structure) ---
+Content: BACKGROUND
+
+--- (Additional Root Structure) ---
+Content: A. The Company and Holder are the parties to that certain promissory note in ...
+
+--- (Additional Root Structure) ---
+Clause (B): B. The Parties desire to amend the Note as set forth expressly below.
+
+--- (Additional Root Structure) ---
+Content: NOW THEREFORE, in consideration of the execution and delivery of the Amendmen...
+
+--- (Additional Root Structure) ---
+Content: 1. The Parties hereby agree that the Holder shall fund an additional $100,000...
+
+--- (Additional Root Structure) ---
+Content: 2. In connection with the Note Additional Funding, the Company shall issue a ...
+
+--- (Additional Root Structure) ---
+Section 3: 3. Section 4.6 of the Note shall apply to this Amendment.
+
+--- (Additional Root Structure) ---
+Content: 4. This Amendment may be executed in two or more counterparts, each of which ...
+
+--- (Additional Root Structure) ---
+Content: 5. This Amendment shall be deemed part of, but shall take precedence over and...
+
+--- (Additional Root Structure) ---
+Content: [Signature page to follow]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Exhibit A
+
+--- (Additional Root Structure) ---
+Content: (see attached)
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3; Options: Last
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TableElement: Clearday, Inc. Mast Hill Fund, L.P. By: /s/ James Walesa By: /s/ Patrick Hass...

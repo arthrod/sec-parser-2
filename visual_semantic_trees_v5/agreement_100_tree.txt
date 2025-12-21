@@ -1,0 +1,27 @@
+Visual Semantic Tree for agreement_100.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 6
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​Exhibit 10.12​OCULAR THERAPEUTIX, INC.​Restricted Stock Unit AgreementOcular...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​Ocular Therapeutix, Inc.​Restricted Stock Unit Agreement Incorporated Terms ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​the RSUs until the issuance of the shares of Common Stock to the Participant...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​(b)Participant’s Acknowledgements. The Participant acknowledges that he or s...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​Schedule A​DURABLE AUTOMATIC SELL-TO-COVER INSTRUCTIONS​This Durable Automat...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ​withholding obligations with respect to the income recognized by me in conne...

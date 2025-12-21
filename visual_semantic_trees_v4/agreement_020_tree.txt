@@ -1,0 +1,30 @@
+Visual Semantic Tree for agreement_020.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 66.7%
+Total Elements: 9
+Hierarchical Elements: 9
+================================================================================
+
+AGREEMENT: ARTICLE 2 REPRESENTATIONS AND WARRANTIES OF THE STOCKHOLDER The Stockholder r...
+|-- Exhibit Schedule A: Section 2.03 Ownership of Shares. The Stockholder is the beneficial owner of,...
+`-- Article ARTICLE 4: ARTICLE 4 COVENANTS OF THE STOCKHOLDER The Stockholder hereby agrees that: Se...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 4.02 Directors. Notwithstanding any provision of this Agreement to th...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 4.05 Adverse Actions. The Stockholder hereby agrees that the Stockhol...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 5.02 No Ownership Interest. Nothing contained in this Agreement shall...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 5.04 Amendments; Termination. Any provision of this Agreement may be ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 5.12 Specific Performance. Subject to Section 5.13, the parties heret...
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly ...

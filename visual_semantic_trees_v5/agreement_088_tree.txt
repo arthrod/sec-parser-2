@@ -1,0 +1,37 @@
+Visual Semantic Tree for agreement_088.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 11.1%
+Total Elements: 10
+Hierarchical Elements: 9
+================================================================================
+
+AGREEMENT: Second Amendment to Product Agreement
+
+--- (Additional Root Structure) ---
+Heading (L1): between Patheon Pharmaceuticals Inc. and ACADIA Pharmaceuticals Inc.
+
+--- (Additional Root Structure) ---
+Content: This Second Amendment to Product Agreement (the “Amendment”), dated October 6...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Patheon and ACADIA have entered into that certain Master Manufacturi...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Patheon and ACADIA now wish to amend the Product Agreement as set fo...
+
+--- (Additional Root Structure) ---
+Content: NOW THEREFORE in consideration of the premises hereof and other good and valu...
+
+--- (Additional Root Structure) ---
+Content: 1.Amendment to Schedule C. The stability pricing table on Schedule C of the P...
+
+--- (Additional Root Structure) ---
+Content: 2.Side Letter Agreements. The parties hereby agree that any future changes to...
+
+--- (Additional Root Structure) ---
+Content: 3.No Other Modifications. Except as specifically modified by this Amendment, ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.19 CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MA...

@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_048.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 13
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.2 REGISTRATION RIGHTS AGREEMENT This Registration Rights Agreement...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “Commission” means the Securities and Exchange Commission, or any other feder...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “Registration Expenses” means the out-of-pocket expenses of a Registration, i...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): shall be entitled to have their Registrable Securities included in a Registra...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i) and (ii), the Common Stock or other equity securities that the Company de...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): sold without exceeding the Maximum Number of Securities; (C) third, to the ex...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): shall not be obligated to effect any such Registration pursuant to this Secti...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): and things that may be necessary or advisable to enable the Holders of Regist...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.1.16 if the Registration involves the Registration of Registrable Securitie...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): ARTICLE IV INDEMNIFICATION AND CONTRIBUTION Section 4.1 Indemnification by th...

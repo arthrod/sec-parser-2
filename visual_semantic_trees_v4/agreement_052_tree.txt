@@ -1,0 +1,43 @@
+Visual Semantic Tree for agreement_052.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 91.7%
+Total Elements: 12
+Hierarchical Elements: 12
+================================================================================
+
+AGREEMENT: “Code” means the U.S. Internal Revenue Code of 1986, as amended, and any succ...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Award Agreement. Awards under the Plan shall be evidenced by Award Agreem...
+
+--- (Additional Root Structure) ---
+Heading (L1): January 1 thereafter by the lesser of the Annual Increase for such year or 51...
+
+--- (Additional Root Structure) ---
+Heading (L1): number of shares subject to outstanding Awards and the exercise price and the...
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 5. STOCK OPTIONS (a) Award of Stock Options. The Administrator may gr...
+
+--- (Additional Root Structure) ---
+Heading (L1): (i) In cash, by certified or bank check or other instrument acceptable to the...
+
+--- (Additional Root Structure) ---
+Heading (L1): SECTION 6. STOCK APPRECIATION RIGHTS (a) Award of Stock Appreciation Rights. ...
+
+--- (Additional Root Structure) ---
+Heading (L1): have the sole right to determine whether and under what circumstances to perm...
+
+--- (Additional Root Structure) ---
+Heading (L1): equivalents credited to the holder of a Dividend Equivalent Right may be paid...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Designation of Beneficiary. To the extent permitted by the Company and va...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 409A) to a grantee who is then considered a “specified employee” (wit...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) Other Incentive Arrangements; No Rights to Continued Service Relationship...

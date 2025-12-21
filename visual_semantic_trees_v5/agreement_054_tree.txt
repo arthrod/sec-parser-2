@@ -1,0 +1,780 @@
+Visual Semantic Tree for agreement_054.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 8.2%
+Total Elements: 257
+Hierarchical Elements: 256
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.5
+
+--- (Additional Root Structure) ---
+Content: SECURITY AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: Dated March 15, 2024
+
+--- (Additional Root Structure) ---
+Content: From
+
+--- (Additional Root Structure) ---
+Content: The Grantors referred to herein,
+
+--- (Additional Root Structure) ---
+Content: as Grantors
+
+--- (Additional Root Structure) ---
+Content: to
+
+--- (Additional Root Structure) ---
+Content: as Collateral Agent
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Table of Contents: TABLE OF CONTENTS
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2; Options: NewSection; Value: 1
+
+--- (Additional Root Structure) ---
+Content: i
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: SECURITY AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: This SECURITY AGREEMENT dated March 15, 2024 (as it may be amended, restated,...
+
+--- (Additional Root Structure) ---
+Heading (L1): PRELIMINARY STATEMENTS
+
+--- (Additional Root Structure) ---
+Content: (1) Company has agreed to issue to the Buyers a certain series of senior secu...
+
+--- (Additional Root Structure) ---
+Content: (2) Company is a member of an affiliated group of companies that includes eac...
+
+--- (Additional Root Structure) ---
+Content: (3) It is a condition precedent to the issuance of the Notes under the Securi...
+
+--- (Additional Root Structure) ---
+Content: (4) Each Grantor will derive substantial direct or indirect benefit from the ...
+
+--- (Additional Root Structure) ---
+Content: (5) Certain capitalized terms used but not defined herein shall have the mean...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3; Options: NewSection; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, in consideration of the foregoing premises and other good and...
+
+--- (Additional Root Structure) ---
+Content: Section 1. Grant of Security. Each Grantor hereby grants to the Collateral Ag...
+
+--- (Additional Root Structure) ---
+Content: (a) all equipment in all of its forms, including all machinery, chattels, too...
+
+--- (Additional Root Structure) ---
+Content: (b) all inventory in all of its forms, including (i) all raw materials, work ...
+
+--- (Additional Root Structure) ---
+Content: (c) (i) all accounts (including any “Accounts” within the meaning of the UCC)...
+
+--- (Additional Root Structure) ---
+Heading (L1): (d) the following (the “Security Collateral”):
+
+--- (Additional Root Structure) ---
+Content: (i) all indebtedness from time to time owed to such Grantor and the instrumen...
+
+--- (Additional Root Structure) ---
+Content: (ii) all investment property (as defined in the UCC), including any securitie...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (iii) all certificated securities and any other Equity Interests of any Perso...
+
+--- (Additional Root Structure) ---
+Content: (iv) any Equity Interests of any Person that are not Pledged Certificated Sto...
+
+--- (Additional Root Structure) ---
+Heading (L1): (e) the following (collectively, the “Account Collateral”):
+
+--- (Additional Root Structure) ---
+Content: (i) all deposit accounts maintained by any bank by or for the benefit of such...
+
+--- (Additional Root Structure) ---
+Content: (ii) all promissory notes, certificates of deposit, checks and other instrume...
+
+--- (Additional Root Structure) ---
+Content: (iii) all interest, dividends, distributions, cash, instruments and other pro...
+
+--- (Additional Root Structure) ---
+Content: (f) all documents, all money, cash and Cash Equivalents and all letter-of-cre...
+
+--- (Additional Root Structure) ---
+Content: (g) all Intellectual Property, including the registered patents and patent ap...
+
+--- (Additional Root Structure) ---
+Content: (h) all books and records and documents (including databases, customer lists,...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (i) all other goods and property not otherwise described above;
+
+--- (Additional Root Structure) ---
+Content: (j) all insurance payments, proceeds, refunds, and premium rebates (including...
+
+--- (Additional Root Structure) ---
+Content: (k) all general intangibles;
+
+--- (Additional Root Structure) ---
+Content: (l) all proceeds of, collateral for, income, royalties and other payments now...
+
+--- (Additional Root Structure) ---
+Content: (m) to the extent not otherwise included, all (A) accounts, chattel paper, in...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything herein or in any Transaction Document to the contrar...
+
+--- (Additional Root Structure) ---
+Content: Section 2. Security for Obligations. The Collateral secures and will secure a...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 3. Grantors Remain Liable. Anything herein to the contrary notwithsta...
+
+--- (Additional Root Structure) ---
+Content: Section 4. Delivery and Control of Certain Instruments, Deposit Accounts and ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 5. Representations and Warranties. Each Grantor represents and warran...
+
+--- (Additional Root Structure) ---
+Content: (a) Such Grantor’s exact legal name, chief executive office or sole place of ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (b) Within the five years preceding the date hereof, no Grantor has entered i...
+
+--- (Additional Root Structure) ---
+Content: (c) The books and records of the Grantors pertaining to accounts, contract ri...
+
+--- (Additional Root Structure) ---
+Content: (d) Such Grantor is the legal and beneficial owner of the Collateral and has ...
+
+--- (Additional Root Structure) ---
+Content: (e) This Agreement creates in favor of the Collateral Agent, for the benefit ...
+
+--- (Additional Root Structure) ---
+Content: (f) All of such Grantor’s locations where Equipment or Inventory is located a...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (g) No Receivable is evidenced by a promissory note or other instrument that ...
+
+--- (Additional Root Structure) ---
+Content: (h) Any (i) Pledged Certificated Stock and (ii) Pledged Debt or other Securit...
+
+--- (Additional Root Structure) ---
+Content: (i) Such Grantor is not a beneficiary or assignee under any letter of credit ...
+
+--- (Additional Root Structure) ---
+Content: (j) No authorization or approval or other action by, and no notice to or fili...
+
+--- (Additional Root Structure) ---
+Heading (L1): (k) Intellectual Property.
+
+--- (Additional Root Structure) ---
+Content: (i) Schedule V (Patents), Schedule VI (Copyrights), and Schedule VII (Tradema...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 9; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (ii) Schedule IX sets forth a true and complete list of all Material IP Agree...
+
+--- (Additional Root Structure) ---
+Content: (iii) Each Grantor owns and possesses or has a license or other right to use ...
+
+--- (Additional Root Structure) ---
+Content: (iv) No holding, decision or judgment has been rendered by any Governmental A...
+
+--- (Additional Root Structure) ---
+Content: (v) No Grantor nor the conduct or operation of any Grantor’s business, nor an...
+
+--- (Additional Root Structure) ---
+Content: (vi) Each Grantor has taken all reasonable measures and has reasonable polici...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 10; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (vii) The IT Assets operate and perform in all reasonable material respects i...
+
+--- (Additional Root Structure) ---
+Content: (viii) All employees and contractors of each Grantor who were involved in the...
+
+--- (Additional Root Structure) ---
+Content: (ix) No Material IP owned by any Grantor has been developed, created, or modi...
+
+--- (Additional Root Structure) ---
+Content: (x) No proprietary software owned by or distributed to any customers by any G...
+
+--- (Additional Root Structure) ---
+Content: (xi) The consummation of the transactions contemplated by any Transaction Doc...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 11; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (l) Except as set forth on Schedule XII, there are no Government Contracts pa...
+
+--- (Additional Root Structure) ---
+Section 6: Section 6. Further Assurances.
+
+--- (Additional Root Structure) ---
+Content: (a) Each Grantor agrees that from time to time, in accordance with the terms ...
+
+--- (Additional Root Structure) ---
+Content: (b) Notwithstanding the grants of authority to the Collateral Agent herein, e...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 12; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (c) Each Grantor will furnish to the Collateral Agent on an annual basis not ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 7. As to Equipment and Inventory.
+
+--- (Additional Root Structure) ---
+Content: (a) Each Grantor will keep its Equipment and Inventory (other than Equipment ...
+
+--- (Additional Root Structure) ---
+Content: (b) Each Grantor will pay promptly when due all property and other taxes, ass...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 8. Intellectual Property.
+
+--- (Additional Root Structure) ---
+Content: (a) As of the Initial Closing Date, each Grantor shall execute and deliver to...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 13; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (b) Each Grantor shall (and shall cause all its licensees to) (1) continue to...
+
+--- (Additional Root Structure) ---
+Content: (c) Each Grantor (either itself or through its licensees) shall not do any ac...
+
+--- (Additional Root Structure) ---
+Content: (d) Each Grantor (either itself or through its licensees) (i) shall employ ea...
+
+--- (Additional Root Structure) ---
+Content: (e) Each Grantor (either itself or through its licensees) shall not do any ac...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 14; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 12
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (f) Each Grantor will notify Collateral Agent promptly if it knows that any a...
+
+--- (Additional Root Structure) ---
+Content: (g) Each Grantor will take all reasonable and necessary steps to maintain and...
+
+--- (Additional Root Structure) ---
+Content: (h) Each Grantor shall take reasonable steps to maintain the confidentiality ...
+
+--- (Additional Root Structure) ---
+Content: (i) In the event that any Intellectual Property owned by any Grantor is, to t...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 15; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 13
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (j) Grantors acknowledge and agree that Collateral Agent shall have no duties...
+
+--- (Additional Root Structure) ---
+Content: (k) Each Grantor agrees to the foregoing with respect to all new or acquired ...
+
+--- (Additional Root Structure) ---
+Content: Section 9. Delivery of Security Collateral. Within five (5) days of the date ...
+
+--- (Additional Root Structure) ---
+Content: Section 10. Post-Closing Matters. Each Grantor shall satisfy the requirements...
+
+--- (Additional Root Structure) ---
+Content: Section 11. Insurance. Each Grantor will, at its own expense, maintain insura...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 12. Post-Closing Changes; Collections on Receivables.
+
+--- (Additional Root Structure) ---
+Content: (a) If any Grantor changes its name, type of organization, chief executive of...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 16; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 14
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (b) Upon the occurrence and during the continuance of any Event of Default, t...
+
+--- (Additional Root Structure) ---
+Content: (c) No Grantor will authorize the filing of any financing statement naming it...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 13. Voting Rights; Dividends; Etc.
+
+--- (Additional Root Structure) ---
+Content: (a) So long as no Event of Default shall have occurred and be continuing:
+
+--- (Additional Root Structure) ---
+Content: (i) Each Grantor shall be entitled to exercise any and all voting and other c...
+
+--- (Additional Root Structure) ---
+Content: (ii) Subject to Section 4 hereof, each Grantor shall be entitled to receive a...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 17; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 15
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (iii) The Collateral Agent will execute and deliver (or cause to be executed ...
+
+--- (Additional Root Structure) ---
+Content: (b) Upon the occurrence and during the continuance of an Event of Default:
+
+--- (Additional Root Structure) ---
+Content: (i) All rights of each Grantor (A) to exercise or refrain from exercising the...
+
+--- (Additional Root Structure) ---
+Content: (ii) All dividends, interest and other distributions that are received by any...
+
+--- (Additional Root Structure) ---
+Content: (iii) In order to permit the Collateral Agent to exercise the voting and othe...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 18; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 16
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 14. As to Letter-of-Credit Rights and Commercial Tort Claims.
+
+--- (Additional Root Structure) ---
+Content: (a) Upon the occurrence and during the continuance of an Event of Default, ea...
+
+--- (Additional Root Structure) ---
+Content: (b) In the event that any Grantor hereafter acquires or has a commercial tort...
+
+--- (Additional Root Structure) ---
+Content: Section 15. Transfers and Other Liens. Each Grantor agrees that it will not (...
+
+--- (Additional Root Structure) ---
+Content: Section 16. Collateral Agent Appointed Attorney-in-Fact. Each Grantor hereby ...
+
+--- (Additional Root Structure) ---
+Content: (a) to ask for, demand, collect, sue for, recover, compromise, receive and gi...
+
+--- (Additional Root Structure) ---
+Content: (b) to receive, indorse and collect any drafts or other instruments, document...
+
+--- (Additional Root Structure) ---
+Content: (c) to file any claims or take any action or institute any proceedings that t...
+
+--- (Additional Root Structure) ---
+Content: (d) to take or cause to be taken all actions necessary to perform or comply o...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 19; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 17
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (e) (i) to generally to sell, transfer, lease, license, pledge, make any agre...
+
+--- (Additional Root Structure) ---
+Content: (f) to repair, alter, or supply goods, if any, necessary to fulfill in whole ...
+
+--- (Additional Root Structure) ---
+Content: (g) in the case of any Intellectual Property owned by or licensed to such Gra...
+
+--- (Additional Root Structure) ---
+Content: (h) assign any Intellectual Property owned by such Grantor or any IP Licenses...
+
+--- (Additional Root Structure) ---
+Content: (i) to enter upon the premises of a Grantor or any location where any Collate...
+
+--- (Additional Root Structure) ---
+Content: provided that the Collateral Agent shall have and may exercise rights under a...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 20; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 18
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 17: Section 17. Proxy.
+
+--- (Additional Root Structure) ---
+Content: (a) EACH GRANTOR HEREBY IRREVOCABLY CONSTITUTES AND APPOINTS COLLATERAL AGENT...
+
+--- (Additional Root Structure) ---
+Content: (b) All prior proxies given by any Grantor with respect to any of the Securit...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 21; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 19
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 18. Collateral Agent May Perform. Upon the occurrence and during the ...
+
+--- (Additional Root Structure) ---
+Content: Section 19. The Collateral Agent’s Duties. Notwithstanding any other provisio...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 20. Remedies; Application of Proceeds.
+
+--- (Additional Root Structure) ---
+Heading (L1): (a) Remedies. If any Event of Default shall have occurred and be continuing:
+
+--- (Additional Root Structure) ---
+Content: (b) The Collateral Agent may (but shall not be obligated to), or shall at the...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 22; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 20
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (i) Any cash held by or on behalf of the Collateral Agent and all cash procee...
+
+--- (Additional Root Structure) ---
+Content: (ii) All payments received by any Grantor under or in connection with any ass...
+
+--- (Additional Root Structure) ---
+Content: (iii) In each case under this Agreement in which the Collateral Agent takes a...
+
+--- (Additional Root Structure) ---
+Content: (c) Application of Proceeds. In the event the Collateral Agent sells or other...
+
+--- (Additional Root Structure) ---
+Content: For the purpose of enabling the Collateral Agent to exercise rights and remed...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 23; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 21
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Each Grantor recognizes that the Collateral Agent may be unable to effect a p...
+
+--- (Additional Root Structure) ---
+Content: Each Grantor agrees to use its reasonable best efforts to do or cause to be d...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 21. Indemnity and Expenses.
+
+--- (Additional Root Structure) ---
+Content: (a) Notwithstanding any indemnification obligations under any other Transacti...
+
+--- (Additional Root Structure) ---
+Content: (b) Each Grantor will pay or reimburse the Collateral Agent or any Buyer upon...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 24; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 22
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (c) Any such amounts payable as provided hereunder shall constitute additiona...
+
+--- (Additional Root Structure) ---
+Content: (d) Each Grantor agrees that neither the Collateral Agent nor any Indemnified...
+
+--- (Additional Root Structure) ---
+Content: (e) The undertakings in this Section 21 shall survive termination of this Agr...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 22. Amendments; Waivers; Additional Grantors; Etc.
+
+--- (Additional Root Structure) ---
+Content: (a) No amendment or waiver of any provision of this Agreement, and no consent...
+
+--- (Additional Root Structure) ---
+Content: (b) Each Subsidiary of the Company that is required to grant security pursuan...
+
+--- (Additional Root Structure) ---
+Content: (c) To the extent any Pledged Stock or Pledged Debt has not been delivered as...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 25; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 23
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Section 23: Section 23. Notices; References.
+
+--- (Additional Root Structure) ---
+Content: (a) Any notice, request or other communication required or permitted hereunde...
+
+--- (Additional Root Structure) ---
+Content: If to Company or any Grantor:
+
+--- (Additional Root Structure) ---
+Content: Workhorse Group Inc. Attn: Chief Financial Officer 3600 Park 42 Drive, Suite ...
+
+--- (Additional Root Structure) ---
+Content: Sharonville, Ohio 45241 Email: bob.ginnan@workhorse.com
+
+--- (Additional Root Structure) ---
+Content: with a copy to (which shall not constitute notice):
+
+--- (Additional Root Structure) ---
+Content: Taft Stettinius & Hollister LLP Attn: Arthur McMahon, III 425 Walnut Street, ...
+
+--- (Additional Root Structure) ---
+Content: Cincinnati, Ohio 45202 Email: amcmahon@taftlaw.com
+
+--- (Additional Root Structure) ---
+Content: If to Collateral Agent:
+
+--- (Additional Root Structure) ---
+Content: E-Mail: [*]
+
+--- (Additional Root Structure) ---
+Content: with a copy to (which shall not constitute notice):
+
+--- (Additional Root Structure) ---
+Content: Blank Rome LLP Attn: Heather Sonnenberg, Esquire 130 North 18th Street
+
+--- (Additional Root Structure) ---
+Content: Philadelphia, PA 19103 Email: heather.sonnenberg@blankrome.com
+
+--- (Additional Root Structure) ---
+Content: Section 24. Continuing Security Interest; Assignments Under the Notes. This A...
+
+--- (Additional Root Structure) ---
+Section 25: Section 25. Release; Termination.
+
+--- (Additional Root Structure) ---
+Content: (a) Upon any disposition of any item of Collateral by any Grantor that is per...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 26; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 24
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (b) Upon the earlier of (i) the payment in full of all of the Obligations (ot...
+
+--- (Additional Root Structure) ---
+Content: Section 26. Execution in Counterparts; Electronic Signatures. This Agreement ...
+
+--- (Additional Root Structure) ---
+Content: Section 27. Conflicts. In the event of any conflict or inconsistency between ...
+
+--- (Additional Root Structure) ---
+Content: Section 28. Governing Law. THIS AGREEMENT, AND ANY CLAIM, CONTROVERSY OR DISP...
+
+--- (Additional Root Structure) ---
+Heading (L1): Section 29. Jurisdiction; Waiver of Jury Trial.
+
+--- (Additional Root Structure) ---
+Content: (a) Each Grantor irrevocably consents and agrees, for the benefit of the Buye...
+
+--- (Additional Root Structure) ---
+Content: (b) Each Grantor irrevocably and unconditionally waives, to the fullest exten...
+
+--- (Additional Root Structure) ---
+Content: EACH OF THE GRANTORS AND THE COLLATERAL AGENT HEREBY IRREVOCABLY WAIVES, TO T...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 27; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 25
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 30. Reinstatement. Each Grantor agrees that, if any payment made by t...
+
+--- (Additional Root Structure) ---
+Content: Section 31. Concerning the Collateral Agent. [*] is acting under this Agreeme...
+
+--- (Additional Root Structure) ---
+Content: Section 32. Severability. In case any one or more of the provisions contained...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Remainder of Page Intentionally Left Blank; Signature Pages Follow]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 28; Value: 1
+
+--- (Additional Root Structure) ---
+Content: 26
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Workhorse Group Inc., as a Grantor By: Name: Title: Workhorse Technologies In...
+
+--- (Additional Root Structure) ---
+Content: Stables & Stalls Real Estate I LLC, as a Grantor By: Name: Title: RouteHorse ...
+
+--- (Additional Root Structure) ---
+Content: [*], solely in its capacity as Collateral Agent By: Name: Title:
+
+--- (Additional Root Structure) ---
+TableOfContentsElement: Page Section 1. Grant of Security 2 Section 2. Security for Obligations 4 Sec...

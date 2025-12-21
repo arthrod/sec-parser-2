@@ -1,0 +1,271 @@
+Visual Semantic Tree for agreement_097.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 2.3%
+Total Elements: 88
+Hierarchical Elements: 87
+================================================================================
+
+AGREEMENT: PRIVATE WARRANT UNDERTAKING AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.3
+
+--- (Additional Root Structure) ---
+Content: This AGREEMENT (this "Agreement"), dated as of January 29, 2024, is made by a...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Pegasus, the Company, TopCo, and Pegasus MergerSub Corp., a Cayman I...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, the Private Warrant Holders together currently hold 9,750,000 privat...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, the Sponsor has on the day of this Agreement entered into a Warrant ...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, the Parties have agreed that the Private Warrant Holders shall agree...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, in consideration of the premises and the mutual promises cont...
+
+--- (Additional Root Structure) ---
+Content: 1.UnterTAKING TO ONLY CASHLESS EXERCISE PRIVATE WARRANTS
+
+--- (Additional Root Structure) ---
+Content: Each of the Sponsor and each of the Insider Parties, in its respective capaci...
+
+--- (Additional Root Structure) ---
+Content: 2.UNTERTAKING TO CASHLESS EXERCISE PRIVATE WARRANTS AT $18.00
+
+--- (Additional Root Structure) ---
+Content: Unless previously exercised or redeemed, each of the Sponsor and each of the ...
+
+--- (Additional Root Structure) ---
+Content: 3.Termination
+
+--- (Additional Root Structure) ---
+Content: This Agreement shall terminate and be void and of no further force and effect...
+
+--- (Additional Root Structure) ---
+Content: 4.No Recourse
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything to the contrary contained herein or otherwise, but w...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 5.Fiduciary Duties
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything in this Agreement to the contrary, (a) the Sponsor m...
+
+--- (Additional Root Structure) ---
+Content: 6.Representations and Warranties
+
+--- (Additional Root Structure) ---
+Content: Each of the parties hereto represents and warrants that (a) it has the power ...
+
+--- (Additional Root Structure) ---
+Content: 7.No Third Party Beneficiaries
+
+--- (Additional Root Structure) ---
+Content: This Agreement shall be for the sole benefit of the Parties and their respect...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 8.Further Assurances
+
+--- (Additional Root Structure) ---
+Content: Each of the Parties hereto is entitled to rely upon this Agreement and is irr...
+
+--- (Additional Root Structure) ---
+Content: 9.Notices
+
+--- (Additional Root Structure) ---
+Content: Any notice or communication required or permitted hereunder shall be in writi...
+
+--- (Additional Root Structure) ---
+Content: (a)when so delivered personally,
+
+--- (Additional Root Structure) ---
+Content: (b)when sent, with no mail undeliverable or other rejection notice, if sent b...
+
+--- (Additional Root Structure) ---
+Content: (c)three business days after the date of mailing to the address below or to s...
+
+--- (Additional Root Structure) ---
+Content: If to Sponsor:
+
+--- (Additional Root Structure) ---
+Content: Pegasus Digital Mobility Sponsor LLC
+
+--- (Additional Root Structure) ---
+Content: Attention: Jim Condon
+
+--- (Additional Root Structure) ---
+Content: E-mail: jcondon@stratcap.com
+
+--- (Additional Root Structure) ---
+Content: with a required copy (which copy shall not constitute notice) to:
+
+--- (Additional Root Structure) ---
+Content: Troutman Pepper
+
+--- (Additional Root Structure) ---
+Content: Attn:Heath D. Linsky Email:heath.linsky@troutman.com
+
+--- (Additional Root Structure) ---
+Content: If to Pegasus:
+
+--- (Additional Root Structure) ---
+Content: Pegasus Digital Mobility Acquisition Corp.
+
+--- (Additional Root Structure) ---
+Content: Attn:Jeremey Mistry and Stefan Berger
+
+--- (Additional Root Structure) ---
+Content: Email:jmistry@pegasusdm.com; sberger@pegasusdm.com
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: with a required copy (which copy shall not constitute notice) to:
+
+--- (Additional Root Structure) ---
+Content: Clifford Chance
+
+--- (Additional Root Structure) ---
+Content: Junghofstrasse 14,
+
+--- (Additional Root Structure) ---
+Content: 60311 Frankfurt am Main,
+
+--- (Additional Root Structure) ---
+Content: Germany
+
+--- (Additional Root Structure) ---
+Content: Attn:George Hacket and Axel Wittmann
+
+--- (Additional Root Structure) ---
+Content: Email:george.hacket@cliffordchance.com; axel.wittmann@cliffordchance.com
+
+--- (Additional Root Structure) ---
+Content: If to the Company:
+
+--- (Additional Root Structure) ---
+Content: Gebr. Schmid GmbH
+
+--- (Additional Root Structure) ---
+Content: Robert-Bosch-Str. 32-36
+
+--- (Additional Root Structure) ---
+Content: 72250 Freudenstadt
+
+--- (Additional Root Structure) ---
+Content: Germany
+
+--- (Additional Root Structure) ---
+Content: Attn:Christian Schmid, Anette Schmid and Julia Natterer
+
+--- (Additional Root Structure) ---
+Content: Email:natterer.ju@schmid-group.com; Schmid.Ch@schmid-group.com;
+
+--- (Additional Root Structure) ---
+Content: Schmid.An@schmid-group.com
+
+--- (Additional Root Structure) ---
+Content: with a required copy (which copy shall not constitute notice) to:
+
+--- (Additional Root Structure) ---
+Content: Gleiss Lutz
+
+--- (Additional Root Structure) ---
+Content: Taunusanlage 11,
+
+--- (Additional Root Structure) ---
+Content: 60329 Frankfurt am Main,
+
+--- (Additional Root Structure) ---
+Content: Germany
+
+--- (Additional Root Structure) ---
+Content: Attn:Stephan Aubel and Alexander Gebhardt
+
+--- (Additional Root Structure) ---
+Content: Email:alexander.gebhardt@gleisslutz.com;
+
+--- (Additional Root Structure) ---
+Content: stephan.aubel@gleisslutz.com
+
+--- (Additional Root Structure) ---
+Content: 10.No Waiver of Rights, Powers and Remedies
+
+--- (Additional Root Structure) ---
+Content: No failure or delay by a Party hereto in exercising any right, power or remed...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 11.Incorporation by Reference
+
+--- (Additional Root Structure) ---
+Content: Sections 1.2 (Construction); 12.3 (Assignment); 12.6 (Governing Law); 12.7 (C...
+
+--- (Additional Root Structure) ---
+Content: [signature pages follow]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be duly ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): INSIDERS:
+
+--- (Additional Root Structure) ---
+Signature Block: By: /s/ Sir Ralf Speth Name: Sir Ralf Speth By: /s/ F. Jeremy Mistry Name: F....
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8; Options: Last
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TableElement: PEGASUS DIGITAL MOBILITY ACQUISITION CORP. By: /s/ F. Jeremey Mistry Name: Ti...

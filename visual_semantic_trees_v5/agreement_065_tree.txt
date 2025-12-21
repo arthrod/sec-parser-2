@@ -1,0 +1,397 @@
+Visual Semantic Tree for agreement_065.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 18.0%
+Total Elements: 130
+Hierarchical Elements: 128
+================================================================================
+
+AGREEMENT: EMPLOYMENT AGREEMENT
+
+--- (Additional Root Structure) ---
+Section 1: 1. Retention and Duties.
+
+--- (Additional Root Structure) ---
+Content: 1.1 Retention. AFC Management does hereby engage and employ the Executive for...
+
+--- (Additional Root Structure) ---
+Content: 1.2 Duties. During the Period of Employment, the Executive shall be employed ...
+
+--- (Additional Root Structure) ---
+Content: 1.3 No Other Employment; Minimum Time Commitment. During the Period of Employ...
+
+--- (Additional Root Structure) ---
+Content: 1.4 No Breach of Contract. The Executive hereby represents to the Company and...
+
+--- (Additional Root Structure) ---
+Content: 1
+
+--- (Additional Root Structure) ---
+Content: prevent, or be violated by, the Executive entering into this Agreement or car...
+
+--- (Additional Root Structure) ---
+Content: 1.5 Location. The Executive’s principal place of employment shall be the Comp...
+
+--- (Additional Root Structure) ---
+Content: 1.6 Company Policies. As a condition to Executive’s employment, Executive wil...
+
+--- (Additional Root Structure) ---
+Section 2: 2. Period of Employment. The “Period of Employment” shall be a period of two ...
+
+--- (Additional Root Structure) ---
+Section 3: 3. Compensation.
+
+--- (Additional Root Structure) ---
+Content: 3.1 Base Salary. During the Period of Employment, AFC Management shall pay th...
+
+--- (Additional Root Structure) ---
+Content: 3.2 Incentive Bonus. The Executive shall be eligible to receive an incentive ...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: earn and be eligible for an Incentive Bonus for that year (and, if the Execut...
+
+--- (Additional Root Structure) ---
+Content: 3.3 Equity. AFCG’s management will recommend to its Board that Executive be a...
+
+--- (Additional Root Structure) ---
+Section 4: 4. Benefits.
+
+--- (Additional Root Structure) ---
+Content: 4.1 Retirement, Welfare and Fringe Benefits. During the Period of Employment,...
+
+--- (Additional Root Structure) ---
+Content: 4.2 Reimbursement of Business Expenses. The Executive is authorized to incur ...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: the Executive’s other securities licenses. These expenses include the cost of...
+
+--- (Additional Root Structure) ---
+Content: 4.3 Vacation and Other Leave. During the Period of Employment, the Executive ...
+
+--- (Additional Root Structure) ---
+Section 5: 5. Termination.
+
+--- (Additional Root Structure) ---
+Content: 5.1 Termination by the Company. During the Period of Employment, the Executiv...
+
+--- (Additional Root Structure) ---
+Content: 5.2 Termination by the Executive. During the Period of Employment, the Execut...
+
+--- (Additional Root Structure) ---
+Content: 5.3 Benefits upon Termination. If the Executive’s employment with the Company...
+
+--- (Additional Root Structure) ---
+Clause (a): (a) The Company shall pay the Executive (or, in the event of his or her death...
+
+--- (Additional Root Structure) ---
+Content: (b) If the Executive’s employment with the Company terminates during the Peri...
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: (c) Notwithstanding the foregoing provisions of this Section 5.3, if the Exec...
+
+--- (Additional Root Structure) ---
+Content: (d) The foregoing provisions of this Section 5.3 shall not affect: (i) the Ex...
+
+--- (Additional Root Structure) ---
+Content: 5.4 Release; Exclusive Remedy; Leave.
+
+--- (Additional Root Structure) ---
+Content: (a) This Section 5.4 shall apply notwithstanding anything else contained in t...
+
+--- (Additional Root Structure) ---
+Content: (b) The Executive agrees that the payments and benefits contemplated by Secti...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: (c) In the event that the Company provides the Executive notice of terminatio...
+
+--- (Additional Root Structure) ---
+Content: 5.5 Certain Defined Terms.
+
+--- (Additional Root Structure) ---
+Content: (a) As used herein, “Accrued Obligations” means:
+
+--- (Additional Root Structure) ---
+Content: (i) any Base Salary that had accrued but had not been paid on or before the S...
+
+--- (Additional Root Structure) ---
+Content: (ii) any reimbursement due to the Executive pursuant to Section 4.2 for expen...
+
+--- (Additional Root Structure) ---
+Content: (iii) all other payments and benefits to which Executive may then or thereaft...
+
+--- (Additional Root Structure) ---
+Content: (iv) other than in connection with a termination by the Company for Cause or ...
+
+--- (Additional Root Structure) ---
+Content: (b) As used herein, “Affiliate” of the Company means AFCG and any Person that...
+
+--- (Additional Root Structure) ---
+Content: (c) As used herein, “Cause” shall mean the Executive:
+
+--- (Additional Root Structure) ---
+Content: (i) has been materially negligent in the discharge of his duties to the Compa...
+
+--- (Additional Root Structure) ---
+Content: (ii) has been dishonest in any material respect or committed or engaged in an...
+
+--- (Additional Root Structure) ---
+Content: (iii) has breached a fiduciary duty, or willfully and materially violated any...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: (iv) has materially breached any of the provisions of any material agreement ...
+
+--- (Additional Root Structure) ---
+Content: (v) has engaged in unfair competition with (in violation of Section 6.2 hereo...
+
+--- (Additional Root Structure) ---
+Content: (vi) has improperly induced a vendor or customer to breach or terminate any c...
+
+--- (Additional Root Structure) ---
+Content: (vii) has made disparaging comments about the Company, its Affiliates or its ...
+
+--- (Additional Root Structure) ---
+Content: (viii) failure to materially comply with the Company’s and its Affiliates’ po...
+
+--- (Additional Root Structure) ---
+Content: provided, however, that any such condition or conditions, as applicable, shal...
+
+--- (Additional Root Structure) ---
+Content: (d) As used herein, “Disability” shall mean a physical or mental impairment w...
+
+--- (Additional Root Structure) ---
+Content: (e) As used herein, “Good Reason” shall mean the occurrence (without the Exec...
+
+--- (Additional Root Structure) ---
+Content: (i) a diminution in the Executive’s rate of Base Salary or Target Bonus;
+
+--- (Additional Root Structure) ---
+Content: (ii) an adverse change in the Executive’s title;
+
+--- (Additional Root Structure) ---
+Content: (iii) a material change in the geographic location of the Executive’s princip...
+
+--- (Additional Root Structure) ---
+Content: (v) a material breach by the Company or any of its Affiliates of this Agreeme...
+
+--- (Additional Root Structure) ---
+Content: (vi) if the Executive is not promoted to an “C-level” executive position at A...
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: provided, however, that any such condition or conditions, as applicable, shal...
+
+--- (Additional Root Structure) ---
+Content: (f) As used herein, the term “Person” shall be construed broadly and shall in...
+
+--- (Additional Root Structure) ---
+Content: (g) As used herein, a “Separation from Service” occurs when the Executive die...
+
+--- (Additional Root Structure) ---
+Section 5.6: 5.6. Notice of Termination; Employment Following Expiration of Period of Empl...
+
+--- (Additional Root Structure) ---
+Section 6: 6. Protective Covenants.
+
+--- (Additional Root Structure) ---
+Content: 6.1 Confidential Information; Inventions.
+
+--- (Additional Root Structure) ---
+Content: (a)The Executive shall not disclose or use at any time, either during the Per...
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: disclose such Confidential Information, except pursuant to court order. The C...
+
+--- (Additional Root Structure) ---
+Content: (b)As used in this Agreement, the term “Confidential Information” means infor...
+
+--- (Additional Root Structure) ---
+Content: (c)As used in this Agreement, the term “Work Product” means all inventions, i...
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: thereof that may be granted for or upon any of the foregoing. All Work Produc...
+
+--- (Additional Root Structure) ---
+Content: (d)Nothing in this Agreement or elsewhere shall prevent the Executive from: (...
+
+--- (Additional Root Structure) ---
+Content: 6.2 Restriction on Competition. The Executive agrees that if the Executive we...
+
+--- (Additional Root Structure) ---
+Content: (a)during the Period of Employment, the Executive will not directly or indire...
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: including without limitation related to real estate lending or acquisition (a...
+
+--- (Additional Root Structure) ---
+Content: (b)for a period of twelve (12) months after the Severance Date, the Executive...
+
+--- (Additional Root Structure) ---
+Content: (c)at the Company’s option, for a period of three (3) months after the Severa...
+
+--- (Additional Root Structure) ---
+Content: Nothing herein shall prohibit the Executive from (x) being a passive owner of...
+
+--- (Additional Root Structure) ---
+Content: 6.3 Non-Solicitation of Employees and Consultants. During the Period of Emplo...
+
+--- (Additional Root Structure) ---
+Content: 6.4 Non-Interference with Customers. During the Period of Employment and for ...
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+Content: 6.5 Non-Disparagement. During the Period of Employment and at all times there...
+
+--- (Additional Root Structure) ---
+Content: 6.6 Return of Property. The Executive agrees that, upon the Executive’s Separ...
+
+--- (Additional Root Structure) ---
+Content: 6.7 Understanding of Covenants. The Executive acknowledges that, in the cours...
+
+--- (Additional Root Structure) ---
+Content: Without limiting the generality of the Executive’s agreement in the preceding...
+
+--- (Additional Root Structure) ---
+Content: 12
+
+--- (Additional Root Structure) ---
+Content: from the Company. The Executive understands that the Restrictive Covenants ma...
+
+--- (Additional Root Structure) ---
+Content: 6.8 Enforcement. The Executive agrees that the Executive’s services are uniqu...
+
+--- (Additional Root Structure) ---
+Section 7: 7. Withholding Taxes. Notwithstanding anything else herein to the contrary, t...
+
+--- (Additional Root Structure) ---
+Section 8: 8. Successors and Assigns.
+
+--- (Additional Root Structure) ---
+Content: (a) This Agreement is personal to the Executive and without the prior written...
+
+--- (Additional Root Structure) ---
+Content: (b) This Agreement shall inure to the benefit of and be binding upon the Comp...
+
+--- (Additional Root Structure) ---
+Section 9: 9. Number and Gender; Examples. Where the context requires, the singular shal...
+
+--- (Additional Root Structure) ---
+Content: 13
+
+--- (Additional Root Structure) ---
+Content: specific language shall not be deemed to modify, limit or restrict in any man...
+
+--- (Additional Root Structure) ---
+Section 10: 10. Section Headings. The section headings of, and titles of paragraphs and s...
+
+--- (Additional Root Structure) ---
+Section 11: 11. Governing Law. This Agreement will be governed by and construed in accord...
+
+--- (Additional Root Structure) ---
+Section 12: 12. Severability. It is the desire and intent of the parties hereto that the ...
+
+--- (Additional Root Structure) ---
+Section 13: 13. Entire Agreement. This Agreement embodies the entire agreement of the par...
+
+--- (Additional Root Structure) ---
+Section 14: 14. Modifications. This Agreement may not be amended, modified or changed (in...
+
+--- (Additional Root Structure) ---
+Section 15: 15. Waiver. Neither the failure nor any delay on the part of a party to exerc...
+
+--- (Additional Root Structure) ---
+Content: 14
+
+--- (Additional Root Structure) ---
+Section 16: 16. Arbitration. Except as provided in Sections 6.7 and 17, any non-time barr...
+
+--- (Additional Root Structure) ---
+Section 17: 17. Remedies. Each of the parties to this Agreement and any Person granted ri...
+
+--- (Additional Root Structure) ---
+Content: 15
+
+--- (Additional Root Structure) ---
+Section 18: 18. Notices. Any notice provided for in this Agreement must be in writing and...
+
+--- (Additional Root Structure) ---
+Content: if to the Company:
+
+--- (Additional Root Structure) ---
+Content: 525 Okeechobee Blvd., Suite 1650 West Palm Beach, FL Attention: Chief Legal O...
+
+--- (Additional Root Structure) ---
+Content: if to the Executive, to the address most recently on file in the payroll reco...
+
+--- (Additional Root Structure) ---
+Section 19: 19. Counterparts. This Agreement may be executed in any number of counterpart...
+
+--- (Additional Root Structure) ---
+Section 20: 20. Legal Counsel; Mutual Drafting. Each party recognizes that this is a lega...
+
+--- (Additional Root Structure) ---
+Section 21: 21. Section 409A.
+
+--- (Additional Root Structure) ---
+Content: (a) It is intended that any amounts payable under this Agreement shall either...
+
+--- (Additional Root Structure) ---
+Content: (b) If the Executive is a “specified employee” within the meaning of Treasury...
+
+--- (Additional Root Structure) ---
+Content: 16
+
+--- (Additional Root Structure) ---
+Content: Executive upon or in the six (6) month period following the Executive’s Separ...
+
+--- (Additional Root Structure) ---
+Content: (c) To the extent that any benefits or reimbursements pursuant to this Agreem...
+
+--- (Additional Root Structure) ---
+Section 22: 22. Indemnification; Liability Insurance.
+
+--- (Additional Root Structure) ---
+Content: (a) The Company shall indemnify the Executive to the maximum extent provided ...
+
+--- (Additional Root Structure) ---
+Content: (b) The Company shall cover the Executive under directors and officers liabil...
+
+--- (Additional Root Structure) ---
+Heading (L1): [The remainder of this page has intentionally been left blank.]
+
+--- (Additional Root Structure) ---
+Content: 17
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Execution Version
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): THIS EMPLOYMENT AGREEMENT (this “Agreement”) is made and entered into as of J...

@@ -1,0 +1,40 @@
+Visual Semantic Tree for agreement_096.html
+Generated using AgreementParserv4Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 69.2%
+Total Elements: 13
+Hierarchical Elements: 13
+================================================================================
+
+AGREEMENT: THIS AMENDMENT to the Note (as defined below) (the “Amendment”) is entered in...
+`-- Heading (L1): BACKGROUND
+    |-- Recital: NOW THEREFORE, in consideration of the execution and delivery of the Amendmen...
+    `-- Section 3: 3. Section 4.6 of the Note shall apply to this Amendment.
+
+--- (Additional Root Structure) ---
+Heading (L1): A. The Company and Holder are the parties to that certain promissory note in ...
+
+--- (Additional Root Structure) ---
+Heading (L1): B. The Parties desire to amend the Note as set forth expressly below.
+
+--- (Additional Root Structure) ---
+Heading (L1): 1. The Parties hereby agree that the Holder shall fund an additional $100,000...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2. In connection with the Note Additional Funding, the Company shall issue a ...
+
+--- (Additional Root Structure) ---
+Heading (L1): 5. This Amendment shall be deemed part of, but shall take precedence over and...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature page to follow]
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the...
+
+--- (Additional Root Structure) ---
+Heading (L1): Clearday, Inc. Mast Hill Fund, L.P. By: /s/ James Walesa By: /s/ Patrick Hass...
+
+--- (Additional Root Structure) ---
+Heading (L1): (see attached)

@@ -1,0 +1,103 @@
+Visual Semantic Tree for agreement_067.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 23.3%
+Total Elements: 32
+Hierarchical Elements: 30
+================================================================================
+
+AGREEMENT: LIMITED WAIVER TO CREDIT AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): RECITALS:
+
+--- (Additional Root Structure) ---
+Clause (A): A. The Borrower, the Parent, the Administrative Agent and the Lenders are par...
+
+--- (Additional Root Structure) ---
+Content: B. The Borrower, the Parent, the Guarantors, the Administrative Agent and the...
+
+--- (Additional Root Structure) ---
+Heading (L1): AGREEMENT:
+
+--- (Additional Root Structure) ---
+Content: In consideration of the premises and mutual covenants herein and for other va...
+
+--- (Additional Root Structure) ---
+Section 1: Section 1. Definitions. Capitalized terms used in this Waiver but not defined...
+
+--- (Additional Root Structure) ---
+Section 2: Section 2. Acknowledgement and Waiver. The Borrower, the other Loan Parties, ...
+
+--- (Additional Root Structure) ---
+Content: (a) certain deferred cash grants were or are being awarded to employees and/o...
+
+--- (Additional Root Structure) ---
+Content: (b) accordingly, (i) the departure from the terms of the Advisory Agreement i...
+
+--- (Additional Root Structure) ---
+Content: Doc#: US1:19188208v3
+
+--- (Additional Root Structure) ---
+Content: Loans; (ii) the Lenders and the Administrative Agent hereby waive non-complia...
+
+--- (Additional Root Structure) ---
+Content: (c) the waiver contained in this Waiver shall be effective only in this insta...
+
+--- (Additional Root Structure) ---
+Section 3: Section 3. Representations and Warranties. Each Loan Party, by signing below,...
+
+--- (Additional Root Structure) ---
+Content: (a) they have the legal power and authority to execute and deliver this Waiver;
+
+--- (Additional Root Structure) ---
+Content: (b) the officers executing this Waiver on behalf of the Loan Parties have bee...
+
+--- (Additional Root Structure) ---
+Content: (c) immediately after giving effect to this Waiver, no Default or Event of De...
+
+--- (Additional Root Structure) ---
+Content: (d) this Waiver constitutes the legal, valid and binding agreement and obliga...
+
+--- (Additional Root Structure) ---
+Content: (e) each of the representations and warranties set forth in Section 5 of the ...
+
+--- (Additional Root Structure) ---
+Section 4: Section 4. Miscellaneous.
+
+--- (Additional Root Structure) ---
+Content: 4.1 Credit Agreement Unaffected. Each reference to the Credit Agreement in an...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: This Waiver shall constitute a “Loan Document” for all purposes under and pur...
+
+--- (Additional Root Structure) ---
+Content: 4.2 Headings. Section headings herein are included herein for convenience of ...
+
+--- (Additional Root Structure) ---
+Content: 4.3 Counterparts. This Waiver may be executed in any number of counterparts, ...
+
+--- (Additional Root Structure) ---
+Content: 4.4 Governing Law; Consent to Jurisdiction. The provisions of Sections 11.14 ...
+
+--- (Additional Root Structure) ---
+Content: 4.5 Costs and Expenses. The out-of-pocket expenses incurred by the Administra...
+
+--- (Additional Root Structure) ---
+Content: 4.6 Release. By signing below, each Loan Party hereby releases, remises, acqu...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature pages follow.]
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXHIBIT 10.69
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): This LIMITED WAIVER TO CREDIT AGREEMENT (this “Waiver”) is entered into as of...

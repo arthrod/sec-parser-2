@@ -1,0 +1,181 @@
+Visual Semantic Tree for agreement_022.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 14.0%
+Total Elements: 58
+Hierarchical Elements: 57
+================================================================================
+
+AGREEMENT: FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): AND INCREMENTAL DELAYED DRAW TERM LOAN AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: This FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT AND INCREMENTAL...
+
+--- (Additional Root Structure) ---
+Heading (L1): W I T N E S S E T H:
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Borrowers, the Administrative Agent and the financial institutions p...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, pursuant to Section 2.14 of the Existing Credit Agreement, the Borro...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, pursuant to Section 9.1 of the Existing Credit Agreement, the Borrow...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, the Administrative Agent and the Required Lenders have agreed to the...
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, in consideration of the premises herein contained and other g...
+
+--- (Additional Root Structure) ---
+Section 1: Section 1.Amendments to Existing Credit Agreement. Upon the satisfaction of t...
+
+--- (Additional Root Structure) ---
+Section 2: Section 2.Delayed Draw Commitment.
+
+--- (Additional Root Structure) ---
+Content: 1.1.Delayed Draw Commitments. Each Committing Lender hereby agrees, on the te...
+
+--- (Additional Root Structure) ---
+Content: 1
+
+--- (Additional Root Structure) ---
+Content: Commitments in the aggregate principal amount set forth for such Committing L...
+
+--- (Additional Root Structure) ---
+Content: 1.2.Interest Payments and Unused Delayed Draw Commitment Fee. Borrowers shall...
+
+--- (Additional Root Structure) ---
+Content: 1.3.Conditions to Funding. The obligation of the Committing Lenders to fund e...
+
+--- (Additional Root Structure) ---
+Content: 1.4.Amended Credit Agreement Governs. Except as set forth in this Amendment, ...
+
+--- (Additional Root Structure) ---
+Content: 1.5.Recordation of the Delayed Draw Commitments and Delayed Draw Term Loans. ...
+
+--- (Additional Root Structure) ---
+Content: 1.6.Acknowledgment of Committing Lenders. Each Committing Lender (a) confirms...
+
+--- (Additional Root Structure) ---
+Content: 1.7.Acknowledgments of Loan Parties. Each Loan Party hereby acknowledges that...
+
+--- (Additional Root Structure) ---
+Section 3: Section 3.Conditions to Effectiveness. This Amendment shall become effective ...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: 1.1.This Amendment, duly executed and delivered by the Borrowers, Guarantors,...
+
+--- (Additional Root Structure) ---
+Content: 1.2.The Fee Letter, duly executed and delivered by the Borrowers and the Admi...
+
+--- (Additional Root Structure) ---
+Content: 1.3.Certified copies of the resolutions of the Board of Directors of each Bor...
+
+--- (Additional Root Structure) ---
+Content: 1.4.Such documents and certificates as Administrative Agent may reasonably re...
+
+--- (Additional Root Structure) ---
+Content: 1.5.A favorable opinion of (i) Troutman Sanders LLP, counsel to the Loan Part...
+
+--- (Additional Root Structure) ---
+Content: 1.6.The Notice of Incremental Facility for the Delayed Draw Commitments (the ...
+
+--- (Additional Root Structure) ---
+Content: 1.7.At the time of delivery of the Incremental Delayed Draw Term Loan Notice,...
+
+--- (Additional Root Structure) ---
+Content: 1.8.The payment from AGCO of (i) upfront fees to the Administrative Agent, fo...
+
+--- (Additional Root Structure) ---
+Section 4: Section 4.Representations and Warranties. In consideration of the execution a...
+
+--- (Additional Root Structure) ---
+Content: 1.1.Each Loan Party and each of its Material Subsidiaries (i) is duly organiz...
+
+--- (Additional Root Structure) ---
+Content: 1.2.The execution and delivery by each Loan Party of this Amendment and the p...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: authorized by all necessary corporate or similar action, and do not, (i) cont...
+
+--- (Additional Root Structure) ---
+Content: 1.3.Giving effect to the execution and delivery of this Amendment and the mak...
+
+--- (Additional Root Structure) ---
+Content: 1.4.This Amendment has been duly executed and delivered by each Loan Party. T...
+
+--- (Additional Root Structure) ---
+Content: 1.5.As of the date hereof and after giving effect to this Amendment, the repr...
+
+--- (Additional Root Structure) ---
+Content: 1.6.No event has occurred and is continuing which constitutes a Default or an...
+
+--- (Additional Root Structure) ---
+Section 5: Section 5.Miscellaneous.
+
+--- (Additional Root Structure) ---
+Content: 1.1.Ratifications. The terms and provisions set forth in this Amendment shall...
+
+--- (Additional Root Structure) ---
+Content: 1.2.Affirmation of Guaranty Agreements. By executing this Amendment, each Gua...
+
+--- (Additional Root Structure) ---
+Content: 1.3.Reference to and Effect on the Loan Documents; No Other Amendments. Upon ...
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: Credit Agreement to “this Agreement,” “hereunder,” “hereof” or words of like ...
+
+--- (Additional Root Structure) ---
+Content: 1.4.Costs and Expenses. AGCO agrees to pay on demand all reasonable costs and...
+
+--- (Additional Root Structure) ---
+Content: 1.5.Severability. Any provision of this Amendment held by a court of competen...
+
+--- (Additional Root Structure) ---
+Content: 1.6.Governing Law. This Amendment shall be governed by, and construed in acco...
+
+--- (Additional Root Structure) ---
+Content: 1.7.Successors and Assigns. This Amendment is binding upon and shall inure to...
+
+--- (Additional Root Structure) ---
+Content: 1.8.Counterparts: Effectiveness. This Amendment may be executed in any number...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: 1.9.Headings. The headings, captions, and arrangements used in this Amendment...
+
+--- (Additional Root Structure) ---
+Content: 1.10.Entire Agreement. This Amendment embodies the final, entire agreement am...
+
+--- (Additional Root Structure) ---
+Content: 1.11.Loan Documents. This Amendment shall be deemed to be a Loan Document for...
+
+--- (Additional Root Structure) ---
+Content: 1.12.No Novation. This Amendment is not intended by the parties to be, and sh...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature pages follow]
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.22

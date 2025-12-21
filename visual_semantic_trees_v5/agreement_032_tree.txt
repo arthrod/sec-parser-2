@@ -1,0 +1,349 @@
+Visual Semantic Tree for agreement_032.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 4.4%
+Total Elements: 114
+Hierarchical Elements: 113
+================================================================================
+
+AGREEMENT: CENTERPOINT ENERGY, INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): 2022 LONG TERM INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): FORM OF RESTRICTED STOCK UNIT AWARD AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): FOR OFFICERS AND DIRECTOR EMPLOYEES
+
+--- (Additional Root Structure) ---
+Heading (L1): (with Performance Goals)
+
+--- (Additional Root Structure) ---
+Content: Pursuant to this Restricted Stock Unit Award Agreement (“Award Agreement”), C...
+
+--- (Additional Root Structure) ---
+Content: 1.Relationship to the Plan; Definitions. This RSU Award is subject to all of ...
+
+--- (Additional Root Structure) ---
+Content: “Award Date” means the date this RSU Award is granted to the Participant as s...
+
+--- (Additional Root Structure) ---
+Content: “Cause” means the Participant’s (a) gross negligence in the performance of hi...
+
+--- (Additional Root Structure) ---
+Content: “Change in Control Closing Date” means the date a Change in Control is consum...
+
+--- (Additional Root Structure) ---
+Content: “Change in Control Payment Date” means the following:
+
+--- (Additional Root Structure) ---
+Content: (a)If the Change in Control is a Section 409A Change in Control, then the Cha...
+
+--- (Additional Root Structure) ---
+Content: (b)If the Change in Control is a Non-Section 409A Change in Control, then the...
+
+--- (Additional Root Structure) ---
+Content: paid shall be paid not later than the 70th day after the Participant’s Termin...
+
+--- (Additional Root Structure) ---
+Content: “Covered Termination” means a Separation from Service that occurs within two ...
+
+--- (Additional Root Structure) ---
+Content: (a)death;
+
+--- (Additional Root Structure) ---
+Content: (b)Disability;
+
+--- (Additional Root Structure) ---
+Content: (c)involuntary termination for Cause; or
+
+--- (Additional Root Structure) ---
+Content: (d)resignation by the Participant, unless such resignation is for Good Reason.
+
+--- (Additional Root Structure) ---
+Content: “Disability” means that the Participant is both eligible for and in receipt o...
+
+--- (Additional Root Structure) ---
+Content: “Employment” means employment with the Company or any of its Subsidiaries.
+
+--- (Additional Root Structure) ---
+Content: “Good Reason” means any one or more of the following events:
+
+--- (Additional Root Structure) ---
+Content: (a)a failure to maintain the Participant in the position, or a substantially ...
+
+--- (Additional Root Structure) ---
+Content: (b)a significant adverse change in the authorities, powers, functions, respon...
+
+--- (Additional Root Structure) ---
+Content: (c)a significant reduction in the Participant’s annual base salary as in effe...
+
+--- (Additional Root Structure) ---
+Content: (d)a significant reduction in the Participant’s qualified retirement benefits...
+
+--- (Additional Root Structure) ---
+Content: (e)a significant reduction in the Participant’s overall compensation opportun...
+
+--- (Additional Root Structure) ---
+Content: (f)a change in the location of the Participant’s principal place of employmen...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: (g)a failure by the Company to provide directors and officers liability insur...
+
+--- (Additional Root Structure) ---
+Content: provided, however, that no later than 30 days after learning of the action (o...
+
+--- (Additional Root Structure) ---
+Content: “Non-Section 409A Change in Control” means a Change in Control that is not a ...
+
+--- (Additional Root Structure) ---
+Content: “Performance Goals” means the standards established by the Committee to deter...
+
+--- (Additional Root Structure) ---
+Content: “Retirement” means a Separation from Service for any reason other than by the...
+
+--- (Additional Root Structure) ---
+Content: (a)the Participant provides to the Company a comprehensive transition plan fo...
+
+--- (Additional Root Structure) ---
+Content: (b)the Participant provides the Company at least three months’ written notice...
+
+--- (Additional Root Structure) ---
+Content: (c)If the Participant is a Section 16 Officer, the Committee approves, in its...
+
+--- (Additional Root Structure) ---
+Content: “Sale of a Subsidiary” means, with respect to the Subsidiary for which the Pa...
+
+--- (Additional Root Structure) ---
+Content: (a)A change in the ownership of such Subsidiary, as determined in accordance ...
+
+--- (Additional Root Structure) ---
+Content: (b)A change in the ownership of a substantial portion of such Subsidiary’s as...
+
+--- (Additional Root Structure) ---
+Content: If the Subsidiary is not a corporation, the above referenced Treasury Regulat...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: “Section 16 Officer” means a Participant who is an “officer” within the meani...
+
+--- (Additional Root Structure) ---
+Content: “Section 409A” means Code Section 409A and the Treasury regulations and guida...
+
+--- (Additional Root Structure) ---
+Content: “Section 409A Change in Control” means a Change in Control that satisfies the...
+
+--- (Additional Root Structure) ---
+Content: “Separation from Service” means a separation from service with the Company or...
+
+--- (Additional Root Structure) ---
+Content: “Termination Date” means the date of the Participant’s Separation from Service.
+
+--- (Additional Root Structure) ---
+Content: “Vesting Date” means one or more vesting dates as specified in Section 3.
+
+--- (Additional Root Structure) ---
+Content: 2.Establishment of RSU Award Account. The grant of units of Common Stock of t...
+
+--- (Additional Root Structure) ---
+Content: 3.Vesting of RSU Award. Unless earlier vested or forfeited pursuant to this S...
+
+--- (Additional Root Structure) ---
+Heading (L1): <vesting_schedule>
+
+--- (Additional Root Structure) ---
+Content: No later than 60 days after each Vesting Date, the Committee shall determine ...
+
+--- (Additional Root Structure) ---
+Content: 4.Effect of Separation from Service; Timing of Distribution.
+
+--- (Additional Root Structure) ---
+Content: (a)Death or Disability. Notwithstanding Section 3 above, if the Participant’s...
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: Control or a Sale of a Subsidiary), and is due to the Participant’s death or ...
+
+--- (Additional Root Structure) ---
+Content: (b)Retirement. Notwithstanding Section 3 above, if the Participant’s Terminat...
+
+--- (Additional Root Structure) ---
+Content: If the Participant is a Section 16 Officer, benefits under this Section 5(b)(...
+
+--- (Additional Root Structure) ---
+Content: (c)Timing of Distribution.
+
+--- (Additional Root Structure) ---
+Content: (i)Death or Disability. If the Participant is entitled to a benefit pursuant ...
+
+--- (Additional Root Structure) ---
+Content: (ii)Retirement. If the Participant is entitled to a benefit pursuant to Secti...
+
+--- (Additional Root Structure) ---
+Content: (d)Dividend Equivalents. Upon the date of distribution of shares of Common St...
+
+--- (Additional Root Structure) ---
+Content: 5.Change in Control.
+
+--- (Additional Root Structure) ---
+Content: (a)Assumption or Substitution. In the event of a Change in Control, the survi...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: consent, either assume or continue the Company’s rights and obligations under...
+
+--- (Additional Root Structure) ---
+Content: (b)Vesting Upon a Change in Control. Notwithstanding any provision of this Aw...
+
+--- (Additional Root Structure) ---
+Content: (c)Vesting Upon a Covered Termination. Notwithstanding any provision of this ...
+
+--- (Additional Root Structure) ---
+Content: (d)Vesting Upon the Sale of a Subsidiary. Notwithstanding any provision of th...
+
+--- (Additional Root Structure) ---
+Content: (e)Distributions Upon a Change in Control or Sale of a Subsidiary. If the Par...
+
+--- (Additional Root Structure) ---
+Content: (i)The number of units of Common Stock subject to this Award Agreement not pr...
+
+--- (Additional Root Structure) ---
+Content: (ii)Dividend Equivalents on such units of Common Stock in the form of shares ...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: In lieu of the foregoing distribution in shares, the Committee, in its sole d...
+
+--- (Additional Root Structure) ---
+Content: (x)The product of (A) the Fair Market Value per share of Common Stock on the ...
+
+--- (Additional Root Structure) ---
+Content: (y)Dividend Equivalents on such units of Common Stock for the period commenci...
+
+--- (Additional Root Structure) ---
+Content: Such distribution under this Section 5, whether in the form of shares of Comm...
+
+--- (Additional Root Structure) ---
+Content: (f)Timing of Distribution.
+
+--- (Additional Root Structure) ---
+Content: (i)No Assumption or Substitution. If the Participant is entitled to a benefit...
+
+--- (Additional Root Structure) ---
+Content: (ii)Covered Termination. If the Participant is entitled to a benefit pursuant...
+
+--- (Additional Root Structure) ---
+Content: (iii)Sale of a Subsidiary. If the Participant is entitled to a benefit pursua...
+
+--- (Additional Root Structure) ---
+Content: 6.Payment of RSU Award Under Section 3. Upon the vesting of the Participant’s...
+
+--- (Additional Root Structure) ---
+Content: 7.Delay of Distribution to Certain Participants. With respect to any benefits...
+
+--- (Additional Root Structure) ---
+Content: 8.Confidentiality. The Participant agrees that the terms of this Award Agreem...
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: legal advisors, or as required by law) by the Participant or his or her agent...
+
+--- (Additional Root Structure) ---
+Content: 9.Participant Obligations.
+
+--- (Additional Root Structure) ---
+Content: (a)Confidentiality. The Participant acknowledges that in the course of his or...
+
+--- (Additional Root Structure) ---
+Content: The Participant acknowledges notice that under the federal Defend Trade Secre...
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: individual files any document containing the trade secret under seal and does...
+
+--- (Additional Root Structure) ---
+Content: (b)Return of Property. The Participant agrees that at the time of his or her ...
+
+--- (Additional Root Structure) ---
+Content: (c)Non-Solicitation and Non-Competition.
+
+--- (Additional Root Structure) ---
+Content: (i)Non-Solicitation. For consideration provided under this Award Agreement, i...
+
+--- (Additional Root Structure) ---
+Content: (ii)Non-Competition. For consideration provided under this Award Agreement, i...
+
+--- (Additional Root Structure) ---
+Content: (iii)Restricted Area. The restrictions contained in this Section 9(c) are lim...
+
+--- (Additional Root Structure) ---
+Content: (iv)Minnesota Participants. If the Participant primarily resides and works fo...
+
+--- (Additional Root Structure) ---
+Content: (d)Restrictions Reasonable. The Participant acknowledges that the restrictive...
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: that the restrictive covenants are designed to enforce the Participant’s cons...
+
+--- (Additional Root Structure) ---
+Content: (e)Violations. If the Participant violates any provision of this Section 9, t...
+
+--- (Additional Root Structure) ---
+Content: 10.Notices. For purposes of this Award Agreement, notices to the Company shal...
+
+--- (Additional Root Structure) ---
+Content: Notices to the Participant shall be deemed effectively delivered or given upo...
+
+--- (Additional Root Structure) ---
+Content: 11.Shareholder Rights. The Participant shall have no rights of a shareholder ...
+
+--- (Additional Root Structure) ---
+Content: 12.Successors and Assigns. This Award Agreement shall bind and inure to the b...
+
+--- (Additional Root Structure) ---
+Content: 13.No Employment Guaranteed. Nothing in this Award Agreement shall give the P...
+
+--- (Additional Root Structure) ---
+Content: 14.Waiver. Failure of either party to demand strict compliance with any of th...
+
+--- (Additional Root Structure) ---
+Content: 15.Compliance with Section 409A. It is the intent of the Company and the Part...
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: and will be interpreted and administered consistent therewith. Accordingly, (...
+
+--- (Additional Root Structure) ---
+Content: 16.Modification of Award Agreement. Any modification of this Award Agreement ...
+
+--- (Additional Root Structure) ---
+Content: 17.Severability. If any provision of this Award Agreement is, becomes or is d...
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10(cc)(13)

@@ -1,0 +1,28 @@
+Visual Semantic Tree for agreement_069.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 33.3%
+Total Elements: 7
+Hierarchical Elements: 6
+================================================================================
+
+AGREEMENT: Welltower Inc.
+
+--- (Additional Root Structure) ---
+Heading (L1): Non-Employee Director Compensation
+
+--- (Additional Root Structure) ---
+Heading (L1): Effective January 1, 2024
+
+--- (Additional Root Structure) ---
+Content: For each calendar year, each non-employee member of the Board of Directors of...
+
+--- (Additional Root Structure) ---
+Content: Each of the non-employee directors will receive, in each calendar year, a gra...
+
+--- (Additional Root Structure) ---
+Content: Any cash compensation may be deferred into the Nonqualified Deferred Compensa...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXHIBIT 10.3

@@ -1,0 +1,39 @@
+Visual Semantic Tree for agreement_052.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 17
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.59 Q32 BIO INC. 2024 STOCK OPTION AND INCENTIVE PLAN SECTION 1. GE...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “Code” means the U.S. Internal Revenue Code of 1986, as amended, and any succ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “Sale Event” shall mean (i) the sale of all or substantially all of the asset...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): SECTION 2. ADMINISTRATION OF PLAN; ADMINISTRATOR AUTHORITY TO SELECT GRANTEES...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (d) Award Agreement. Awards under the Plan shall be evidenced by Award Agreem...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): January 1 thereafter by the lesser of the Annual Increase for such year or 51...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): number of shares subject to outstanding Awards and the exercise price and the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): SECTION 5. STOCK OPTIONS (a) Award of Stock Options. The Administrator may gr...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): (i) In cash, by certified or bank check or other instrument acceptable to the...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): SECTION 6. STOCK APPRECIATION RIGHTS (a) Award of Stock Appreciation Rights. ...

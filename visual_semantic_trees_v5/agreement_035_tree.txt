@@ -1,0 +1,18 @@
+Visual Semantic Tree for agreement_035.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 3
+Hierarchical Elements: 1
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Table of Contents: $350,000,000 CREDIT AND GUARANTY AGREEMENT dated as of January 18, 2024 by an...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXECUTION VERSION

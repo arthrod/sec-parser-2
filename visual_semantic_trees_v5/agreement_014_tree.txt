@@ -1,0 +1,255 @@
+Visual Semantic Tree for agreement_014.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 1.2%
+Total Elements: 82
+Hierarchical Elements: 82
+================================================================================
+
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.2
+
+--- (Additional Root Structure) ---
+Content: SUBSCRIPTION AGREEMENT
+
+--- (Additional Root Structure) ---
+Content: THIS SUBSCRIPTION AGREEMENT (this “Agreement”) is made and entered into effec...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, SPAC is a special purpose acquisition company that closed on its ini...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, SPAC held a Special Meeting during which SPAC’s shareholders voted t...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, the Sponsor currently holds SPAC Class B ordinary shares, par value ...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, as of the date of this Agreement, SPAC has not completed a De-SPAC; and
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Sponsor is seeking to raise up to $1,500,000 to fund the Extension a...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, pursuant to the terms and conditions of this Agreement, Investor has...
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, in consideration of the premises set forth above, which are i...
+
+--- (Additional Root Structure) ---
+Content: ARTICLE I SUBSCRIPTION AND DE-SPAC PAYMENT
+
+--- (Additional Root Structure) ---
+Content: 1.1Capital Calls. From time to time, the SPAC will request funds from the Spo...
+
+--- (Additional Root Structure) ---
+Content: 1.1.1The Capital Notice to the Investor shall include (i) the total amount re...
+
+--- (Additional Root Structure) ---
+Content: 1.1.2The aggregate amount of the Capital Calls shall not exceed the Investor ...
+
+--- (Additional Root Structure) ---
+Content: 1.1.3A Capital Call of $250,000 of the Investor Capital Contribution will be ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 1.1.4A Capital Call of $250,000 of the Investor Capital Contribution will be ...
+
+--- (Additional Root Structure) ---
+Content: 1.1.5A Capital Call of the remaining balance of the Investor Capital Contribu...
+
+--- (Additional Root Structure) ---
+Content: 1.2Sponsor Forfeiture; SPAC Issuance. In consideration of the Capital Call(s)...
+
+--- (Additional Root Structure) ---
+Content: 1.2.1Sponsor will forfeit 0.85 Class B ordinary share of the SPAC for each do...
+
+--- (Additional Root Structure) ---
+Content: 1.2.2At the De-SPAC Closing, the SPAC will issue to the Investor a number of ...
+
+--- (Additional Root Structure) ---
+Content: 1.2.3The Subscription Shares will be subject to the same earn-out provision, ...
+
+--- (Additional Root Structure) ---
+Content: 1.2.4Following the De-SPAC Closing, the SPAC shall provide Investor the same ...
+
+--- (Additional Root Structure) ---
+Content: 1.3Investor Board Rights. Prior to the consummation of the initial Business C...
+
+--- (Additional Root Structure) ---
+Content: 1.4Sponsor Commitment Rights. Each member of the Sponsor has the right to con...
+
+--- (Additional Root Structure) ---
+Content: 1.5Wiring Instructions. Within five (5) calendar days of receiving a Capital ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2; Options: NewSection; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: ARTICLE II REPRESENTATIONS AND WARRANTIES
+
+--- (Additional Root Structure) ---
+Content: Each Party hereby represents and warrants to each other Party as of the date ...
+
+--- (Additional Root Structure) ---
+Content: 2.1Authority. Such Party has the power and authority to execute and deliver t...
+
+--- (Additional Root Structure) ---
+Content: 2.2Acknowledgement. Each Party acknowledges and agrees that the Subscription ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 2.3Trust Waiver. Investor hereby represents and warrants that it has read the...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 2.4Restricted Securities. Investor hereby represents, acknowledges and warran...
+
+--- (Additional Root Structure) ---
+Content: ●Investor realizes that, unless subject to an effective registration statemen...
+
+--- (Additional Root Structure) ---
+Content: ●Investor understands that, because SPAC is a “shell company” as contemplated...
+
+--- (Additional Root Structure) ---
+Content: ●Investor confirms and represents that it is able (i) to bear the economic ri...
+
+--- (Additional Root Structure) ---
+Content: ●Investor understands and agrees that a legend has been or will be placed on ...
+
+--- (Additional Root Structure) ---
+Content: “THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDE...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: ln connection with a transfer, the SPAC shall take all steps necessary in ord...
+
+--- (Additional Root Structure) ---
+Content: 2.5Title to Securities. Sponsor hereby represents and warrants that Sponsor i...
+
+--- (Additional Root Structure) ---
+Content: ARTICLE III MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Content: 3.1Severability. In case any one or more of the provisions contained herein s...
+
+--- (Additional Root Structure) ---
+Content: 3.2Titles and Headings. The titles and section headings in this Agreement are...
+
+--- (Additional Root Structure) ---
+Content: 3.3No Waiver. It is understood and agreed that no failure or delay in exercis...
+
+--- (Additional Root Structure) ---
+Content: 3.4Term of Obligations. The term of this Agreement shall expire six (6) month...
+
+--- (Additional Root Structure) ---
+Content: 3.5Governing Law; Submission to Jurisdiction. This Agreement shall be governe...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 3.6WAIVER OF JURY TRIAL. EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST EXT...
+
+--- (Additional Root Structure) ---
+Content: 3.7Entire Agreement. This Agreement contains the entire agreement between the...
+
+--- (Additional Root Structure) ---
+Content: 3.8Counterparts. This Agreement may be executed in counterparts (delivered by...
+
+--- (Additional Root Structure) ---
+Content: 3.9Notices. All notices, consents, waivers and other communications hereunder...
+
+--- (Additional Root Structure) ---
+Content: If to Investor: If to Sponsor or the SPAC: Palmeira Investment Limited Mercur...
+
+--- (Additional Root Structure) ---
+Content: 3.10Binding Effect; Assignment. This Agreement and all of the provisions here...
+
+--- (Additional Root Structure) ---
+Content: 3.11Specific Performance. Each Party acknowledges that the rights of each Par...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 3.12Indemnification. Each of the SPAC and Sponsor agrees to indemnify and hol...
+
+--- (Additional Root Structure) ---
+Content: [Remainder of page intentionally left blank; signature page follows]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8; Value: 2
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: The Parties have caused this Agreement to be duly executed and delivered, all...
+
+--- (Additional Root Structure) ---
+Content: SPAC: Alpha Partners Technology Merger Corp. By: /s/ Kanishka Roy Name: Kanis...
+
+--- (Additional Root Structure) ---
+Content: [Signature Page to Subscription Agreement]
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: Field: Rule-Page
+
+--- (Additional Root Structure) ---
+Content: Field: /Rule-Page

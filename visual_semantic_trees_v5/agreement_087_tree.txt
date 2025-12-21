@@ -1,0 +1,250 @@
+Visual Semantic Tree for agreement_087.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 7.9%
+Total Elements: 81
+Hierarchical Elements: 76
+================================================================================
+
+AGREEMENT: ARTISAN PARTNERS ASSET MANAGEMENT INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): 2023 OMNIBUS INCENTIVE COMPENSATION PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): Franchise Capital Award Certificate - Career Vesting (Non-PM)
+
+--- (Additional Root Structure) ---
+Content: Artisan Partners Limited Partnership (“Artisan”), pursuant to the Artisan Par...
+
+--- (Additional Root Structure) ---
+Content: This award is subject to all of the terms, conditions and restrictions set fo...
+
+--- (Additional Root Structure) ---
+Content: Grantee acknowledges receipt of copies of the Award Agreement and the Plan, h...
+
+--- (Additional Root Structure) ---
+Content: Artisan may, in its sole discretion, deliver this Franchise Capital Award Cer...
+
+--- (Additional Root Structure) ---
+Content: Grantee may take up to 30 days to accept this award.
+
+--- (Additional Root Structure) ---
+Heading (L1): ARTISAN PARTNERS ASSET MANAGEMENT INC.
+
+--- (Additional Root Structure) ---
+Heading (L1): 2023 OMNIBUS INCENTIVE COMPENSATION PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): FRANCHISE CAPITAL AWARD AGREEMENT - CAREER VESTING (NON-PM)
+
+--- (Additional Root Structure) ---
+Content: This Franchise Capital Award Agreement (this “Award Agreement”) between [ ] (...
+
+--- (Additional Root Structure) ---
+Content: 1.The Plan. Franchise Capital Awards are made pursuant to the Artisan Partner...
+
+--- (Additional Root Structure) ---
+Content: 2.Nature of Franchise Capital Award. Prior to payout, Grantee will be a gener...
+
+--- (Additional Root Structure) ---
+Content: 3.Forfeiture. Subject to Sections 4 through 6 and the terms of any employment...
+
+--- (Additional Root Structure) ---
+Content: 4.Vesting upon Qualifying Retirement. If (i) Grantee has given Artisan at lea...
+
+--- (Additional Root Structure) ---
+Content: If Grantee would have attained at least ten years of service with Artisan as ...
+
+--- (Additional Root Structure) ---
+Content: 5.Payout.
+
+--- (Additional Root Structure) ---
+Content: a.Franchise Capital Award Invested in Liquid Strategies (as defined below): A...
+
+--- (Additional Root Structure) ---
+Content: b.Franchise Capital Award Invested in Limited Liquidity Strategies (as define...
+
+--- (Additional Root Structure) ---
+Content: c.Franchise Capital Awards Invested in Illiquid Strategies (as defined below)...
+
+--- (Additional Root Structure) ---
+Content: 6.Traditional Retirement. If Grantee satisfies the requirements for vesting u...
+
+--- (Additional Root Structure) ---
+Content: Capital Award amounts granted pursuant to this Award Agreement will be eligib...
+
+--- (Additional Root Structure) ---
+Content: 7.Acceleration.
+
+--- (Additional Root Structure) ---
+Content: a.Change in Control: Upon a Change in Control (as defined in the Plan), any u...
+
+--- (Additional Root Structure) ---
+Content: b.Death or Disability while Employed: Notwithstanding any other provision in ...
+
+--- (Additional Root Structure) ---
+Content: c.Termination without Cause: If, on or after the fifth anniversary of a Grant...
+
+--- (Additional Root Structure) ---
+Content: For purposes of this Section 7(c), “Cause” means the occurrence of any of the...
+
+--- (Additional Root Structure) ---
+Content: 8.Investment Allocation Prior to Payout. Upon the Grant Date, the FCA Grant A...
+
+--- (Additional Root Structure) ---
+Content: a.Investment Allocation to Strategies with Regular Liquidity: All or a portio...
+
+--- (Additional Root Structure) ---
+Content: b.Investment Allocation to Strategies with Limited Liquidity: All or a portio...
+
+--- (Additional Root Structure) ---
+Content: c.Investment Allocation to Strategies with No Liquidity: All or a portion of ...
+
+--- (Additional Root Structure) ---
+Content: fund to the Grantee (and the Grantee will remain responsible for the ongoing ...
+
+--- (Additional Root Structure) ---
+Content: 9.Restrictive Covenants. Grantee’s agreement to and full compliance with the ...
+
+--- (Additional Root Structure) ---
+Content: Additionally, if the non-compete in Section 2 of Appendix A (the “Non-compete...
+
+--- (Additional Root Structure) ---
+Content: 10.Non-Transferability. Grantee may not transfer, assign, pledge or otherwise...
+
+--- (Additional Root Structure) ---
+Content: 11.Tax Withholding. Any amounts paid to the Grantee in respect of a Franchise...
+
+--- (Additional Root Structure) ---
+Content: a.Franchise Capital Award Invested in Liquid Strategies: A portion of each ca...
+
+--- (Additional Root Structure) ---
+Content: b.Franchise Capital Award Invested in Limited Liquidity Strategies: A portion...
+
+--- (Additional Root Structure) ---
+Content: c.Franchise Capital Awards Invested in Illiquid Strategies: The Grantee will ...
+
+--- (Additional Root Structure) ---
+Content: 12.Section 409A. All payments under this Award Agreement are intended to be e...
+
+--- (Additional Root Structure) ---
+Content: 13.Entire Agreement. This Award Agreement, together with any franchise capita...
+
+--- (Additional Root Structure) ---
+Content: 14.Notices. Any notice required to be given to Artisan under the terms of thi...
+
+--- (Additional Root Structure) ---
+Content: 15.Binding Effect. Any action taken or decision made in good faith by the Com...
+
+--- (Additional Root Structure) ---
+Content: 16.Choice of Forum. As a condition to Grantee’s receipt of a Franchise Capita...
+
+--- (Additional Root Structure) ---
+Content: 17.Governing Law. This Award Agreement, including Appendix A governing Restri...
+
+--- (Additional Root Structure) ---
+Content: 18.Electronic Delivery and Signature. Artisan may, in its sole discretion, de...
+
+--- (Additional Root Structure) ---
+Heading (L1): Appendix A: Restrictive Covenants
+
+--- (Additional Root Structure) ---
+Content: 1.Definitions. For purposes of this Appendix A:
+
+--- (Additional Root Structure) ---
+Content: “Artisan Client” means each of the following:
+
+--- (Additional Root Structure) ---
+Content: •Any client of the Artisan Group (i) for which Grantee provided services (suc...
+
+--- (Additional Root Structure) ---
+Content: •Any investor in a mutual fund, UCITS fund, private fund or other pooled inve...
+
+--- (Additional Root Structure) ---
+Content: •Any employee, partner or director of a financial intermediary, financial adv...
+
+--- (Additional Root Structure) ---
+Content: “Artisan Group” means Artisan Partners Asset Management Inc. and each of its ...
+
+--- (Additional Root Structure) ---
+Content: “Artisan Prospective Client” means any person or entity for which the Artisan...
+
+--- (Additional Root Structure) ---
+Content: “Competitive Enterprise” means any business enterprise that either (i) engage...
+
+--- (Additional Root Structure) ---
+Content: “Portfolio Manager" means an individual who has the authority to exercise inv...
+
+--- (Additional Root Structure) ---
+Content: “Restricted Period” means the period during which Grantee is Employed and for...
+
+--- (Additional Root Structure) ---
+Content: “Restricted Person” means an individual who, at the time of the solicitation ...
+
+--- (Additional Root Structure) ---
+Content: “Restricted Services” means any job function that Grantee was engaged in on b...
+
+--- (Additional Root Structure) ---
+Content: “Territory” means the United States and any other country where Grantee provi...
+
+--- (Additional Root Structure) ---
+Content: All capitalized terms used but not defined in this Appendix A will have the m...
+
+--- (Additional Root Structure) ---
+Content: 2.Non-Competition. If during any portion of Grantee’s Employment with the Art...
+
+--- (Additional Root Structure) ---
+Content: 3.Non-Solicitation of Clients and Prospective Clients. Grantee agrees that du...
+
+--- (Additional Root Structure) ---
+Content: 4.Non-Solicitation of Restricted Persons. Grantee agrees that during the Rest...
+
+--- (Additional Root Structure) ---
+Content: The parties agree that, if during the Restricted Period, the Grantee and one ...
+
+--- (Additional Root Structure) ---
+Content: 5.Exclusions in Certain States. Sections 2, 3, and 4 of this Appendix A shall...
+
+--- (Additional Root Structure) ---
+Content: 6.Included Actions. The parties agree that Grantee shall be deemed to have ta...
+
+--- (Additional Root Structure) ---
+Content: 7.Injunctive Relief; Enforceability of Restrictive Covenants. Grantee acknowl...
+
+--- (Additional Root Structure) ---
+Content: 8.Enforceability/Severability/Modification. The parties agree that, if any pr...
+
+--- (Additional Root Structure) ---
+Content: the least extent necessary to make such provisions (and this Appendix A) enfo...
+
+--- (Additional Root Structure) ---
+Content: 9.Survival of Provisions. The obligations contained in this Appendix A will s...
+
+--- (Additional Root Structure) ---
+Content: 10.Counsel/Notice. Grantee understands that this Appendix A may affect Grante...
+
+--- (Additional Root Structure) ---
+Content: 11.Effective Date; Binding Effect. Following Grantee’s execution of this Appe...
+
+--- (Additional Root Structure) ---
+Content: 12.Entire Agreement. This Appendix A is the sole and entire agreement of the ...
+
+--- (Additional Root Structure) ---
+Content: By signing below, Grantee acknowledges and agrees that (i) Grantee has been p...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.35
+
+--- (Additional Root Structure) ---
+TableElement: Grantee:[ ]Grant Date:[ ]FCA Grant Amount:$[ ]Vesting Eligibility Schedule:Th...
+
+--- (Additional Root Structure) ---
+TableElement: Artisan Partners Limited PartnershipGranteeBy:[ ][ ]Title:[ ]
+
+--- (Additional Root Structure) ---
+TableElement: Artisan Partners Limited PartnershipGranteeBy:[ ][ ]Title:[ ]
+
+--- (Additional Root Structure) ---
+TableElement: Artisan Partners Limited PartnershipGranteeBy:[ ][ ]Title:[ ]

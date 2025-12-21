@@ -1,0 +1,394 @@
+Visual Semantic Tree for agreement_046.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 11.6%
+Total Elements: 129
+Hierarchical Elements: 129
+================================================================================
+
+AGREEMENT: Long Term Incentive Plan (“LTI Plan”) AMENDED LONG-TERM INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Heading (L1): Established: July 27, 2017
+
+--- (Additional Root Structure) ---
+Heading (L1): Board Approved Amendment: August 9, 2022
+
+--- (Additional Root Structure) ---
+Heading (L1): Shareholder Approved: September 22, 2022
+
+--- (Additional Root Structure) ---
+Content: Exhibit 10.36=
+
+--- (Additional Root Structure) ---
+Article 1: ARTICLE 1
+
+--- (Additional Root Structure) ---
+Heading (L1): DEFINITIONS AND INTERPRETATION
+
+--- (Additional Root Structure) ---
+Content: 1.1For the purposes of this Plan, unless such word or term is otherwise defin...
+
+--- (Additional Root Structure) ---
+Content: A.“Act” means the Business Corporations Act (British Columbia), or its succes...
+
+--- (Additional Root Structure) ---
+Content: B.“Affiliate” means any corporation that is an affiliate of the Corporation a...
+
+--- (Additional Root Structure) ---
+Content: C.“Associate” with any person or company, is as defined in the Securities Act...
+
+--- (Additional Root Structure) ---
+Content: D.“Board” means the Board of Directors of the Corporation or if established a...
+
+--- (Additional Root Structure) ---
+Content: E.“Change of Control” shall occur if any of the following events occur:
+
+--- (Additional Root Structure) ---
+Content: (i)a consolidation, merger, amalgamation, arrangement or other reorganization...
+
+--- (Additional Root Structure) ---
+Content: (ii)any person, entity or group of persons or entities acting jointly or in c...
+
+--- (Additional Root Structure) ---
+Content: (iii)the Corporation shall sell or otherwise transfer, including by way of th...
+
+--- (Additional Root Structure) ---
+Content: 1
+
+--- (Additional Root Structure) ---
+Content: 50% of the consolidated assets (measured by either book value or fair market ...
+
+--- (Additional Root Structure) ---
+Content: (iv)the Board of Directors of the Corporation adopts a resolution to the effe...
+
+--- (Additional Root Structure) ---
+Content: (v)the replacement by way of election or appointment at any time of one-half ...
+
+--- (Additional Root Structure) ---
+Content: F.“Corporation” means Cordoba Minerals Corp., a corporation existing under th...
+
+--- (Additional Root Structure) ---
+Content: G.“Discounted Market Price” means the Market Price less the following maximum...
+
+--- (Additional Root Structure) ---
+Content: H.“Eligible Contractors” means (A) persons who are not employees, officers or...
+
+--- (Additional Root Structure) ---
+Content: I.“Entitlement Date” means the date as determined by the Board in its sole di...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: J.“Grant Date” means the date that a Share Unit Award is granted to a Partici...
+
+--- (Additional Root Structure) ---
+Content: K.“Market Price” at any date in respect of the Shares shall be the volume wei...
+
+--- (Additional Root Structure) ---
+Content: L.“Participant” means any director, employee, officer or Eligible Contractor ...
+
+--- (Additional Root Structure) ---
+Content: M.“Payout Factor” means, for any Share Unit, the percentage, ranging from 0% ...
+
+--- (Additional Root Structure) ---
+Content: N.“Plan” means this Long Term Incentive Plan, as may be amended from time to ...
+
+--- (Additional Root Structure) ---
+Content: O.“Required Shareholder Approval” means the approval of this Plan by the disi...
+
+--- (Additional Root Structure) ---
+Content: P.“Resignation” means the cessation of board membership by a director, or emp...
+
+--- (Additional Root Structure) ---
+Content: Q.“Retirement” means the Participant ceasing to be an employee, officer or di...
+
+--- (Additional Root Structure) ---
+Content: R.“Shares” means the common shares in the capital of the Corporation;
+
+--- (Additional Root Structure) ---
+Content: S.“Share Unit” means a unit (which may be referred to as a restricted share u...
+
+--- (Additional Root Structure) ---
+Content: T.“Share Unit Award” means an award of Share Units under this Plan to a Parti...
+
+--- (Additional Root Structure) ---
+Content: U.“Stock Exchange” means the TSXV or any other stock exchange on which the Sh...
+
+--- (Additional Root Structure) ---
+Content: V.“Subsidiary” means a subsidiary of the Corporation as determined under the ...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: W.“Termination” means: (i) in the case of a director, the termination of boar...
+
+--- (Additional Root Structure) ---
+Content: X.“Triggering Event” means (i) in the case of a director, the termination of ...
+
+--- (Additional Root Structure) ---
+Content: Y.“TSXV” means the TSX Venture Exchange; and
+
+--- (Additional Root Structure) ---
+Content: Z.“Voting Securities” means any securities of the Corporation ordinarily carr...
+
+--- (Additional Root Structure) ---
+Content: 1.2The headings of all articles, Sections and paragraphs in this Plan are ins...
+
+--- (Additional Root Structure) ---
+Content: 1.3Whenever the singular or masculine are used in this Plan, the same shall b...
+
+--- (Additional Root Structure) ---
+Content: 1.4The words “herein”, “hereby”, “hereunder”, “hereof” and similar expression...
+
+--- (Additional Root Structure) ---
+Content: 1.5Unless otherwise specifically provided, all references to dollar amounts i...
+
+--- (Additional Root Structure) ---
+Article 2: ARTICLE 2
+
+--- (Additional Root Structure) ---
+Heading (L1): PURPOSE AND ADMINISTRATION OF THE PLAN
+
+--- (Additional Root Structure) ---
+Content: 2.1This Plan provides for the granting of Share Unit Awards and the settlemen...
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: services rendered, or to be rendered, in the year of grant, for the purpose o...
+
+--- (Additional Root Structure) ---
+Content: 2.2This Plan shall be administered by the Board and the Board shall have full...
+
+--- (Additional Root Structure) ---
+Content: 2.3The Corporation shall maintain a register in which it shall record the nam...
+
+--- (Additional Root Structure) ---
+Content: 2.4Subject to Section 3.1, the Board shall from time to time determine the Pa...
+
+--- (Additional Root Structure) ---
+Content: 2.5The Corporation shall not grant Share Units unless and until the Share Uni...
+
+--- (Additional Root Structure) ---
+Article 3: ARTICLE 3
+
+--- (Additional Root Structure) ---
+Heading (L1): SHARE UNITS AWARDS
+
+--- (Additional Root Structure) ---
+Content: 3.1This Plan is hereby established for employees, officers and Eligible Contr...
+
+--- (Additional Root Structure) ---
+Content: 3.2A Share Unit Award granted to a particular Participant in a calendar year ...
+
+--- (Additional Root Structure) ---
+Content: For the avoidance of doubt, a Participant will have no right or entitlement w...
+
+--- (Additional Root Structure) ---
+Content: 3.3Subject to the limits on grants set out in section 4.2 and 4.3 of this Pla...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: in the event any dividend is paid on Shares. In such case, the number of addi...
+
+--- (Additional Root Structure) ---
+Content: In the event that the grant of additional Share Units would violate the limit...
+
+--- (Additional Root Structure) ---
+Content: The additional Shares Units will vest on the Participant’s Entitlement Date o...
+
+--- (Additional Root Structure) ---
+Content: 3.4Except as otherwise set forth in this section 3.4, a Share Unit Award gran...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, unless the Board determines otherwise, a Parti...
+
+--- (Additional Root Structure) ---
+Content: (i)in the event of the death of the Participant, the Participant’s Entitlemen...
+
+--- (Additional Root Structure) ---
+Content: (ii)in the event of the total disability of the Participant, the Participant’...
+
+--- (Additional Root Structure) ---
+Content: Subject to Section 3.6, in the event of the Termination with or without cause...
+
+--- (Additional Root Structure) ---
+Content: For greater certainty, all amounts payable, or Shares to be issued, to, or in...
+
+--- (Additional Root Structure) ---
+Content: 3.5Subject to Section 5.1, the Corporation will satisfy its payment obligatio...
+
+--- (Additional Root Structure) ---
+Content: (a)a payment in cash to the Participant equal to the Market Price of a Share ...
+
+--- (Additional Root Structure) ---
+Content: (b)the issuance of Shares to the Participant (in accordance with Article 4) i...
+
+--- (Additional Root Structure) ---
+Content: in each case (in the case of Share Units that are subject to performance cond...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: In the event the Participant’s Entitlement Date is accelerated as a result of...
+
+--- (Additional Root Structure) ---
+Content: 3.6If a Triggering Event occurs within the 12-month period immediately follow...
+
+--- (Additional Root Structure) ---
+Content: 3.7The Corporation will not contribute any amounts to a third party or otherw...
+
+--- (Additional Root Structure) ---
+Content: 3.8Each grant of a Share Unit under this Plan shall be evidenced by a Share U...
+
+--- (Additional Root Structure) ---
+Content: 3.9Concurrent with the determination to grant Share Units to a Participant, t...
+
+--- (Additional Root Structure) ---
+Content: 3.10The Board shall establish criteria for the grant of Share Units to Partic...
+
+--- (Additional Root Structure) ---
+Article 4: ARTICLE 4
+
+--- (Additional Root Structure) ---
+Heading (L1): ADDITIONAL PROVISION FOR TREASURY BASED SHARE ISSUANCES
+
+--- (Additional Root Structure) ---
+Content: 4.1Article 4 shall become effective only on receipt by the Corporation of any...
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: Corporation shall have the power, at the Board’s discretion, to satisfy any o...
+
+--- (Additional Root Structure) ---
+Content: 4.2An aggregate maximum of 8,915,095 Shares shall be made available for issua...
+
+--- (Additional Root Structure) ---
+Content: 4.3Notwithstanding anything in this Plan, for so long as the Corporation is s...
+
+--- (Additional Root Structure) ---
+Content: (a)the maximum aggregate number of Shares which may be reserved for issuance ...
+
+--- (Additional Root Structure) ---
+Content: (b)the maximum aggregate number of Share Unit Awards which may be granted to ...
+
+--- (Additional Root Structure) ---
+Content: (c)the maximum number of Share Unit Awards which may be granted to any one Pa...
+
+--- (Additional Root Structure) ---
+Content: (d)any Shares and Share Unit Awards issued hereunder shall be subject to the ...
+
+--- (Additional Root Structure) ---
+Content: (e)the maximum number of Share Units which may be granted to any one Consulta...
+
+--- (Additional Root Structure) ---
+Content: (f)Share Units may not be granted to Participants employed or engaged to prov...
+
+--- (Additional Root Structure) ---
+Content: Where the Corporation is precluded by this Section 4.3 from issuing Shares to...
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: 4.4On Article 4 being effective, the Board may from time to time in its discr...
+
+--- (Additional Root Structure) ---
+Content: (i)amendments of a house keeping nature; and
+
+--- (Additional Root Structure) ---
+Content: (ii)typographical errors.
+
+--- (Additional Root Structure) ---
+Content: However, other than as set out above, any amendment, modification or change t...
+
+--- (Additional Root Structure) ---
+Content: (a)increase the number of Shares or maximum percentage of Shares which may be...
+
+--- (Additional Root Structure) ---
+Content: (b)reduce the range of amendments requiring shareholder approval contemplated...
+
+--- (Additional Root Structure) ---
+Content: (c)permit Share Units to be transferred other than for normal estate settleme...
+
+--- (Additional Root Structure) ---
+Content: (d)change or eliminate insider participation limits which would result in sha...
+
+--- (Additional Root Structure) ---
+Content: (e)materially modify the eligibility requirements for participation in the Pl...
+
+--- (Additional Root Structure) ---
+Content: (f)modify sections 4.2 or 4.3,
+
+--- (Additional Root Structure) ---
+Content: shall only be effective on such amendment, modification or change being appro...
+
+--- (Additional Root Structure) ---
+Article 5: ARTICLE 5
+
+--- (Additional Root Structure) ---
+Heading (L1): WITHHOLDING TAXES
+
+--- (Additional Root Structure) ---
+Content: 5.1The Corporation or its Affiliates may take such steps as are considered ne...
+
+--- (Additional Root Structure) ---
+Article 6: ARTICLE 6
+
+--- (Additional Root Structure) ---
+Heading (L1): GENERAL
+
+--- (Additional Root Structure) ---
+Content: 6.1This Plan shall remain in effect until it is terminated by the Board.
+
+--- (Additional Root Structure) ---
+Content: 6.2The Board may amend or discontinue this Plan at any time in its sole discr...
+
+--- (Additional Root Structure) ---
+Content: Any amendment of this Plan shall be such that this Plan will not be considere...
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: and/or shareholder approval in respect of amendments to this Plan, to the ext...
+
+--- (Additional Root Structure) ---
+Content: 6.3Except pursuant to a will or by the laws of descent and distribution, no S...
+
+--- (Additional Root Structure) ---
+Content: 6.4No holder of any Share Units shall have any rights as a shareholder of the...
+
+--- (Additional Root Structure) ---
+Content: 6.5Nothing in this Plan shall confer on any Participant the right to continue...
+
+--- (Additional Root Structure) ---
+Content: 6.6In the event there is any change in the Shares, whether by reason of a sto...
+
+--- (Additional Root Structure) ---
+Content: 6.7This Plan replaces the previous Restricted Share Unit Plan of the Corporat...
+
+--- (Additional Root Structure) ---
+Content: 6.8Notwithstanding Section 6.7 above, all “Restricted Share Units” previously...
+
+--- (Additional Root Structure) ---
+Content: 6.9For the avoidance of doubt, all payments under this Plan to individuals su...
+
+--- (Additional Root Structure) ---
+Content: 6.10If any provision of this Plan or any Share Unit contravenes any law or an...
+
+--- (Additional Root Structure) ---
+Content: 6.11This Plan shall be governed by and construed in accordance with the laws ...
+
+--- (Additional Root Structure) ---
+Content: 10

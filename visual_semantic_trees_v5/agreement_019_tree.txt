@@ -1,0 +1,46 @@
+Visual Semantic Tree for agreement_019.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 33.3%
+Total Elements: 19
+Hierarchical Elements: 3
+================================================================================
+
+AGREEMENT: AMENDMENT TO CHANGE IN CONTROL AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature Page Follows]
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXHIBIT 10.21
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): AMENDMENT TO CHANGE IN CONTROL AGREEMENT (this “Amendment”), by and between W...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, the Company and the Executive are party to that certain Change in Co...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): WHEREAS, the Executive and the Company desire to amend the Change in Control ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): NOW, THEREFORE, in consideration of the foregoing, the parties hereto agree a...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 1.Section 6(a)(i)(B) of the Change in Control Agreement is hereby amended in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “(B) the amount equal to the product of (1) three and (2) the sum of (x) the ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 2.Section 6(a)(i)(C) of the Change in Control Agreement is hereby amended in ...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): “(C) the amount equal to the product of (1) sum of (x) the annual COBRA premi...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 3.Section 6(a)(i)(D) of the Change in Control Agreement is hereby amended in ...

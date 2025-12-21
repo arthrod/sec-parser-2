@@ -1,0 +1,27 @@
+Visual Semantic Tree for agreement_028.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: D
+Orphan Rate: 0.0%
+Total Elements: 6
+Hierarchical Elements: 0
+================================================================================
+
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Exhibit 10.1 EXECUTION VERSION COMMITMENT INCREASE AGREEMENT January 17, 2024...
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXECUTION VERSION D. Governing Law. This Commitment Increase Agreement shall ...
+
+--- (Additional Root Structure) ---
+TableElement: EXECUTION VERSION Very truly yours, INCREASING LENDER DEUTSCHE BANK AG NEW YO...
+
+--- (Additional Root Structure) ---
+TableElement: EXECUTION VERSION Accepted and agreed: HPS CORPORATE LENDING FUND By: /s/ Rob...
+
+--- (Additional Root Structure) ---
+TableElement: EXECUTION VERSION Acknowledged: JPMORGAN CHASE BANK, N.A., as Administrative ...
+
+--- (Additional Root Structure) ---
+TableElement: EXECUTION VERSION SCHEDULE I Increasing Lender Commitment Increase Deutsche B...

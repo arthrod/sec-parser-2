@@ -1,0 +1,78 @@
+Visual Semantic Tree for agreement_097.html
+Generated using AgreementParserv4Enhanced
+Status: ⚠️ PARTIAL
+Grade: C
+Orphan Rate: 0.0%
+Total Elements: 52
+Hierarchical Elements: 39
+================================================================================
+
+AGREEMENT: PRIVATE WARRANT UNDERTAKING AGREEMENT
+|-- Recital: WHEREAS, the Sponsor has on the day of this Agreement entered into a Warrant ...
+|-- Recital: WHEREAS, the Parties have agreed that the Private Warrant Holders shall agree...
+|-- Recital: NOW, THEREFORE, in consideration of the premises and the mutual promises cont...
+|   |-- Content: 1.UnterTAKING TO ONLY CASHLESS EXERCISE PRIVATE WARRANTS
+|   `-- Content: Each of the Sponsor and each of the Insider Parties, in its respective capaci...
+|-- Heading (L1): 2.UNTERTAKING TO CASHLESS EXERCISE PRIVATE WARRANTS AT $18.00
+|   |-- Content: Unless previously exercised or redeemed, each of the Sponsor and each of the ...
+|   |-- Heading (L2): 3.Termination
+|   |   |-- Content: This Agreement shall terminate and be void and of no further force and effect...
+|   |   |-- Content: Notwithstanding anything to the contrary contained herein or otherwise, but w...
+|   |   `-- Content: Notwithstanding anything in this Agreement to the contrary, (a) the Sponsor m...
+|   |-- Heading (L2): 6.Representations and Warranties
+|   |   |-- Content: Each of the parties hereto represents and warrants that (a) it has the power ...
+|   |   |-- Content: This Agreement shall be for the sole benefit of the Parties and their respect...
+|   |   `-- Content: Each of the Parties hereto is entitled to rely upon this Agreement and is irr...
+|   |-- Heading (L2): 9.Notices
+|   |   |-- Content: Any notice or communication required or permitted hereunder shall be in writi...
+|   |   |-- Clause ((a)): (a)when so delivered personally,
+|   |   |-- Clause ((b)): (b)when sent, with no mail undeliverable or other rejection notice, if sent b...
+|   |   `-- Clause ((c)): (c)three business days after the date of mailing to the address below or to s...
+|   |-- Heading (L2): If to Sponsor:
+|   |   |-- Content: Pegasus Digital Mobility Sponsor LLC Attention: Jim Condon
+|   |   `-- Content: Attn:Heath D. Linsky Email:heath.linsky@troutman.com
+|   |-- Heading (L2): If to Pegasus:
+|   |   |-- Content: Attn:Jeremey Mistry and Stefan Berger Email:jmistry@pegasusdm.com; sberger@pe...
+|   |   |-- Content: 60311 Frankfurt am Main, Germany
+|   |   `-- Content: Attn:George Hacket and Axel Wittmann Email:george.hacket@cliffordchance.com; ...
+|   `-- Heading (L2): If to the Company:
+|       |-- Content: Robert-Bosch-Str. 32-36 72250 Freudenstadt
+|       |-- Content: Attn:Christian Schmid, Anette Schmid and Julia Natterer Email:natterer.ju@sch...
+|       |-- Content: 60329 Frankfurt am Main, Germany
+|       |-- Content: Attn:Stephan Aubel and Alexander Gebhardt Email:alexander.gebhardt@gleisslutz...
+|       |-- Content: No failure or delay by a Party hereto in exercising any right, power or remed...
+|       |-- Content: Sections 1.2 (Construction); 12.3 (Assignment); 12.6 (Governing Law); 12.7 (C...
+|       |-- Content: IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be duly ...
+|       `-- Content: PEGASUS DIGITAL MOBILITY ACQUISITION CORP. By: /s/ F. Jeremey Mistry Name: Ti...
+`-- Heading (L1): INSIDERS:
+    `-- Content: By: /s/ Sir Ralf Speth Name: Sir Ralf Speth By: /s/ F. Jeremy Mistry Name: F....
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 4.No Recourse
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 5.Fiduciary Duties
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 7.No Third Party Beneficiaries
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): 8.Further Assurances
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): E-mail: jcondon@stratcap.comTroutman Pepper
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Pegasus Digital Mobility Acquisition Corp.
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Clifford ChanceJunghofstrasse 14,
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Gebr. Schmid GmbH
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Germany
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Schmid.An@schmid-group.com Gleiss LutzTaunusanlage 11,

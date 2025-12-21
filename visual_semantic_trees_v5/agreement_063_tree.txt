@@ -1,0 +1,892 @@
+Visual Semantic Tree for agreement_063.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 9.5%
+Total Elements: 295
+Hierarchical Elements: 294
+================================================================================
+
+AGREEMENT: RESTRICTED STOCK UNITS AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): UNDER THE BRISTOL-MYERS SQUIBB COMPANY
+
+--- (Additional Root Structure) ---
+Heading (L1): 2021 STOCK AWARD AND INCENTIVE PLAN
+
+--- (Additional Root Structure) ---
+Content: BRISTOL-MYERS SQUIBB COMPANY, a Delaware corporation (the “Company”), has gra...
+
+--- (Additional Root Structure) ---
+Content: 1.RESTRICTED STOCK UNITS AWARD
+
+--- (Additional Root Structure) ---
+Content: The Compensation and Management Development Committee of the Board of Directo...
+
+--- (Additional Root Structure) ---
+Content: As consideration for grant of this Award, you shall remain in the continuous ...
+
+--- (Additional Root Structure) ---
+Content: 2.RESTRICTIONS, FORFEITURES, AND SETTLEMENT
+
+--- (Additional Root Structure) ---
+Content: Except as otherwise provided in this Section 2, each RSU shall be subject to ...
+
+--- (Additional Root Structure) ---
+Content: become vested such that there are no longer any RSUs that may become potentia...
+
+--- (Additional Root Structure) ---
+Content: (a)Nontransferability. Except as permitted under Section 11(b) of the Plan, (...
+
+--- (Additional Root Structure) ---
+Content: (b)Time of Settlement. RSUs that are not forfeited shall be settled after the...
+
+--- (Additional Root Structure) ---
+Content: No dividend or dividend equivalents will be paid, accrued, or accumulated in ...
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: herein that apply to the shares of Common Stock delivered in respect of veste...
+
+--- (Additional Root Structure) ---
+Content: (c)If Retirement-Eligible; Death.
+
+--- (Additional Root Structure) ---
+Content: (i)Retirement. In the event your employment is terminated by the Company or a...
+
+--- (Additional Root Structure) ---
+Content: If you are only eligible for Retirement pursuant to Section 2(x)(iii) of the ...
+
+--- (Additional Root Structure) ---
+Content: (ii)Death. In the event of your death while employed by the Company or a subs...
+
+--- (Additional Root Structure) ---
+Content: In the event that the RSUs vest on account of your death, or in the event of ...
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: death. In the case of your death, any RSUs that have not been vested and ther...
+
+--- (Additional Root Structure) ---
+Content: (d)Termination by Company if not Retirement-Eligible. In the event your emplo...
+
+--- (Additional Root Structure) ---
+Content: If you are employed in the United States or Puerto Rico at the time of your t...
+
+--- (Additional Root Structure) ---
+Content: (e)Disability. In the event you become Disabled (as that term is defined belo...
+
+--- (Additional Root Structure) ---
+Content: For purposes of this Agreement, “Disability” or “Disabled” shall mean qualify...
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: of the United States, and in jurisdictions outside of the United States shall...
+
+--- (Additional Root Structure) ---
+Content: (f)Qualifying Termination or Retirement During Protected Period Following Cha...
+
+--- (Additional Root Structure) ---
+Content: (g)Other Termination of Employment. Notwithstanding anything to the contrary ...
+
+--- (Additional Root Structure) ---
+Content: (h)Special Distribution Rules To Comply with Code Section 409A. The RSUs gran...
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Reg. § 1.409A-1(h) and subject to the six-month delay rule under Section 2(b)...
+
+--- (Additional Root Structure) ---
+Content: As more fully provided for in the Plan, notwithstanding any provision herein,...
+
+--- (Additional Root Structure) ---
+Content: (i)Other Terms.
+
+--- (Additional Root Structure) ---
+Content: (i)In the event that you fail to promptly pay or make satisfactory arrangemen...
+
+--- (Additional Root Structure) ---
+Content: (ii)You may, at any time prior to the expiration of the Restricted Period, wa...
+
+--- (Additional Root Structure) ---
+Content: (iii)Termination of employment includes any event if immediately thereafter y...
+
+--- (Additional Root Structure) ---
+Content: (iv)Upon any termination of your employment, any RSUs as to which the Restric...
+
+--- (Additional Root Structure) ---
+Content: (v)In the event of termination of your employment (whether or not later found...
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: provided in this Agreement or determined by the Company, your right to vest i...
+
+--- (Additional Root Structure) ---
+Content: (vi)In any case in which you are required to execute a release as a condition...
+
+--- (Additional Root Structure) ---
+Content: (j)The following events shall not be deemed a termination of employment:
+
+--- (Additional Root Structure) ---
+Content: (i)A transfer of you from the Company to a subsidiary of the Company, or vice...
+
+--- (Additional Root Structure) ---
+Content: (ii)A leave of absence from which you return to active service, such leave be...
+
+--- (Additional Root Structure) ---
+Content: Any failure to return to active service with the Company or a subsidiary of t...
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: 3.NON-COMPETITION AND NON-SOLICITATION AGREEMENT AND COMPANY RIGHT TO INJUNCT...
+
+--- (Additional Root Structure) ---
+Content: You acknowledge that the grant of RSUs pursuant to this Agreement is sufficie...
+
+--- (Additional Root Structure) ---
+Content: (a)Confidentiality Obligations and Agreement. By accepting this Agreement, yo...
+
+--- (Additional Root Structure) ---
+Content: (b)Inventions. To the extent permitted by local law, you agree and/or reaffir...
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: during your employment, and agree to promptly disclose and assign to BMS all ...
+
+--- (Additional Root Structure) ---
+Content: (c)Non-Competition, Non-Solicitation, and Related Covenants. By accepting thi...
+
+--- (Additional Root Structure) ---
+Content: (i)during the Covenant Restricted Period (as defined below), own or have any ...
+
+--- (Additional Root Structure) ---
+Content: (ii)during the Covenant Restricted Period, whether or not for compensation, e...
+
+--- (Additional Root Structure) ---
+Content: (iii)for employees in an executive, management, supervisory, or business unit...
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: of the staffing and hiring processes involving a candidate, regardless of the...
+
+--- (Additional Root Structure) ---
+Content: (iv)during the Covenant Restricted Period, solicit, induce, encourage, approp...
+
+--- (Additional Root Structure) ---
+Content: (v)during the Covenant Restricted Period, engage in any activity that is harm...
+
+--- (Additional Root Structure) ---
+Content: (d)Rescission, Forfeiture, and Other Remedies. If BMS determines that you hav...
+
+--- (Additional Root Structure) ---
+Content: (i)any portion of the RSUs not vested or settled shall be immediately rescinded;
+
+--- (Additional Root Structure) ---
+Content: (ii)you shall automatically forfeit any rights you may have with respect to a...
+
+--- (Additional Root Structure) ---
+Content: (iii)if any portion of the RSUs vested within the 12-month period immediately...
+
+--- (Additional Root Structure) ---
+Content: (iv)the foregoing remedies set forth in this Section 3(d) shall not be BMS’s ...
+
+--- (Additional Root Structure) ---
+Content: (e)Definitions. For purposes of this Agreement, the following definitions sha...
+
+--- (Additional Root Structure) ---
+Content: (i)“Competitive Business” means any business that is engaged in or is about t...
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: (ii)The “Covenant Restricted Period” for purposes of Sections 3(c)(iii) and 3...
+
+--- (Additional Root Structure) ---
+Content: (iii)“BMS” means the Company, all related companies, affiliates, subsidiaries...
+
+--- (Additional Root Structure) ---
+Content: (f)Severability. You acknowledge and agree that the period and scope of restr...
+
+--- (Additional Root Structure) ---
+Content: (g)Additional Remedies. You acknowledge and agree that any violation by you o...
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+Content: (h)Binding Obligations. The obligations set forth in this Section 3 shall be ...
+
+--- (Additional Root Structure) ---
+Content: (i)Enforcement. BMS retains discretion regarding whether or not to enforce th...
+
+--- (Additional Root Structure) ---
+Content: (j)Duty To Notify Third Parties; BMS Notification. During your employment wit...
+
+--- (Additional Root Structure) ---
+Content: 4.RESPONSIBILITY FOR TAXES
+
+--- (Additional Root Structure) ---
+Content: You acknowledge that, regardless of any action taken by the Company, any subs...
+
+--- (Additional Root Structure) ---
+Content: In connection with the relevant taxable event, you agree to make adequate arr...
+
+--- (Additional Root Structure) ---
+Content: 12
+
+--- (Additional Root Structure) ---
+Content: satisfy any applicable withholding obligations or rights with regard to all T...
+
+--- (Additional Root Structure) ---
+Content: (a)requiring you to make a payment in a form acceptable to the Company; or
+
+--- (Additional Root Structure) ---
+Content: (b)withholding from your wages or other cash compensation payable to you; or
+
+--- (Additional Root Structure) ---
+Content: (c)irrespective of any Post-Vest Holding Period, withholding from proceeds of...
+
+--- (Additional Root Structure) ---
+Content: (d)irrespective of any Post-Vest Holding Period, withholding in shares of Com...
+
+--- (Additional Root Structure) ---
+Content: provided, however, if you are a Section 16 officer of the Company under the S...
+
+--- (Additional Root Structure) ---
+Content: The Company may withhold or account for Tax-Related Items by considering appl...
+
+--- (Additional Root Structure) ---
+Content: Finally, you agree to pay to the Company or the Employer any amount of Tax-Re...
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding anything in this Section 4 to the contrary, to avoid a prohib...
+
+--- (Additional Root Structure) ---
+Content: 13
+
+--- (Additional Root Structure) ---
+Content: released for sale to satisfy any Tax-Related Items arising prior to the date ...
+
+--- (Additional Root Structure) ---
+Content: 5.DIVIDENDS AND ADJUSTMENTS
+
+--- (Additional Root Structure) ---
+Content: (a)Dividends or dividend equivalents are not paid, accrued, or accumulated on...
+
+--- (Additional Root Structure) ---
+Content: (b)The number of your RSUs and/or other related terms shall be appropriately ...
+
+--- (Additional Root Structure) ---
+Content: 6.EFFECT ON OTHER BENEFITS
+
+--- (Additional Root Structure) ---
+Content: In no event shall the value, at any time, of the RSUs or any other payment un...
+
+--- (Additional Root Structure) ---
+Content: 7.ACKNOWLEDGMENT OF NATURE OF PLAN AND RSUs
+
+--- (Additional Root Structure) ---
+Content: By accepting this Award, you acknowledge, understand, and agree that:
+
+--- (Additional Root Structure) ---
+Content: (a)The Plan is established voluntarily by the Company, is discretionary in na...
+
+--- (Additional Root Structure) ---
+Content: (b)This Award is exceptional, voluntary, and occasional and does not create a...
+
+--- (Additional Root Structure) ---
+Content: (c)All decisions with respect to future awards of RSUs or other awards, if an...
+
+--- (Additional Root Structure) ---
+Content: 14
+
+--- (Additional Root Structure) ---
+Content: (d)This Award is granted as an incentive for future services and in no event ...
+
+--- (Additional Root Structure) ---
+Content: (e)Your participation in the Plan is voluntary;
+
+--- (Additional Root Structure) ---
+Content: (f)The RSUs and the shares of Common Stock in respect of the RSUs, and the in...
+
+--- (Additional Root Structure) ---
+Content: (g)Unless otherwise agreed with the Company, the RSUs and the shares of Commo...
+
+--- (Additional Root Structure) ---
+Content: (h)The future value of the underlying shares of Common Stock is unknown, inde...
+
+--- (Additional Root Structure) ---
+Content: (i)No claim or entitlement to compensation or damages arises from (i) the for...
+
+--- (Additional Root Structure) ---
+Content: (j)Unless otherwise provided in the Plan or by the Company in its discretion,...
+
+--- (Additional Root Structure) ---
+Content: (k)Neither the Company, the Employer, nor any subsidiary or affiliate of the ...
+
+--- (Additional Root Structure) ---
+Content: (l)The RSUs, whether vested or unvested, and/or the shares of Common Stock, c...
+
+--- (Additional Root Structure) ---
+Content: 15
+
+--- (Additional Root Structure) ---
+Content: third-party administrator engaged by the Company to hold any shares of Common...
+
+--- (Additional Root Structure) ---
+Content: 8.NO ADVICE REGARDING GRANT
+
+--- (Additional Root Structure) ---
+Content: The Company is not providing any tax, legal, or financial advice, nor is the ...
+
+--- (Additional Root Structure) ---
+Content: 9.RIGHT TO CONTINUED EMPLOYMENT
+
+--- (Additional Root Structure) ---
+Content: Nothing in the Plan or this Agreement shall confer on you any right to contin...
+
+--- (Additional Root Structure) ---
+Content: 10.ADMINISTRATION; UNFUNDED OBLIGATIONS
+
+--- (Additional Root Structure) ---
+Content: The Committee shall have full authority and discretion, subject only to the e...
+
+--- (Additional Root Structure) ---
+Content: 11.DEEMED ACCEPTANCE
+
+--- (Additional Root Structure) ---
+Content: You are required to accept the terms and conditions set forth in this Agreeme...
+
+--- (Additional Root Structure) ---
+Content: 16
+
+--- (Additional Root Structure) ---
+Content: 12.AMENDMENT TO PLAN
+
+--- (Additional Root Structure) ---
+Content: This Agreement shall be subject to the terms of the Plan, as amended from tim...
+
+--- (Additional Root Structure) ---
+Content: 13.SEVERABILITY AND VALIDITY
+
+--- (Additional Root Structure) ---
+Content: The various provisions of this Agreement are severable, and, if any one or mo...
+
+--- (Additional Root Structure) ---
+Content: 14.GOVERNING LAW, JURISDICTION, AND VENUE
+
+--- (Additional Root Structure) ---
+Content: This Agreement and Award grant shall be governed by the substantive laws (but...
+
+--- (Additional Root Structure) ---
+Content: (a)If you are subject to the Mutual Arbitration Agreement, any dispute that a...
+
+--- (Additional Root Structure) ---
+Content: (b)If you are not subject to the Mutual Arbitration Agreement, this Agreement...
+
+--- (Additional Root Structure) ---
+Content: 15.SUCCESSORS
+
+--- (Additional Root Structure) ---
+Content: This Agreement shall be binding upon and inure to the benefit of the successo...
+
+--- (Additional Root Structure) ---
+Content: 16.ELECTRONIC DELIVERY AND ACCEPTANCE
+
+--- (Additional Root Structure) ---
+Content: The Company may, in its sole discretion, decide to deliver any documents rela...
+
+--- (Additional Root Structure) ---
+Content: 17
+
+--- (Additional Root Structure) ---
+Content: documents by electronic delivery and agree to participate in the Plan through...
+
+--- (Additional Root Structure) ---
+Content: 17.INSIDER TRADING/MARKET ABUSE LAWS
+
+--- (Additional Root Structure) ---
+Content: You acknowledge that, depending on your country or broker’s country, or the c...
+
+--- (Additional Root Structure) ---
+Content: 18.LANGUAGE
+
+--- (Additional Root Structure) ---
+Content: You acknowledge that you are proficient in the English language, or have cons...
+
+--- (Additional Root Structure) ---
+Content: 19.COMPLIANCE WITH LAWS AND REGULATIONS
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding any other provisions of the Plan or this Agreement, unless th...
+
+--- (Additional Root Structure) ---
+Content: 20.ENTIRE AGREEMENT AND NO ORAL MODIFICATION OR WAIVER
+
+--- (Additional Root Structure) ---
+Content: This Agreement (including the terms of the Plan and the Grant Summary) contai...
+
+--- (Additional Root Structure) ---
+Content: 18
+
+--- (Additional Root Structure) ---
+Content: the parties, except that the Company may adopt a modification or amendment to...
+
+--- (Additional Root Structure) ---
+Content: 21.ADDENDUM A
+
+--- (Additional Root Structure) ---
+Content: Your RSUs shall be subject to any additional provisions set forth in Addendum...
+
+--- (Additional Root Structure) ---
+Content: 22.FOREIGN ASSET/ACCOUNT REPORTING REQUIREMENTS AND EXCHANGE CONTROLS
+
+--- (Additional Root Structure) ---
+Content: Your country may have certain foreign asset and/or foreign account reporting ...
+
+--- (Additional Root Structure) ---
+Content: 23.IMPOSITION OF OTHER REQUIREMENTS
+
+--- (Additional Root Structure) ---
+Content: The Company reserves the right to impose other requirements on your participa...
+
+--- (Additional Root Structure) ---
+Section 24: 24. OTHER REPRESENTATIONS
+
+--- (Additional Root Structure) ---
+Content: By accepting this Award, you also represent that you have received and carefu...
+
+--- (Additional Root Structure) ---
+Content: 19
+
+--- (Additional Root Structure) ---
+Content: For the Company
+
+--- (Additional Root Structure) ---
+Content: Bristol-Myers Squibb Company
+
+--- (Additional Root Structure) ---
+Content: By: /s/ Amanda Poole
+
+--- (Additional Root Structure) ---
+Content: Amanda Poole
+
+--- (Additional Root Structure) ---
+Content: Chief Human Resources Officer
+
+--- (Additional Root Structure) ---
+Content: I have read this Agreement in its entirety. I understand that this Award has ...
+
+--- (Additional Root Structure) ---
+Content: I hereby agree to all the terms, restrictions, and conditions set forth in th...
+
+--- (Additional Root Structure) ---
+Content: 20
+
+--- (Additional Root Structure) ---
+Heading (L1): Addendum A
+
+--- (Additional Root Structure) ---
+Heading (L1): BRISTOL-MYERS SQUIBB COMPANY
+
+--- (Additional Root Structure) ---
+Heading (L1): ADDITIONAL PROVISIONS FOR RSUs IN CERTAIN COUNTRIES
+
+--- (Additional Root Structure) ---
+Content: Unless otherwise provided below, capitalized terms used but not defined herei...
+
+--- (Additional Root Structure) ---
+Content: This Addendum A includes additional provisions that apply if you are residing...
+
+--- (Additional Root Structure) ---
+Content: This Addendum A also includes information of which you should be aware with r...
+
+--- (Additional Root Structure) ---
+Content: In addition, the information is general in nature and may not apply to your p...
+
+--- (Additional Root Structure) ---
+Content: Finally, if you are a citizen or resident of a country other than the one in ...
+
+--- (Additional Root Structure) ---
+Heading (L1): All Countries
+
+--- (Additional Root Structure) ---
+Content: Retirement. The following provision supplements Section 2 of the Agreement:
+
+--- (Additional Root Structure) ---
+Content: Notwithstanding the foregoing, if the Company receives a legal opinion that t...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-1
+
+--- (Additional Root Structure) ---
+Heading (L1): All Countries Outside the European Union/ European Economic Area/Switzerland/...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy Consent.
+
+--- (Additional Root Structure) ---
+Content: By accepting the Award, you explicitly and unambiguously consent to the colle...
+
+--- (Additional Root Structure) ---
+Content: You understand that the Company, the Employer and other subsidiaries and affi...
+
+--- (Additional Root Structure) ---
+Content: You understand that Data will be transferred to Fidelity Stock Plan Services,...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-2
+
+--- (Additional Root Structure) ---
+Content: consequences of your refusal to consent or withdrawal of consent, you underst...
+
+--- (Additional Root Structure) ---
+Content: Upon request of the Company or the Employer, you agree to provide a separate ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Argentina
+
+--- (Additional Root Structure) ---
+Content: Labor Law Policy and Acknowledgement. This provision supplements Sections 6 a...
+
+--- (Additional Root Structure) ---
+Content: By accepting the RSUs, you acknowledge and agree that the grant of RSUs is ma...
+
+--- (Additional Root Structure) ---
+Content: If, notwithstanding the foregoing, any benefits under the Plan are considered...
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. Neither the RSUs nor the underlying shares of Com...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. Certain restrictions and requirements may apply...
+
+--- (Additional Root Structure) ---
+Content: Exchange control regulations in Argentina are subject to change. You should s...
+
+--- (Additional Root Structure) ---
+Heading (L1): Australia
+
+--- (Additional Root Structure) ---
+Content: Compliance with Laws. Notwithstanding anything else in the Agreement, you wil...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-3
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. The offer of RSUs is made under Division 1A Part ...
+
+--- (Additional Root Structure) ---
+Content: Tax Information. The Plan is a plan to which Subdivision 83A-C of the Income ...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. Exchange control reporting is required for inbo...
+
+--- (Additional Root Structure) ---
+Heading (L1): Austria
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. If you hold securities (including shares of Com...
+
+--- (Additional Root Structure) ---
+Content: If you sell your shares of Common Stock, or receive any cash dividends, you m...
+
+--- (Additional Root Structure) ---
+Heading (L1): Belgium
+
+--- (Additional Root Structure) ---
+Content: There are no country-specific provisions.
+
+--- (Additional Root Structure) ---
+Heading (L1): Brazil
+
+--- (Additional Root Structure) ---
+Content: Labor Law Policy and Acknowledgement. This provision supplements Sections 6 a...
+
+--- (Additional Root Structure) ---
+Content: By accepting the RSUs, you acknowledge and agree that (i) you are making an i...
+
+--- (Additional Root Structure) ---
+Content: Further, you acknowledge and agree that, for all legal purposes, (i) any bene...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-4
+
+--- (Additional Root Structure) ---
+Content: terms and conditions of your employment or other service; and (iii) the incom...
+
+--- (Additional Root Structure) ---
+Content: Compliance with Laws. By accepting the RSUs, you agree that you will comply w...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. You must prepare and submit a declaration of as...
+
+--- (Additional Root Structure) ---
+Heading (L1): Bulgaria
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. You will be required to file statistical forms ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Canada
+
+--- (Additional Root Structure) ---
+Content: Settlement of RSUs. Notwithstanding any terms or conditions of the Plan or th...
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. You acknowledge and agree that you will sell shar...
+
+--- (Additional Root Structure) ---
+Content: Termination of Employment. This provision replaces the second paragraph of Se...
+
+--- (Additional Root Structure) ---
+Content: In the event of termination of your employment (whether or not later found to...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-5
+
+--- (Additional Root Structure) ---
+Content: employment standards legislation explicitly requires continued vesting during...
+
+--- (Additional Root Structure) ---
+Content: The following provision applies if you are resident in Quebec:
+
+--- (Additional Root Structure) ---
+Content: Language: A French translation of the Plan and the Agreement has been made av...
+
+--- (Additional Root Structure) ---
+Content: Langue. Une traduction française du Régime et de la Convention est mise à vot...
+
+--- (Additional Root Structure) ---
+Content: Data Privacy. This provision supplements the Data Privacy Consent provision a...
+
+--- (Additional Root Structure) ---
+Content: You hereby authorize the Company, the Employer and their representatives to d...
+
+--- (Additional Root Structure) ---
+Heading (L1): Chile
+
+--- (Additional Root Structure) ---
+Content: Labor Law Policy and Acknowledgement. This provision supplements Sections 6 a...
+
+--- (Additional Root Structure) ---
+Content: In accepting the RSUs, you agree the RSUs and the shares of Common Stock unde...
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. The offer of the RSUs constitutes a private offer...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-6
+
+--- (Additional Root Structure) ---
+Content: shares of Common Stock in Chile. Unless the RSUs and/or the shares of Common ...
+
+--- (Additional Root Structure) ---
+Content: Esta oferta de Unidades de Acciones Restringidas (“RSU”) constituye una ofert...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. You are responsible for complying with foreign ...
+
+--- (Additional Root Structure) ---
+Content: You are not required to repatriate funds obtained from the sale of shares of ...
+
+--- (Additional Root Structure) ---
+Heading (L1): China
+
+--- (Additional Root Structure) ---
+Content: The following provisions apply if you are subject to the exchange control reg...
+
+--- (Additional Root Structure) ---
+Content: Award Conditioned on Satisfaction of Regulatory Obligations. Settlement of th...
+
+--- (Additional Root Structure) ---
+Content: Sales of Shares of Common Stock. To comply with exchange control regulations ...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-7
+
+--- (Additional Root Structure) ---
+Content: at any time (including immediately upon vesting, the lapse of the Post-Vest H...
+
+--- (Additional Root Structure) ---
+Content: Upon the sale of the shares of Common Stock, the Company agrees to pay the ca...
+
+--- (Additional Root Structure) ---
+Content: Treatment of Shares of Common Stock and RSUs Upon Termination of Employment. ...
+
+--- (Additional Root Structure) ---
+Content: If all or a portion of your RSUs become distributable upon your termination o...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. You understand and agree that, to facilitate co...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-8
+
+--- (Additional Root Structure) ---
+Content: to you upon vesting and settlement of the RSUs in the account that has been e...
+
+--- (Additional Root Structure) ---
+Content: You further agree to comply with any other requirements that may be imposed b...
+
+--- (Additional Root Structure) ---
+Heading (L1): Colombia
+
+--- (Additional Root Structure) ---
+Content: Labor Law Policy and Acknowledgement. By accepting your Award, you expressly ...
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. The shares of Common Stock are not and will not b...
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. You are responsible for complying with any and ...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-9
+
+--- (Additional Root Structure) ---
+Content: de cambio). You should obtain proper legal advice to ensure compliance with a...
+
+--- (Additional Root Structure) ---
+Heading (L1): Czech Republic
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. The Czech National Bank may require you to fulf...
+
+--- (Additional Root Structure) ---
+Heading (L1): Denmark
+
+--- (Additional Root Structure) ---
+Content: Stock Option Act. You acknowledge that you have received an Employer Statemen...
+
+--- (Additional Root Structure) ---
+Heading (L1): Finland
+
+--- (Additional Root Structure) ---
+Content: There are no country-specific provisions.
+
+--- (Additional Root Structure) ---
+Heading (L1): France
+
+--- (Additional Root Structure) ---
+Content: Language Acknowledgement
+
+--- (Additional Root Structure) ---
+Content: En signant et renvoyant le présent document décrivant les termes et condition...
+
+--- (Additional Root Structure) ---
+Content: By accepting your RSUs, you confirm having read and understood the documents ...
+
+--- (Additional Root Structure) ---
+Content: French-Qualified RSUs
+
+--- (Additional Root Structure) ---
+Content: The following provisions apply only if you are eligible to be granted French-...
+
+--- (Additional Root Structure) ---
+Content: Type of Grant. The RSUs are granted as French-Qualified RSUs and are intended...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-10
+
+--- (Additional Root Structure) ---
+Content: and Incentive Plan for Restricted Stock Units Granted to French Participants ...
+
+--- (Additional Root Structure) ---
+Content: Certain events may affect the status of the RSUs as French-Qualified RSUs or ...
+
+--- (Additional Root Structure) ---
+Content: Capitalized terms not defined herein, in the Agreement or in the Plan shall h...
+
+--- (Additional Root Structure) ---
+Content: Settlement. Notwithstanding provision to the contrary in the Agreement, Frenc...
+
+--- (Additional Root Structure) ---
+Content: Termination Due to Death. The following provision replaces Section 2(c)(iv) o...
+
+--- (Additional Root Structure) ---
+Content: In the event of your death prior to any applicable Vesting Date or the end of...
+
+--- (Additional Root Structure) ---
+Content: Restrictions on Vesting, Sale or Transfer of Shares of Common Stock. The foll...
+
+--- (Additional Root Structure) ---
+Content: (k)Minimum Mandatory Vesting Period. Notwithstanding any provision to the con...
+
+--- (Additional Root Structure) ---
+Content: (l)Minimum Mandatory Holding Period. You may not sell or transfer any shares ...
+
+--- (Additional Root Structure) ---
+Content: (m)Closed Periods. You may not sell any shares of Common Stock issued upon ve...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-11
+
+--- (Additional Root Structure) ---
+Content: (n)Effect of Termination of Service. Except in the case of your termination d...
+
+--- (Additional Root Structure) ---
+Content: (o)No Transfer of French-Qualified RSUs. French-Qualified RSUs may not be sol...
+
+--- (Additional Root Structure) ---
+Heading (L1): Germany
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. Cross-border payments in excess of €12,500 (the...
+
+--- (Additional Root Structure) ---
+Heading (L1): Greece
+
+--- (Additional Root Structure) ---
+Content: There are no country-specific provisions.
+
+--- (Additional Root Structure) ---
+Heading (L1): Hong Kong
+
+--- (Additional Root Structure) ---
+Content: Securities Law Information. Warning: The contents of this document have not b...
+
+--- (Additional Root Structure) ---
+Content: Settlement of RSUs and Sale of Common Stock. Notwithstanding any terms or con...
+
+--- (Additional Root Structure) ---
+Content: Addendum A-12
+
+--- (Additional Root Structure) ---
+Content: not cash. In addition, notwithstanding any terms or conditions of the Plan or...
+
+--- (Additional Root Structure) ---
+Heading (L1): Hungary
+
+--- (Additional Root Structure) ---
+Content: There are no country-specific provisions.
+
+--- (Additional Root Structure) ---
+Heading (L1): India
+
+--- (Additional Root Structure) ---
+Content: Exchange Control Information. You must repatriate all proceeds received from ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Ireland
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): EXHIBIT 10ee

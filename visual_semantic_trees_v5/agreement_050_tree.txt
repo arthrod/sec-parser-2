@@ -1,0 +1,280 @@
+Visual Semantic Tree for agreement_050.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: C
+Orphan Rate: 5.6%
+Total Elements: 91
+Hierarchical Elements: 89
+================================================================================
+
+AGREEMENT: ADC Therapeutics SA
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+Content: Agreement
+
+--- (Additional Root Structure) ---
+Content: of 18 January 2024
+
+--- (Additional Root Structure) ---
+Content: between
+
+--- (Additional Root Structure) ---
+Content: Biopôle
+
+--- (Additional Root Structure) ---
+Content: Route de la Corniche 3 B
+
+--- (Additional Root Structure) ---
+Content: 1066 Epalinges
+
+--- (Additional Root Structure) ---
+Content: Switzerland
+
+--- (Additional Root Structure) ---
+Content: Legal@adctherapeutics.com
+
+--- (Additional Root Structure) ---
+Heading (L1): “Company”
+
+--- (Additional Root Structure) ---
+Content: and
+
+--- (Additional Root Structure) ---
+Heading (L1): Redmile Group, LLC
+
+--- (Additional Root Structure) ---
+Content: One Letterman Drive, Suite D3-300
+
+--- (Additional Root Structure) ---
+Content: San Francisco, CA 94129
+
+--- (Additional Root Structure) ---
+Content: United States
+
+--- (Additional Root Structure) ---
+Content: Redmile_legal@redmilegrp.com
+
+--- (Additional Root Structure) ---
+Heading (L1): “Redmile”
+
+--- (Additional Root Structure) ---
+Heading (L1): Company and Redmile each a “Party” collectively the “Parties”
+
+--- (Additional Root Structure) ---
+Content: regarding
+
+--- (Additional Root Structure) ---
+Content: the pre-emptive and advance subscription rights with respect to the shares in...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: Page 1 / 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: WHEREAS
+
+--- (Additional Root Structure) ---
+Content: A.As of the date hereof, Redmile, through certain funds which Redmile manages...
+
+--- (Additional Root Structure) ---
+Content: B.The articles of association of the Company (the "Articles") provide in arti...
+
+--- (Additional Root Structure) ---
+Content: C.Furthermore, the Articles provide in article 4c (3) that in the event of an...
+
+--- (Additional Root Structure) ---
+Content: D.Redmile has confirmed to the Company that, as of the date hereof, it curren...
+
+--- (Additional Root Structure) ---
+Content: E.The Parties wish to agree on the principles based on which the Board may re...
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, the Parties agree as follows:
+
+--- (Additional Root Structure) ---
+Content: 1.Granting of Pre-emptive Rights and Advance Subscription Rights
+
+--- (Additional Root Structure) ---
+Content: The Company agrees that as long as Redmile and its Affiliates, together with ...
+
+--- (Additional Root Structure) ---
+Content: Furthermore, the Company agrees that if the Group, directly or indirectly con...
+
+--- (Additional Root Structure) ---
+Content: 2.Information
+
+--- (Additional Root Structure) ---
+Content: 2.1. Redmile
+
+--- (Additional Root Structure) ---
+Content: Redmile agrees that it shall:
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: Page 2 / 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: a)notify the Company promptly (but no later than two business days) upon beco...
+
+--- (Additional Root Structure) ---
+Content: b)notify the Company promptly (but no later than two business days) upon beco...
+
+--- (Additional Root Structure) ---
+Content: c)upon request by the Company (which may be via email), promptly (but no late...
+
+--- (Additional Root Structure) ---
+Content: 2.2. The Company
+
+--- (Additional Root Structure) ---
+Content: The Company agrees that it shall, upon request by Redmile (which may be via e...
+
+--- (Additional Root Structure) ---
+Content: 3.Intent to Effect a Change of Control
+
+--- (Additional Root Structure) ---
+Content: If, at any time, the Group directly or indirectly controls, owns or has the r...
+
+--- (Additional Root Structure) ---
+Content: a)If, following the explanation by Redmile, the Board determines (in the exer...
+
+--- (Additional Root Structure) ---
+Content: b)If, following the explanation by Redmile (or if Redmile fails to explain it...
+
+--- (Additional Root Structure) ---
+Content: For the avoidance of doubt, so long as consistent with Board’s fiduciary duti...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3
+
+--- (Additional Root Structure) ---
+Content: Page 3 / 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 4.Registration as shareholder with and exercise of voting rights
+
+--- (Additional Root Structure) ---
+Content: Except as otherwise mutually agreed between the Company and Redmile, Redmile ...
+
+--- (Additional Root Structure) ---
+Content: 5.Redomiciliation
+
+--- (Additional Root Structure) ---
+Content: Prior to a Redomiciliation (as defined below), the Company will use reasonabl...
+
+--- (Additional Root Structure) ---
+Content: 6.General Provisions
+
+--- (Additional Root Structure) ---
+Content: 6.1. Amendments
+
+--- (Additional Root Structure) ---
+Content: This Agreement may only be modified or amended by a document duly signed by a...
+
+--- (Additional Root Structure) ---
+Content: 6.2. Termination
+
+--- (Additional Root Structure) ---
+Content: This Agreement shall automatically terminate and cease to be effective withou...
+
+--- (Additional Root Structure) ---
+Content: a)if the Company removes the 20% clauses (article 4a (4)(g) and article 4c (3...
+
+--- (Additional Root Structure) ---
+Content: b)at any point on or after the fifth (5th) anniversary of the date of the Agr...
+
+--- (Additional Root Structure) ---
+Content: c)the consummation of a Redomiciliation, or
+
+--- (Additional Root Structure) ---
+Content: d)the Group directly or indirectly controls, owns or has the right to control...
+
+--- (Additional Root Structure) ---
+Content: e)the Board determining, pursuant to section 3(b) hereof, that the Group has ...
+
+--- (Additional Root Structure) ---
+Content: 6.3. Notices
+
+--- (Additional Root Structure) ---
+Content: All notices or other communications to be given under or in connection with t...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4
+
+--- (Additional Root Structure) ---
+Content: Page 4 / 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: 6.4. Severability / Good Faith
+
+--- (Additional Root Structure) ---
+Content: Should any part or provision of this Agreement be held to be invalid by any c...
+
+--- (Additional Root Structure) ---
+Content: 6.5. No Waiver
+
+--- (Additional Root Structure) ---
+Content: The failure of any of the Parties to enforce any of the provisions of this Ag...
+
+--- (Additional Root Structure) ---
+Content: 6.6. No Assignment
+
+--- (Additional Root Structure) ---
+Content: Except as otherwise provided for in this Agreement, the Parties shall not ass...
+
+--- (Additional Root Structure) ---
+Content: 7.Governing Law and Jurisdiction
+
+--- (Additional Root Structure) ---
+Content: This Agreement shall be governed by and construed in accordance with the subs...
+
+--- (Additional Root Structure) ---
+Content: All disputes arising out of or in connection with the present Agreement, incl...
+
+--- (Additional Root Structure) ---
+Content: [signature page follows]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5
+
+--- (Additional Root Structure) ---
+Content: Page 5 / 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly execute...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6; Options: Last
+
+--- (Additional Root Structure) ---
+Content: Page 6 / 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TableElement: ADC Therapeutics SA By: /s/ Ameet Mallik Name: Ameet Mallik Title: CEO
+
+--- (Additional Root Structure) ---
+TableElement: Redmile Group, LLC By: /s/ Joshua Garcia Name: Joshua Garcia Title: Authorize...

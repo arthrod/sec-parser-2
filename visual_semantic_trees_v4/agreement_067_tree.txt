@@ -1,0 +1,87 @@
+Visual Semantic Tree for agreement_067.html
+Generated using AgreementParserv4Enhanced
+Status: ✅ SUCCESS
+Grade: B
+Orphan Rate: 0.0%
+Total Elements: 58
+Hierarchical Elements: 48
+================================================================================
+
+AGREEMENT: LIMITED WAIVER TO CREDIT AGREEMENT
+`-- Heading (L1): RECITALS:
+AGREEMENT: AGREEMENT:
+|-- Content: Section 2. Acknowledgement and Waiver. The Borrower, the other Loan Parties, ...
+|-- Content: (a) certain deferred cash grants were or are being awarded to employees and/o...
+|-- Content: (b) accordingly, (i) the departure from the terms of the Advisory Agreement i...
+|-- Content: Loans; (ii) the Lenders and the Administrative Agent hereby waive non-complia...
+|-- Clause ((c)): (c) the waiver contained in this Waiver shall be effective only in this insta...
+|   `-- Content: Section 3. Representations and Warranties. Each Loan Party, by signing below,...
+|-- Clause ((a)): (a) they have the legal power and authority to execute and deliver this Waiver;
+|-- Clause ((b)): (b) the officers executing this Waiver on behalf of the Loan Parties have bee...
+|-- Clause ((d)): (d) this Waiver constitutes the legal, valid and binding agreement and obliga...
+|   `-- Content: (e) each of the representations and warranties set forth in Section 5 of the ...
+|-- Section 4: Section 4. Miscellaneous.
+|   |-- Content: 4.1 Credit Agreement Unaffected. Each reference to the Credit Agreement in an...
+|   |-- Content: This Waiver shall constitute a “Loan Document” for all purposes under and pur...
+|   |-- Content: 4.2 Headings. Section headings herein are included herein for convenience of ...
+|   |-- Content: 4.4 Governing Law; Consent to Jurisdiction. The provisions of Sections 11.14 ...
+|   |-- Content: 4.5 Costs and Expenses. The out-of-pocket expenses incurred by the Administra...
+|   `-- Content: 4.6 Release. By signing below, each Loan Party hereby releases, remises, acqu...
+|-- Heading (L2): [Signature pages follow.]
+|   `-- Content: IN WITNESS WHEREOF, this Waiver has been duly executed and delivered as of th...
+|-- Heading (L1): ASHFORD HOSPITALITY TRUST, INC.
+|   |-- Content: By: /s/ J. Robison Hays III Name: J. Robison Hays III
+|   |-- Content: By: s/ J. Robison Hays III Name: J. Robison Hays III
+|   |-- Content: Title: President and Chief Executive Officer ASHFORD HOSPITALITY LIMITED PART...
+|   |-- Content: By: Ashford OP General Partner LLC, its general partner
+|   |-- Content: Title: Executive Vice President, General Counsel and Secretary
+|   |-- Content: ASHFORD A-3 MEZZ LLCASHFORD AA SENIOR MEZZ LLCASHFORD C-1 LLCASHFORD C-2 LLCA...
+|   |-- Content: ASHFORD TRS AA SENIOR MEZZ LLCASHFORD TRS ASHTON HOLDER LLCASHFORD TRS C-I LL...
+|   `-- Content: By: /s/ Deric S. EubanksName: Deric S. EubanksTitle: President and Secretary ...
+|-- Heading (L1): ASHFORD CHAMBERS LP
+|   |-- Content: By: ASHFORD CHAMBERS GP LLC,its general partner ASHFORD WQ HOTEL LP
+|   |-- Content: By: ASHFORD WQ HOTEL GP LLC, its general partner ASHFORD WQ LICENSEE LLC
+|   `-- Content: By: ASHFORD TRS CORPORATION, its sole member By:/s/ Deric S. EubanksName: Der...
+|-- Heading (L1): OPPS AHT HOLDINGS, LLC
+|   |-- Content: By: Oaktree Fund GP, LLC, its Manager By: Oaktree Fund GP I, L.P., its Managi...
+|   |-- Content: By: /s/ Jordan Mikes Name: Jordan MikesTitle: Authorized Signatory
+|   `-- Content: By: /s/ Manish Desai Name: Manish Desai
+|-- Heading (L1): ROF8 AHT PT, LLC
+|   `-- Content: By: /s/ Cary Kleinman Name: Cary KleinmanTitle: Authorized Signatory
+`-- Heading (L1): OAKTREE PHOENIX INVESTMENT FUND AIF (DELAWARE), L.P.
+    |-- Content: By: Oaktree Fund AIF Series, L.P. – Series U, its General Partner By: Oaktree...
+    |-- Content: By: Oaktree Fund GP III, L.P., its Managing Member
+    |-- Content: By: /s/ Jordan Mikes Name: Jordan Mikes
+    |-- Content: By: /s/ Steven Tesoriere Name: Steven TesoriereTitle: Authorized Signatory
+    |-- Content: OAKTREE FUND ADMINISTRATION, LLC, as Administrative Agent By: Oaktree Capital...
+    `-- Content: Name: Brian PriceTitle: Senior Vice President [Signature Page to Limited Waiver]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Title: Chief Executive Officer
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): By: /s/ Alex Rose Name: Alex Rose
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature Page to Limited Waiver]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature Page to Limited Waiver]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Title: Authorized Signatory[Signature Page to Limited Waiver]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): By: /s/ Taejo KimName: Taejo KimTitle: Authorized Signatory
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature Page to Limited Waiver]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): Title: Authorized Signatory
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): [Signature Page to Limited Waiver]
+
+--- (Additional Root Structure) ---
+TextElement (Lvl: ?): By: /s/ Henry OrrenName: Henry OrrenTitle: Vice PresidentBy: /s/ Brian Price

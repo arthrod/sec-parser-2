@@ -1,0 +1,49 @@
+Visual Semantic Tree for agreement_064.html
+Generated using AgreementParserv9Enhanced
+Status: ❌ FAILED
+Grade: D
+Orphan Rate: 61.1%
+Total Elements: 18
+Hierarchical Elements: 18
+================================================================================
+
+AGREEMENT: AMENDMENT NO. 2 TO INVESTMENT MANAGEMENT TRUST AGREEMENT
+|-- Recital: WHEREAS, the Original Agreement was amended on September 19, 2023 to: (i) ext...
+|-- Recital: WHEREAS, the Company has sought the approval of the holders of its Class A co...
+|-- Recital: WHEREAS, holders of 65% of the then issued and outstanding shares of Common S...
+|-- Recital: WHEREAS, the parties desire to amend the Original Agreement, as amended by th...
+|-- Recital: NOW, THEREFORE, in consideration of the mutual agreements contained herein an...
+`-- Section 2: 2. Miscellaneous Provisions.
+
+--- (Additional Root Structure) ---
+Heading (L1): 1. Amendment to Trust Agreement. Section 1(i) of the Original Agreement, as a...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.1. Successors. All the covenants and provisions of this Amendment by or for...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.2. Severability. This Amendment shall be deemed severable, and the invalidi...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.3. Applicable Law. This Amendment shall be governed by and construed and en...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.4. Counterparts. This Amendment may be executed in several original or facs...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.5. Effect of Headings. The section headings herein are for convenience only...
+
+--- (Additional Root Structure) ---
+Heading (L1): 2.6. Entire Agreement. The Original Agreement, as modified by this Amendment,...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature page follows]
+
+--- (Additional Root Structure) ---
+Heading (L1): IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly ...
+
+--- (Additional Root Structure) ---
+Heading (L1): Continental Stock Transfer & Trust Company, as Trustee By: Name: Francis Wolf...
+
+--- (Additional Root Structure) ---
+Heading (L1): [Signature Page to Amendment No. 2 to Investment Management Trust Agreement]

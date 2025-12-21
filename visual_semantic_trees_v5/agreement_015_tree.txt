@@ -1,0 +1,568 @@
+Visual Semantic Tree for agreement_015.html
+Generated using AgreementParserv5Enhanced
+Status: Unknown
+Grade: B
+Orphan Rate: 7.0%
+Total Elements: 187
+Hierarchical Elements: 186
+================================================================================
+
+AGREEMENT: STOCK PURCHASE AGREEMENT
+
+--- (Additional Root Structure) ---
+Heading (L1): Exhibit 10.1
+
+--- (Additional Root Structure) ---
+Content: THIS STOCK PURCHASE AGREEMENT, effective as of December 22, 2023 (the “Effect...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, Seller owns 90,437,591 shares (the “Common Shares”) of common stock,...
+
+--- (Additional Root Structure) ---
+Content: WHEREAS, the Seller desires to sell the Shares pursuant to the terms and cond...
+
+--- (Additional Root Structure) ---
+Content: NOW, THEREFORE, on the stated premises and for and in consideration of the mu...
+
+--- (Additional Root Structure) ---
+Article I: ARTICLE I
+
+--- (Additional Root Structure) ---
+Content: SALE AND PURCHASE OF THE SHARES
+
+--- (Additional Root Structure) ---
+Content: Section 1.1 Closing. The purchase of the Shares shall be consummated on Decem...
+
+--- (Additional Root Structure) ---
+Content: Section 1.2 Sale and Purchase. Subject to the terms and conditions hereof, at...
+
+--- (Additional Root Structure) ---
+Content: Section 1.3 Purchase Price. The Purchase Price for the Shares shall be paid b...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 1
+
+--- (Additional Root Structure) ---
+Content: 1
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: ARTICLE II REPRESENTATIONS
+
+--- (Additional Root Structure) ---
+Content: AND WARRANTIES OF SELLER
+
+--- (Additional Root Structure) ---
+Content: As an inducement to and to obtain the reliance of Buyer, Seller represents an...
+
+--- (Additional Root Structure) ---
+Content: Section 2.1 No Conflict, Authority. The execution of this Agreement and the c...
+
+--- (Additional Root Structure) ---
+Content: Section 2.2 Title to the Shares. Seller owns of record and beneficially the S...
+
+--- (Additional Root Structure) ---
+Content: Section 2.3 Authorization; Enforceability. The Seller is a corporation duly o...
+
+--- (Additional Root Structure) ---
+Content: Section 2.4 No General Solicitation or Advertisement. Neither the Seller, nor...
+
+--- (Additional Root Structure) ---
+Content: Section 2.5 Tax Matters. The Shares are not subject to any Lien arising in co...
+
+--- (Additional Root Structure) ---
+Content: Section 2.6 Due Diligence Materials Provided. Seller has provided Buyer with ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 2
+
+--- (Additional Root Structure) ---
+Content: 2
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Seller has no actual or constructive knowledge of any liability or obligation...
+
+--- (Additional Root Structure) ---
+Content: Section 2.7 Brokers and Finders. The Seller represents and warrants that ther...
+
+--- (Additional Root Structure) ---
+Article III: ARTICLE III
+
+--- (Additional Root Structure) ---
+Heading (L1): REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+
+--- (Additional Root Structure) ---
+Content: The Seller and the Company, jointly and severally, represent and warrant to B...
+
+--- (Additional Root Structure) ---
+Content: Section 3.1 Organization and Qualification. The Company is a corporation duly...
+
+--- (Additional Root Structure) ---
+Content: Section 3.2 Authorization; Enforcement. The Company has all requisite power a...
+
+--- (Additional Root Structure) ---
+Content: Section 3.3 No Conflict. The execution, delivery and performance by the Compa...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 3
+
+--- (Additional Root Structure) ---
+Content: 3
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 3.4 OTC Filings. The Company has filed all reports and financial stat...
+
+--- (Additional Root Structure) ---
+Section 3: Section 3.5 Insurance. The Company has no insurance policies.
+
+--- (Additional Root Structure) ---
+Content: Section 3.6 Capitalization. As of the date hereof and as of the Closing, (i) ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 4
+
+--- (Additional Root Structure) ---
+Content: 4
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 3.7. Consents and Approvals. The Company is not required to obtain an...
+
+--- (Additional Root Structure) ---
+Content: Section 3.8 Litigation. There is no (i) claim, legal action, suit, arbitratio...
+
+--- (Additional Root Structure) ---
+Content: Section 3.9 Liabilities. As of the Closing Date, there will be no liabilities...
+
+--- (Additional Root Structure) ---
+Content: Section 3.10 Compliance with Laws. The Company has complied in all respects w...
+
+--- (Additional Root Structure) ---
+Content: Section 3.11 Stockholders. Attached hereto as Schedule 3.11 is a current stoc...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 5
+
+--- (Additional Root Structure) ---
+Content: 5
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 3.12 Trading. The shares of Common Stock are quoted on the OTC Pink u...
+
+--- (Additional Root Structure) ---
+Content: Section 3.13 Sarbanes-Oxley. The Company (i) makes and keeps accurate books a...
+
+--- (Additional Root Structure) ---
+Content: Section 3.14 Internal Accounting Controls. The Company maintains a system of ...
+
+--- (Additional Root Structure) ---
+Content: Section 3.15 Disclosure. Neither this Agreement, nor any certificate, exhibit...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 6
+
+--- (Additional Root Structure) ---
+Content: 6
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 3.16 Securities Exchange Act Registration. The Common Stock is subjec...
+
+--- (Additional Root Structure) ---
+Content: Section 3.17 Auditors. Gries and Associates, LLC, certified independent publi...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 7
+
+--- (Additional Root Structure) ---
+Content: 7
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Other than a “going concern” qualification in the report of the auditors with...
+
+--- (Additional Root Structure) ---
+Content: At the Closing, (A) the Company shall have no properties or assets other than...
+
+--- (Additional Root Structure) ---
+Content: Section 3.18 Assets. At the Closing, (A) the Company shall have no properties...
+
+--- (Additional Root Structure) ---
+Content: Section 3.19 Employees. The Company has no employees other than Rasmus Refer,...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 8
+
+--- (Additional Root Structure) ---
+Content: 8
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 3.20 FCPA. (i) The Company has not, and no person or entity acting on...
+
+--- (Additional Root Structure) ---
+Content: (ii) Neither the Company, nor any director, officer, agent, employee, or othe...
+
+--- (Additional Root Structure) ---
+Content: (iii) Neither Seller, the Company, nor any officer, director or affiliate of ...
+
+--- (Additional Root Structure) ---
+Content: Section 3.21 Trading. The Company has not, and no person acting on behalf the...
+
+--- (Additional Root Structure) ---
+Content: Section 3.22 No Registration Rights. No stockholder of the Company has any ri...
+
+--- (Additional Root Structure) ---
+Content: ARTICLE IV REPRESENTATIONS
+
+--- (Additional Root Structure) ---
+Content: AND WARRANTIES OF BUYER
+
+--- (Additional Root Structure) ---
+Content: As an inducement to and to obtain the reliance of Seller, Buyer represents an...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 9
+
+--- (Additional Root Structure) ---
+Content: 9
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 4.1 No Conflict, Authority. The execution of this Agreement and the c...
+
+--- (Additional Root Structure) ---
+Content: Section 4.2 Restricted Shares. Buyer acknowledges that the Shares purchased h...
+
+--- (Additional Root Structure) ---
+Content: Section 4.3 Buyer’s Sophistication. The Buyer (i) acknowledges that the purch...
+
+--- (Additional Root Structure) ---
+Content: Section 4.4 Brokers and Finders. The Buyer represents and warrants that he/sh...
+
+--- (Additional Root Structure) ---
+Content: Section 4.5 Due Diligence Materials Provided. Prior to the Closing, the Buyer...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 10
+
+--- (Additional Root Structure) ---
+Content: 10
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Article V: ARTICLE V
+
+--- (Additional Root Structure) ---
+Heading (L1): EXCHANGE PROCEDURE AND OTHER CONSIDERATION
+
+--- (Additional Root Structure) ---
+Content: Section 5.1 Seller’s Delivery. On the Closing Date, the Seller shall deliver ...
+
+--- (Additional Root Structure) ---
+Content: (a) The original stock certificate(s) representing the Shares together with a...
+
+--- (Additional Root Structure) ---
+Content: (b) Written consent from the Company’s board of directors appointing Buyer’s ...
+
+--- (Additional Root Structure) ---
+Content: (c) Written resignation from all members of the Company’s board of directors ...
+
+--- (Additional Root Structure) ---
+Clause (d): (d) A written resignation from all officers of the Company, effective upon Cl...
+
+--- (Additional Root Structure) ---
+Content: (e) A list of shareholders from the Company’s transfer agent as of the Closing.
+
+--- (Additional Root Structure) ---
+Content: (f) A written waiver and release from Seller in favor of the Company of any d...
+
+--- (Additional Root Structure) ---
+Content: (g) All schedules to this Agreement.
+
+--- (Additional Root Structure) ---
+Content: (h) Documents to be filed pursuant to Section 6.1.
+
+--- (Additional Root Structure) ---
+Content: (i) Seller will deliver to Buyer a certificate in form and substance reasonab...
+
+--- (Additional Root Structure) ---
+Section 5: Section 5.3 Company’s Delivery.
+
+--- (Additional Root Structure) ---
+Content: At the Closing, the Company shall deliver to the Buyer the following:
+
+--- (Additional Root Structure) ---
+Content: (a)evidence, satisfactory to the Buyer, that the Company has no Liabilities (...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 11
+
+--- (Additional Root Structure) ---
+Content: 11
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: (b)the Company’s original minute books containing the resolutions and actions...
+
+--- (Additional Root Structure) ---
+Content: (c)the Company’s financial and accounting records (including the Company’s ge...
+
+--- (Additional Root Structure) ---
+Content: (d)copies of all SEC, FINRA and OTC correspondence;
+
+--- (Additional Root Structure) ---
+Content: (e)copies of all federal and state tax returns filed by the Company;
+
+--- (Additional Root Structure) ---
+Content: (f)a certificate issued by the Secretary of State of the State of Nevada as t...
+
+--- (Additional Root Structure) ---
+Content: (g)resolutions of the board of directors of the Company authorizing all trans...
+
+--- (Additional Root Structure) ---
+Content: (h)duly executed resignation letters from the current officer and director of...
+
+--- (Additional Root Structure) ---
+Content: (i)all other documents, instruments and writings required by this Agreement t...
+
+--- (Additional Root Structure) ---
+Content: Section 5.3 Buyer’s Delivery. On the Closing Date, Buyer shall deliver the fo...
+
+--- (Additional Root Structure) ---
+Content: (a) Purchase Price in immediately available funds.
+
+--- (Additional Root Structure) ---
+Content: (b) A written consent to serve on the Company’s board of directors by the Buy...
+
+--- (Additional Root Structure) ---
+Content: (c) A written consent from Buyer’s nominee to serve as the President and as o...
+
+--- (Additional Root Structure) ---
+Content: (d) A written consent from the Buyer’s nominee to the board of directors, act...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 12
+
+--- (Additional Root Structure) ---
+Content: 12
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Article VI: ARTICLE VI
+
+--- (Additional Root Structure) ---
+Heading (L1): CLOSING COVENANTS OF THE PARTIES
+
+--- (Additional Root Structure) ---
+Content: Section 6.1 Notification of OTC Markets, FINRA and Nevada Secretary of State....
+
+--- (Additional Root Structure) ---
+Content: (a) Notify OTC Markets, via email, of the new address for the Company, the ne...
+
+--- (Additional Root Structure) ---
+Content: (b) Notify FINRA corporate actions office, if required by its rules and proce...
+
+--- (Additional Root Structure) ---
+Content: (c) Notify the Nevada Secretary of State, by filing an amended annual list of...
+
+--- (Additional Root Structure) ---
+Content: (d) Confirm to the other party hereto in writing via email, that the obligati...
+
+--- (Additional Root Structure) ---
+Content: (e) Should Seller fail to perform according to this Section 5.1, Seller expre...
+
+--- (Additional Root Structure) ---
+Content: Section 6.2 Exclusivity. Neither Seller, the Company nor any affiliate, consu...
+
+--- (Additional Root Structure) ---
+Content: Section 6.3 Further SEC Filings. The Seller shall cause each of the officers ...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 13
+
+--- (Additional Root Structure) ---
+Content: 13
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Article VII: ARTICLE VII
+
+--- (Additional Root Structure) ---
+Content: MISCELLANEOUS
+
+--- (Additional Root Structure) ---
+Content: Section 7.1 Indemnification. Seller and the Company shall jointly and several...
+
+--- (Additional Root Structure) ---
+Content: (i)for any broker’s or finder’s fee or any similar fee, charge or commission ...
+
+--- (Additional Root Structure) ---
+Content: (ii)for any Liability of the Seller and/or the Company otherwise incurred on ...
+
+--- (Additional Root Structure) ---
+Content: (iii)any inaccuracy or breach of any of the representations and warranties of...
+
+--- (Additional Root Structure) ---
+Content: (iv)any failure by the Seller or the Company to perform or comply with any ag...
+
+--- (Additional Root Structure) ---
+Content: 7.2 Notices. Any notices or other communications required or permitted hereun...
+
+--- (Additional Root Structure) ---
+Content: Section 7.3 Attorneys’ Fees. Except as expressly provided herein, each party ...
+
+--- (Additional Root Structure) ---
+Content: Section 7.4 Confidentiality. Each party hereto agrees with the other party th...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 14
+
+--- (Additional Root Structure) ---
+Content: 14
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 7.5 Severability. Any provision of this Agreement that is invalid or ...
+
+--- (Additional Root Structure) ---
+Content: Section 7.6 Entire Agreement. This Agreement represents the entire agreement ...
+
+--- (Additional Root Structure) ---
+Content: Section 7.7 Survival; Termination; Limitation of Seller’s Liability. The repr...
+
+--- (Additional Root Structure) ---
+Content: Section 7.8 Counterparts. This Agreement may be executed in multiple counterp...
+
+--- (Additional Root Structure) ---
+Content: Section 7.9 Amendment or Waiver. Every right and remedy provided herein shall...
+
+--- (Additional Root Structure) ---
+Content: Section 7.10 Expenses. Each party herein shall bear all of their respective c...
+
+--- (Additional Root Structure) ---
+Content: Section 7.11 Headings; Context. The headings of the sections and paragraphs c...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 15
+
+--- (Additional Root Structure) ---
+Content: 15
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: Section 7.12 Benefit. This Agreement shall be binding upon and shall inure on...
+
+--- (Additional Root Structure) ---
+Content: Section 7.13 Severability. In the event that any particular provision or prov...
+
+--- (Additional Root Structure) ---
+Content: Section 7.14 No Strict Construction. The language of this Agreement shall be ...
+
+--- (Additional Root Structure) ---
+Content: Section 7.15 Execution Knowing and Voluntary. In executing this Agreement, th...
+
+--- (Additional Root Structure) ---
+Content: Section 7.16 Further Assurances, Cooperation. Each party shall, upon reasonab...
+
+--- (Additional Root Structure) ---
+Content: Section 7.17 Covenants. Seller also hereby covenants and agrees to provide an...
+
+--- (Additional Root Structure) ---
+Content: Section 7.18 Governing Law. This Agreement shall be construed (both as to val...
+
+--- (Additional Root Structure) ---
+Content: [SIGNATURE PAGE FOLLOWS]
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 16
+
+--- (Additional Root Structure) ---
+Content: 16
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Content: IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be execu...
+
+--- (Additional Root Structure) ---
+Content: COMPANY /s/ Rasmus Refer By: Rasmus Refer Title: Director SELLER FASTBASE, IN...
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 17
+
+--- (Additional Root Structure) ---
+Content: 17
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE A
+
+--- (Additional Root Structure) ---
+Content: Buyer
+
+--- (Additional Root Structure) ---
+Content: CWR 1, LLC, a Delaware limited liability company
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 18
+
+--- (Additional Root Structure) ---
+Content: 18
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+Heading (L1): SCHEDULE B
+
+--- (Additional Root Structure) ---
+Content: Seller
+
+--- (Additional Root Structure) ---
+Content: Field: Page; Sequence: 19; Options: Last
+
+--- (Additional Root Structure) ---
+Content: 19
+
+--- (Additional Root Structure) ---
+Content: Field: /Page
+
+--- (Additional Root Structure) ---
+TableElement: Seller Shares Purchase Price Wire Instructions FastBase, Inc. 90,437,591 $350...
